@@ -26,14 +26,6 @@
     <div id="responseContent">
     </div>
 </div>
-<div id="speechcontainer">
-    <div id="results">
-        <span id="final_span" class="final"></span>
-        <span id="interim_span" class="interim"></span>
-        <p>
-    </div>
-</div>
-
 <div id="formpanel">
     <form id="frmChat" action="#">
         <p>Write your name and type your message for Luke</p>
