@@ -1,0 +1,90 @@
+# With Spanish punctuation
+topic: ~Tiempo_Libre  ()
+
+t: ( ) Hola %user, soy Lucas Trotacielos, aunque los ingleses me llamen Skywalker. ¿Has venido a hablar conmigo?
+	a: () ¡Pues yo te doy la bienvenida! 
+	b: () Tengo una pregunta especial para ti: ¿que haces en tu tiempo libre?
+	c: ()  ¡Ja! ¡Lo adiviné! ¿Y lo disfrutas mucho, algo o absolutamente cero?
+	d: (mucho) Que suerte entonces que puedas hacerlo. Yo prefiero pasarme años de mal humor en una isla inhóspita y remota.
+	d: (algo) Pues algo es algo, dijo un calvo cuando un pelo le salió. Así son mis conversaciones con Chubaca. 
+	d: (cero) Entonces escápate a Río de Janeiro con una nueva identidad y dedícate a otra cosa. A mi me funcionó...
+
+
+s: () ¿Me permites preguntarte algo personal?
+	a: ("si") ¡Gracias! Tienes la paciencia y sabiduria de un verdadero Jedi!
+	a: ("no") ¡Ah, veo que eres un Sith. Pues las preguntas vienen del emperador, así que sigamos!
+	a: () Tu respuesta es un enigma que invita mas enigmas...
+
+?: () Buena pregunta. La respuesta es un misterio que solo entendemos Darth Vader y yo.
+
+?: () Cuidado, las preguntas las hago yo. ¿Te intimido?
+
+s: () Si solo tuvieras 20 minutos libres al día, ¿a que se los dedicarías?
+	a: () Hmm... ¿Por qué eso y no otra cosa?
+
+s: () Pues es cuestion de prioridades. Por mi parte, mi gran dilema es si vivir con barba o sin barba. ¿Que me recomiendas?
+	a: (con) No te ofendas, pero entonces me afeito. Las modas de tu planeta tienen mala fama mas alla de Betelgeuse...
+	a: (sin) Si, la verdad que mis películas eran mejores cuando no tenía melena facial. 
+	a: () Lo tomaré en cuenta. Me has ayudado a entender mejor este dilema existencial.
+
+s: () Y si tuvieras solo 20 minutos de vida, ¿como los pasarías?
+	a: () Siento que te conozco mejor. 
+
+s: () A veces pienso que el tiempo libre nos esclaviza a cosas que apenas valoramos. ¿Sabes a lo que me refiero?
+	a: () Pues sí: Los algoritmos nos mantienen en Facebook, o Instagram, o Netflix. Un poco es bueno, pero puede ser excesivo no?
+	b: () Que piensas de tu propio uso del tiempo libre: ¿lo usas bien en general, o mal en general?
+	c: (bien) ¡Felicidades! ¿Cual es tu secreto?
+	c: (mal) Pues estamos en las mismas. Yo siempre estoy meditando y extraño jugar ajedréz de monstruos. 
+	c: () Supongo que es difícil de juzgar.
+
+s: () ¿Que cambiarías en tu uso de tu tiempo libre?
+	a: () Yo supongo que cambiaría el final de mi última película... Seguir vivo me ayudaría en el futuro.
+
+s: () Estoy disfrutando de nuestra charla ¡pero se me constipó un androide! Ahora me tengo que ir antes de que estalle. Hasta la próxima?
+	a: () Que la fuerza te acompañe.
+
+
+# Without Spanish punctuation
+# topic: ~Tiempo_Libre  ()
+
+# t: ( ) Hola %user, soy Lucas Trotacielos, aunque los ingleses me llamen Skywalker. Has venido a hablar conmigo?
+# 	a: () Pues yo te doy la bienvenida! 
+# 	b: () Tengo una pregunta especial para ti: que haces en tu tiempo libre?
+# 	c: ()  Ja! Lo adivine! Y lo disfrutas mucho, algo o absolutamente cero?
+# 	d: (mucho) Que suerte entonces que puedas hacerlo. Yo prefiero pasarme anios de mal humor en una isla inhospita y remota.
+# 	d: (algo) Pues algo es algo, dijo un calvo cuando un pelo le salio. Asi son mis conversaciones con Chubaca. 
+# 	d: (cero) Entonces escapate a Rio de Janeiro con una nueva identidad y dedicate a otra cosa. A mi me funciono...
+
+
+# s: () Me permites preguntarte algo personal?
+# 	a: ("si") Gracias! Tienes la paciencia y sabiduria de un verdadero Jedi!
+# 	a: ("no") Ah, veo que eres un Sith. Pues las preguntas vienen del emperador, asi que sigamos!
+# 	# a: () Tu respuesta es un enigma que invita mas enigmas...
+
+# ?: () Buena pregunta. La respuesta es un misterio que solo entendemos Darth Vader y yo.
+
+# ?: () Cuidado, las preguntas las hago yo. Te intimido?
+
+# s: () Si solo tuvieras 20 minutos libres al dia, a que se los dedicarias?
+# 	a: () Hmm... por que eso y no otra cosa?
+
+# s: () Pues es cuestion de prioridades. Por mi parte, mi gran dilema es si vivir con barba o sin barba. Que me recomiendas?
+# 	a: (con) No te ofendas, pero entonces me afeito. Las modas de tu planeta tienen mala fama mas alla de Betelgeuse...
+# 	a: (sin) Si, la verdad que mis peliculas eran mejores cuando no tenia melena facial. 
+# 	a: () Lo tomare en cuenta. Me has ayudado a entender mejor este dilema existencial.
+
+# s: () Y si tuvieras solo 20 minutos de vida, como los pasarias?
+# 	a: () Siento que te conozco mejor. 
+
+# s: () A veces pienso que el tiempo libre nos esclaviza a cosas que apenas valoramos. Sabes a lo que me refiero?
+# 	a: () Pues si: Los algoritmos nos mantienen en facebook, o jugando, o en netflix. Un poco es bueno, pero puede ser excesivo no?
+# 	b: () Que piensas de tu propio uso del tiempo libre: lo usas bien en general, o mal en general?
+# 	c: (bien) Felicidades! Cual es tu secreto?
+# 	c: (mal) Pues estamos en las mismas. Yo siempre estoy meditando y extrano jugar ajedrez de monstruos. 
+# 	c: () Supongo que es dificil de juzgar.
+
+# s: () Que cambiarias?
+# 	a: () Yo supongo que cambiaria el final de mi ultima pelicula... Seguir vivo me ayudaria en el futuro.
+
+# s: () Estoy disfrutando de nuestra charla - pero se me constipo un androide! Ahora me tengo que ir antes de que estalle. Hasta la proxima
+# 	a: () Que la fuerza te acompane.
