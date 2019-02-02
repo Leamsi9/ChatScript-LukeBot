@@ -1,6 +1,0 @@
-﻿Respond: user:8018989194 bot:luke ip:127.0.0.1 (~free_time) 1  test ==> Hello 8018989194, I'm Luke Skywalker, have you come talk to me?  When:Feb02'19-16:10:23 Why:~free_time.6.0.~control.0.0   F:9 
-Respond: user:8018989194 bot:luke ip:127.0.0.1 (~free_time) 2  Hello ==> Well I bid you welcome!  When:Feb02'19-16:28:13 Why:~free_time.6.1   F:3 
-Respond: user:8018989194 bot:luke ip:127.0.0.1 (~free_time) 3  test ==> I have a special question for you: what do you do in your free time?  When:Feb02'19-16:28:28 Why:~free_time.6.2   F:5 
-Respond: user:8018989194 bot:luke ip:127.0.0.1 (~free_time) 4  test ==> I guessed that! And do you enjoy that a lot, a bit or not at all?  When:Feb02'19-16:29:43 Why:~free_time.6.3   F:4 
-Command: :reset
-Start: user:8018989194 bot:luke ip:127.0.0.1 rand:2462 (~free_time) 0 ==> Hello 8018989194, I'm Luke Skywalker, have you come talk to me?  When:Feb02'19-16:30:08 Why:~free_time.6.0.~control.0.0  Version:9.0 Build0:Feb02'19-15:42:37 Build1:Feb02'19-16:13:52 0:Feb02'19-16:10:23 F:0 P:Feb02'19-16:29:43

@@ -54,8 +54,8 @@ if (!('webkitSpeechRecognition' in window)) {
     info.innerHTML = "This will not work.  You need to use the Chrome browser. ";
 } else {
     btnMicrophone.style.display = 'inline-block';
-    let recognition = new webkitSpeechRecognition();
-    recognition.continuous = true;
+    var recognition = new webkitSpeechRecognition();
+    recognition.continuous = false;
     recognition.interimResults = true;
     recognition.lang = 'es-MX';
     recognition.lang = 'en-GB';

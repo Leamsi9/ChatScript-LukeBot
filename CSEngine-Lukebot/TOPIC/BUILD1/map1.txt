@@ -11,114 +11,131 @@
 
 file: 0  C:/Users/Ismael/Documents/Programming/XAMPP/htdocs/LukeBot/CSEngine-Lukebot/RAWDATA/Luke/Free_Time.top
     topic: 2  ~free_time
-        rule: 7  ~free_time.0.0 ?: 
-          line: 7 0  # Good question! The answer is a
+        rule: 6  ~free_time.0.0 ?: 
+          line: 6 0  # ^keep ( ) $$tmp = '_0 
+          line: 7 22  # $$url = ^"\"https://en.wikiped
+          line: 9 177  # $$user_agent = ^"myemail@hotma
+          line: 10 299  # $$tmp = ^jsonopen ( GET $$url 
+          line: 13 347  # @0 = ^query ( direct_v ? extra
+          line: 14 386  # @0object 
           Complexity of rule ~free_time.0.0- ?: 1
-        rule: 9  ~free_time.1.0 ?: 
-          line: 9 0  # Watch it, I ask the questions.
+        rule: 17  ~free_time.1.0 ?: 
+          line: 17 0  # ^keep ( ) 
+          line: 18 10  # $$tmp = ^pos ( capitalize ^ori
+          line: 24 55  # $$url = ^"\"https://en.wikiped
+          line: 25 210  # $$user_agent = ^"myemail@hotma
+          line: 26 332  # $$tmp = ^jsonopen ( GET $$url 
+          line: 29 380  # @0 = ^query ( direct_v ? extra
+          line: 30 419  # @0object 
           Complexity of rule ~free_time.1.0- ?: 1
-        rule: 11  ~free_time.2.0 ?: 
-          line: 11 0  # To answer that I would need a 
+        rule: 32  ~free_time.2.0 ?: 
+          line: 32 0  # Good question! The answer is a
           Complexity of rule ~free_time.2.0- ?: 1
-        rule: 13  ~free_time.3.0 ?: 
-          line: 13 0  # You ask good questions, but ca
+        rule: 34  ~free_time.3.0 ?: 
+          line: 34 0  # Watch it, I ask the questions.
           Complexity of rule ~free_time.3.0- ?: 1
-        rule: 15  ~free_time.4.0 ?: 
-          line: 15 0  # Close your eyes and meditate: 
+        rule: 36  ~free_time.4.0 ?: 
+          line: 36 0  # To answer that I would need a 
           Complexity of rule ~free_time.4.0- ?: 1
-        rule: 17  ~free_time.5.0 ?: 
-          line: 17 0  # Superb question. Can you think
+        rule: 38  ~free_time.5.0 ?: 
+          line: 38 0  # You ask good questions, but ca
           Complexity of rule ~free_time.5.0- ?: 1
-        rule: 19  ~free_time.6.0 t: 
-          line: 19 0  # Hello %user , I'm Luke Skywalk
-          Complexity of rule ~free_time.6.0- t: 1
-        rule: 20  ~free_time.6.1 a: 
-          line: 20 0  # Well I bid you welcome! 
-          Complexity of rule ~free_time.6.1- a: 1
-        rule: 21  ~free_time.6.2 b: 
-          line: 21 0  # I have a special question for 
-          Complexity of rule ~free_time.6.2- b: 1
-        rule: 22  ~free_time.6.3 c: 
-          line: 22 0  # I guessed that! And do you enj
-          Complexity of rule ~free_time.6.3- c: 1
-        rule: 23  ~free_time.6.4 d: 
-          line: 23 0  # So lucky you can do that. Myse
-          Complexity of rule ~free_time.6.4- d: 1
-        rule: 24  ~free_time.6.5 d: 
-          line: 24 0  # Well some enjoyment is better 
-          Complexity of rule ~free_time.6.5- d: 1
-        rule: 25  ~free_time.6.6 d: 
-          line: 25 0  # In that case run away to Rio d
-          Complexity of rule ~free_time.6.6- d: 1
-        rule: 27  ~free_time.7.0 s: 
-          line: 27 0  # May I ask you a personal quest
-          Complexity of rule ~free_time.7.0- s: 1
-        rule: 28  ~free_time.7.1 a: 
-          line: 28 0  # Thanks! You have the patience 
-          Complexity of rule ~free_time.7.1- a: 1
-        rule: 29  ~free_time.7.2 a: 
-          line: 29 0  # Ah, I see you are a Sith. Well
-          Complexity of rule ~free_time.7.2- a: 1
-        rule: 30  ~free_time.7.3 a: 
-          line: 30 0  # Your reply is a conundrum wrap
-          Complexity of rule ~free_time.7.3- a: 1
-        rule: 34  ~free_time.8.0 s: 
-          line: 34 0  # If you only had 20 minutes of 
-          Complexity of rule ~free_time.8.0- s: 1
-        rule: 35  ~free_time.8.1 a: 
-          line: 35 0  # Hmm... why on that and not on 
+        rule: 40  ~free_time.6.0 ?: 
+          line: 40 0  # Close your eyes and meditate: 
+          Complexity of rule ~free_time.6.0- ?: 1
+        rule: 42  ~free_time.7.0 ?: 
+          line: 42 0  # Superb question. Can you think
+          Complexity of rule ~free_time.7.0- ?: 1
+        rule: 44  ~free_time.8.0 t: 
+          line: 44 0  # Hello %user , I'm Luke Skywalk
+          Complexity of rule ~free_time.8.0- t: 1
+        rule: 45  ~free_time.8.1 a: 
+          line: 45 0  # Well I bid you welcome! 
           Complexity of rule ~free_time.8.1- a: 1
-        rule: 36  ~free_time.8.2 a: 
-          line: 36 0  # You seem a bit clueless.. 
-          Complexity of rule ~free_time.8.2- a: 1
-        rule: 38  ~free_time.9.0 s: 
-          line: 38 0  # Yes, a question of priorities.
+        rule: 46  ~free_time.8.2 b: 
+          line: 46 0  # I have a special question for 
+          Complexity of rule ~free_time.8.2- b: 1
+        rule: 47  ~free_time.8.3 c: 
+          line: 47 0  # I guessed that! And do you enj
+          Complexity of rule ~free_time.8.3- c: 1
+        rule: 48  ~free_time.8.4 d: 
+          line: 48 0  # So lucky you can do that. Myse
+          Complexity of rule ~free_time.8.4- d: 1
+        rule: 49  ~free_time.8.5 d: 
+          line: 49 0  # Well some enjoyment is better 
+          Complexity of rule ~free_time.8.5- d: 1
+        rule: 50  ~free_time.8.6 d: 
+          line: 50 0  # In that case run away to Rio d
+          Complexity of rule ~free_time.8.6- d: 1
+        rule: 52  ~free_time.9.0 s: 
+          line: 52 0  # May I ask you a personal quest
           Complexity of rule ~free_time.9.0- s: 1
-        rule: 39  ~free_time.9.1 a: 
-          line: 39 0  # Don't be offended, but in that
+        rule: 53  ~free_time.9.1 a: 
+          line: 53 0  # Thanks! You have the patience 
           Complexity of rule ~free_time.9.1- a: 1
-        rule: 40  ~free_time.9.2 a: 
-          line: 40 0  # Yes, the truth is my movies we
+        rule: 54  ~free_time.9.2 a: 
+          line: 54 0  # Ah, I see you are a Sith. Well
           Complexity of rule ~free_time.9.2- a: 1
-        rule: 41  ~free_time.9.3 a: 
-          line: 41 0  # I'll bear it in mind. You have
+        rule: 55  ~free_time.9.3 a: 
+          line: 55 0  # Your reply is a conundrum wrap
           Complexity of rule ~free_time.9.3- a: 1
-        rule: 43  ~free_time.10.0 s: 
-          line: 43 0  # And if you only had 20 minutes
+        rule: 59  ~free_time.10.0 s: 
+          line: 59 0  # If you only had 20 minutes of 
           Complexity of rule ~free_time.10.0- s: 1
-        rule: 44  ~free_time.10.1 a: 
-          line: 44 0  # I feel I'm getting to understa
+        rule: 60  ~free_time.10.1 a: 
+          line: 60 0  # Hmm... why on that and not on 
           Complexity of rule ~free_time.10.1- a: 1
-        rule: 47  ~free_time.11.0 s: 
-          line: 47 0  # Sometimes I think free time ma
+        rule: 61  ~free_time.10.2 a: 
+          line: 61 0  # You seem a bit clueless.. 
+          Complexity of rule ~free_time.10.2- a: 1
+        rule: 63  ~free_time.11.0 s: 
+          line: 63 0  # Yes, a question of priorities.
           Complexity of rule ~free_time.11.0- s: 1
-        rule: 48  ~free_time.11.1 a: 
-          line: 48 0  # Yep, algorithms keep us in Fac
+        rule: 64  ~free_time.11.1 a: 
+          line: 64 0  # Don't be offended, but in that
           Complexity of rule ~free_time.11.1- a: 1
-        rule: 49  ~free_time.11.2 b: 
-          line: 49 0  # What do you think of your own 
-          Complexity of rule ~free_time.11.2- b: 1
-        rule: 50  ~free_time.11.3 c: 
-          line: 50 0  # Congrats! What's your secret? 
-          Complexity of rule ~free_time.11.3- c: 1
-        rule: 51  ~free_time.11.4 c: 
-          line: 51 0  # Well we're on the same boat. I
-          Complexity of rule ~free_time.11.4- c: 1
-        rule: 52  ~free_time.11.5 c: 
-          line: 52 0  # I guess it's hard to judge. 
-          Complexity of rule ~free_time.11.5- c: 1
-        rule: 54  ~free_time.12.0 s: 
-          line: 54 0  # If you could change your use o
+        rule: 65  ~free_time.11.2 a: 
+          line: 65 0  # Yes, the truth is my movies we
+          Complexity of rule ~free_time.11.2- a: 1
+        rule: 66  ~free_time.11.3 a: 
+          line: 66 0  # I'll bear it in mind. You have
+          Complexity of rule ~free_time.11.3- a: 1
+        rule: 68  ~free_time.12.0 s: 
+          line: 68 0  # And if you only had 20 minutes
           Complexity of rule ~free_time.12.0- s: 1
-        rule: 55  ~free_time.12.1 a: 
-          line: 55 0  # I guess I'd change the ending 
+        rule: 69  ~free_time.12.1 a: 
+          line: 69 0  # I feel I'm getting to understa
           Complexity of rule ~free_time.12.1- a: 1
-        rule: 57  ~free_time.13.0 s: 
-          line: 57 0  # I'm enjoying our chat - but I'
+        rule: 72  ~free_time.13.0 s: 
+          line: 72 0  # Sometimes I think free time ma
           Complexity of rule ~free_time.13.0- s: 1
-        rule: 58  ~free_time.13.1 a: 
-          line: 58 0  # May the Force be with 
+        rule: 73  ~free_time.13.1 a: 
+          line: 73 0  # Yep, algorithms keep us in Fac
           Complexity of rule ~free_time.13.1- a: 1
+        rule: 74  ~free_time.13.2 b: 
+          line: 74 0  # What do you think of your own 
+          Complexity of rule ~free_time.13.2- b: 1
+        rule: 75  ~free_time.13.3 c: 
+          line: 75 0  # Congrats! What's your secret? 
+          Complexity of rule ~free_time.13.3- c: 1
+        rule: 76  ~free_time.13.4 c: 
+          line: 76 0  # Well we're on the same boat. I
+          Complexity of rule ~free_time.13.4- c: 1
+        rule: 77  ~free_time.13.5 c: 
+          line: 77 0  # I guess it's hard to judge. 
+          Complexity of rule ~free_time.13.5- c: 1
+        rule: 79  ~free_time.14.0 s: 
+          line: 79 0  # If you could change your use o
+          Complexity of rule ~free_time.14.0- s: 1
+        rule: 80  ~free_time.14.1 a: 
+          line: 80 0  # I guess I'd change the ending 
+          Complexity of rule ~free_time.14.1- a: 1
+        rule: 82  ~free_time.15.0 s: 
+          line: 82 0  # I'm enjoying our chat - but I'
+          Complexity of rule ~free_time.15.0- s: 1
+        rule: 83  ~free_time.15.1 a: 
+          line: 83 0  # May the Force be with 
+          Complexity of rule ~free_time.15.1- a: 1
 file: 0  C:/Users/Ismael/Documents/Programming/XAMPP/htdocs/LukeBot/CSEngine-Lukebot/RAWDATA/Luke/simplecontrol.top
     macro: 5  ^luke
           line: 6 0  # $cs_token = 4096 | 255 | 512 |

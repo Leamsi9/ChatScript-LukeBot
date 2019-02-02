@@ -1,3 +1,0 @@
-﻿Command: :build luke
-Command: :reset
-Start: user: bot: ip:127.0.0.1 rand:1285 () 0 ==>   When:Feb02'19-15:59:01  Version:9.0 Build0:Feb02'19-15:42:37 Build1:Feb02'19-15:58:41 0:Feb02'19-15:59:01 F:0 P:0

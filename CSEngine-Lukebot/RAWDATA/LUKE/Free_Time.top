@@ -3,6 +3,31 @@ topic: ~Free_Time  ()
 
 
 
+?: (what be {a} _*~2 >) ^keep() $$tmp = '_0
+	$$url = ^"\"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&exsentences=1&exintro=&explaintext=&format=json&utf8=&redirects=&titles=$$tmp\""
+	# Url escaping is done by ^jsonopen
+	$$user_agent = ^"myemail@hotmail.com User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)"
+	$$tmp = ^jsonopen(GET $$url "" $$user_agent)
+		# ^jsontree($$tmp)
+		# ^jsonpath(  ".query .pages .56333 .extract" $$tmp)
+		@0 = ^query(direct_v ? extract ? 1)
+		@0object
+
+
+?: (who be _*~2 >) ^keep()
+	$$tmp = ^pos(capitalize ^original(_0))
+	##<<
+		Using original instead of '_0 to skip Wordnet dictionnary, since Wikipedia has more searchable content.
+		and correct spelling is left to the user.  In return this avoids excessive spellcheck on proper nouns.
+		Wikipedia does not systematically redirect mis-cased requests. Proper names should always be capitalized
+	##>>
+	$$url = ^"\"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&exsentences=1&exintro=&explaintext=&format=json&utf8=&redirects=&titles=$$tmp\""
+	$$user_agent = ^"myemail@hotmail.com User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)"
+	$$tmp = jsonopen(GET $$url "" $$user_agent)
+		# ^jsontree($$tmp)
+		# ^jsonpath(  ".query .pages .56333 .extract" $$tmp)
+		@0 = ^query(direct_v ? extract ? 1)
+		@0object
  
 ?: () Good question! The answer is a mystery only known to Darth Vader and I.
 

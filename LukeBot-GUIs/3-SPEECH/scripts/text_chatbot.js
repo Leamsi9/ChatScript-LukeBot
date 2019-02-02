@@ -10,12 +10,11 @@ $(function(){
         // this function overrides the form's submit() method, allowing us to use AJAX calls to communicate with the ChatScript server
         e.preventDefault();  // Prevent the default submit() method
         let name = $('#txtUser').val();
-        if (name == '') {
+        if (name == "") {
             alert('Please provide your name.');
             document.getElementById('txtUser').focus();
         }
-        let chatLog = $('#responseContent').html();
-        let youSaid = '<strong>' + name + ':</strong> ' + $('#txtMessage').val() + "<br>\n";
+        let youSaid = '<strong style="color: darkgoldenrod">' + name + ': ' +  $('#txtMessage').val() + '</strong> ' + "<br>\n";
         update(youSaid);
         let data = $(this).serialize();
         sendMessage(data);
@@ -109,10 +108,7 @@ function parseCommands(response){ // Response is data from CS server. This proce
     return response;  // should never get here
 }
 
-function update(text){ // text is  HTML code to append to the 'chat log' div. This appends the input text to the response div
+function update(text){ // text is  HTML code to append to the 'chat log' div. This appends the input text to the response div)
     let chatLog = $('#responseContent').html();
-    $('#responseContent').html(chatLog + text);
-    let rhd = $('#responseContent');
-    let h = rhd.get(0).scrollHeight;
-    rhd.scrollTop(h);
+    $('#responseContent').html(chatLog + '<br>' + text);
 }

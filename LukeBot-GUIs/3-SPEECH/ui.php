@@ -62,7 +62,7 @@ if (isset($send))
     fputs($fp,$msg);
     while (!feof($fp))
 	{
-        $ret .= fgets($fp, 512);
+        $ret .= fgets($fp, 2000);
     }
 
     // close socket connection

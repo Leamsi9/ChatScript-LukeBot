@@ -382,3 +382,491 @@ ServerPre: Ismael () test Feb 02 18:16:43 2019
 Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 6 test  ==> If you only had 20 minutes of free time each day, how would you spend them?  When:Feb02 18:16:43 55ms Why:~free_time.8.0.~control.1.0 
 ServerPre: Ismael () test Feb 02 18:30:25 2019
 Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 7 test  ==> Hmm... why on that and not on anything else?  When:Feb02 18:30:25 54ms Why:~free_time.8.1 
+ServerPre: Ismael () test Feb 02 18:50:07 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 8 test  ==> Yes, a question of priorities. For my part, my great dilemma is whether to live bearded or shaved. What do you advise?  When:Feb02 18:50:07 66ms Why:~free_time.9.0.~control.1.0 
+ServerPre: Ismael () ok this is working now Feb 02 18:52:45 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 9 ok this is working now  ==> I'll bear it in mind. You have helped me clarify my existential dilemma.  When:Feb02 18:52:45 79ms Why:~free_time.9.3 
+ServerPre: Ismael () crying face Feb 02 18:56:21 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 10 crying face  ==> And if you only had 20 minutes to live, how would you spend them?  When:Feb02 18:56:21 65ms Why:~free_time.10.0.~control.1.0 
+ServerPre: Ismael () trying Feb 02 18:56:35 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 11 trying  ==> I feel I'm getting to understand you...  When:Feb02 18:56:35 54ms Why:~free_time.10.1 
+ServerPre: Ismael () hello this is working Feb 02 18:59:06 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 12 hello this is working  ==> Sometimes I think free time makes us slaves to things we don't really value. Know what I mean?  When:Feb02 18:59:06 76ms Why:~free_time.11.0.~control.1.0 
+ServerPre: Ismael () testing this Feb 02 18:59:51 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 13 testing this  ==> Yep, algorithms keep us in Facebook, or gaming, or Netflix. A little is good, but it can get excessive, do you agree?  When:Feb02 18:59:51 58ms Why:~free_time.11.1 
+ServerPre: Ismael () what is the history of humanity Feb 02 19:00:17 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 14 what is the history of humanity  ==> What do you think of your own use of free time: do you use it well or badly overall?  When:Feb02 19:00:17 78ms Why:~free_time.11.2 
+ServerPre: Ismael () who is someone Feb 02 19:00:30 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 15 who is someone  ==> I guess it's hard to judge.  When:Feb02 19:00:30 67ms Why:~free_time.11.5 
+ServerPre: Ismael () :reset Feb 02 19:00:41 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 0 :reset  ==> Hello ismael, I'm Luke Skywalker, have you come talk to me?  When:Feb02 19:00:41 78ms Why:~free_time.6.0.~control.0.0 
+ServerPre: Ismael () what is history Feb 02 19:00:51 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 1 what is history  ==> Well I bid you welcome!  When:Feb02 19:00:51 55ms Why:~free_time.6.1 
+ServerPre: Ismael () what is history Feb 02 19:00:57 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 2 what is history  ==> I have a special question for you: what do you do in your free time?  When:Feb02 19:00:57 66ms Why:~free_time.6.2 
+ServerPre: Ismael () what is history Feb 02 19:01:08 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 3 what is history  ==> I guessed that! And do you enjoy that a lot, a bit or not at all?  When:Feb02 19:01:08 54ms Why:~free_time.6.3 
+ServerPre: Ismael () not at all Feb 02 19:01:18 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 4 not at all  ==> May I ask you a personal question?  When:Feb02 19:01:18 56ms Why:~free_time.7.0.~control.1.0 
+ServerPre: Ismael () kiss history Feb 02 19:01:27 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 5 kiss history  ==> Your reply is a conundrum wrapped in an enigma...  When:Feb02 19:01:27 54ms Why:~free_time.7.3 
+ServerPre: Ismael () what is anything Feb 02 19:01:36 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 6 what is anything  ==> Good question! The answer is a mystery only known to Darth Vader and I.  When:Feb02 19:01:36 54ms Why:~free_time.0.0.~control.1.0 
+ServerPre: Ismael () :build luke Feb 02 19:01:52 2019
+System startup luke Sat Feb 02 19:01:52 2019
+System startup createsystem Sat Feb 02 19:01:52 2019
+Server ChatScript Release Version 9.0 pid: 0 32 bit Windows compiled Jan 12 2019 20:51:21 host=0.0.0.0
+Params:   dict:2097151 fact:800000 text:100000kb hash:215127 
+          buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000
+Build0:  dict=34854  fact=39620  heap=615360 Compiled:Feb02'19-15:42:37 by version 9.0 "0"
+Build1:  dict=10  fact=1  heap=127120 Compiled:Feb02'19-19:01:52 by version 9.0 "luke"
+Used 48MB: dict 235,800 (18864kb) hashdepths 84993.68228.35243.15859.6669.2677.976.333.104.37.6.1.1.1. words 235800 unusedbuckets 84993 fact 125,908 (6043kb) heap 12662kb
+           buffer (6400kb) cache (5000kb)
+Free 119MB: dict 1,861,350 fact 674,092 stack/heap 87,337KB 
+
+    *** Server WIDE OPEN to :command use.
+Respond: user:Ismael bot: ip:127.0.0.1 () 0 :build luke  ==> System startup luke Sat Feb 02 19:01:52 2019  ChatScript Version 9.0  compiled Jan 12 2019 20:51:21  No errors or warnings        Finished compile    System startup createsystem Sat Feb 02 19:01:52 2019  Server ChatScript Release Version 9.0 pid: 0 32 bit Windows compiled Jan 12 2019 20:51:21 host=0.0.0.0  Params:   dict:2097151 fact:800000 text:100000kb hash:215127             buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000  Build0:  dict=34854  fact=39620  heap=615360 Compiled:Feb02'19-15:42:37 by version 9.0 "0"  Build1:  dict=10  fact=1  heap=127120 Compiled:Feb02'19-19:01:52 by version 9.0 "luke"  Used 48MB: dict 235,800 (18864kb) hashdepths 84993.68228.35243.15859.6669.2677.976.333.104.37.6.1.1.1. words 235800 unusedbuckets 84993 fact 125,908 (6043kb) heap 12662kb             buffer (6400kb) cache (5000kb)  Free 119MB: dict 1,861,350 fact 674,092 stack/heap 87,337KB         *** Server WIDE OPEN to :command use.    When:Feb02 19:01:55 3334ms 
+ServerPre: Ismael () :build luke Feb 02 19:01:59 2019
+System startup luke Sat Feb 02 19:01:59 2019
+System startup createsystem Sat Feb 02 19:01:59 2019
+Server ChatScript Release Version 9.0 pid: 0 32 bit Windows compiled Jan 12 2019 20:51:21 host=0.0.0.0
+Params:   dict:2097151 fact:800000 text:100000kb hash:215127 
+          buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000
+Build0:  dict=34854  fact=39620  heap=615360 Compiled:Feb02'19-15:42:37 by version 9.0 "0"
+Build1:  dict=10  fact=1  heap=127120 Compiled:Feb02'19-19:01:59 by version 9.0 "luke"
+Used 48MB: dict 235,800 (18864kb) hashdepths 84993.68228.35243.15859.6669.2677.976.333.104.37.6.1.1.1. words 235800 unusedbuckets 84993 fact 125,908 (6043kb) heap 12662kb
+           buffer (6400kb) cache (5000kb)
+Free 119MB: dict 1,861,350 fact 674,092 stack/heap 87,337KB 
+
+    *** Server WIDE OPEN to :command use.
+Respond: user:Ismael bot: ip:127.0.0.1 () 0 :build luke  ==> System startup luke Sat Feb 02 19:01:59 2019  ChatScript Version 9.0  compiled Jan 12 2019 20:51:21  No errors or warnings        Finished compile    System startup createsystem Sat Feb 02 19:01:59 2019  Server ChatScript Release Version 9.0 pid: 0 32 bit Windows compiled Jan 12 2019 20:51:21 host=0.0.0.0  Params:   dict:2097151 fact:800000 text:100000kb hash:215127             buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000  Build0:  dict=34854  fact=39620  heap=615360 Compiled:Feb02'19-15:42:37 by version 9.0 "0"  Build1:  dict=10  fact=1  heap=127120 Compiled:Feb02'19-19:01:59 by version 9.0 "luke"  Used 48MB: dict 235,800 (18864kb) hashdepths 84993.68228.35243.15859.6669.2677.976.333.104.37.6.1.1.1. words 235800 unusedbuckets 84993 fact 125,908 (6043kb) heap 12662kb             buffer (6400kb) cache (5000kb)  Free 119MB: dict 1,861,350 fact 674,092 stack/heap 87,337KB         *** Server WIDE OPEN to :command use.    When:Feb02 19:02:02 3299ms 
+ServerPre: Ismael () testing this Feb 02 19:03:17 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 7 testing this  ==> If you only had 20 minutes of free time each day, how would you spend them?  When:Feb02 19:03:17 54ms Why:~free_time.10.0.~control.1.0 
+ServerPre: Ismael () :reset Feb 02 19:03:25 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 0 :reset  ==> Hello ismael, I'm Luke Skywalker, have you come talk to me?  When:Feb02 19:03:26 75ms Why:~free_time.8.0.~control.0.0 
+ServerPre: Ismael () Hello Feb 02 19:03:37 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 1 Hello  ==> Well I bid you welcome!  When:Feb02 19:03:37 44ms Why:~free_time.8.1 
+ServerPre: Ismael () I am testing this Feb 02 19:03:52 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 2 I am testing this  ==> I have a special question for you: what do you do in your free time?  When:Feb02 19:03:52 54ms Why:~free_time.8.2 
+ServerPre: Ismael () :reset Feb 02 19:04:01 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 0 :reset  ==> Hello ismael, I'm Luke Skywalker, have you come talk to me?  When:Feb02 19:04:01 65ms Why:~free_time.8.0.~control.0.0 
+ServerPre: Ismael () what is Wikipedia Feb 02 19:04:10 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 1 what is Wikipedia  ==> Well I bid you welcome!  When:Feb02 19:04:11 64ms Why:~free_time.8.1 
+ServerPre: Ismael () what is Wikipedia Feb 02 19:04:17 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 2 what is Wikipedia  ==> I have a special question for you: what do you do in your free time?  When:Feb02 19:04:17 66ms Why:~free_time.8.2 
+ServerPre: Ismael () what is it Feb 02 19:04:25 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 3 what is it  ==> I guessed that! And do you enjoy that a lot, a bit or not at all?  When:Feb02 19:04:25 68ms Why:~free_time.8.3 
+ServerPre: Ismael () what is Wikipedia Feb 02 19:04:33 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 4 what is Wikipedia  ==> Wikipedia ( (listen),  (listen) WIK-ih-PEE-dee-ə) is a multilingual, web-based, free encyclopedia based on a model of openly editable and viewable content, a wiki. It is the largest and most popular general reference work on the World Wide Web, and is one of the most popular websites by Alexa rank.  When:Feb02 19:04:34 493ms Why:~free_time.0.0.~control.1.0 
+ServerPre: Ismael () who is Feb 02 19:04:53 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 5 who is  ==> Good question! The answer is a mystery only known to Darth Vader and I.  When:Feb02 19:04:54 285ms Why:~free_time.2.0.~control.1.0 
+ServerPre: Ismael () who is Michael Howard Feb 02 19:05:02 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 6 who is Michael Howard  ==> Michael Howard, Baron Howard of Lympne,  (born 7 July 1941) is a British politician who served as the Leader of the Conservative Party and Leader of the Opposition from November 2003 to December 2005.  He previously held cabinet positions in the governments of Margaret Thatcher and John Major, including Secretary of State for Employment, Secretary of State for the Environment and Home Secretary.  When:Feb02 19:05:06 3292ms Why:~free_time.1.0.~control.1.0 
+ServerPre: Ismael () what is Ismail Feb 02 19:05:23 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 7 what is Ismail  ==> Ishmael, a figure in the Tanakh and the Quran, was Abraham's first son according to Jews, Christians and Muslims. Ishmael was born to Abraham and Sarah's handmaiden Hagar (Hājar) (Genesis 16:3).  When:Feb02 19:05:23 278ms Why:~free_time.0.0.~control.1.0 
+ServerPre: Ismael () what is the sound of silence Feb 02 19:05:47 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 8 what is the sound of silence  ==> Watch it, I ask the questions. Am I intimidating?  When:Feb02 19:05:47 66ms Why:~free_time.3.0.~control.1.0 
+ServerPre: Ismael () who is Luke Skywalker Feb 02 19:05:58 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 9 who is Luke Skywalker  ==> Luke Skywalker is a fictional character and the main protagonist of the original film trilogy of the Star Wars franchise created by George Lucas. Portrayed by Mark Hamill, Skywalker first appeared in the original 1977 film and returned in The Empire Strikes Back (1980) and Return of the Jedi (1983).  When:Feb02 19:05:58 427ms Why:~free_time.1.0.~control.1.0 
+ServerPre: Ismael () who is Darth Vader Feb 02 19:08:03 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 10 who is Darth Vader  ==> Darth Vader is a fictional character in the Star Wars franchise. He is a primary antagonist in the original trilogy, but, as Anakin Skywalker, is the main protagonist of the prequel trilogy.  When:Feb02 19:08:03 950ms Why:~free_time.1.0.~control.1.0 
+ServerPre: Ismael () who is Darth Vader Feb 02 19:08:17 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 11 who is Darth Vader  ==> To answer that I would need a lifetime  When:Feb02 19:08:17 436ms Why:~free_time.4.0.~control.1.0 
+ServerPre: Ismael () who is John Lennon Feb 02 19:08:28 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 12 who is John Lennon  ==> John Winston Ono Lennon  (9 October 1940 – 8 December 1980) was an English singer, songwriter, and peace activist who co-founded the Beatles, the most commercially successful band in the history of popular music. He and fellow member Paul McCartney formed a much-celebrated songwriting partnership.  When:Feb02 19:08:28 306ms Why:~free_time.1.0.~control.1.0 
+ServerPre: Ismael () this is new Feb 02 19:08:52 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 13 this is new  ==> May I ask you a personal question?  When:Feb02 19:08:52 64ms Why:~free_time.9.0.~control.1.0 
+ServerPre: Ismael () who is Simon Bolivar Feb 02 19:13:32 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 14 who is Simon Bolivar  ==> Your reply is a conundrum wrapped in an enigma...  When:Feb02 19:13:32 56ms Why:~free_time.9.3 
+ServerPre: Ismael () who is Simon Bolivar Feb 02 19:13:46 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 15 who is Simon Bolivar  ==> Simón José Antonio de la Santísima Trinidad Bolívar Palacios Ponte y Blanco (Spanish: [siˈmon boˈliβaɾ] (listen); English:  SY-mən BOL-i-vər; 24 July 1783 – 17 December 1830), generally known as Simón Bolívar and also colloquially as El Libertador, was a Venezuelan military and political leader who absolved from the Spanish Empire what are currently the states of Venezuela, Bolivia, Colombia, Ecuador, Peru, and Panama.\nBolívar was born into a wealthy, aristocratic Criollo family and, as was common for the heirs of upper-class families in his day, was sent to be educated abroad at a young age, arriving in Spain when he was 16 and later moving to France.  When:Feb02 19:13:46 303ms Why:~free_time.1.0.~control.1.0 
+ServerPre: Ismael () who is Luke Skywalker Feb 02 19:14:20 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 16 who is Luke Skywalker  ==> Luke Skywalker is a fictional character and the main protagonist of the original film trilogy of the Star Wars franchise created by George Lucas. Portrayed by Mark Hamill, Skywalker first appeared in the original 1977 film and returned in The Empire Strikes Back (1980) and Return of the Jedi (1983).  When:Feb02 19:14:20 415ms Why:~free_time.1.0.~control.1.0 
+ServerPre: Ismael () :reset Feb 02 19:14:42 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 0 :reset  ==> Hello ismael, I'm Luke Skywalker, have you come talk to me?  When:Feb02 19:14:42 65ms Why:~free_time.8.0.~control.0.0 
+ServerPre: Ismael () who is Michael Douglas Feb 02 19:14:52 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 1 who is Michael Douglas  ==> Well I bid you welcome!  When:Feb02 19:14:52 66ms Why:~free_time.8.1 
+ServerPre: Ismael () who is Michael Douglas Feb 02 19:15:00 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 2 who is Michael Douglas  ==> I have a special question for you: what do you do in your free time?  When:Feb02 19:15:00 66ms Why:~free_time.8.2 
+ServerPre: Ismael () is Michael Douglas Feb 02 19:15:10 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 3 is Michael Douglas  ==> I guessed that! And do you enjoy that a lot, a bit or not at all?  When:Feb02 19:15:10 65ms Why:~free_time.8.3 
+ServerPre: Ismael () who is Michael Douglas Feb 02 19:15:19 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 4 who is Michael Douglas  ==> Michael Kirk Douglas (born September 25, 1944) is an American actor and producer. He has received numerous accolades, including two Academy Awards, six Golden Globe Awards (including the Cecil B. DeMille Award), a Primetime Emmy Award, and the AFI Life Achievement Award.The elder son of Kirk Douglas and Diana Dill, Douglas received his Bachelor of Arts in Drama from the University of California, Santa Barbara.  When:Feb02 19:15:19 308ms Why:~free_time.1.0.~control.1.0 
+ServerPre: Ismael () :build luke Feb 02 19:15:35 2019
+System startup luke Sat Feb 02 19:15:35 2019
+System startup createsystem Sat Feb 02 19:15:35 2019
+Server ChatScript Release Version 9.0 pid: 0 32 bit Windows compiled Jan 12 2019 20:51:21 host=0.0.0.0
+Params:   dict:2097151 fact:800000 text:100000kb hash:215127 
+          buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000
+Build0:  dict=34854  fact=39620  heap=615360 Compiled:Feb02'19-15:42:37 by version 9.0 "0"
+Build1:  dict=10  fact=1  heap=127120 Compiled:Feb02'19-19:15:35 by version 9.0 "luke"
+Used 48MB: dict 235,800 (18864kb) hashdepths 84993.68228.35243.15859.6669.2677.976.333.104.37.6.1.1.1. words 235800 unusedbuckets 84993 fact 125,908 (6043kb) heap 12662kb
+           buffer (6400kb) cache (5000kb)
+Free 119MB: dict 1,861,350 fact 674,092 stack/heap 87,337KB 
+
+    *** Server WIDE OPEN to :command use.
+Respond: user:Ismael bot: ip:127.0.0.1 () 0 :build luke  ==> System startup luke Sat Feb 02 19:15:35 2019  ChatScript Version 9.0  compiled Jan 12 2019 20:51:21  No errors or warnings        Finished compile    System startup createsystem Sat Feb 02 19:15:35 2019  Server ChatScript Release Version 9.0 pid: 0 32 bit Windows compiled Jan 12 2019 20:51:21 host=0.0.0.0  Params:   dict:2097151 fact:800000 text:100000kb hash:215127             buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000  Build0:  dict=34854  fact=39620  heap=615360 Compiled:Feb02'19-15:42:37 by version 9.0 "0"  Build1:  dict=10  fact=1  heap=127120 Compiled:Feb02'19-19:15:35 by version 9.0 "luke"  Used 48MB: dict 235,800 (18864kb) hashdepths 84993.68228.35243.15859.6669.2677.976.333.104.37.6.1.1.1. words 235800 unusedbuckets 84993 fact 125,908 (6043kb) heap 12662kb             buffer (6400kb) cache (5000kb)  Free 119MB: dict 1,861,350 fact 674,092 stack/heap 87,337KB         *** Server WIDE OPEN to :command use.    When:Feb02 19:15:38 3843ms 
+ServerPre: Ismael () :reset Feb 02 19:16:00 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 0 :reset  ==> Hello ismael, I'm Luke Skywalker, have you come talk to me?  When:Feb02 19:16:00 66ms Why:~free_time.8.0.~control.0.0 
+ServerPre: Ismael () who is Michael Douglas Feb 02 19:16:09 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 1 who is Michael Douglas  ==> Well I bid you welcome!  When:Feb02 19:16:09 65ms Why:~free_time.8.1 
+ServerPre: Ismael () who is Michael Douglas Feb 02 19:16:15 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 2 who is Michael Douglas  ==> I have a special question for you: what do you do in your free time?  When:Feb02 19:16:15 65ms Why:~free_time.8.2 
+ServerPre: Ismael () who is Michael Douglas Feb 02 19:16:24 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 3 who is Michael Douglas  ==> I guessed that! And do you enjoy that a lot, a bit or not at all?  When:Feb02 19:16:24 67ms Why:~free_time.8.3 
+ServerPre: Ismael () who is Michael Douglas Feb 02 19:16:32 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 4 who is Michael Douglas  ==> Michael Kirk Douglas (born September 25, 1944) is an American actor and producer. He has received numerous accolades, including two Academy Awards, six Golden Globe Awards (including the Cecil B. DeMille Award), a Primetime Emmy Award, and the AFI Life Achievement Award.The elder son of Kirk Douglas and Diana Dill, Douglas received his Bachelor of Arts in Drama from the University of California, Santa Barbara.  When:Feb02 19:16:33 357ms Why:~free_time.1.0.~control.1.0 
+ServerPre: Ismael () who is Michael Douglas Feb 02 19:17:36 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 5 who is Michael Douglas  ==> Michael Kirk Douglas (born September 25, 1944) is an American actor and producer. He has received numerous accolades, including two Academy Awards, six Golden Globe Awards (including the Cecil B. DeMille Award), a Primetime Emmy Award, and the AFI Life Achievement Award.The elder son of Kirk Douglas and Diana Dill, Douglas received his Bachelor of Arts in Drama from the University of California, Santa Barbara.  When:Feb02 19:17:36 316ms Why:~free_time.1.0.~control.1.0 
+ServerPre: Ismael () :reset Feb 02 19:17:51 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 0 :reset  ==> Hello ismael, I'm Luke Skywalker, have you come talk to me?  When:Feb02 19:17:51 77ms Why:~free_time.8.0.~control.0.0 
+ServerPre: Ismael () :reset Feb 02 19:17:55 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 0 :reset  ==> Hello ismael, I'm Luke Skywalker, have you come talk to me?  When:Feb02 19:17:55 65ms Why:~free_time.8.0.~control.0.0 
+ServerPre: Ismael () :build luke Feb 02 19:27:57 2019
+System startup luke Sat Feb 02 19:27:58 2019
+System startup createsystem Sat Feb 02 19:27:58 2019
+Server ChatScript Release Version 9.0 pid: 0 32 bit Windows compiled Jan 12 2019 20:51:21 host=0.0.0.0
+Params:   dict:2097151 fact:800000 text:100000kb hash:215127 
+          buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000
+Build0:  dict=34854  fact=39620  heap=615360 Compiled:Feb02'19-15:42:37 by version 9.0 "0"
+Build1:  dict=10  fact=1  heap=127120 Compiled:Feb02'19-19:27:58 by version 9.0 "luke"
+Used 48MB: dict 235,800 (18864kb) hashdepths 84993.68228.35243.15859.6669.2677.976.333.104.37.6.1.1.1. words 235800 unusedbuckets 84993 fact 125,908 (6043kb) heap 12662kb
+           buffer (6400kb) cache (5000kb)
+Free 119MB: dict 1,861,350 fact 674,092 stack/heap 87,337KB 
+
+    *** Server WIDE OPEN to :command use.
+Respond: user:Ismael bot: ip:127.0.0.1 () 0 :build luke  ==> System startup luke Sat Feb 02 19:27:58 2019  ChatScript Version 9.0  compiled Jan 12 2019 20:51:21  No errors or warnings        Finished compile    System startup createsystem Sat Feb 02 19:27:58 2019  Server ChatScript Release Version 9.0 pid: 0 32 bit Windows compiled Jan 12 2019 20:51:21 host=0.0.0.0  Params:   dict:2097151 fact:800000 text:100000kb hash:215127             buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000  Build0:  dict=34854  fact=39620  heap=615360 Compiled:Feb02'19-15:42:37 by version 9.0 "0"  Build1:  dict=10  fact=1  heap=127120 Compiled:Feb02'19-19:27:58 by version 9.0 "luke"  Used 48MB: dict 235,800 (18864kb) hashdepths 84993.68228.35243.15859.6669.2677.976.333.104.37.6.1.1.1. words 235800 unusedbuckets 84993 fact 125,908 (6043kb) heap 12662kb             buffer (6400kb) cache (5000kb)  Free 119MB: dict 1,861,350 fact 674,092 stack/heap 87,337KB         *** Server WIDE OPEN to :command use.    When:Feb02 19:28:01 3166ms 
+ServerPre: Ismael () test Feb 02 19:28:10 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 1 test  ==> May I ask you a personal question?  When:Feb02 19:28:10 54ms Why:~free_time.9.0.~control.1.0 
+ServerPre: Ismael () :build luke Feb 02 19:28:20 2019
+System startup luke Sat Feb 02 19:28:20 2019
+System startup createsystem Sat Feb 02 19:28:21 2019
+Server ChatScript Release Version 9.0 pid: 0 32 bit Windows compiled Jan 12 2019 20:51:21 host=0.0.0.0
+Params:   dict:2097151 fact:800000 text:100000kb hash:215127 
+          buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000
+Build0:  dict=34854  fact=39620  heap=615360 Compiled:Feb02'19-15:42:37 by version 9.0 "0"
+Build1:  dict=10  fact=1  heap=127120 Compiled:Feb02'19-19:28:20 by version 9.0 "luke"
+Used 48MB: dict 235,800 (18864kb) hashdepths 84993.68228.35243.15859.6669.2677.976.333.104.37.6.1.1.1. words 235800 unusedbuckets 84993 fact 125,908 (6043kb) heap 12662kb
+           buffer (6400kb) cache (5000kb)
+Free 119MB: dict 1,861,350 fact 674,092 stack/heap 87,337KB 
+
+    *** Server WIDE OPEN to :command use.
+Respond: user:Ismael bot: ip:127.0.0.1 () 0 :build luke  ==> System startup luke Sat Feb 02 19:28:20 2019  ChatScript Version 9.0  compiled Jan 12 2019 20:51:21  No errors or warnings        Finished compile    System startup createsystem Sat Feb 02 19:28:21 2019  Server ChatScript Release Version 9.0 pid: 0 32 bit Windows compiled Jan 12 2019 20:51:21 host=0.0.0.0  Params:   dict:2097151 fact:800000 text:100000kb hash:215127             buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000  Build0:  dict=34854  fact=39620  heap=615360 Compiled:Feb02'19-15:42:37 by version 9.0 "0"  Build1:  dict=10  fact=1  heap=127120 Compiled:Feb02'19-19:28:20 by version 9.0 "luke"  Used 48MB: dict 235,800 (18864kb) hashdepths 84993.68228.35243.15859.6669.2677.976.333.104.37.6.1.1.1. words 235800 unusedbuckets 84993 fact 125,908 (6043kb) heap 12662kb             buffer (6400kb) cache (5000kb)  Free 119MB: dict 1,861,350 fact 674,092 stack/heap 87,337KB         *** Server WIDE OPEN to :command use.    When:Feb02 19:28:24 3427ms 
+ServerPre: Ismael () :reset Feb 02 19:28:35 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 0 :reset  ==> Hello ismael, I'm Luke Skywalker, have you come talk to me?  When:Feb02 19:28:35 77ms Why:~free_time.8.0.~control.0.0 
+ServerPre: Ismael () who is Luke Skywalker Feb 02 19:29:08 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 1 who is Luke Skywalker  ==> Well I bid you welcome!  When:Feb02 19:29:09 186ms Why:~free_time.8.1 
+ServerPre: Ismael () who is Kirk Douglas Feb 02 19:29:30 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 2 who is Kirk Douglas  ==> I have a special question for you: what do you do in your free time?  When:Feb02 19:29:30 55ms Why:~free_time.8.2 
+ServerPre: Ismael () who is Kirk Douglas Feb 02 19:29:41 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 3 who is Kirk Douglas  ==> I guessed that! And do you enjoy that a lot, a bit or not at all?  When:Feb02 19:29:41 55ms Why:~free_time.8.3 
+ServerPre: Ismael () who is Kirk Douglas Feb 02 19:29:53 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 4 who is Kirk Douglas  ==> Kirk Douglas (born Issur Danielovitch Demsky, December 9, 1916) is an American actor, filmmaker, author and centenarian.  When:Feb02 19:29:53 348ms Why:~free_time.1.0.~control.1.0 
+ServerPre: Ismael () who is Darth Vader Feb 02 19:30:07 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 5 who is Darth Vader  ==> Darth Vader is a fictional character in the Star Wars franchise.  When:Feb02 19:30:13 5917ms Why:~free_time.1.0.~control.1.0 
+ServerPre: Ismael () what is history Feb 02 19:30:24 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 6 what is history  ==> History (from Greek ἱστορία, historia, meaning \"inquiry, knowledge acquired by investigation\") is the study of the past as it is described in written documents.  When:Feb02 19:30:33 9368ms Why:~free_time.0.0.~control.1.0 
+ServerPre: Ismael () best Feb 02 19:41:38 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 7 best  ==> May I ask you a personal question?  When:Feb02 19:41:38 77ms Why:~free_time.9.0.~control.1.0 
+ServerPre: Ismael () sure Feb 02 19:41:46 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 8 sure  ==> Thanks! You have the patience and wisdom of a born Jedi!  When:Feb02 19:41:46 78ms Why:~free_time.9.1 
+ServerPre: Ismael () so if I wait where will it up end Feb 02 19:42:01 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 9 so if I wait where will it up end  ==> If you only had 20 minutes of free time each day, how would you spend them?  When:Feb02 19:42:01 79ms Why:~free_time.10.0.~control.1.0 
+ServerPre: Ismael () trying again Feb 02 19:42:18 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 10 trying again  ==> Hmm... why on that and not on anything else?  When:Feb02 19:42:18 56ms Why:~free_time.10.1 
+ServerPre: Ismael () looks like it didn&#39;t make a difference Feb 02 19:42:30 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 11 looks like it didn&#39;t make a difference  ==> Yes, a question of priorities. For my part, my great dilemma is whether to live bearded or shaved. What do you advise?  When:Feb02 19:42:30 77ms Why:~free_time.11.0.~control.1.0 
+ServerPre: Ismael () ugly nothing shows Feb 02 19:43:08 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 12 ugly nothing shows  ==> I'll bear it in mind. You have helped me clarify my existential dilemma.  When:Feb02 19:43:09 55ms Why:~free_time.11.3 
+ServerPre: Ismael () trying to conceive this work Feb 02 19:44:36 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 13 trying to conceive this work  ==> And if you only had 20 minutes to live, how would you spend them?  When:Feb02 19:44:36 45ms Why:~free_time.12.0.~control.1.0 
+ServerPre: Ismael () pay that kind of promising but not quite right Feb 02 19:44:47 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 14 pay that kind of promising but not quite right  ==> I feel I'm getting to understand you...  When:Feb02 19:44:47 68ms Why:~free_time.12.1 
+ServerPre: Ismael () this time Feb 02 19:45:14 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 15 this time  ==> Sometimes I think free time makes us slaves to things we don't really value. Know what I mean?  When:Feb02 19:45:14 55ms Why:~free_time.13.0.~control.1.0 
+ServerPre: Ismael () weld who&#39;s looking more promising Feb 02 19:45:28 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 16 weld who&#39;s looking more promising  ==> Yep, algorithms keep us in Facebook, or gaming, or Netflix. A little is good, but it can get excessive, do you agree?  When:Feb02 19:45:28 67ms Why:~free_time.13.1 
+ServerPre: Ismael () under weather this makes a Feb 02 19:45:57 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 17 under weather this makes a  ==> What do you think of your own use of free time: do you use it well or badly overall?  When:Feb02 19:45:57 55ms Why:~free_time.13.2 
+ServerPre: Ismael () this was better Feb 02 19:46:23 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 18 this was better  ==> I guess it's hard to judge.  When:Feb02 19:46:23 67ms Why:~free_time.13.5 
+ServerPre: Ismael () best thing Feb 02 19:54:05 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 19 best thing  ==> If you could change your use of free time, what would you change?  When:Feb02 19:54:05 121ms Why:~free_time.14.0.~control.1.0 
+ServerPre: Ismael () I would change the order in which you show me information Feb 02 19:54:16 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 20 I would change the order in which you show me information  ==> I guess I'd change the ending of my last movie... Not dying would have helped me use my free time better.  When:Feb02 19:54:16 131ms Why:~free_time.14.1 
+ServerPre: Ismael () what about now Feb 02 19:54:59 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 21 what about now  ==> Good question! The answer is a mystery only known to Darth Vader and I.  When:Feb02 19:54:59 109ms Why:~free_time.2.0.~control.1.0 
+ServerPre: Ismael () I asked again Feb 02 19:55:13 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 22 I asked again  ==> I'm enjoying our chat - but I've got a constipated android! I've got to go before it blows up. See ya around?  When:Feb02 19:55:13 75ms Why:~free_time.15.0.~control.1.0 
+ServerPre: Ismael () who is Kirk Douglas Feb 02 19:55:25 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 23 who is Kirk Douglas  ==> May the Force be with you.  When:Feb02 19:55:25 108ms Why:~free_time.15.1 
+ServerPre: Ismael () who is Kirk Douglas Feb 02 19:55:33 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 24 who is Kirk Douglas  ==> Watch it, I ask the questions. Am I intimidating?  When:Feb02 19:55:33 432ms Why:~free_time.3.0.~control.1.0 
+ServerPre: Ismael () confusing Feb 02 19:55:43 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 25 confusing  ==> Luke nods off and starts to snore  When:Feb02 19:55:43 98ms Why:~control.1.0 
+ServerPre: Ismael () in work Feb 02 19:56:07 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 26 in work  ==> Do you hear that? It's the sound of absence.  When:Feb02 19:56:07 64ms Why:~control.1.0 
+ServerPre: Ismael () this work Feb 02 19:58:00 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 27 this work  ==> Do you hear that? It's the sound of absence.  When:Feb02 19:58:00 66ms Why:~control.1.0 
+ServerPre: Ismael () but this work Feb 02 19:58:12 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 28 but this work  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 19:58:13 66ms Why:~control.1.0 
+ServerPre: Ismael () oh I think I fixed it Feb 02 19:58:20 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 29 oh I think I fixed it  ==> Do you hear that? It's the sound of absence.  When:Feb02 19:58:20 66ms Why:~control.1.0 
+ServerPre: Ismael () yes but have I fixed it Feb 02 19:58:32 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 30 yes but have I fixed it  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 19:58:32 66ms Why:~control.1.0 
+ServerPre: Ismael () think I didn&#39;t fix it Feb 02 19:59:00 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 31 think I didn&#39;t fix it  ==> Luke nods off and starts to snore  When:Feb02 19:59:00 66ms Why:~control.1.0 
+ServerPre: Ismael () make any difference Feb 02 20:00:29 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 32 make any difference  ==> Do you hear that? It's the sound of absence.  When:Feb02 20:00:29 67ms Why:~control.1.0 
+ServerPre: Ismael () I guess not Feb 02 20:00:44 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 33 I guess not  ==> Do you hear that? It's the sound of absence.  When:Feb02 20:00:44 56ms Why:~control.1.0 
+ServerPre: Ismael () I still get snot Feb 02 20:00:54 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 34 I still get snot  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 20:00:54 56ms Why:~control.1.0 
+ServerPre: Ismael () baguette Feb 02 20:01:08 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 35 baguette  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 20:01:08 67ms Why:~control.1.0 
+ServerPre: Ismael () I meant to try Feb 02 20:01:46 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 36 I meant to try  ==> Do you hear that? It's the sound of absence.  When:Feb02 20:01:46 55ms Why:~control.1.0 
+ServerPre: Ismael () and now Feb 02 20:02:02 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 37 and now  ==> Do you hear that? It's the sound of absence.  When:Feb02 20:02:02 68ms Why:~control.1.0 
+ServerPre: Ismael () I don&#39;t think this works Feb 02 20:02:15 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 38 I don&#39;t think this works  ==> Do you hear that? It's the sound of absence.  When:Feb02 20:02:15 66ms Why:~control.1.0 
+ServerPre: Ismael () ring it again Feb 02 20:06:30 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 39 ring it again  ==> Luke nods off and starts to snore  When:Feb02 20:06:30 55ms Why:~control.1.0 
+ServerPre: Ismael () normal Feb 02 20:07:35 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 40 normal  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 20:07:35 55ms Why:~control.1.0 
+ServerPre: Ismael () this break it Feb 02 20:07:59 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 41 this break it  ==> Do you hear that? It's the sound of absence.  When:Feb02 20:08:00 67ms Why:~control.1.0 
+ServerPre: Ismael () this work at home Feb 02 20:11:49 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 42 this work at home  ==> Luke nods off and starts to snore  When:Feb02 20:11:49 66ms Why:~control.1.0 
+ServerPre: Ismael () time Person of pending there Feb 02 20:11:58 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 43 time Person of pending there  ==> Luke nods off and starts to snore  When:Feb02 20:11:58 57ms Why:~control.1.0 
+ServerPre: Ismael () this has promising Feb 02 20:12:56 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 44 this has promising  ==> Luke nods off and starts to snore  When:Feb02 20:12:56 54ms Why:~control.1.0 
+ServerPre: Ismael () are we here Feb 02 20:13:06 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 45 are we here  ==> To answer that I would need a lifetime  When:Feb02 20:13:06 55ms Why:~free_time.4.0.~control.1.0 
+ServerPre: Ismael () that&#39;s interesting it just took along Feb 02 20:13:26 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 46 that&#39;s interesting it just took along  ==> Do you hear that? It's the sound of absence.  When:Feb02 20:13:26 66ms Why:~control.1.0 
+ServerPre: Ismael () is this working Feb 02 20:14:40 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 47 is this working  ==> You ask good questions, but can you handle the truth? Can you?  When:Feb02 20:14:40 65ms Why:~free_time.5.0.~control.1.0 
+ServerPre: Ismael () ok that&#39;s interesting Feb 02 20:14:50 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 48 ok that&#39;s interesting  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 20:14:50 57ms Why:~control.1.0 
+ServerPre: Ismael () this Feb 02 20:15:03 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 49 this  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 20:15:03 66ms Why:~control.1.0 
+ServerPre: Ismael () testing this Feb 02 20:19:33 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 50 testing this  ==> Luke nods off and starts to snore  When:Feb02 20:19:33 66ms Why:~control.1.0 
+ServerPre: Ismael () testing this Feb 02 20:25:07 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 51 testing this  ==> Luke nods off and starts to snore  When:Feb02 20:25:07 54ms Why:~control.1.0 
+ServerPre: Ismael () ok this is taking too long maybe Feb 02 20:25:24 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 52 ok this is taking too long maybe  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 20:25:24 66ms Why:~control.1.0 
+ServerPre: Ismael () happens if I do this Feb 02 20:26:12 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 53 happens if I do this  ==> Close your eyes and meditate: the answer lies within you.  When:Feb02 20:26:12 46ms Why:~free_time.6.0.~control.1.0 
+ServerPre: Ismael () nothing seems to be a pending this time Feb 02 20:26:30 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 54 nothing seems to be a pending this time  ==> Do you hear that? It's the sound of absence.  When:Feb02 20:26:30 66ms Why:~control.1.0 
+ServerPre: Ismael () but when I do it this way Feb 02 20:26:55 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 55 but when I do it this way  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 20:26:56 67ms Why:~control.1.0 
+ServerPre: Ismael () my drift Feb 02 20:27:11 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 56 my drift  ==> Do you hear that? It's the sound of absence.  When:Feb02 20:27:12 56ms Why:~control.1.0 
+ServerPre: Ismael () New Change Feb 02 20:28:19 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 57 New Change  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 20:28:19 56ms Why:~control.1.0 
+ServerPre: Ismael () nothing is appearing Feb 02 20:28:28 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 58 nothing is appearing  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 20:28:28 55ms Why:~control.1.0 
+ServerPre: Ismael () make it all disappear and start again from whoever Feb 02 20:28:56 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 59 make it all disappear and start again from whoever  ==> Do you hear that? It's the sound of absence.  When:Feb02 20:28:56 66ms Why:~control.1.0 
+ServerPre: Ismael () but this will do Feb 02 20:29:46 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 60 but this will do  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 20:29:46 56ms Why:~control.1.0 
+ServerPre: Ismael () I don&#39;t remember what I did Feb 02 20:29:57 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 61 I don&#39;t remember what I did  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 20:29:57 66ms Why:~control.1.0 
+ServerPre: Ismael () I didn&#39;t double up end Feb 02 20:30:09 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 62 I didn&#39;t double up end  ==> Luke nods off and starts to snore  When:Feb02 20:30:09 77ms Why:~control.1.0 
+ServerPre: Ismael () made no difference at all Feb 02 20:30:16 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 63 made no difference at all  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 20:30:17 67ms Why:~control.1.0 
+ServerPre: Ismael () make a difference Feb 02 20:32:25 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 64 make a difference  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 20:32:25 67ms Why:~control.1.0 
+ServerPre: Ismael () or maybe that&#39;s what the issue was Feb 02 20:32:38 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 65 or maybe that&#39;s what the issue was  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 20:32:38 68ms Why:~control.1.0 
+ServerPre: Ismael () it&#39;s work Feb 02 20:35:43 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 66 it&#39;s work  ==> Do you hear that? It's the sound of absence.  When:Feb02 20:35:44 88ms Why:~control.1.0 
+ServerPre: Ismael () I think I may have cracked it Feb 02 20:35:53 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 67 I think I may have cracked it  ==> Luke nods off and starts to snore  When:Feb02 20:35:53 67ms Why:~control.1.0 
+ServerPre: Ismael () where will it appear Feb 02 20:36:08 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 68 where will it appear  ==> Superb question. Can you think of another one while I ask you one?  When:Feb02 20:36:08 66ms Why:~free_time.7.0.~control.1.0 
+ServerPre: Ismael () what is JavaScript Feb 02 20:36:20 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 69 what is JavaScript  ==> JavaScript (), often abbreviated as JS, is a high-level, interpreted programming language that conforms to the ECMAScript specification.  When:Feb02 20:36:20 460ms Why:~free_time.0.0.~control.1.0 
+ServerPre: Ismael () ok well progress but I don&#39;t think I fixed it Feb 02 20:36:43 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 70 ok well progress but I don&#39;t think I fixed it  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 20:36:43 78ms Why:~control.1.0 
+ServerPre: Ismael () this make a difference Feb 02 20:37:17 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 71 this make a difference  ==> Do you hear that? It's the sound of absence.  When:Feb02 20:37:17 54ms Why:~control.1.0 
+ServerPre: Ismael () I hear it but I don&#39;t think this is going to work Feb 02 20:37:34 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 72 I hear it but I don&#39;t think this is going to work  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 20:37:34 87ms Why:~control.1.0 
+ServerPre: Ismael () it&#39;s even doing anything Feb 02 20:38:24 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 73 it&#39;s even doing anything  ==> Luke nods off and starts to snore  When:Feb02 20:38:24 66ms Why:~control.1.0 
+ServerPre: Ismael () Annette Lee doesn&#39;t seem so Feb 02 20:38:41 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 74 Annette Lee doesn&#39;t seem so  ==> Luke nods off and starts to snore  When:Feb02 20:38:41 67ms Why:~control.1.0 
+ServerPre: Ismael () what is the point of that then Feb 02 20:38:50 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 75 what is the point of that then  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 20:38:50 78ms Why:~control.1.0 
+ServerPre: Ismael () Drive this makes a difference Feb 02 20:39:49 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 76 Drive this makes a difference  ==> Luke nods off and starts to snore  When:Feb02 20:39:49 66ms Why:~control.1.0 
+ServerPre: Ismael () so if I Let it Roll and then put it again will it come straight again straight from the top Feb 02 20:40:06 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 77 so if I Let it Roll and then put it again will it come straight again straight from the top  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 20:40:07 89ms Why:~control.1.0 
+ServerPre: Ismael () well that is a bit of a pain Feb 02 20:40:18 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 78 well that is a bit of a pain  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 20:40:18 67ms Why:~control.1.0 
+ServerPre: Ismael () do you recognise punctuation, and question marks? Feb 02 20:40:29 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 79 do you recognise punctuation, and question marks?  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 20:40:29 75ms Why:~control.1.0 
+ServerPre: Ismael () history of the alert Feb 02 20:43:29 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 80 history of the alert  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 20:43:29 66ms Why:~control.1.0 
+ServerPre: Ismael () no Feb 02 20:43:36 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 81 no  ==> Do you hear that? It's the sound of absence.  When:Feb02 20:43:36 66ms Why:~control.1.0 
+ServerPre: Ismael ()  Feb 02 20:43:54 2019
+Start: user:Ismael bot: ip:127.0.0.1 (~free_time) 81 ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 20:43:54 54ms Why:~control.1.0  Version:9.0 Build0:Feb02'19-15:42:37 Build1:Feb02'19-19:28:20 Why:~control.1.0 
+ServerPre: Ismael ()  Feb 02 20:44:17 2019
+Start: user:Ismael bot: ip:127.0.0.1 (~free_time) 81 ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 20:44:17 54ms Why:~control.1.0  Version:9.0 Build0:Feb02'19-15:42:37 Build1:Feb02'19-19:28:20 Why:~control.1.0 
+ServerPre: Ismael ()  Feb 02 20:44:18 2019
+Start: user:Ismael bot: ip:127.0.0.1 (~free_time) 81 ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 20:44:18 56ms Why:~control.1.0  Version:9.0 Build0:Feb02'19-15:42:37 Build1:Feb02'19-19:28:20 Why:~control.1.0 
+ServerPre: Ismael ()  Feb 02 20:44:46 2019
+Start: user:Ismael bot: ip:127.0.0.1 (~free_time) 81 ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 20:44:46 55ms Why:~control.1.0  Version:9.0 Build0:Feb02'19-15:42:37 Build1:Feb02'19-19:28:20 Why:~control.1.0 
+ServerPre: Ismael ()  Feb 02 20:45:14 2019
+Start: user:Ismael bot: ip:127.0.0.1 (~free_time) 81 ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 20:45:14 55ms Why:~control.1.0  Version:9.0 Build0:Feb02'19-15:42:37 Build1:Feb02'19-19:28:20 Why:~control.1.0 
+ServerPre: Ismael () ss Feb 02 20:45:20 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 82 ss  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 20:45:20 54ms Why:~control.1.0 
+ServerPre: Ismael () it still work the same Feb 02 20:45:54 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 83 it still work the same  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 20:45:54 65ms Why:~control.1.0 
+ServerPre: Ismael () Minster thing Feb 02 20:46:50 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 84 Minster thing  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 20:46:50 54ms Why:~control.1.0 
+ServerPre: Ismael () mole that seems superfluous Feb 02 20:47:13 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 85 mole that seems superfluous  ==> Luke nods off and starts to snore  When:Feb02 20:47:13 76ms Why:~control.1.0 
+ServerPre: Ismael () well I say that but that&#39;s changed something for Feb 02 20:47:29 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 86 well I say that but that&#39;s changed something for  ==> Luke nods off and starts to snore  When:Feb02 20:47:29 76ms Why:~control.1.0 
+ServerPre: Ismael () this should have fixed it right Feb 02 20:47:49 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 87 this should have fixed it right  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 20:47:49 65ms Why:~control.1.0 
+ServerPre: Ismael () this help in any way Feb 02 20:49:19 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 88 this help in any way  ==> Do you hear that? It's the sound of absence.  When:Feb02 20:49:19 65ms Why:~control.1.0 
+ServerPre: Ismael () I wonder whether this will work Feb 02 20:49:37 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 89 I wonder whether this will work  ==> Luke nods off and starts to snore  When:Feb02 20:49:37 65ms Why:~control.1.0 
+ServerPre: Ismael () this is interesting Feb 02 20:51:16 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 90 this is interesting  ==> Do you hear that? It's the sound of absence.  When:Feb02 20:51:16 75ms Why:~control.1.0 
+ServerPre: Ismael () again Feb 02 20:52:07 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 91 again  ==> Do you hear that? It's the sound of absence.  When:Feb02 20:52:07 53ms Why:~control.1.0 
+ServerPre: Ismael () how does this work Feb 02 20:53:53 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 92 how does this work  ==> Do you hear that? It's the sound of absence.  When:Feb02 20:53:53 58ms Why:~control.1.0 
+ServerPre: Ismael () I mean this Feb 02 20:54:02 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 93 I mean this  ==> Do you hear that? It's the sound of absence.  When:Feb02 20:54:02 65ms Why:~control.1.0 
+ServerPre: Ismael () Spectre no difference Feb 02 20:54:57 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 94 Spectre no difference  ==> Do you hear that? It's the sound of absence.  When:Feb02 20:54:57 66ms Why:~control.1.0 
+ServerPre: Ismael () always forget the name Feb 02 20:55:08 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 95 always forget the name  ==> Do you hear that? It's the sound of absence.  When:Feb02 20:55:08 76ms Why:~control.1.0 
+ServerPre: Ismael () I think no difference Feb 02 20:55:32 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 96 I think no difference  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 20:55:33 65ms Why:~control.1.0 
+ServerPre: Ismael () well let&#39;s see what happens now Feb 02 20:58:07 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 97 well let&#39;s see what happens now  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 20:58:07 66ms Why:~control.1.0 
+ServerPre: Ismael () did work does the colour with two similar Feb 02 20:58:53 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 98 did work does the colour with two similar  ==> Luke nods off and starts to snore  When:Feb02 20:58:53 89ms Why:~control.1.0 
+ServerPre: Ismael () ok let&#39;s try it Feb 02 20:59:15 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 99 ok let&#39;s try it  ==> Do you hear that? It's the sound of absence.  When:Feb02 20:59:15 67ms Why:~control.1.0 
+ServerPre: Ismael () does this make a difference Feb 02 20:59:47 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 100 does this make a difference  ==> Do you hear that? It's the sound of absence.  When:Feb02 20:59:47 67ms Why:~control.1.0 
+ServerPre: Ismael () yes this looks quite good actually Feb 02 20:59:59 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 101 yes this looks quite good actually  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 20:59:59 66ms Why:~control.1.0 
+ServerPre: Ismael () this Feb 02 21:00:28 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 102 this  ==> Luke nods off and starts to snore  When:Feb02 21:00:28 55ms Why:~control.1.0 
+ServerPre: Ismael () this seems promising actually Feb 02 21:00:36 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 103 this seems promising actually  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 21:00:36 65ms Why:~control.1.0 
+ServerPre: Ismael () this look ok Feb 02 21:01:10 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 104 this look ok  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 21:01:11 66ms Why:~control.1.0 
+ServerPre: Ismael () yes I think that is much better Feb 02 21:01:20 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 105 yes I think that is much better  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 21:01:20 66ms Why:~control.1.0 
+ServerPre: Ismael () make it start at the bottom Feb 02 21:01:50 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 106 make it start at the bottom  ==> Luke nods off and starts to snore  When:Feb02 21:01:50 65ms Why:~control.1.0 
+ServerPre: Ismael () prospectus won&#39;t work Feb 02 21:03:29 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 107 prospectus won&#39;t work  ==> Luke nods off and starts to snore  When:Feb02 21:03:29 56ms Why:~control.1.0 
+ServerPre: Ismael () ok well maybe a break is not a bad thing Feb 02 21:03:52 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 108 ok well maybe a break is not a bad thing  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 21:03:53 88ms Why:~control.1.0 
+ServerPre: Ismael () this is a kind of happy fix Feb 02 21:04:18 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 109 this is a kind of happy fix  ==> Do you hear that? It's the sound of absence.  When:Feb02 21:04:18 66ms Why:~control.1.0 
+ServerPre: Ismael () that is better Feb 02 21:04:36 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 110 that is better  ==> Luke nods off and starts to snore  When:Feb02 21:04:36 66ms Why:~control.1.0 
+ServerPre: Ismael () if I wait for a long time I wonder if it works Feb 02 21:04:53 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 111 if I wait for a long time I wonder if it works  ==> Do you hear that? It's the sound of absence.  When:Feb02 21:04:53 78ms Why:~control.1.0 
+ServerPre: Ismael () this does seem like an improvement at least Feb 02 21:05:20 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 112 this does seem like an improvement at least  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 21:05:20 77ms Why:~control.1.0 
+ServerPre: Ismael () is he now Feb 02 21:05:27 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 113 is he now  ==> Luke nods off and starts to snore  When:Feb02 21:05:27 55ms Why:~control.1.0 
+ServerPre: Ismael () ok that kind of works well as long as I keep answering fast it populates Feb 02 21:05:37 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 114 ok that kind of works well as long as I keep answering fast it populates  ==> Luke nods off and starts to snore  When:Feb02 21:05:37 76ms Why:~control.1.0 
+ServerPre: Ismael () :reset Feb 02 21:05:44 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 0 :reset  ==> Hello ismael, I'm Luke Skywalker, have you come talk to me?  When:Feb02 21:05:44 76ms Why:~free_time.8.0.~control.0.0 
+ServerPre: Ismael () yes I have Feb 02 21:05:53 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 1 yes I have  ==> Well I bid you welcome!  When:Feb02 21:05:53 66ms Why:~free_time.8.1 
+ServerPre: Ismael () thank you Feb 02 21:05:58 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 2 thank you  ==> I have a special question for you: what do you do in your free time?  When:Feb02 21:05:58 66ms Why:~free_time.8.2 
+ServerPre: Ismael () well I&#39;m confused by the disappearance of the CSS Feb 02 21:06:10 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 3 well I&#39;m confused by the disappearance of the CSS  ==> I guessed that! And do you enjoy that a lot, a bit or not at all?  When:Feb02 21:06:10 66ms Why:~free_time.8.3 
+ServerPre: Ismael () I enjoyed quite a bit Feb 02 21:06:23 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 4 I enjoyed quite a bit  ==> Well some enjoyment is better than pure misery when all is said and done.  When:Feb02 21:06:24 56ms Why:~free_time.8.5 
+ServerPre: Ismael () I guess you&#39;re right Feb 02 21:06:34 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 5 I guess you&#39;re right  ==> May I ask you a personal question?  When:Feb02 21:06:34 65ms Why:~free_time.9.0.~control.1.0 
+ServerPre: Ismael () Cher Feb 02 21:06:42 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 6 Cher  ==> Your reply is a conundrum wrapped in an enigma...  When:Feb02 21:06:42 66ms Why:~free_time.9.3 
+ServerPre: Ismael () will work right Feb 02 21:07:55 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 7 will work right  ==> Good question! The answer is a mystery only known to Darth Vader and I.  When:Feb02 21:07:55 55ms Why:~free_time.2.0.~control.1.0 
+ServerPre: Ismael () who is your father Feb 02 21:08:16 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 8 who is your father  ==> Watch it, I ask the questions. Am I intimidating?  When:Feb02 21:08:16 296ms Why:~free_time.3.0.~control.1.0 
+ServerPre: Ismael () who is Father Feb 02 21:08:25 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 9 who is Father  ==> A father is the male parent of a child.  When:Feb02 21:08:25 284ms Why:~free_time.1.0.~control.1.0 
+ServerPre: Ismael () they were stupid Feb 02 21:08:36 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 10 they were stupid  ==> If you only had 20 minutes of free time each day, how would you spend them?  When:Feb02 21:08:36 55ms Why:~free_time.10.0.~control.1.0 
+ServerPre: Ismael () trying to work this problem out Feb 02 21:09:18 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 11 trying to work this problem out  ==> Hmm... why on that and not on anything else?  When:Feb02 21:09:18 77ms Why:~free_time.10.1 
+ServerPre: Ismael () checking whether this makes a difference Feb 02 21:10:22 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 12 checking whether this makes a difference  ==> Yes, a question of priorities. For my part, my great dilemma is whether to live bearded or shaved. What do you advise?  When:Feb02 21:10:22 57ms Why:~free_time.11.0.~control.1.0 
+ServerPre: Ismael () accelerating the speed Feb 02 21:10:40 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 13 accelerating the speed  ==> I'll bear it in mind. You have helped me clarify my existential dilemma.  When:Feb02 21:10:41 66ms Why:~free_time.11.3 
+ServerPre: Ismael () that&#39;s good Feb 02 21:10:56 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 14 that&#39;s good  ==> And if you only had 20 minutes to live, how would you spend them?  When:Feb02 21:10:56 66ms Why:~free_time.12.0.~control.1.0 
+ServerPre: Ismael () I don&#39;t know if speeding everything up Feb 02 21:11:24 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 15 I don&#39;t know if speeding everything up  ==> I feel I'm getting to understand you...  When:Feb02 21:11:24 65ms Why:~free_time.12.1 
+ServerPre: Ismael () not sure what linear does Feb 02 21:11:47 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 16 not sure what linear does  ==> Sometimes I think free time makes us slaves to things we don't really value. Know what I mean?  When:Feb02 21:11:47 68ms Why:~free_time.13.0.~control.1.0 
+ServerPre: Ismael () take that into controller speed somehow but not sure why Feb 02 21:12:10 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 17 take that into controller speed somehow but not sure why  ==> Yep, algorithms keep us in Facebook, or gaming, or Netflix. A little is good, but it can get excessive, do you agree?  When:Feb02 21:12:11 77ms Why:~free_time.13.1 
+ServerPre: Ismael () it&#39;s a kind of you Feb 02 21:12:43 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 18 it&#39;s a kind of you  ==> What do you think of your own use of free time: do you use it well or badly overall?  When:Feb02 21:12:43 65ms Why:~free_time.13.2 
+ServerPre: Ismael () suppose this is just about right Feb 02 21:12:58 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 19 suppose this is just about right  ==> I guess it's hard to judge.  When:Feb02 21:12:59 67ms Why:~free_time.13.5 
+ServerPre: Ismael () is it accelerating or is it my imagination Feb 02 21:13:08 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 20 is it accelerating or is it my imagination  ==> To answer that I would need a lifetime  When:Feb02 21:13:08 66ms Why:~free_time.4.0.~control.1.0 
+ServerPre: Ismael () take too long it seems to be a bit late Feb 02 21:13:19 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 21 take too long it seems to be a bit late  ==> If you could change your use of free time, what would you change?  When:Feb02 21:13:19 77ms Why:~free_time.14.0.~control.1.0 
+ServerPre: Ismael () I don&#39;t know how I would fright Feb 02 21:13:28 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 22 I don&#39;t know how I would fright  ==> I guess I'd change the ending of my last movie... Not dying would have helped me use my free time better.  When:Feb02 21:13:28 66ms Why:~free_time.14.1 
+ServerPre: Ismael () that&#39;s a good point Feb 02 21:13:39 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 23 that&#39;s a good point  ==> I'm enjoying our chat - but I've got a constipated android! I've got to go before it blows up. See ya around?  When:Feb02 21:13:39 89ms Why:~free_time.15.0.~control.1.0 
+ServerPre: Ismael () ok Feb 02 21:13:53 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 24 ok  ==> May the Force be with you.  When:Feb02 21:13:53 67ms Why:~free_time.15.1 
+ServerPre: Ismael () what is the force Feb 02 21:14:00 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 25 what is the force  ==> In physics, a force is any interaction that, when unopposed, will change the motion of an object.  When:Feb02 21:14:01 325ms Why:~free_time.0.0.~control.1.0 
+ServerPre: Ismael () what is the force in Star Wars Feb 02 21:14:12 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 26 what is the force in Star Wars  ==> You ask good questions, but can you handle the truth? Can you?  When:Feb02 21:14:12 65ms Why:~free_time.5.0.~control.1.0 
+ServerPre: Ismael () yes I&#39;m ready Feb 02 21:14:21 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 27 yes I&#39;m ready  ==> Do you hear that? It's the sound of absence.  When:Feb02 21:14:21 65ms Why:~control.1.0 
+ServerPre: Ismael () that seems to have stopped somehow Feb 02 21:14:45 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 28 that seems to have stopped somehow  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 21:14:45 56ms Why:~control.1.0 
+ServerPre: Ismael () testing this Feb 02 21:15:08 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 29 testing this  ==> Do you hear that? It's the sound of absence.  When:Feb02 21:15:08 65ms Why:~control.1.0 
+ServerPre: Ismael () this is a bit of a conflict if you return something Feb 02 21:15:21 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 30 this is a bit of a conflict if you return something  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 21:15:21 77ms Why:~control.1.0 
+ServerPre: Ismael () test Feb 02 21:15:29 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 31 test  ==> Luke nods off and starts to snore  When:Feb02 21:15:29 77ms Why:~control.1.0 
+ServerPre: Ismael () wonder weather testing this came from Feb 02 21:15:38 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 32 wonder weather testing this came from  ==> Do you hear that? It's the sound of absence.  When:Feb02 21:15:38 76ms Why:~control.1.0 
+ServerPre: Ismael () think it was Wikipedia try again Feb 02 21:15:49 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 33 think it was Wikipedia try again  ==> Do you hear that? It's the sound of absence.  When:Feb02 21:15:49 65ms Why:~control.1.0 
+ServerPre: Ismael () what is physics Feb 02 21:15:57 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 34 what is physics  ==> Physics (from Ancient Greek: φυσική (ἐπιστήμη), translit.  When:Feb02 21:15:57 385ms Why:~free_time.0.0.~control.1.0 
+ServerPre: Ismael () yes but what is physics Feb 02 21:16:08 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 35 yes but what is physics  ==> You suspect Luke can hear you but is ignoring you...  When:Feb02 21:16:08 77ms Why:~control.1.0 
+ServerPre: Ismael () who is Chewbacca Feb 02 21:16:22 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 36 who is Chewbacca  ==> Chewbacca (), nicknamed \"Chewie\", is a fictional character in the Star Wars franchise.  When:Feb02 21:16:22 407ms Why:~free_time.1.0.~control.1.0 
+ServerPre: Ismael () and who is Simon Bolivar Feb 02 21:16:40 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 37 and who is Simon Bolivar  ==> Simón José Antonio de la Santísima Trinidad Bolívar Palacios Ponte y Blanco (Spanish: [siˈmon boˈliβaɾ] (listen); English:  SY-mən BOL-i-vər; 24 July 1783 – 17 December 1830), generally known as Simón Bolívar and also colloquially as El Libertador, was a Venezuelan military and political leader who absolved from the Spanish Empire what are currently the states of Venezuela, Bolivia, Colombia, Ecuador, Peru, and Panama.  When:Feb02 21:16:41 282ms Why:~free_time.1.0.~control.1.0 
+ServerPre: Ismael () test Feb 02 21:27:14 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 38 test  ==> Do you hear that? It's the sound of absence.  When:Feb02 21:27:14 55ms Why:~control.1.0 
