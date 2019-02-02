@@ -1,0 +1,33 @@
+USERS/topic_ismael_harry.txt
+jul2116 Feb02'19-15:02:50 Feb02'19-17:52:15 0 |
+1 4 ~free_time Rmn Nb=3WIs*Ok3  DY 0 3 3 0 # start, input#, rejoindertopic,rejoinderid (b:  ( ) I have a special question for you: what do you do in your free time? ),checksum
+~free_time #pending
+~free_time + 2 Nb=3WIs*Ok3 acaa 4 0 0 
+#`end topics
+$shutup=1
+$singleresponse=1
+$botprompt=HARRY: 
+$userprompt=ismael: >
+$cs_control_main=~control
+$cs_token=75726583
+$cs_login=Ismael
+$cs_bot=Harry
+$cs_randindex=32
+$cs_trace=0
+$cs_time=0
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ Hello
+ I don't want to talk
+ hello
+ yes
+#`end user
+ Welcome to ChatScript.
+ Have you been here before?
+ Did you run away from home when you were little?
+ Hello ismael, I'm Luke Skywalker, have you come talk to me?
+ Well I bid you welcome!
+#`end chatbot

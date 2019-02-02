@@ -1,0 +1,24 @@
+﻿USERS/topic_ismael_luke.txt
+jul2116 Feb02'19-15:42:12 0 0 |
+1 0 ~free_time %Mb Nb=3WIs*Ok3  DY 0 3 3 0 # start, input#, rejoindertopic,rejoinderid (a:  ( ) Well I bid you welcome! ),checksum
+~free_time #pending
+~free_time + 2 Nb=3WIs*Ok3 acaa 0 0 0 
+#`end topics
+$singleresponse=1
+$botprompt=Luke: 
+$userprompt=ismael: >
+$cs_control_main=~control
+$cs_token=67337983
+$cs_login=ismael
+$cs_bot=Luke
+$cs_randindex=32
+$cs_trace=0
+$cs_time=0
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+#`end user
+ Hello ismael, I'm Luke Skywalker, have you come talk to me?
+#`end chatbot

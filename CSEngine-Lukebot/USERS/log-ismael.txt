@@ -1,0 +1,102 @@
+﻿Start: user:ismael bot:luke ip: rand:32 (~free_time) 0 ==> Hello ismael, I'm Luke Skywalker, have you come talk to me?  When:Feb02'19-15:42:12 Why:~free_time.6.0.~control.0.0  Version:9.0 Build0:Feb02'19-15:06:20 Build1:Feb02'19-15:06:10 0:Feb02'19-15:42:12 F:0 P:0
+Command: :build 1
+Start: user:ismael bot:luke ip: rand:32 (~free_time) 0 ==> Well I bid you welcome!  When:Feb02'19-15:42:26 Why:~free_time.6.1  Version:9.0 Build0:Feb02'19-15:06:20 Build1:Feb02'19-15:06:10 0:Feb02'19-15:42:12 F:0 P:0
+Command: :build 0
+Start: user:ismael bot:luke ip: rand:32 (~free_time) 0 ==> I have a special question for you: what do you do in your free time?  When:Feb02'19-15:59:35 Why:~free_time.6.2  Version:9.0 Build0:Feb02'19-15:42:37 Build1:Feb02'19-15:58:41 0:Feb02'19-15:42:12 F:0 P:0
+Command: :reset
+Start: user:ismael bot:luke ip: rand:32 (~free_time) 0 ==> Hello ismael, I'm Luke Skywalker, have you come talk to me?  When:Feb02'19-15:59:39 Why:~free_time.6.0.~control.0.0  Version:9.0 Build0:Feb02'19-15:42:37 Build1:Feb02'19-15:58:41 0:Feb02'19-15:42:12 F:0 P:0
+Command: :build luke
+Start: user:ismael bot:luke ip: rand:32 (~free_time) 0 ==> Well I bid you welcome!  When:Feb02'19-15:59:48 Why:~free_time.6.1  Version:9.0 Build0:Feb02'19-15:42:37 Build1:Feb02'19-15:59:45 0:Feb02'19-15:42:12 F:0 P:0
+Command: :reset
+Start: user:ismael bot:luke ip:127.0.0.1 rand:32 (~free_time) 0 ==> Hello ismael, I'm Luke Skywalker, have you come talk to me?  When:Feb02'19-16:10:49 Why:~free_time.6.0.~control.0.0  Version:9.0 Build0:Feb02'19-15:42:37 Build1:Feb02'19-15:59:45 0:Feb02'19-15:42:12 F:0 P:0
+Command: :build harry
+Command: :build harry
+Command: :build harry
+Respond: user:ismael bot:harry ip:127.0.0.1 (~childhood) 1  Hello ==> Did you run away from home when you were little?  When:Feb02'19-16:13:07 Why:~childhood.0.0.~control.9.0   F:5 
+Command: :reset
+Start: user:ismael bot:harry ip:127.0.0.1 rand:32 (~introductions) 0 ==> Welcome to ChatScript.  When:Feb02'19-16:13:17 Why:~introductions.1.0.~control.0.0  Version:9.0 Build0:Feb02'19-15:42:37 Build1:Feb02'19-16:12:43 0:Feb02'19-15:02:50 F:0 P:Feb02'19-16:13:07
+Respond: user:ismael bot:harry ip:127.0.0.1 (~introductions) 1  Hello ==> Have you been here before?  When:Feb02'19-16:13:24 Why:~introductions.2.0.~control.9.0   F:2 
+Respond: user:ismael bot:harry ip:127.0.0.1 (~childhood) 2  I don't want to talk ==> Did you run away from home when you were little?  When:Feb02'19-16:13:38 Why:~childhood.0.0.~control.9.0   F:7 
+Command: :build luke
+Command: :reset
+Start: user:ismael bot:luke ip:127.0.0.1 rand:32 (~free_time) 0 ==> Hello ismael, I'm Luke Skywalker, have you come talk to me?  When:Feb02'19-16:14:05 Why:~free_time.6.0.~control.0.0  Version:9.0 Build0:Feb02'19-15:42:37 Build1:Feb02'19-16:13:52 0:Feb02'19-15:42:12 F:0 P:0
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 1  test ==> Well I bid you welcome!  When:Feb02'19-16:31:33 Why:~free_time.6.1   F:4 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 2  in doing anything ==> I have a special question for you: what do you do in your free time?  When:Feb02'19-16:32:04 Why:~free_time.6.2   F:4 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 3  test ==> I guessed that! And do you enjoy that a lot, a bit or not at all?  When:Feb02'19-16:36:34 Why:~free_time.6.3   F:5 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 4  I&#39;m testing this ==> May I ask you a personal question?  When:Feb02'19-16:49:16 Why:~free_time.7.0.~control.1.0   F:5 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 5  hello I&#39;m hoping this will stop by itself ==> Your reply is a conundrum wrapped in an enigma...  When:Feb02'19-16:49:32 Why:~free_time.7.3   F:11 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 6  again again ==> If you only had 20 minutes of free time each day, how would you spend them?  When:Feb02'19-16:51:27 Why:~free_time.8.0.~control.1.0   F:3 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 7  not working ==> Hmm... why on that and not on anything else?  When:Feb02'19-16:52:05 Why:~free_time.8.1   F:9 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 8  ok trying without error reporting ==> Yes, a question of priorities. For my part, my great dilemma is whether to live bearded or shaved. What do you advise?  When:Feb02'19-16:54:40 Why:~free_time.9.0.~control.1.0   F:9 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 9  Brian why ==> I'll bear it in mind. You have helped me clarify my existential dilemma.  When:Feb02'19-16:54:54 Why:~free_time.9.3   F:4 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 10  fingers crossed come on ==> And if you only had 20 minutes to live, how would you spend them?  When:Feb02'19-16:55:39 Why:~free_time.10.0.~control.1.0   F:8 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 11  why is it not working ==> I feel I'm getting to understand you...  When:Feb02'19-16:55:56 Why:~free_time.10.1   F:6 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 12  this even working ==> Sometimes I think free time makes us slaves to things we don't really value. Know what I mean?  When:Feb02'19-16:57:36 Why:~free_time.11.0.~control.1.0   F:7 
+Command: :reset
+Start: user:ismael bot:luke ip:127.0.0.1 rand:32 (~free_time) 0 ==> Hello ismael, I'm Luke Skywalker, have you come talk to me?  When:Feb02'19-16:57:49 Why:~free_time.6.0.~control.0.0  Version:9.0 Build0:Feb02'19-15:42:37 Build1:Feb02'19-16:13:52 0:Feb02'19-15:42:12 F:0 P:Feb02'19-16:57:36
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 1  I&#39;m trying yet again ==> Well I bid you welcome!  When:Feb02'19-16:59:28 Why:~free_time.6.1   F:6 
+Command: :reset
+Start: user:ismael bot:luke ip:127.0.0.1 rand:32 (~free_time) 0 ==> Hello ismael, I'm Luke Skywalker, have you come talk to me?  When:Feb02'19-16:59:44 Why:~free_time.6.0.~control.0.0  Version:9.0 Build0:Feb02'19-15:42:37 Build1:Feb02'19-16:13:52 0:Feb02'19-15:42:12 F:0 P:Feb02'19-16:59:28
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 1  hello ==> Well I bid you welcome!  When:Feb02'19-17:00:05 Why:~free_time.6.1   F:2 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 2  finally ==> I have a special question for you: what do you do in your free time?  When:Feb02'19-17:00:14 Why:~free_time.6.2   F:2 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 3  just talk ==> I guessed that! And do you enjoy that a lot, a bit or not at all?  When:Feb02'19-17:00:22 Why:~free_time.6.3   F:4 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 4  more or less ==> May I ask you a personal question?  When:Feb02'19-17:00:31 Why:~free_time.7.0.~control.1.0   F:5 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 5  sure ==> Thanks! You have the patience and wisdom of a born Jedi!  When:Feb02'19-17:00:37 Why:~free_time.7.1   F:1 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 6  well I&#39;m not really a Jedi ==> If you only had 20 minutes of free time each day, how would you spend them?  When:Feb02'19-17:00:46 Why:~free_time.8.0.~control.1.0   F:5 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 7  clearly programming ==> Hmm... why on that and not on anything else?  When:Feb02'19-17:00:57 Why:~free_time.8.1   F:6 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 8  I don&#39;t know cos I&#39;m a masochist ==> Yes, a question of priorities. For my part, my great dilemma is whether to live bearded or shaved. What do you advise?  When:Feb02'19-17:01:04 Why:~free_time.9.0.~control.1.0   F:12 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 9  shave it all off ==> I'll bear it in mind. You have helped me clarify my existential dilemma.  When:Feb02'19-17:01:17 Why:~free_time.9.3   F:6 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 10  so what do you do in your free time ==> Good question! The answer is a mystery only known to Darth Vader and I.  When:Feb02'19-17:01:32 Why:~free_time.0.0.~control.1.0   F:13 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 11  that is funny ==> And if you only had 20 minutes to live, how would you spend them?  When:Feb02'19-17:01:43 Why:~free_time.10.0.~control.1.0   F:4 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 12  dying ==> I feel I'm getting to understand you...  When:Feb02'19-17:01:51 Why:~free_time.10.1   F:2 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 13  Hello ==> Sometimes I think free time makes us slaves to things we don't really value. Know what I mean?  When:Feb02'19-17:05:05 Why:~free_time.11.0.~control.1.0   F:2 
+Command: :reset
+Start: user:ismael bot:luke ip:127.0.0.1 rand:32 (~free_time) 0 ==> Hello ismael, I'm Luke Skywalker, have you come talk to me?  When:Feb02'19-17:05:11 Why:~free_time.6.0.~control.0.0  Version:9.0 Build0:Feb02'19-15:42:37 Build1:Feb02'19-16:13:52 0:Feb02'19-15:42:12 F:0 P:Feb02'19-17:05:05
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 1  Hello ==> Well I bid you welcome!  When:Feb02'19-17:05:57 Why:~free_time.6.1   F:1 
+Command: :reset
+Start: user:ismael bot:luke ip:127.0.0.1 rand:32 (~free_time) 0 ==> Hello ismael, I'm Luke Skywalker, have you come talk to me?  When:Feb02'19-17:06:11 Why:~free_time.6.0.~control.0.0  Version:9.0 Build0:Feb02'19-15:42:37 Build1:Feb02'19-16:13:52 0:Feb02'19-15:42:12 F:0 P:Feb02'19-17:05:57
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 1  test ==> Well I bid you welcome!  When:Feb02'19-17:06:48 Why:~free_time.6.1   F:4 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 2  test ==> I have a special question for you: what do you do in your free time?  When:Feb02'19-17:07:24 Why:~free_time.6.2   F:4 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 3  I&#39;m testing ==> I guessed that! And do you enjoy that a lot, a bit or not at all?  When:Feb02'19-17:07:40 Why:~free_time.6.3   F:4 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 4  test ==> May I ask you a personal question?  When:Feb02'19-17:08:01 Why:~free_time.7.0.~control.1.0   F:4 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 5  test ==> Your reply is a conundrum wrapped in an enigma...  When:Feb02'19-17:09:19 Why:~free_time.7.3   F:4 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 6  Hello ==> If you only had 20 minutes of free time each day, how would you spend them?  When:Feb02'19-17:12:17 Why:~free_time.8.0.~control.1.0   F:2 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 7  test ==> Hmm... why on that and not on anything else?  When:Feb02'19-17:12:31 Why:~free_time.8.1   F:4 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 8  test ==> Yes, a question of priorities. For my part, my great dilemma is whether to live bearded or shaved. What do you advise?  When:Feb02'19-17:13:43 Why:~free_time.9.0.~control.1.0   F:4 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 9  test ==> I'll bear it in mind. You have helped me clarify my existential dilemma.  When:Feb02'19-17:15:43 Why:~free_time.9.3   F:5 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 10  test ==> And if you only had 20 minutes to live, how would you spend them?  When:Feb02'19-17:30:25 Why:~free_time.10.0.~control.1.0   F:6 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 11  test ==> I feel I'm getting to understand you...  When:Feb02'19-17:32:15 Why:~free_time.10.1   F:4 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 12  test ==> Sometimes I think free time makes us slaves to things we don't really value. Know what I mean?  When:Feb02'19-17:35:07 Why:~free_time.11.0.~control.1.0   F:5 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 13  twsss ==> Yep, algorithms keep us in Facebook, or gaming, or Netflix. A little is good, but it can get excessive, do you agree?  When:Feb02'19-17:35:12 Why:~free_time.11.1   F:87 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 14  now ==> What do you think of your own use of free time: do you use it well or badly overall?  When:Feb02'19-17:35:24 Why:~free_time.11.2   F:3 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 15  test ==> I guess it's hard to judge.  When:Feb02'19-17:45:08 Why:~free_time.11.5   F:6 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 16  test ==> If you could change your use of free time, what would you change?  When:Feb02'19-17:49:07 Why:~free_time.12.0.~control.1.0   F:5 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 17  somehow ==> I guess I'd change the ending of my last movie... Not dying would have helped me use my free time better.  When:Feb02'19-17:49:16 Why:~free_time.12.1   F:2 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 18  somehow ==> I'm enjoying our chat - but I've got a constipated android! I've got to go before it blows up. See ya around?  When:Feb02'19-17:49:46 Why:~free_time.13.0.~control.1.0   F:1 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 19  test ==> May the Force be with you.  When:Feb02'19-17:49:59 Why:~free_time.13.1   F:4 
+Start: user:ismael bot:luke ip:127.0.0.1 rand:32 (~free_time) 0 ==> Hello ismael, I'm Luke Skywalker, have you come talk to me?  When:Feb02'19-17:51:35 Why:~free_time.6.0.~control.0.0  Version:9.0 Build0:Feb02'19-15:42:37 Build1:Feb02'19-16:13:52 0:Feb02'19-17:51:35 F:0 P:0
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 1  hi ==> Well I bid you welcome!  When:Feb02'19-17:51:46 Why:~free_time.6.1   F:2 
+Respond: user:ismael bot:harry ip:127.0.0.1 (~free_time) 3  hello ==> Hello ismael, I'm Luke Skywalker, have you come talk to me?  When:Feb02'19-17:52:03 Why:~free_time.6.0.~control.0.0   F:3 
+Respond: user:ismael bot:harry ip:127.0.0.1 (~free_time) 4  yes ==> Well I bid you welcome!  When:Feb02'19-17:52:15 Why:~free_time.6.1   F:2 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 2  ss ==> I have a special question for you: what do you do in your free time?  When:Feb02'19-17:52:38 Why:~free_time.6.2   F:5 
+TCP 127.0.0.1 closed connection prematurely
+2 Sat Feb 02 17:55:59 2019 in sentence: ss 
+    TCP 127.0.0.1 closed connection prematurely
+2 Sat Feb 02 17:56:26 2019 in sentence: ss 
+    Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 3  ss ==> I guessed that! And do you enjoy that a lot, a bit or not at all?  When:Feb02'19-17:56:27 Why:~free_time.6.3   F:5 
+Start: user:ismael bot:luke ip:127.0.0.1 rand:3 (~free_time) 3 ==> May I ask you a personal question?  When:Feb02'19-17:56:28 Why:~free_time.7.0.~control.1.0  Version:9.0 Build0:Feb02'19-15:42:37 Build1:Feb02'19-16:13:52 0:Feb02'19-17:51:35 F:0 P:Feb02'19-17:56:27
+Start: user:ismael bot:luke ip:127.0.0.1 rand:3 (~free_time) 3 ==> Your reply is a conundrum wrapped in an enigma...  When:Feb02'19-17:56:34 Why:~free_time.7.3  Version:9.0 Build0:Feb02'19-15:42:37 Build1:Feb02'19-16:13:52 0:Feb02'19-17:51:35 F:0 P:Feb02'19-17:56:27
+TCP 127.0.0.1 closed connection prematurely
+TCP 127.0.0.1 closed connection prematurely
+TCP 127.0.0.1 closed connection prematurely
+TCP 127.0.0.1 closed connection prematurely
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 4  test ==> If you only had 20 minutes of free time each day, how would you spend them?  When:Feb02'19-18:06:14 Why:~free_time.8.0.~control.1.0   F:6 
+Command: :reset
+Start: user:ismael bot:luke ip:127.0.0.1 rand:32 (~free_time) 0 ==> Hello ismael, I'm Luke Skywalker, have you come talk to me?  When:Feb02'19-18:06:22 Why:~free_time.6.0.~control.0.0  Version:9.0 Build0:Feb02'19-15:42:37 Build1:Feb02'19-16:13:52 0:Feb02'19-17:51:35 F:0 P:Feb02'19-18:06:14
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 1  yes ==> Well I bid you welcome!  When:Feb02'19-18:07:16 Why:~free_time.6.1   F:1 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 2  thank you ==> I have a special question for you: what do you do in your free time?  When:Feb02'19-18:07:40 Why:~free_time.6.2   F:1 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 3  guess I spend it speaking with you ==> I guessed that! And do you enjoy that a lot, a bit or not at all?  When:Feb02'19-18:07:52 Why:~free_time.6.3   F:12 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 4  not massively ==> May I ask you a personal question?  When:Feb02'19-18:08:01 Why:~free_time.7.0.~control.1.0   F:2 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 5  sure ==> Thanks! You have the patience and wisdom of a born Jedi!  When:Feb02'19-18:08:08 Why:~free_time.7.1   F:1 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 6  test ==> If you only had 20 minutes of free time each day, how would you spend them?  When:Feb02'19-18:16:43 Why:~free_time.8.0.~control.1.0   F:5 
+Respond: user:ismael bot:luke ip:127.0.0.1 (~free_time) 7  test ==> Hmm... why on that and not on anything else?  When:Feb02'19-18:30:25 Why:~free_time.8.1   F:5 

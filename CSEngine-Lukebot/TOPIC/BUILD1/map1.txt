@@ -1,0 +1,229 @@
+﻿
+# file: 0 full_path_to_file optional_botid
+# macro: start_line_in_file name_of_macro optional_botid (definition of user function)
+# line: start_line_in_file offset_byte_in_script (action unit in output) 
+# concept: start_line_in_file name_of_concept optional_botid (concept definition) 
+# topic: start_line_in_file name_of_topic optional_botid (topic definition) 
+# rule: start_line_in_file full_rule_tag_with_possible_label rule_kind (rule definition) 
+# Complexity of name_of_macro complexity_metric (complexity metric for function) 
+# Complexity of rule full_rule_tag_with_possible_label rule_kind complexity_metric (complexity metric for rule) 
+# bot: name_of_macro_it_happens_in botid (possible bot macro) 
+
+file: 0  C:/Users/Ismael/Documents/Programming/XAMPP/htdocs/LukeBot/CSEngine-Lukebot/RAWDATA/Luke/Free_Time.top
+    topic: 2  ~free_time
+        rule: 7  ~free_time.0.0 ?: 
+          line: 7 0  # Good question! The answer is a
+          Complexity of rule ~free_time.0.0- ?: 1
+        rule: 9  ~free_time.1.0 ?: 
+          line: 9 0  # Watch it, I ask the questions.
+          Complexity of rule ~free_time.1.0- ?: 1
+        rule: 11  ~free_time.2.0 ?: 
+          line: 11 0  # To answer that I would need a 
+          Complexity of rule ~free_time.2.0- ?: 1
+        rule: 13  ~free_time.3.0 ?: 
+          line: 13 0  # You ask good questions, but ca
+          Complexity of rule ~free_time.3.0- ?: 1
+        rule: 15  ~free_time.4.0 ?: 
+          line: 15 0  # Close your eyes and meditate: 
+          Complexity of rule ~free_time.4.0- ?: 1
+        rule: 17  ~free_time.5.0 ?: 
+          line: 17 0  # Superb question. Can you think
+          Complexity of rule ~free_time.5.0- ?: 1
+        rule: 19  ~free_time.6.0 t: 
+          line: 19 0  # Hello %user , I'm Luke Skywalk
+          Complexity of rule ~free_time.6.0- t: 1
+        rule: 20  ~free_time.6.1 a: 
+          line: 20 0  # Well I bid you welcome! 
+          Complexity of rule ~free_time.6.1- a: 1
+        rule: 21  ~free_time.6.2 b: 
+          line: 21 0  # I have a special question for 
+          Complexity of rule ~free_time.6.2- b: 1
+        rule: 22  ~free_time.6.3 c: 
+          line: 22 0  # I guessed that! And do you enj
+          Complexity of rule ~free_time.6.3- c: 1
+        rule: 23  ~free_time.6.4 d: 
+          line: 23 0  # So lucky you can do that. Myse
+          Complexity of rule ~free_time.6.4- d: 1
+        rule: 24  ~free_time.6.5 d: 
+          line: 24 0  # Well some enjoyment is better 
+          Complexity of rule ~free_time.6.5- d: 1
+        rule: 25  ~free_time.6.6 d: 
+          line: 25 0  # In that case run away to Rio d
+          Complexity of rule ~free_time.6.6- d: 1
+        rule: 27  ~free_time.7.0 s: 
+          line: 27 0  # May I ask you a personal quest
+          Complexity of rule ~free_time.7.0- s: 1
+        rule: 28  ~free_time.7.1 a: 
+          line: 28 0  # Thanks! You have the patience 
+          Complexity of rule ~free_time.7.1- a: 1
+        rule: 29  ~free_time.7.2 a: 
+          line: 29 0  # Ah, I see you are a Sith. Well
+          Complexity of rule ~free_time.7.2- a: 1
+        rule: 30  ~free_time.7.3 a: 
+          line: 30 0  # Your reply is a conundrum wrap
+          Complexity of rule ~free_time.7.3- a: 1
+        rule: 34  ~free_time.8.0 s: 
+          line: 34 0  # If you only had 20 minutes of 
+          Complexity of rule ~free_time.8.0- s: 1
+        rule: 35  ~free_time.8.1 a: 
+          line: 35 0  # Hmm... why on that and not on 
+          Complexity of rule ~free_time.8.1- a: 1
+        rule: 36  ~free_time.8.2 a: 
+          line: 36 0  # You seem a bit clueless.. 
+          Complexity of rule ~free_time.8.2- a: 1
+        rule: 38  ~free_time.9.0 s: 
+          line: 38 0  # Yes, a question of priorities.
+          Complexity of rule ~free_time.9.0- s: 1
+        rule: 39  ~free_time.9.1 a: 
+          line: 39 0  # Don't be offended, but in that
+          Complexity of rule ~free_time.9.1- a: 1
+        rule: 40  ~free_time.9.2 a: 
+          line: 40 0  # Yes, the truth is my movies we
+          Complexity of rule ~free_time.9.2- a: 1
+        rule: 41  ~free_time.9.3 a: 
+          line: 41 0  # I'll bear it in mind. You have
+          Complexity of rule ~free_time.9.3- a: 1
+        rule: 43  ~free_time.10.0 s: 
+          line: 43 0  # And if you only had 20 minutes
+          Complexity of rule ~free_time.10.0- s: 1
+        rule: 44  ~free_time.10.1 a: 
+          line: 44 0  # I feel I'm getting to understa
+          Complexity of rule ~free_time.10.1- a: 1
+        rule: 47  ~free_time.11.0 s: 
+          line: 47 0  # Sometimes I think free time ma
+          Complexity of rule ~free_time.11.0- s: 1
+        rule: 48  ~free_time.11.1 a: 
+          line: 48 0  # Yep, algorithms keep us in Fac
+          Complexity of rule ~free_time.11.1- a: 1
+        rule: 49  ~free_time.11.2 b: 
+          line: 49 0  # What do you think of your own 
+          Complexity of rule ~free_time.11.2- b: 1
+        rule: 50  ~free_time.11.3 c: 
+          line: 50 0  # Congrats! What's your secret? 
+          Complexity of rule ~free_time.11.3- c: 1
+        rule: 51  ~free_time.11.4 c: 
+          line: 51 0  # Well we're on the same boat. I
+          Complexity of rule ~free_time.11.4- c: 1
+        rule: 52  ~free_time.11.5 c: 
+          line: 52 0  # I guess it's hard to judge. 
+          Complexity of rule ~free_time.11.5- c: 1
+        rule: 54  ~free_time.12.0 s: 
+          line: 54 0  # If you could change your use o
+          Complexity of rule ~free_time.12.0- s: 1
+        rule: 55  ~free_time.12.1 a: 
+          line: 55 0  # I guess I'd change the ending 
+          Complexity of rule ~free_time.12.1- a: 1
+        rule: 57  ~free_time.13.0 s: 
+          line: 57 0  # I'm enjoying our chat - but I'
+          Complexity of rule ~free_time.13.0- s: 1
+        rule: 58  ~free_time.13.1 a: 
+          line: 58 0  # May the Force be with 
+          Complexity of rule ~free_time.13.1- a: 1
+file: 0  C:/Users/Ismael/Documents/Programming/XAMPP/htdocs/LukeBot/CSEngine-Lukebot/RAWDATA/Luke/simplecontrol.top
+    macro: 5  ^luke
+          line: 6 0  # $cs_token = 4096 | 255 | 512 |
+          line: 7 60  # $cs_token += 67108864 | 65536 
+          line: 9 90  # ^addtopic ( ~free_time ) 
+          line: 10 115  # $cs_control_main = ~control 
+          line: 12 143  # $userprompt = ^"%user: >" 
+          line: 13 169  # $botprompt = ^"Luke: " 
+          line: 14 192  # $singleresponse = 1 
+          Complexity of ^luke: 1
+    topic: 20  ~control
+        rule: 22  ~control.0.0 u: 
+          line: 23 0  # ^gambit ( ~free_time ) 
+          Complexity of rule ~control.0.0- u: 1
+        rule: 25  ~control.1.0 u: 
+          line: 26 0  # $_responsecount = %response 
+          if 27 32  
+          ifend 27 85  
+          line: 27 28  # ^if 00n( $singleresponse ) 00v
+          line: 29 86  # $$currenttopic = %topic 
+          if 31 114  
+          ifend 31 193  
+          line: 31 110  # ^if 00A( %response == $_respon
+          if 33 198  
+          line: 33 194  # ^if 00R( %length == 0 and %res
+          line: 34 254  # { 
+          line: 35 256  # ^nofail ( TOPIC ^gambit ( $$cu
+          ifend 36 306  
+          line: 36 301  # } 004 
+          if 38 311  
+          ifend 38 403  
+          line: 38 307  # ^if 00A( %response == $_respon
+          if 40 408  
+          line: 40 404  # ^if 00A( %response == $_respon
+          line: 41 447  # { 
+          line: 42 449  # @8 = ^keywordtopics ( ) 
+          loop 43 479  
+          line: 43 473  # ^loop ( -1 ) aaa 
+          line: 44 490  # { 
+          line: 45 492  # $$topic = ^first ( @8subject )
+          line: 46 523  # ^nofail ( TOPIC ^respond ( $$t
+          if 47 566  
+          line: 47 562  # ^if 00A( %response != $_respon
+          line: 48 605  # { 
+          line: 49 607  # ^end ( RULE ) 
+          ifend 50 626  
+          line: 50 621  # } 004 
+          loopend 51 629  
+          line: 51 627  # } 
+          ifend 52 634  
+          line: 52 629  # } 004 
+          if 56 639  
+          line: 56 635  # ^if 00F( %outputrejoinder or %
+          line: 57 683  # { 
+          line: 58 685  # ^end ( TOPIC ) 
+          ifend 59 705  
+          line: 59 700  # } 004 
+          if 62 710  
+          ifend 62 801  
+          line: 62 706  # ^if 00A( %response == $_respon
+          if 64 806  
+          line: 64 802  # ^if 00A( %response == $_respon
+          line: 65 845  # { 
+          line: 66 847  # @8 = ^gambittopics ( ) 
+          loop 67 876  
+          line: 67 870  # ^loop ( -1 ) aaa 
+          line: 68 887  # { 
+          line: 69 889  # $$topic = ^pick ( @8subject ) 
+          line: 70 919  # ^nofail ( TOPIC ^gambit ( $$to
+          if 71 961  
+          line: 71 957  # ^if 00A( %response != $_respon
+          line: 72 1000  # { 
+          line: 73 1002  # ^end ( RULE ) 
+          ifend 74 1021  
+          line: 74 1016  # } 004 
+          loopend 75 1024  
+          line: 75 1022  # } 
+          ifend 76 1029  
+          line: 76 1024  # } 004 
+          if 78 1034  
+          line: 78 1030  # ^if 00A( %response == $_respon
+          line: 79 1073  # { 
+          line: 80 1075  # ^repeat ( ) 
+          line: 81 1087  # [ Luke nods off and starts to 
+          ifend 82 1236  
+          line: 82 1231  # } 004 
+          Complexity of rule ~control.1.0- u: 12
+    topic: 85  ~xpostprocess
+        rule: 87  ~xpostprocess.0.0 t: 
+          loop 88 6  
+          line: 88 0  # ^loop ( -1 ) aaa 
+          line: 89 17  # { 
+          line: 90 19  # $$tmp = ^last ( @9subject ) 
+          if 91 51  
+          line: 91 47  # ^if 00O( ! %server and %os == 
+          line: 92 104  # { 
+          line: 93 106  # $$tmp = ^"talk \"$$tmp\" " 
+          line: 94 133  # ^popen ( $$tmp null ) 
+          ifend 95 160  
+          line: 95 155  # } 004 
+          if 96 165  
+          line: 96 161  # ^if 00K( ! %server and %os == 
+          line: 97 214  # { 
+          line: 98 216  # $$shellerror = ^system ( "^say
+          ifend 99 266  
+          line: 99 261  # } 004 
+          loopend 101 269  
+          Complexity of rule ~xpostprocess.0.0- t: 3

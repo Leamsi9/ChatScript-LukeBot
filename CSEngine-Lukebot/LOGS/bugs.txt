@@ -1,0 +1,58 @@
+﻿No such directory VERIFY/*
+
+MinReleaseStackGap 86MB MinHeapAvailable 87MB
+MaxBuffers used 5 of 80
+
+BUG in filesluke.txt at 0: ^:1 No such directory VERIFY/*
+
+MinReleaseStackGap 86MB MinHeapAvailable 87MB
+MaxBuffers used 2 of 80
+
+No such directory VERIFY/*
+
+MinReleaseStackGap 86MB MinHeapAvailable 87MB
+MaxBuffers used 5 of 80
+
+BUG in filesharry.txt at 0: #context  No such directory VERIFY/*
+
+MinReleaseStackGap 86MB MinHeapAvailable 87MB
+MaxBuffers used 5 of 80
+
+BUG in childhood.top at 6: t: Did you run away from home when you were little?  Error opening utf8writeappend file VERIFY/childhood-b1.txt: No such file or directory
+
+
+BUG: Sat Feb 02 17:55:59 2019: input:2 TCP 127.0.0.1 closed connection prematurely
+ caller:ismael callee:luke at  in sentence: ss
+TCP 127.0.0.1 closed connection prematurely
+
+MinReleaseStackGap 86MB MinHeapAvailable 87MB
+MaxBuffers used 5 of 80
+
+
+BUG: Sat Feb 02 17:56:26 2019: input:2 TCP 127.0.0.1 closed connection prematurely
+ caller:ismael callee:luke at  in sentence: ss
+TCP 127.0.0.1 closed connection prematurely
+
+MinReleaseStackGap 86MB MinHeapAvailable 87MB
+MaxBuffers used 5 of 80
+
+TCP 127.0.0.1 closed connection prematurely
+
+MinReleaseStackGap 86MB MinHeapAvailable 87MB
+MaxBuffers used 5 of 80
+
+TCP 127.0.0.1 closed connection prematurely
+
+MinReleaseStackGap 86MB MinHeapAvailable 87MB
+MaxBuffers used 5 of 80
+
+TCP 127.0.0.1 closed connection prematurely
+
+MinReleaseStackGap 86MB MinHeapAvailable 87MB
+MaxBuffers used 5 of 80
+
+TCP 127.0.0.1 closed connection prematurely
+
+MinReleaseStackGap 86MB MinHeapAvailable 87MB
+MaxBuffers used 5 of 80
+

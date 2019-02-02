@@ -1,0 +1,384 @@
+ï»¿System startup createsystem Sat Feb 02 15:01:34 2019
+Server ChatScript Release Version 9.0 pid: 0 32 bit Windows compiled Jan 12 2019 20:51:21 host=0.0.0.0
+Params:   dict:2097151 fact:800000 text:100000kb hash:215127 
+          buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000
+Build0:  dict=68690  fact=129725  heap=1156652 Compiled:Jan01'19-15:36:57 by version 8.8 "0"
+Build1:  dict=147  fact=15  heap=330828 Compiled:Jan21'19-08:36:56 by version 9.0 "harry"
+Used 56MB: dict 269,773 (21581kb) hashdepths 73879.68717.39421.19057.8417.3550.1345.493.165.64.16.1.2.1. words 269773 unusedbuckets 73879 fact 216,027 (10369kb) heap 13407kb
+           buffer (6400kb) cache (5000kb)
+Free 114MB: dict 1,827,377 fact 583,973 stack/heap 86,592KB 
+
+    *** Server WIDE OPEN to :command use.
+
+
+======== Began server 9.0 compiled Jan 12 2019 20:51:21 on host 0.0.0.0 port 1024 at Sat Feb 02 15:01:40 2019 serverlog:1 userlog: 1
+Server ready - logfile:LOGS/serverlog1024.txt serverLog:1 userLog:1
+
+ServerPre: ::1 () test Feb 02 15:02:15 2019
+Respond: user:::1 bot: ip:127.0.0.1 () 0 test  ==> No such bot.    When:Feb02 15:02:15 33ms ows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\PuTTY\;C:\Users\Ismael\Documents\Programming\XAMPP\php;C:\ProgramData\ComposerSetup\bin;C:\Æ
+System startup createsystem Sat Feb 02 15:58:16 2019
+Server ChatScript Release Version 9.0 pid: 0 32 bit Windows compiled Jan 12 2019 20:51:21 host=0.0.0.0
+Params:   dict:2097151 fact:800000 text:100000kb hash:215127 
+          buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000
+Build0:  dict=34854  fact=39620  heap=615360 Compiled:Feb02'19-15:42:37 by version 9.0 "0"
+Build1:  dict=10  fact=1  heap=126220 Compiled:Feb02'19-15:06:10 by version 9.0 "Luke"
+Used 48MB: dict 235,800 (18864kb) hashdepths 84993.68228.35243.15859.6669.2677.976.333.104.37.6.1.1.1. words 235800 unusedbuckets 84993 fact 125,908 (6043kb) heap 12661kb
+           buffer (6400kb) cache (5000kb)
+Free 119MB: dict 1,861,350 fact 674,092 stack/heap 87,338KB 
+
+    *** Server WIDE OPEN to :command use.
+
+
+======== Began server 9.0 compiled Jan 12 2019 20:51:21 on host 0.0.0.0 port 1024 at Sat Feb 02 15:58:19 2019 serverlog:1 userlog: 1
+Server ready - logfile:LOGS/serverlog1024.txt serverLog:1 userLog:1
+
+ServerPre: ::1 () test Feb 02 15:58:34 2019
+Respond: user:::1 bot: ip:127.0.0.1 () 0 test  ==> No such bot.    When:Feb02 15:58:34 34ms 
+ServerPre: ::1 () :build luke Feb 02 15:58:41 2019
+System startup luke Sat Feb 02 15:58:41 2019
+System startup createsystem Sat Feb 02 15:58:42 2019
+Server ChatScript Release Version 9.0 pid: 0 32 bit Windows compiled Jan 12 2019 20:51:21 host=0.0.0.0
+Params:   dict:2097151 fact:800000 text:100000kb hash:215127 
+          buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000
+Build0:  dict=34854  fact=39620  heap=615360 Compiled:Feb02'19-15:42:37 by version 9.0 "0"
+Build1:  dict=10  fact=1  heap=126220 Compiled:Feb02'19-15:58:41 by version 9.0 "luke"
+Used 48MB: dict 235,800 (18864kb) hashdepths 84993.68228.35243.15859.6669.2677.976.333.104.37.6.1.1.1. words 235800 unusedbuckets 84993 fact 125,908 (6043kb) heap 12661kb
+           buffer (6400kb) cache (5000kb)
+Free 119MB: dict 1,861,350 fact 674,092 stack/heap 87,338KB 
+
+    *** Server WIDE OPEN to :command use.
+Respond: user:::1 bot: ip:127.0.0.1 () 0 :build luke  ==> System startup luke Sat Feb 02 15:58:41 2019  ChatScript Version 9.0  compiled Jan 12 2019 20:51:21  No errors or warnings        Finished compile    System startup createsystem Sat Feb 02 15:58:42 2019  Server ChatScript Release Version 9.0 pid: 0 32 bit Windows compiled Jan 12 2019 20:51:21 host=0.0.0.0  Params:   dict:2097151 fact:800000 text:100000kb hash:215127             buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000  Build0:  dict=34854  fact=39620  heap=615360 Compiled:Feb02'19-15:42:37 by version 9.0 "0"  Build1:  dict=10  fact=1  heap=126220 Compiled:Feb02'19-15:58:41 by version 9.0 "luke"  Used 48MB: dict 235,800 (18864kb) hashdepths 84993.68228.35243.15859.6669.2677.976.333.104.37.6.1.1.1. words 235800 unusedbuckets 84993 fact 125,908 (6043kb) heap 12661kb             buffer (6400kb) cache (5000kb)  Free 119MB: dict 1,861,350 fact 674,092 stack/heap 87,338KB         *** Server WIDE OPEN to :command use.    When:Feb02 15:58:44 3559ms 
+ServerPre: ::1 () hello Feb 02 15:58:52 2019
+Respond: user:::1 bot: ip:127.0.0.1 () 0 hello  ==> No such bot.    When:Feb02 15:58:52 34ms ke Sat Feb 02 15:58:41 2019
+ChatScript Version 9.0  compiled Jan 12 2019 20:51:21
+No errors or warnings
+
+
+
+Finished compile
+
+System startup createsystem Sat Feb 02 15:58:42 2019
+Server ChatScript Release Version 9.0 pid: 0 32 bit Windows compiled Jan 12 2019 20:51:21 host=0.0.0.0
+Params:   dict:2097151 fact:800000 text:100000kb hash:215127 
+          buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000
+Build0:  dict=34854  fact=39620  heap=615360 Compiled:Feb02'19-15:42:37 by version 9.0 "0"
+Build1:  dict=10  fact=1  heap=126220 Compiled:Feb02'19-15:58:41 by version 9.0 "luke"
+Used 48MB: dict 235,800 (18864kb) hashdepths 84993.68228.35243.15859.6669.2677.976.333.104.37.6.1.1.1. words 235800 unusedbuckets 84993 fact 125,908 (6043kb) heap 12661kb
+           buffer (6400kb) cache (5000kb)
+Free 119MB: dict 1,861,350 fact 674,092 stack/heap 87,338KB 
+
+    *** Server WIDE OPEN to :command use.
+
+ServerPre: ::1 () :reset Feb 02 15:59:01 2019
+Respond: user:::1 bot: ip:127.0.0.1 () 0 :reset  ==>   When:Feb02 15:59:01 67ms 
+ServerPre: ::1 () hello Feb 02 15:59:05 2019
+Respond: user:::1 bot: ip:127.0.0.1 () 0 hello  ==> No such bot.    When:Feb02 15:59:05 34ms ke Sat Feb 02 15:58:41 2019
+ChatScript Version 9.0  compiled Jan 12 2019 20:51:21
+No errors or warnings
+
+
+
+Finished compile
+
+System startup createsystem Sat Feb 02 15:58:42 2019
+Server ChatScript Release Version 9.0 pid: 0 32 bit Windows compiled Jan 12 2019 20:51:21 host=0.0.0.0
+Params:   dict:2097151 fact:800000 text:100000kb hash:215127 
+          buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000
+Build0:  dict=34854  fact=39620  heap=615360 Compiled:Feb02'19-15:42:37 by version 9.0 "0"
+Build1:  dict=10  fact=1  heap=126220 Compiled:Feb02'19-15:58:41 by version 9.0 "luke"
+Used 48MB: dict 235,800 (18864kb) hashdepths 84993.68228.35243.15859.6669.2677.976.333.104.37.6.1.1.1. words 235800 unusedbuckets 84993 fact 125,908 (6043kb) heap 12661kb
+           buffer (6400kb) cache (5000kb)
+Free 119MB: dict 1,861,350 fact 674,092 stack/heap 87,338KB 
+
+    *** Server WIDE OPEN to :command use.
+
+System startup createsystem Sat Feb 02 16:00:05 2019
+Server ChatScript Release Version 9.0 pid: 0 32 bit Windows compiled Jan 12 2019 20:51:21 host=0.0.0.0
+Params:   dict:2097151 fact:800000 text:100000kb hash:215127 
+          buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000
+Build0:  dict=34854  fact=39620  heap=615360 Compiled:Feb02'19-15:42:37 by version 9.0 "0"
+Build1:  dict=10  fact=1  heap=126220 Compiled:Feb02'19-15:59:45 by version 9.0 "luke"
+Used 48MB: dict 235,800 (18864kb) hashdepths 84993.68228.35243.15859.6669.2677.976.333.104.37.6.1.1.1. words 235800 unusedbuckets 84993 fact 125,908 (6043kb) heap 12661kb
+           buffer (6400kb) cache (5000kb)
+Free 119MB: dict 1,861,350 fact 674,092 stack/heap 87,338KB 
+
+    *** Server WIDE OPEN to :command use.
+
+
+======== Began server 9.0 compiled Jan 12 2019 20:51:21 on host 0.0.0.0 port 1024 at Sat Feb 02 16:00:07 2019 serverlog:1 userlog: 1
+Server ready - logfile:LOGS/serverlog1024.txt serverLog:1 userLog:1
+
+ServerPre: ::1 () hello Feb 02 16:00:19 2019
+Respond: user:::1 bot: ip:127.0.0.1 () 0 hello  ==> No such bot.    When:Feb02 16:00:19 23ms 
+ServerPre: 80.189.89.194 () test Feb 02 16:10:22 2019
+Respond: user:80.189.89.194 bot: ip:127.0.0.1 (~free_time) 1 test  ==> Hello 8018989194, I'm Luke Skywalker, have you come talk to me?  When:Feb02 16:10:23 67ms Why:~free_time.6.0.~control.0.0 
+ServerPre: Ismael () :reset Feb 02 16:10:49 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 0 :reset  ==> Hello ismael, I'm Luke Skywalker, have you come talk to me?  When:Feb02 16:10:49 67ms Why:~free_time.6.0.~control.0.0 
+ServerPre: Ismael () :build harry Feb 02 16:12:01 2019
+System startup harry Sat Feb 02 16:12:01 2019
+System startup createsystem Sat Feb 02 16:12:09 2019
+Server ChatScript Release Version 9.0 pid: 0 32 bit Windows compiled Jan 12 2019 20:51:21 host=0.0.0.0
+Params:   dict:2097151 fact:800000 text:100000kb hash:215127 
+          buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000
+Build0:  dict=34854  fact=39620  heap=615360 Compiled:Feb02'19-15:42:37 by version 9.0 "0"
+Build1:  dict=154  fact=15  heap=330912 Compiled:Feb02'19-16:12:01 by version 9.0 "harry"
+Used 49MB: dict 235,944 (18875kb) hashdepths 84947.68235.35253.15878.6667.2682.983.332.105.37.6.1.1.1. words 235944 unusedbuckets 84947 fact 125,922 (6044kb) heap 12866kb
+           buffer (6400kb) cache (5000kb)
+Free 119MB: dict 1,861,206 fact 674,078 stack/heap 87,133KB 
+
+    *** Server WIDE OPEN to :command use.
+Respond: user:Ismael bot: ip:127.0.0.1 () 0 :build harry  ==> System startup harry Sat Feb 02 16:12:01 2019  ChatScript Version 9.0  compiled Jan 12 2019 20:51:21    WARNING SUMMARY:     line 1 of : Undefined set or topic ~food line 22 in childhood.top    line 2 of : Undefined set or topic ~mythical_creatures line 28 in childhood.top    line 3 of : Undefined set or topic ~insects line 31 in childhood.top    line 4 of : Undefined set or topic ~animals line 37 in childhood.top    line 5 of : Undefined set or topic ~yesanswer line 13 in keywordless.top    line 6 of : Undefined set or topic ~more line 13 in keywordless.top    line 9 of : Undefined set or topic ~languages line 22 in eliza_can.top    line 10 of : Undefined set or topic ~want line 32 in eliza_do.top    line 11 of : Undefined set or topic ~like line 38 in eliza_do.top    line 12 of : Undefined set or topic ~help line 51 in eliza_do.top    line 13 of : Undefined set or topic ~qwords line 163 in eliza_misc.top    line 14 of : Undefined set or topic ~opinion line 213 in eliza_misc.top    line 15 of : Undefined set or topic ~locatedentity line 315 in eliza_misc.top    line 16 of : Undefined set or topic ~make_love line 407 in eliza_misc.top    line 17 of : Undefined set or topic ~category line 446 in eliza_misc.top    line 18 of : Undefined set or topic ~noanswer line 478 in eliza_misc.top    line 19 of : Undefined set or topic ~example line 595 in eliza_misc.top    line 20 of : Undefined set or topic ~time_reference line 744 in eliza_misc.top    line 21 of : Undefined set or topic ~choose line 787 in eliza_misc.top    line 22 of : Undefined set or topic ~why line 6 in eliza_or.top    line 23 of : Undefined set or topic ~opinionset line 183 in eliza_what.top    line 24 of : Undefined set or topic ~negativeemotions line 99 in eliza_why.top    line 25 of : Undefined set or topic ~emocurse line 47 in honest.top    line 26 of : Undefined set or topic ~bodily_states line 62 in honest.top    line 27 of : Undefined set or topic ~tell line 90 in honest.top    line 28 of : Undefined set or topic ~opinion_verbs line 99 in honest.top    line 29 of : Undefined set or topic ~list line 131 in honest.top  27 serious warnings, 0 function warnings, 0 spelling warnings, 113 case warnings, 0 substitution warnings          Finished compile    System startup createsystem Sat Feb 02 16:12:09 2019  Server ChatScript Release Version 9.0 pid: 0 32 bit Windows compiled Jan 12 2019 20:51:21 host=0.0.0.0  Params:   dict:2097151 fact:800000 text:100000kb hash:215127             buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000  Build0:  dict=34854  fact=39620  heap=615360 Compiled:Feb02'19-15:42:37 by version 9.0 "0"  Build1:  dict=154  fact=15  heap=330912 Compiled:Feb02'19-16:12:01 by version 9.0 "harry"  Used 49MB: dict 235,944 (18875kb) hashdepths 84947.68235.35253.15878.6667.2682.983.332.105.37.6.1.1.1. words 235944 unusedbuckets 84947 fact 125,922 (6044kb) heap 12866kb             buffer (6400kb) cache (5000kb)  Free 119MB: dict 1,861,206 fact 674,078 stack/heap 87,133KB         *** Server WIDE OPEN to :command use.    When:Feb02 16:12:11 10432ms 
+ServerPre: Ismael () :build harry Feb 02 16:12:23 2019
+System startup harry Sat Feb 02 16:12:23 2019
+System startup createsystem Sat Feb 02 16:12:30 2019
+Server ChatScript Release Version 9.0 pid: 0 32 bit Windows compiled Jan 12 2019 20:51:21 host=0.0.0.0
+Params:   dict:2097151 fact:800000 text:100000kb hash:215127 
+          buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000
+Build0:  dict=34854  fact=39620  heap=615360 Compiled:Feb02'19-15:42:37 by version 9.0 "0"
+Build1:  dict=154  fact=15  heap=330912 Compiled:Feb02'19-16:12:23 by version 9.0 "harry"
+Used 49MB: dict 235,944 (18875kb) hashdepths 84947.68235.35253.15878.6667.2682.983.332.105.37.6.1.1.1. words 235944 unusedbuckets 84947 fact 125,922 (6044kb) heap 12866kb
+           buffer (6400kb) cache (5000kb)
+Free 119MB: dict 1,861,206 fact 674,078 stack/heap 87,133KB 
+
+    *** Server WIDE OPEN to :command use.
+Respond: user:Ismael bot: ip:127.0.0.1 () 0 :build harry  ==> System startup harry Sat Feb 02 16:12:23 2019  ChatScript Version 9.0  compiled Jan 12 2019 20:51:21    WARNING SUMMARY:     line 1 of : Undefined set or topic ~food line 22 in childhood.top    line 2 of : Undefined set or topic ~mythical_creatures line 28 in childhood.top    line 3 of : Undefined set or topic ~insects line 31 in childhood.top    line 4 of : Undefined set or topic ~animals line 37 in childhood.top    line 5 of : Undefined set or topic ~yesanswer line 13 in keywordless.top    line 6 of : Undefined set or topic ~more line 13 in keywordless.top    line 9 of : Undefined set or topic ~languages line 22 in eliza_can.top    line 10 of : Undefined set or topic ~want line 32 in eliza_do.top    line 11 of : Undefined set or topic ~like line 38 in eliza_do.top    line 12 of : Undefined set or topic ~help line 51 in eliza_do.top    line 13 of : Undefined set or topic ~qwords line 163 in eliza_misc.top    line 14 of : Undefined set or topic ~opinion line 213 in eliza_misc.top    line 15 of : Undefined set or topic ~locatedentity line 315 in eliza_misc.top    line 16 of : Undefined set or topic ~make_love line 407 in eliza_misc.top    line 17 of : Undefined set or topic ~category line 446 in eliza_misc.top    line 18 of : Undefined set or topic ~noanswer line 478 in eliza_misc.top    line 19 of : Undefined set or topic ~example line 595 in eliza_misc.top    line 20 of : Undefined set or topic ~time_reference line 744 in eliza_misc.top    line 21 of : Undefined set or topic ~choose line 787 in eliza_misc.top    line 22 of : Undefined set or topic ~why line 6 in eliza_or.top    line 23 of : Undefined set or topic ~opinionset line 183 in eliza_what.top    line 24 of : Undefined set or topic ~negativeemotions line 99 in eliza_why.top    line 25 of : Undefined set or topic ~emocurse line 47 in honest.top    line 26 of : Undefined set or topic ~bodily_states line 62 in honest.top    line 27 of : Undefined set or topic ~tell line 90 in honest.top    line 28 of : Undefined set or topic ~opinion_verbs line 99 in honest.top    line 29 of : Undefined set or topic ~list line 131 in honest.top  27 serious warnings, 0 function warnings, 0 spelling warnings, 113 case warnings, 0 substitution warnings          Finished compile    System startup createsystem Sat Feb 02 16:12:30 2019  Server ChatScript Release Version 9.0 pid: 0 32 bit Windows compiled Jan 12 2019 20:51:21 host=0.0.0.0  Params:   dict:2097151 fact:800000 text:100000kb hash:215127             buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000  Build0:  dict=34854  fact=39620  heap=615360 Compiled:Feb02'19-15:42:37 by version 9.0 "0"  Build1:  dict=154  fact=15  heap=330912 Compiled:Feb02'19-16:12:23 by version 9.0 "harry"  Used 49MB: dict 235,944 (18875kb) hashdepths 84947.68235.35253.15878.6667.2682.983.332.105.37.6.1.1.1. words 235944 unusedbuckets 84947 fact 125,922 (6044kb) heap 12866kb             buffer (6400kb) cache (5000kb)  Free 119MB: dict 1,861,206 fact 674,078 stack/heap 87,133KB         *** Server WIDE OPEN to :command use.    When:Feb02 16:12:33 9458ms 
+ServerPre: Ismael () :build harry Feb 02 16:12:43 2019
+System startup harry Sat Feb 02 16:12:43 2019
+System startup createsystem Sat Feb 02 16:12:49 2019
+Server ChatScript Release Version 9.0 pid: 0 32 bit Windows compiled Jan 12 2019 20:51:21 host=0.0.0.0
+Params:   dict:2097151 fact:800000 text:100000kb hash:215127 
+          buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000
+Build0:  dict=34854  fact=39620  heap=615360 Compiled:Feb02'19-15:42:37 by version 9.0 "0"
+Build1:  dict=154  fact=15  heap=330912 Compiled:Feb02'19-16:12:43 by version 9.0 "harry"
+Used 49MB: dict 235,944 (18875kb) hashdepths 84947.68235.35253.15878.6667.2682.983.332.105.37.6.1.1.1. words 235944 unusedbuckets 84947 fact 125,922 (6044kb) heap 12866kb
+           buffer (6400kb) cache (5000kb)
+Free 119MB: dict 1,861,206 fact 674,078 stack/heap 87,133KB 
+
+    *** Server WIDE OPEN to :command use.
+Respond: user:Ismael bot: ip:127.0.0.1 () 0 :build harry  ==> System startup harry Sat Feb 02 16:12:43 2019  ChatScript Version 9.0  compiled Jan 12 2019 20:51:21    WARNING SUMMARY:     line 1 of : Undefined set or topic ~food line 22 in childhood.top    line 2 of : Undefined set or topic ~mythical_creatures line 28 in childhood.top    line 3 of : Undefined set or topic ~insects line 31 in childhood.top    line 4 of : Undefined set or topic ~animals line 37 in childhood.top    line 5 of : Undefined set or topic ~yesanswer line 13 in keywordless.top    line 6 of : Undefined set or topic ~more line 13 in keywordless.top    line 9 of : Undefined set or topic ~languages line 22 in eliza_can.top    line 10 of : Undefined set or topic ~want line 32 in eliza_do.top    line 11 of : Undefined set or topic ~like line 38 in eliza_do.top    line 12 of : Undefined set or topic ~help line 51 in eliza_do.top    line 13 of : Undefined set or topic ~qwords line 163 in eliza_misc.top    line 14 of : Undefined set or topic ~opinion line 213 in eliza_misc.top    line 15 of : Undefined set or topic ~locatedentity line 315 in eliza_misc.top    line 16 of : Undefined set or topic ~make_love line 407 in eliza_misc.top    line 17 of : Undefined set or topic ~category line 446 in eliza_misc.top    line 18 of : Undefined set or topic ~noanswer line 478 in eliza_misc.top    line 19 of : Undefined set or topic ~example line 595 in eliza_misc.top    line 20 of : Undefined set or topic ~time_reference line 744 in eliza_misc.top    line 21 of : Undefined set or topic ~choose line 787 in eliza_misc.top    line 22 of : Undefined set or topic ~why line 6 in eliza_or.top    line 23 of : Undefined set or topic ~opinionset line 183 in eliza_what.top    line 24 of : Undefined set or topic ~negativeemotions line 99 in eliza_why.top    line 25 of : Undefined set or topic ~emocurse line 47 in honest.top    line 26 of : Undefined set or topic ~bodily_states line 62 in honest.top    line 27 of : Undefined set or topic ~tell line 90 in honest.top    line 28 of : Undefined set or topic ~opinion_verbs line 99 in honest.top    line 29 of : Undefined set or topic ~list line 131 in honest.top  27 serious warnings, 0 function warnings, 0 spelling warnings, 113 case warnings, 0 substitution warnings          Finished compile    System startup createsystem Sat Feb 02 16:12:49 2019  Server ChatScript Release Version 9.0 pid: 0 32 bit Windows compiled Jan 12 2019 20:51:21 host=0.0.0.0  Params:   dict:2097151 fact:800000 text:100000kb hash:215127             buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000  Build0:  dict=34854  fact=39620  heap=615360 Compiled:Feb02'19-15:42:37 by version 9.0 "0"  Build1:  dict=154  fact=15  heap=330912 Compiled:Feb02'19-16:12:43 by version 9.0 "harry"  Used 49MB: dict 235,944 (18875kb) hashdepths 84947.68235.35253.15878.6667.2682.983.332.105.37.6.1.1.1. words 235944 unusedbuckets 84947 fact 125,922 (6044kb) heap 12866kb             buffer (6400kb) cache (5000kb)  Free 119MB: dict 1,861,206 fact 674,078 stack/heap 87,133KB         *** Server WIDE OPEN to :command use.    When:Feb02 16:12:52 8475ms 
+ServerPre: Ismael () Hello Feb 02 16:13:07 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~childhood) 1 Hello  ==> Did you run away from home when you were little?  When:Feb02 16:13:07 54ms Why:~childhood.0.0.~control.9.0 
+ServerPre: Ismael () :reset Feb 02 16:13:17 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~introductions) 0 :reset  ==> Welcome to ChatScript.  When:Feb02 16:13:17 66ms Why:~introductions.1.0.~control.0.0 
+ServerPre: Ismael () Hello Feb 02 16:13:24 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~introductions) 1 Hello  ==> Have you been here before?  When:Feb02 16:13:24 56ms Why:~introductions.2.0.~control.9.0 
+ServerPre: Ismael () I don't want to talk Feb 02 16:13:38 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~childhood) 2 I don't want to talk  ==> Did you run away from home when you were little?  When:Feb02 16:13:38 55ms Why:~childhood.0.0.~control.9.0 
+ServerPre: Ismael () :build luke Feb 02 16:13:52 2019
+System startup luke Sat Feb 02 16:13:52 2019
+System startup createsystem Sat Feb 02 16:13:53 2019
+Server ChatScript Release Version 9.0 pid: 0 32 bit Windows compiled Jan 12 2019 20:51:21 host=0.0.0.0
+Params:   dict:2097151 fact:800000 text:100000kb hash:215127 
+          buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000
+Build0:  dict=34854  fact=39620  heap=615360 Compiled:Feb02'19-15:42:37 by version 9.0 "0"
+Build1:  dict=10  fact=1  heap=126220 Compiled:Feb02'19-16:13:52 by version 9.0 "luke"
+Used 48MB: dict 235,800 (18864kb) hashdepths 84993.68228.35243.15859.6669.2677.976.333.104.37.6.1.1.1. words 235800 unusedbuckets 84993 fact 125,908 (6043kb) heap 12661kb
+           buffer (6400kb) cache (5000kb)
+Free 119MB: dict 1,861,350 fact 674,092 stack/heap 87,338KB 
+
+    *** Server WIDE OPEN to :command use.
+Respond: user:Ismael bot: ip:127.0.0.1 () 0 :build luke  ==> System startup luke Sat Feb 02 16:13:52 2019  ChatScript Version 9.0  compiled Jan 12 2019 20:51:21  No errors or warnings        Finished compile    System startup createsystem Sat Feb 02 16:13:53 2019  Server ChatScript Release Version 9.0 pid: 0 32 bit Windows compiled Jan 12 2019 20:51:21 host=0.0.0.0  Params:   dict:2097151 fact:800000 text:100000kb hash:215127             buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000  Build0:  dict=34854  fact=39620  heap=615360 Compiled:Feb02'19-15:42:37 by version 9.0 "0"  Build1:  dict=10  fact=1  heap=126220 Compiled:Feb02'19-16:13:52 by version 9.0 "luke"  Used 48MB: dict 235,800 (18864kb) hashdepths 84993.68228.35243.15859.6669.2677.976.333.104.37.6.1.1.1. words 235800 unusedbuckets 84993 fact 125,908 (6043kb) heap 12661kb             buffer (6400kb) cache (5000kb)  Free 119MB: dict 1,861,350 fact 674,092 stack/heap 87,338KB         *** Server WIDE OPEN to :command use.    When:Feb02 16:13:56 3350ms ion line 213 in eliza_misc.top
+  line 15 of : Undefined set or topic ~locatedentity line 315 in eliza_misc.top
+  line 16 of : Undefined set or topic ~make_love line 407 in eliza_misc.top
+  line 17 of : Undefined set or topic ~category line 446 in eliza_misc.top
+  line 18 of : Undefined set or topic ~noanswer line 478 in eliza_misc.top
+  line 19 of : Undefined set or topic ~example line 595 in eliza_misc.top
+  line 20 of : Undefined set or topic ~time_reference line 744 in eliza_misc.top
+  line 21 of : Undefined set or topic ~choose line 787 in eliza_misc.top
+  line 22 of : Undefined set or topic ~why line 6 in eliza_or.top
+  line 23 of : Undefined set or topic ~opinionset line 183 in eliza_what.top
+  line 24 of : Undefined set or topic ~negativeemotions line 99 in eliza_why.top
+  line 25 of : Undefined set or topic ~emocurse line 47 in honest.top
+  line 26 of : Undefined set or topic ~bodily_states line 62 in honest.top
+  line 27 of : Undefined set or topic ~tell line 90 in honest.top
+  line 28 of : Undefined set or topic ~opinion_verbs line 99 in honest.top
+  line 29 of : Undefined set or topic ~list line 131 in honest.top
+27 serious warnings, 0 function warnings, 0 spelling warnings, 113 case warnings, 0 substitution warnings
+    
+
+Finished compile
+
+System startup createsystem Sat Feb 02 16:12:49 2019
+Server ChatScript Release Version 9.0 pid: 0 32 bit Windows compiled Jan 12 2019 20:51:21 host=0.0.0.0
+Params:   dict:2097151 fact:800000 text:100000kb hash:215127 
+          buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000
+Build0:  dict=34854  fact=39620  heap=615360 Compiled:Feb02'19-15:42:37 by version 9.0 "0"
+Build1:  dict=154  fact=15  heap=330912 Compiled:Feb02'19-16:12:43 by version 9.0 "harry"
+Used 49MB: dict 235,944 (18875kb) hashdepths 84947.68235.35253.15878.6667.2682.983.332.105.37.6.1.1.1. words 235944 unusedbuckets 84947 fact 125,922 (6044kb) heap 12866kb
+           buffer (6400kb) cache (5000kb)
+Free 119MB: dict 1,861,206 fact 674,078 stack/heap 87,133KB 
+
+    *** Server WIDE OPEN to :command use.
+
+ServerPre: Ismael () :reset Feb 02 16:14:05 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 0 :reset  ==> Hello ismael, I'm Luke Skywalker, have you come talk to me?  When:Feb02 16:14:05 67ms Why:~free_time.6.0.~control.0.0 
+ServerPre: ::1 () Hello Feb 02 16:18:05 2019
+Respond: user:::1 bot: ip:127.0.0.1 (þÿWhy:~free_time.6.0.~control.0.0 ) 0 Hello  ==> No such bot.    When:Feb02 16:18:05 33ms  Luke Skywalker, have you come talk to me?
+System startup createsystem Sat Feb 02 16:22:35 2019
+Server ChatScript Release Version 9.0 pid: 0 32 bit Windows compiled Jan 12 2019 20:51:21 host=0.0.0.0
+Params:   dict:2097151 fact:800000 text:100000kb hash:215127 
+          buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000
+Build0:  dict=34854  fact=39620  heap=615360 Compiled:Feb02'19-15:42:37 by version 9.0 "0"
+Build1:  dict=10  fact=1  heap=126220 Compiled:Feb02'19-16:13:52 by version 9.0 "luke"
+Used 48MB: dict 235,800 (18864kb) hashdepths 84993.68228.35243.15859.6669.2677.976.333.104.37.6.1.1.1. words 235800 unusedbuckets 84993 fact 125,908 (6043kb) heap 12661kb
+           buffer (6400kb) cache (5000kb)
+Free 119MB: dict 1,861,350 fact 674,092 stack/heap 87,338KB 
+
+    *** Server WIDE OPEN to :command use.
+
+
+======== Began server 9.0 compiled Jan 12 2019 20:51:21 on host 0.0.0.0 port 1024 at Sat Feb 02 16:22:37 2019 serverlog:1 userlog: 1
+Server ready - logfile:LOGS/serverlog1024.txt serverLog:1 userLog:1
+
+ServerPre: 80.189.89.194 () Hello Feb 02 16:28:13 2019
+Respond: user:80.189.89.194 bot: ip:127.0.0.1 (~free_time) 2 Hello  ==> Well I bid you welcome!  When:Feb02 16:28:13 55ms Why:~free_time.6.1 
+ServerPre: 80.189.89.194 () test Feb 02 16:28:28 2019
+Respond: user:80.189.89.194 bot: ip:127.0.0.1 (~free_time) 3 test  ==> I have a special question for you: what do you do in your free time?  When:Feb02 16:28:28 56ms Why:~free_time.6.2 
+ServerPre: 80.189.89.194 () test Feb 02 16:29:43 2019
+Respond: user:80.189.89.194 bot: ip:127.0.0.1 (~free_time) 4 test  ==> I guessed that! And do you enjoy that a lot, a bit or not at all?  When:Feb02 16:29:43 56ms Why:~free_time.6.3 
+ServerPre: 80.189.89.194 () :reset Feb 02 16:30:08 2019
+Respond: user:80.189.89.194 bot: ip:127.0.0.1 (~free_time) 0 :reset  ==> Hello 8018989194, I'm Luke Skywalker, have you come talk to me?  When:Feb02 16:30:08 66ms Why:~free_time.6.0.~control.0.0 
+ServerPre: Ismael () test Feb 02 16:31:33 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 1 test  ==> Well I bid you welcome!  When:Feb02 16:31:33 54ms Why:~free_time.6.1 
+ServerPre: Ismael () in doing anything Feb 02 16:32:04 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 2 in doing anything  ==> I have a special question for you: what do you do in your free time?  When:Feb02 16:32:04 54ms Why:~free_time.6.2 
+ServerPre: ::1 () testing again Feb 02 16:34:21 2019
+Respond: user:::1 bot: ip:127.0.0.1 (þÿWhy:~free_time.6.2 ) 0 testing again  ==> No such bot.    When:Feb02 16:34:21 33ms question for you: what do you do in your free time?
+ServerPre: Ismael () test Feb 02 16:36:34 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 3 test  ==> I guessed that! And do you enjoy that a lot, a bit or not at all?  When:Feb02 16:36:34 54ms Why:~free_time.6.3 
+ServerPre: Ismael () I&#39;m testing this Feb 02 16:49:16 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 4 I&#39;m testing this  ==> May I ask you a personal question?  When:Feb02 16:49:16 66ms Why:~free_time.7.0.~control.1.0 
+ServerPre: Ismael () hello I&#39;m hoping this will stop by itself Feb 02 16:49:32 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 5 hello I&#39;m hoping this will stop by itself  ==> Your reply is a conundrum wrapped in an enigma...  When:Feb02 16:49:32 77ms Why:~free_time.7.3 
+ServerPre: Ismael () again again Feb 02 16:51:27 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 6 again again  ==> If you only had 20 minutes of free time each day, how would you spend them?  When:Feb02 16:51:27 66ms Why:~free_time.8.0.~control.1.0 
+ServerPre: Ismael () not working Feb 02 16:52:05 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 7 not working  ==> Hmm... why on that and not on anything else?  When:Feb02 16:52:05 76ms Why:~free_time.8.1 
+ServerPre: Ismael () ok trying without error reporting Feb 02 16:54:40 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 8 ok trying without error reporting  ==> Yes, a question of priorities. For my part, my great dilemma is whether to live bearded or shaved. What do you advise?  When:Feb02 16:54:40 66ms Why:~free_time.9.0.~control.1.0 
+ServerPre: Ismael () Brian why Feb 02 16:54:54 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 9 Brian why  ==> I'll bear it in mind. You have helped me clarify my existential dilemma.  When:Feb02 16:54:54 55ms Why:~free_time.9.3 
+ServerPre: Ismael () fingers crossed come on Feb 02 16:55:39 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 10 fingers crossed come on  ==> And if you only had 20 minutes to live, how would you spend them?  When:Feb02 16:55:39 68ms Why:~free_time.10.0.~control.1.0 
+ServerPre: Ismael () why is it not working Feb 02 16:55:56 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 11 why is it not working  ==> I feel I'm getting to understand you...  When:Feb02 16:55:56 66ms Why:~free_time.10.1 
+ServerPre: Ismael () this even working Feb 02 16:57:36 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 12 this even working  ==> Sometimes I think free time makes us slaves to things we don't really value. Know what I mean?  When:Feb02 16:57:36 68ms Why:~free_time.11.0.~control.1.0 
+ServerPre: Ismael () :reset Feb 02 16:57:48 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 0 :reset  ==> Hello ismael, I'm Luke Skywalker, have you come talk to me?  When:Feb02 16:57:49 79ms Why:~free_time.6.0.~control.0.0 
+ServerPre: Ismael () I&#39;m trying yet again Feb 02 16:59:28 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 1 I&#39;m trying yet again  ==> Well I bid you welcome!  When:Feb02 16:59:28 55ms Why:~free_time.6.1 
+ServerPre: Ismael () :reset Feb 02 16:59:44 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 0 :reset  ==> Hello ismael, I'm Luke Skywalker, have you come talk to me?  When:Feb02 16:59:44 64ms Why:~free_time.6.0.~control.0.0 
+ServerPre: Ismael () hello Feb 02 17:00:05 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 1 hello  ==> Well I bid you welcome!  When:Feb02 17:00:05 54ms Why:~free_time.6.1 
+ServerPre: Ismael () finally Feb 02 17:00:14 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 2 finally  ==> I have a special question for you: what do you do in your free time?  When:Feb02 17:00:14 56ms Why:~free_time.6.2 
+ServerPre: Ismael () just talk Feb 02 17:00:22 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 3 just talk  ==> I guessed that! And do you enjoy that a lot, a bit or not at all?  When:Feb02 17:00:22 67ms Why:~free_time.6.3 
+ServerPre: Ismael () more or less Feb 02 17:00:31 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 4 more or less  ==> May I ask you a personal question?  When:Feb02 17:00:31 65ms Why:~free_time.7.0.~control.1.0 
+ServerPre: Ismael () sure Feb 02 17:00:37 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 5 sure  ==> Thanks! You have the patience and wisdom of a born Jedi!  When:Feb02 17:00:37 65ms Why:~free_time.7.1 
+ServerPre: Ismael () well I&#39;m not really a Jedi Feb 02 17:00:46 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 6 well I&#39;m not really a Jedi  ==> If you only had 20 minutes of free time each day, how would you spend them?  When:Feb02 17:00:46 66ms Why:~free_time.8.0.~control.1.0 
+ServerPre: Ismael () clearly programming Feb 02 17:00:57 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 7 clearly programming  ==> Hmm... why on that and not on anything else?  When:Feb02 17:00:57 66ms Why:~free_time.8.1 
+ServerPre: Ismael () I don&#39;t know cos I&#39;m a masochist Feb 02 17:01:04 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 8 I don&#39;t know cos I&#39;m a masochist  ==> Yes, a question of priorities. For my part, my great dilemma is whether to live bearded or shaved. What do you advise?  When:Feb02 17:01:04 66ms Why:~free_time.9.0.~control.1.0 
+ServerPre: Ismael () shave it all off Feb 02 17:01:17 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 9 shave it all off  ==> I'll bear it in mind. You have helped me clarify my existential dilemma.  When:Feb02 17:01:17 65ms Why:~free_time.9.3 
+ServerPre: Ismael () so what do you do in your free time Feb 02 17:01:32 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 10 so what do you do in your free time  ==> Good question! The answer is a mystery only known to Darth Vader and I.  When:Feb02 17:01:32 77ms Why:~free_time.0.0.~control.1.0 
+ServerPre: Ismael () that is funny Feb 02 17:01:43 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 11 that is funny  ==> And if you only had 20 minutes to live, how would you spend them?  When:Feb02 17:01:43 55ms Why:~free_time.10.0.~control.1.0 
+ServerPre: Ismael () dying Feb 02 17:01:51 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 12 dying  ==> I feel I'm getting to understand you...  When:Feb02 17:01:51 54ms Why:~free_time.10.1 
+ServerPre: Ismael () Hello Feb 02 17:05:05 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 13 Hello  ==> Sometimes I think free time makes us slaves to things we don't really value. Know what I mean?  When:Feb02 17:05:05 55ms Why:~free_time.11.0.~control.1.0 
+ServerPre: Ismael () :reset Feb 02 17:05:11 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 0 :reset  ==> Hello ismael, I'm Luke Skywalker, have you come talk to me?  When:Feb02 17:05:11 65ms Why:~free_time.6.0.~control.0.0 
+ServerPre: Ismael () Hello Feb 02 17:05:57 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 1 Hello  ==> Well I bid you welcome!  When:Feb02 17:05:57 56ms Why:~free_time.6.1 
+ServerPre: Ismael () :reset Feb 02 17:06:11 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 0 :reset  ==> Hello ismael, I'm Luke Skywalker, have you come talk to me?  When:Feb02 17:06:11 67ms Why:~free_time.6.0.~control.0.0 
+ServerPre: Ismael () test Feb 02 17:06:48 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 1 test  ==> Well I bid you welcome!  When:Feb02 17:06:48 56ms Why:~free_time.6.1 
+ServerPre: Ismael () test Feb 02 17:07:24 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 2 test  ==> I have a special question for you: what do you do in your free time?  When:Feb02 17:07:24 54ms Why:~free_time.6.2 
+ServerPre: Ismael () I&#39;m testing Feb 02 17:07:40 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 3 I&#39;m testing  ==> I guessed that! And do you enjoy that a lot, a bit or not at all?  When:Feb02 17:07:40 56ms Why:~free_time.6.3 
+ServerPre: Ismael () test Feb 02 17:08:01 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 4 test  ==> May I ask you a personal question?  When:Feb02 17:08:01 56ms Why:~free_time.7.0.~control.1.0 
+ServerPre: Ismael () test Feb 02 17:09:19 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 5 test  ==> Your reply is a conundrum wrapped in an enigma...  When:Feb02 17:09:19 55ms Why:~free_time.7.3 
+ServerPre: Ismael () Hello Feb 02 17:12:17 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 6 Hello  ==> If you only had 20 minutes of free time each day, how would you spend them?  When:Feb02 17:12:17 56ms Why:~free_time.8.0.~control.1.0 
+ServerPre: Ismael () test Feb 02 17:12:31 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 7 test  ==> Hmm... why on that and not on anything else?  When:Feb02 17:12:31 55ms Why:~free_time.8.1 
+ServerPre: Ismael () test Feb 02 17:13:42 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 8 test  ==> Yes, a question of priorities. For my part, my great dilemma is whether to live bearded or shaved. What do you advise?  When:Feb02 17:13:43 66ms Why:~free_time.9.0.~control.1.0 
+ServerPre: Ismael () test Feb 02 17:15:43 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 9 test  ==> I'll bear it in mind. You have helped me clarify my existential dilemma.  When:Feb02 17:15:43 53ms Why:~free_time.9.3 
+ServerPre: Ismael () test Feb 02 17:30:25 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 10 test  ==> And if you only had 20 minutes to live, how would you spend them?  When:Feb02 17:30:25 55ms Why:~free_time.10.0.~control.1.0 
+ServerPre: Ismael () test Feb 02 17:32:15 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 11 test  ==> I feel I'm getting to understand you...  When:Feb02 17:32:15 54ms Why:~free_time.10.1 
+ServerPre: Ismael () test Feb 02 17:35:07 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 12 test  ==> Sometimes I think free time makes us slaves to things we don't really value. Know what I mean?  When:Feb02 17:35:07 55ms Why:~free_time.11.0.~control.1.0 
+ServerPre: Ismael () twsss Feb 02 17:35:12 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 13 twsss  ==> Yep, algorithms keep us in Facebook, or gaming, or Netflix. A little is good, but it can get excessive, do you agree?  When:Feb02 17:35:12 143ms Why:~free_time.11.1 
+ServerPre: Ismael () now Feb 02 17:35:24 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 14 now  ==> What do you think of your own use of free time: do you use it well or badly overall?  When:Feb02 17:35:24 65ms Why:~free_time.11.2 
+ServerPre: Ismael () test Feb 02 17:45:08 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 15 test  ==> I guess it's hard to judge.  When:Feb02 17:45:08 54ms Why:~free_time.11.5 
+ServerPre: Ismael () test Feb 02 17:49:07 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 16 test  ==> If you could change your use of free time, what would you change?  When:Feb02 17:49:07 55ms Why:~free_time.12.0.~control.1.0 
+ServerPre: Ismael () somehow Feb 02 17:49:16 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 17 somehow  ==> I guess I'd change the ending of my last movie... Not dying would have helped me use my free time better.  When:Feb02 17:49:16 54ms Why:~free_time.12.1 
+ServerPre: Ismael () somehow Feb 02 17:49:46 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 18 somehow  ==> I'm enjoying our chat - but I've got a constipated android! I've got to go before it blows up. See ya around?  When:Feb02 17:49:46 57ms Why:~free_time.13.0.~control.1.0 
+ServerPre: Ismael () test Feb 02 17:49:59 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 19 test  ==> May the Force be with you.  When:Feb02 17:49:59 55ms Why:~free_time.13.1 
+ServerPre: Ismael (lucas) test Feb 02 17:51:11 2019
+Respond: user:Ismael bot:lucas ip:127.0.0.1 (þÿWhy:~free_time.13.1 ) 0 test  ==> No such bot.    When:Feb02 17:51:11 33ms with you.
+ServerPre: Ismael (luke)  Feb 02 17:51:35 2019
+Start: user:Ismael bot:luke ip:127.0.0.1 (~free_time) 0 ==> Hello ismael, I'm Luke Skywalker, have you come talk to me?  When:Feb02 17:51:35 56ms Why:~free_time.6.0.~control.0.0  Version:9.0 Build0:Feb02'19-15:42:37 Build1:Feb02'19-16:13:52 Why:~free_time.6.0.~control.0.0 
+ServerPre: Ismael (luke) hi Feb 02 17:51:46 2019
+Respond: user:Ismael bot:luke ip:127.0.0.1 (~free_time) 1 hi  ==> Well I bid you welcome!  When:Feb02 17:51:46 54ms Why:~free_time.6.1 
+ServerPre: Ismael (harry) hello Feb 02 17:52:03 2019
+Respond: user:Ismael bot:harry ip:127.0.0.1 (~free_time) 3 hello  ==> Hello ismael, I'm Luke Skywalker, have you come talk to me?  When:Feb02 17:52:03 57ms Why:~free_time.6.0.~control.0.0 
+ServerPre: Ismael (harry) yes Feb 02 17:52:15 2019
+Respond: user:Ismael bot:harry ip:127.0.0.1 (~free_time) 4 yes  ==> Well I bid you welcome!  When:Feb02 17:52:15 56ms Why:~free_time.6.1 
+ServerPre: Ismael () ss Feb 02 17:52:38 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 2 ss  ==> I have a special question for you: what do you do in your free time?  When:Feb02 17:52:38 55ms Why:~free_time.6.2 
+TCP 127.0.0.1 closed connection prematurely
+TCP 127.0.0.1 closed connection prematurely
+ServerPre: Ismael () ss Feb 02 17:56:27 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 3 ss  ==> I guessed that! And do you enjoy that a lot, a bit or not at all?  When:Feb02 17:56:27 56ms Why:~free_time.6.3 
+ServerPre: Ismael ()  Feb 02 17:56:28 2019
+Start: user:Ismael bot: ip:127.0.0.1 (~free_time) 3 ==> May I ask you a personal question?  When:Feb02 17:56:28 56ms Why:~free_time.7.0.~control.1.0  Version:9.0 Build0:Feb02'19-15:42:37 Build1:Feb02'19-16:13:52 Why:~free_time.7.0.~control.1.0 
+ServerPre: Ismael ()  Feb 02 17:56:34 2019
+Start: user:Ismael bot: ip:127.0.0.1 (~free_time) 3 ==> Your reply is a conundrum wrapped in an enigma...  When:Feb02 17:56:34 46ms Why:~free_time.7.3  Version:9.0 Build0:Feb02'19-15:42:37 Build1:Feb02'19-16:13:52 Why:~free_time.7.3 
+TCP 127.0.0.1 closed connection prematurely
+TCP 127.0.0.1 closed connection prematurely
+TCP 127.0.0.1 closed connection prematurely
+TCP 127.0.0.1 closed connection prematurely
+ServerPre: Ismael () test Feb 02 18:06:14 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 4 test  ==> If you only had 20 minutes of free time each day, how would you spend them?  When:Feb02 18:06:14 65ms Why:~free_time.8.0.~control.1.0 
+ServerPre: Ismael () :reset Feb 02 18:06:22 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 0 :reset  ==> Hello ismael, I'm Luke Skywalker, have you come talk to me?  When:Feb02 18:06:22 56ms Why:~free_time.6.0.~control.0.0 
+ServerPre: Ismael () yes Feb 02 18:07:16 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 1 yes  ==> Well I bid you welcome!  When:Feb02 18:07:16 55ms Why:~free_time.6.1 
+ServerPre: Ismael () thank you Feb 02 18:07:40 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 2 thank you  ==> I have a special question for you: what do you do in your free time?  When:Feb02 18:07:40 56ms Why:~free_time.6.2 
+ServerPre: Ismael () guess I spend it speaking with you Feb 02 18:07:52 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 3 guess I spend it speaking with you  ==> I guessed that! And do you enjoy that a lot, a bit or not at all?  When:Feb02 18:07:52 66ms Why:~free_time.6.3 
+ServerPre: Ismael () not massively Feb 02 18:08:01 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 4 not massively  ==> May I ask you a personal question?  When:Feb02 18:08:01 65ms Why:~free_time.7.0.~control.1.0 
+ServerPre: Ismael () sure Feb 02 18:08:08 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 5 sure  ==> Thanks! You have the patience and wisdom of a born Jedi!  When:Feb02 18:08:08 64ms Why:~free_time.7.1 
+ServerPre: Ismael () test Feb 02 18:16:43 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 6 test  ==> If you only had 20 minutes of free time each day, how would you spend them?  When:Feb02 18:16:43 55ms Why:~free_time.8.0.~control.1.0 
+ServerPre: Ismael () test Feb 02 18:30:25 2019
+Respond: user:Ismael bot: ip:127.0.0.1 (~free_time) 7 test  ==> Hmm... why on that and not on anything else?  When:Feb02 18:30:25 54ms Why:~free_time.8.1 

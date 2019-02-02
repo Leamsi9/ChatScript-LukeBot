@@ -1,0 +1,5 @@
+﻿not_at_all
+I_don_'t_know
+no_idea
+direct_v
+chatoutput

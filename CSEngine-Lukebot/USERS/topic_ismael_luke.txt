@@ -1,0 +1,38 @@
+USERS/topic_ismael_luke.txt
+jul2116 Feb02'19-17:51:35 Feb02'19-18:30:25 0 |
+1 7 0 DY 0 3 3 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~free_time #pending
+~free_time + 2 Nb=3WIs*Ok3 adia 7 0 0 
+#`end topics
+$cs_randindex=32
+$cs_bot=Luke
+$cs_login=Ismael
+$cs_token=67337983
+$cs_control_main=~control
+$userprompt=ismael: >
+$botprompt=Luke: 
+$singleresponse=1
+$cs_trace=0
+$cs_time=0
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ yes
+ thank you
+ guess I spend it speaking with you
+ not massively
+ sure
+ test
+ test
+#`end user
+ Hello ismael, I'm Luke Skywalker, have you come talk to me?
+ Well I bid you welcome!
+ I have a special question for you: what do you do in your free time?
+ I guessed that! And do you enjoy that a lot, a bit or not at all?
+ May I ask you a personal question?
+ Thanks! You have the patience and wisdom of a born Jedi!
+ If you only had 20 minutes of free time each day, how would you spend them?
+ Hmm... why on that and not on anything else?
+#`end chatbot
