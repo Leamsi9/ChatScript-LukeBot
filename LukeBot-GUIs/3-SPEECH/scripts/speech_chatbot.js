@@ -2,9 +2,9 @@
 // http://stephenwalther.com/archive/2015/01/05/using-html5-speech-recognition-and-text-to-speech
 //---------------------------------------------------------------------------------------------------
 
-
+voices = []
 window.speechSynthesis.onvoiceschanged = function() {
-    voices = window.speechSynthesis.getVoices()}
+     voices = window.speechSynthesis.getVoices()}
 
 function speak(text, callback) {
     let u = new SpeechSynthesisUtterance();
@@ -24,6 +24,7 @@ function speak(text, callback) {
     };
 
     u.onerror = function (e) {
+        console.log(e.error);
         if (callback) {
             callback(e);
         }
@@ -66,16 +67,19 @@ if (!('webkitSpeechRecognition' in window)) {
     };
     recognition.onerror = function(event) {
         if (event.error == 'no-speech') {
+            console.log(event.error)
             start_img.src = 'assets/mic.gif';
             info.innerHTML = "You did not say anything.";
             ignore_onend = true;
         }
         if (event.error == 'audio-capture') {
+            console.log(event.error)
             start_img.src = 'assets/mic.gif';
             info.innerHTML = "You need a microphone.";
             ignore_onend = true;
         }
         if (event.error == 'not-allowed') {
+            console.log(event.error)
             if (event.timeStamp - start_timestamp < 100) {
                 //Added more detailed message to unblock access to microphone.
                 info.innerHTML = " I am blocked. In Chrome go to settings. Click Advanced Settings at the bottom. Under Privacy click the Content Settings button. Under Media click Manage Exceptions Button. Remove this site from the blocked sites list. ";

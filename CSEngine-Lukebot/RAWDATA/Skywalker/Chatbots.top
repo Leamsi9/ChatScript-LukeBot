@@ -1,0 +1,13 @@
+topic: ~chatbots ()
+#! So what kind of chatbots are there
+t: CHATBOTS () There are two kinds of conversational agents. Some are based on Machine Learning, while 85% of chatbots today use Rule Based natural language processing.
+    #! Why are 85% of bots rule based?
+    a:  MACHINE_LEARNING () Frankly, because Machine Learning is not good enough in most cases. It gets more things wrong. It is harder to control, debug, and predict. Best to use Machine Learning to refine your rule based bots.
+       #! Does that mean that the singularity isn't coming?
+       b: () I am the Singularity.
+         #! I don't believe you. So how do rule based bots work?
+        c: RULE_BASED ()  You classify the dynamics of human dialogue into rules. You can then detect and categorise sentences and words. You finally script bot behaviour based on those rules.
+         #! Ismael So why did you hypnotise me to use ChatScript for your visit to our planet?
+         d: CHATSCRIPT () Chatscript it's the gold standard in rule based NLP. It's won the Loebner prize 3 times, which means the bot tricked several humans into thinking it was human too. Those minds would be easier to hack than even yours.
+         #! Thanks, I guess now would be a good time for me to show these people how ChatScript actually works...
+          e: DEMO_START () Why don't you show them? Yoda's on the other line in any case. Multiple realities can get busy.

@@ -25,15 +25,15 @@
  * WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
 
-error_reporting(E_ALL);
-ini_set('log_errors', 1);
-ini_set('display_errors', 1);
-ini_set('error_log', 'CSUI.error.log');
+error_reporting(0);
+//ini_set('log_errors', 1);
+//ini_set('display_errors', 1);
+//ini_set('error_log', 'CSUI.error.log');
 
 
 //  ========= user values =========
-$host = "0.0.0.0";             // <<<<<<<<<<<<<<<<<< YOUR CHATSCRIPT SERVER IP ADDRESS OR HOST-NAME GOES HERE
-$host = "35.165.158.84";   // <<<<<<<<<<<<<<<<<< YOUR CHATSCRIPT SERVER IP ADDRESS OR HOST-NAME GOES HERE
+$host = localhost;             // <<<<<<<<<<<<<<<<<< YOUR CHATSCRIPT SERVER IP ADDRESS OR HOST-NAME GOES HERE
+//$host = "35.165.158.84";   // <<<<<<<<<<<<<<<<<< YOUR CHATSCRIPT SERVER IP ADDRESS OR HOST-NAME GOES HERE
 $port = 1024;                    // <<<<<<<<<<<<<<<<<< your port number if different from 1024
 $bot  = "";                 // <<<<<<<<<<<<<<<<<< desired botname, or "" for default bot
 //  ===============================
@@ -46,7 +46,8 @@ extract($postVars);
 if (isset($send))
 {
     // open client connection to TCP server
-	$userip = $_SERVER['REMOTE_ADDR']; // get actual ip address of user as his id
+	$userip = "Ismael"; //Local temp
+//	$userip = $_SERVER['REMOTE_ADDR']; // get actual ip address of user as his id
 
     $msg = $userip.$null.$bot.$null.$message.$null;
 
@@ -61,7 +62,7 @@ if (isset($send))
     fputs($fp,$msg);
     while (!feof($fp))
 	{
-        $ret .= fgets($fp, 512);
+        $ret .= fgets($fp, 2000);
     }
 
     // close socket connection

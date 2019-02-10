@@ -1,0 +1,24 @@
+﻿USERS/topic_i_harry.txt
+jul2116 Feb03'19-18:28:48 0 0 |
+1 0 0 DY 0 22 22 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions #pending
+#`end topics
+$shutup=1
+$singleresponse=1
+$botprompt=HARRY: 
+$userprompt=i: >
+$cs_control_main=~control
+$cs_token=75726583
+$cs_login=i
+$cs_bot=Harry
+$cs_randindex=1550
+$cs_trace=0
+$cs_time=0
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+#`end user
+ Welcome to ChatScript.
+#`end chatbot

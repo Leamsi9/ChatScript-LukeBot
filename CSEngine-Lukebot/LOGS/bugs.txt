@@ -1,58 +1,19 @@
-﻿No such directory VERIFY/*
+﻿No such directory RAWDATA/Luke/*
 
-MinReleaseStackGap 86MB MinHeapAvailable 87MB
-MaxBuffers used 5 of 80
+No such directory RAWDATA/Luke/*
 
-BUG in filesluke.txt at 0: ^:1 No such directory VERIFY/*
+BUG in presentation.top at 9:     a: I used the Force to hack your feeble brain, and made you code me a ChatScript bot. The Force is weak with this one. 
+RULE-3 Missing pattern for responder
 
-MinReleaseStackGap 86MB MinHeapAvailable 87MB
-MaxBuffers used 2 of 80
+BUG in presentation.top at 21:     a: Frankly, because Machine Learning is not good enough in most cases, and is harder to control, debug, and predict. Of course some people use Machine Learning to help them refine their rule based bots. 
+RULE-3 Missing pattern for responder
 
-No such directory VERIFY/*
+BUG in Chatbots.top at 1: topic ~chatbots () 
+FILE-1 Unknown top-level declaration topic in RAWDATA/Skywalker/Chatbots.top
 
-MinReleaseStackGap 86MB MinHeapAvailable 87MB
-MaxBuffers used 5 of 80
+BUG in Chatbots.top at 3: t: CHATBOTS () There are two kinds of conversational agents. Some are based on Machine Learning, while 85% of chatbots today use Rule Based natural language processing. 
+FILE-1 Unknown top-level declaration t: in RAWDATA/Skywalker/Chatbots.top
 
-BUG in filesharry.txt at 0: #context  No such directory VERIFY/*
-
-MinReleaseStackGap 86MB MinHeapAvailable 87MB
-MaxBuffers used 5 of 80
-
-BUG in childhood.top at 6: t: Did you run away from home when you were little?  Error opening utf8writeappend file VERIFY/childhood-b1.txt: No such file or directory
-
-
-BUG: Sat Feb 02 17:55:59 2019: input:2 TCP 127.0.0.1 closed connection prematurely
- caller:ismael callee:luke at  in sentence: ss
-TCP 127.0.0.1 closed connection prematurely
-
-MinReleaseStackGap 86MB MinHeapAvailable 87MB
-MaxBuffers used 5 of 80
-
-
-BUG: Sat Feb 02 17:56:26 2019: input:2 TCP 127.0.0.1 closed connection prematurely
- caller:ismael callee:luke at  in sentence: ss
-TCP 127.0.0.1 closed connection prematurely
-
-MinReleaseStackGap 86MB MinHeapAvailable 87MB
-MaxBuffers used 5 of 80
-
-TCP 127.0.0.1 closed connection prematurely
-
-MinReleaseStackGap 86MB MinHeapAvailable 87MB
-MaxBuffers used 5 of 80
-
-TCP 127.0.0.1 closed connection prematurely
-
-MinReleaseStackGap 86MB MinHeapAvailable 87MB
-MaxBuffers used 5 of 80
-
-TCP 127.0.0.1 closed connection prematurely
-
-MinReleaseStackGap 86MB MinHeapAvailable 87MB
-MaxBuffers used 5 of 80
-
-TCP 127.0.0.1 closed connection prematurely
-
-MinReleaseStackGap 86MB MinHeapAvailable 87MB
-MaxBuffers used 5 of 80
+BUG in simplecontrol.top at 57:       u: ()gambit(~chatbots)) 
+OUTPUT-3 Unbalanced ) in 
 

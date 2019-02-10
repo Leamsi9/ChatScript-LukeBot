@@ -1,0 +1,69 @@
+﻿Command: :build 0
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1551 (~presentation) 0 ==> I'm not sure whether to ask a question or simply read your mind  When:Feb10'19-01:39:09 Why:~control.7.0  Version:9.0 Build0:Feb10'19-01:23:33 Build1:Feb10'19-01:39:04 0:Feb10'19-01:39:09 F:0 P:0
+Command: :reset
+Start: user:i bot:skywalker ip: rand:1551 (~presentation) 0 ==> I'm not sure whether to ask a question or simply read your mind  When:Feb10'19-01:40:19 Why:~control.7.0  Version:9.0 Build0:Feb10'19-01:23:33 Build1:Feb10'19-01:39:04 0:Feb10'19-01:39:09 F:0 P:0
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Great to be here too. My death was less enjoyable than manifesting my presence in PHP South West. I have to say however. The look on Kylo's face was worth it. What a loser.  When:Feb10'19-01:41:45 Why:~presentation.0.0=INTRO.~control.0.0  Version:9.0 Build0:Feb10'19-01:23:33 Build1:Feb10'19-01:41:39 0:Feb10'19-01:39:09 F:0 P:0
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> I used the Force to hack your feeble brain, and made you code me a ChatScript bot. Placing me in a bucket with my face stuck on was all you. Not amusing.  When:Feb10'19-01:42:29 Why:~presentation.0.1  Version:9.0 Build0:Feb10'19-01:23:33 Build1:Feb10'19-01:42:16 0:Feb10'19-01:39:09 F:0 P:0
+Respond: user:i bot:skywalker ip: (~presentation) 1   ::reset ==> I'm getting out of the movie racket - did you see my last movie title? The chatbot market is worth 250 million dollars now and is growing at a rate of 31% per year. It will be worth 1.24 billion in 6 years' time.  When:Feb10'19-01:43:04 Why:~presentation.0.3   F:86 
+Command: :reset
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Great to be here too. My death was less enjoyable than manifesting my presence in PHP South West. I have to say however. The look on Kylo's face was worth it. What a loser.  When:Feb10'19-01:43:10 Why:~presentation.0.0=INTRO.~control.0.0  Version:9.0 Build0:Feb10'19-01:23:33 Build1:Feb10'19-01:42:16 0:Feb10'19-01:39:09 F:0 P:Feb10'19-01:43:04
+Respond: user:i bot:skywalker ip: (~presentation) 1   So how are you even here? ==> I used the Force to hack your feeble brain, and made you code me a ChatScript bot. Placing me in a bucket with my face stuck on was all you. Not amusing.  When:Feb10'19-01:43:33 Why:~presentation.0.1   F:6 
+Respond: user:i bot:skywalker ip: (~presentation) 2   That's kinda weird. But how come you chose a chatbot? You could have hacked George Lucas to put you in the next Star Wars movie ==> I'm getting out of the movie racket - did you see my last movie title? The chatbot market is worth 250 million dollars now and is growing at a rate of 31% per year. It will be worth 1.24 billion in 6 years' time.  When:Feb10'19-01:44:39 Why:~presentation.0.3   F:33 
+Respond: user:i bot:skywalker ip: (~presentation) 3   You're getting in early I see ==> In it to win it.  When:Feb10'19-01:45:07 Why:~presentation.0.4   F:12 
+Respond: user:i bot:skywalker ip: (~presentation) 4   So how do I know you're not evil? ==> You could trust me on that.  When:Feb10'19-01:45:17 Why:~quibble_not.74.0.~quibble_all.0.0   F:8 
+Respond: user:i bot:skywalker ip: (~presentation) 5   But I don't ==> I'm not sure whether to ask a question or simply read your mind  When:Feb10'19-01:45:24 Why:~control.7.0   F:5 
+Respond: user:i bot:skywalker ip: (~presentation) 6   OK read my mind ==> I'm not sure whether to ask a question or simply read your mind  When:Feb10'19-01:45:33 Why:~control.7.0   F:8 
+Respond: user:i bot:skywalker ip: (~presentation) 7   ask a question ==> I'm not sure whether to ask a question or simply read your mind  When:Feb10'19-01:45:39 Why:~control.7.0   F:7 
+Respond: user:i bot:skywalker ip: (~presentation) 8   can you even answer? ==> Of course.  When:Feb10'19-01:46:27 Why:~quibble_can.71.0.~quibble_all.10.0   F:8 
+Respond: user:i bot:skywalker ip: (~presentation) 9   So how come can't ask me a question? ==> I'm not sure whether to ask a question or simply read your mind  When:Feb10'19-01:46:53 Why:~control.7.0   F:11 
+Respond: user:i bot:skywalker ip: (~presentation) 10   What is the meaning of life ==> The Force says The meaning of life, or the answer to the question \"What is the meaning of life?\", pertains to the significance of living or existence in general.  When:Feb10'19-01:47:05 Why:~keywordless.5.0.~control.7.0   F:304 
+Respond: user:i bot:skywalker ip: (~presentation) 11   And what is the answer? ==> The Force says Answer may refer to:  When:Feb10'19-01:47:16 Why:~keywordless.5.0.~control.7.0   F:226 
+Respond: user:i bot:skywalker ip: (~presentation) 12   That's not so helpful ==> I'm not sure whether to ask a question or simply read your mind  When:Feb10'19-01:47:33 Why:~control.7.0   F:6 
+Respond: user:i bot:skywalker ip: (~presentation) 13   not today ==> Can you say that more positively?  When:Feb10'19-01:47:46 Why:~quibble_not.154.0=MISCNOT1.~quibble_all.0.0   F:4 
+Respond: user:i bot:skywalker ip: (~presentation) 14   That's not today ==> I'm not sure whether to ask a question or simply read your mind  When:Feb10'19-01:47:54 Why:~control.7.0   F:5 
+Respond: user:i bot:skywalker ip: (~presentation) 15   What's the weather in Bristol? ==> The current weather in Bristol is light rain, which proves the Force is a nifty API.! What is the nature of life  When:Feb10'19-01:48:33 Why:~keywordless.1.0.~control.7.0   F:197 
+Start: user:i bot:skywalker ip: rand:1565 (~presentation) 15 ==> Hello  When:Feb10'19-03:18:50 Why:~presentation.0.0.~control.0.0  Version:9.0 Build0:Feb10'19-01:23:33 Build1:Feb10'19-02:54:27 0:Feb10'19-01:39:09 F:1549763313-17.1.0.20.7.0 P:Feb10'19-01:48:33
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1565 (~presentation) 15 ==> Delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.  When:Feb10'19-03:19:13 Why:~presentation.1.0=INTRO.~control.7.0  Version:9.0 Build0:Feb10'19-01:23:33 Build1:Feb10'19-03:18:59 0:Feb10'19-01:39:09 F:1549763313-17.1.0.20.7.0 P:Feb10'19-01:48:33
+Command: :reset
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Hello  When:Feb10'19-03:19:34 Why:~presentation.0.0.~control.0.0  Version:9.0 Build0:Feb10'19-01:23:33 Build1:Feb10'19-03:18:59 0:Feb10'19-01:39:09 F:1549763313-17.1.0.20.7.0 P:Feb10'19-01:48:33
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.  When:Feb10'19-03:20:04 Why:~presentation.1.0=INTRO.~control.7.0  Version:9.0 Build0:Feb10'19-01:23:33 Build1:Feb10'19-03:19:52 0:Feb10'19-01:39:09 F:1549763313-17.1.0.20.7.0 P:Feb10'19-01:48:33
+Command: :reset
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Hello  When:Feb10'19-03:20:17 Why:~presentation.0.0.~control.0.0  Version:9.0 Build0:Feb10'19-01:23:33 Build1:Feb10'19-03:19:52 0:Feb10'19-01:39:09 F:1549763313-17.1.0.20.7.0 P:Feb10'19-01:48:33
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.  When:Feb10'19-03:22:44 Why:~presentation.1.0=INTRO.~control.7.0  Version:9.0 Build0:Feb10'19-01:23:33 Build1:Feb10'19-03:19:52 0:Feb10'19-01:39:09 F:1549763313-17.1.0.20.7.0 P:Feb10'19-01:48:33
+Command: :reset
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Hello  When:Feb10'19-03:22:47 Why:~presentation.0.0.~control.0.0  Version:9.0 Build0:Feb10'19-01:23:33 Build1:Feb10'19-03:19:52 0:Feb10'19-01:39:09 F:1549763313-17.1.0.20.7.0 P:Feb10'19-01:48:33
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.  When:Feb10'19-03:24:38 Why:~presentation.1.0=INTRO.~control.7.0  Version:9.0 Build0:Feb10'19-01:23:33 Build1:Feb10'19-03:19:52 0:Feb10'19-01:39:09 F:1549763313-17.1.0.20.7.0 P:Feb10'19-01:48:33
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Two kinds really. Some are based on Machine Learning, while 85% of chatbots today use Rule Based natural language processing.  When:Feb10'19-03:24:59 Why:~presentation.2.0=CHATBOTS.~control.7.0  Version:9.0 Build0:Feb10'19-01:23:33 Build1:Feb10'19-03:24:47 0:Feb10'19-01:39:09 F:1549763313-17.1.0.20.7.0 P:Feb10'19-01:48:33
+Command: :reset
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Hello  When:Feb10'19-03:25:01 Why:~presentation.0.0.~control.0.0  Version:9.0 Build0:Feb10'19-01:23:33 Build1:Feb10'19-03:24:47 0:Feb10'19-01:39:09 F:1549763313-17.1.0.20.7.0 P:Feb10'19-01:48:33
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.  When:Feb10'19-03:28:06 Why:~presentation.1.0=INTRO.~control.7.0  Version:9.0 Build0:Feb10'19-01:23:33 Build1:Feb10'19-03:24:47 0:Feb10'19-01:39:09 F:1549763313-17.1.0.20.7.0 P:Feb10'19-01:48:33
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1551 (~presentation) 0 ==> I'm not sure whether to ask a question or simply read your mind  When:Feb10'19-03:28:23 Why:~control.7.0  Version:9.0 Build0:Feb10'19-01:23:33 Build1:Feb10'19-03:28:12 0:Feb10'19-01:39:09 F:1549763313-17.1.0.20.7.0 P:Feb10'19-01:48:33
+Command: :reset
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Hello  When:Feb10'19-03:28:27 Why:~presentation.0.0.~control.0.0  Version:9.0 Build0:Feb10'19-01:23:33 Build1:Feb10'19-03:28:12 0:Feb10'19-01:39:09 F:1549763313-17.1.0.20.7.0 P:Feb10'19-01:48:33
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.  When:Feb10'19-03:40:48 Why:~presentation.1.0=INTRO.~control.7.0  Version:9.0 Build0:Feb10'19-01:23:33 Build1:Feb10'19-03:33:59 0:Feb10'19-01:39:09 F:1549763313-17.1.0.20.7.0 P:Feb10'19-01:48:33
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> There are two kinds of conversational agents. Some are based on Machine Learning, while 85% of chatbots today use Rule Based natural language processing.  When:Feb10'19-03:41:02 Why:~presentation.2.0=CHATBOTS.~control.0.0  Version:9.0 Build0:Feb10'19-01:23:33 Build1:Feb10'19-03:40:50 0:Feb10'19-01:39:09 F:1549763313-17.1.0.20.7.0 P:Feb10'19-01:48:33
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1551 (~presentation) 0 ==> I'm not sure whether to ask a question or simply read your mind  When:Feb10'19-03:41:40 Why:~control.7.0.~control.7.0  Version:9.0 Build0:Feb10'19-01:23:33 Build1:Feb10'19-03:41:29 0:Feb10'19-01:39:09 F:1549763313-17.1.0.20.7.0 P:Feb10'19-01:48:33
+Command: :build Skywalker
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> 004  When:Feb10'19-03:47:22 Why:~control.7.0.~quibble_all.7.0  Version:9.0 Build0:Feb10'19-01:23:33 Build1:Feb10'19-03:47:09 0:Feb10'19-01:39:09 F:1549763313-17.1.0.20.7.0 P:Feb10'19-01:48:33
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1552 (~presentation) 0 ==> I'm not sure whether to ask a question or simply read your mind  When:Feb10'19-03:49:10 Why:~control.7.0.~quibble_all.7.0  Version:9.0 Build0:Feb10'19-01:23:33 Build1:Feb10'19-03:48:59 0:Feb10'19-01:39:09 F:1549763313-17.1.0.20.7.0 P:Feb10'19-01:48:33
+Command: :reset
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Hello  When:Feb10'19-03:49:14 Why:~presentation.0.0.~control.0.0  Version:9.0 Build0:Feb10'19-01:23:33 Build1:Feb10'19-03:48:59 0:Feb10'19-01:39:09 F:1549763313-17.1.0.20.7.0 P:Feb10'19-01:48:33
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.  When:Feb10'19-04:34:02 Why:~presentation.1.0=INTRO.~control.7.0  Version:9.0 Build0:Feb10'19-01:23:33 Build1:Feb10'19-04:14:20 0:Feb10'19-01:39:09 F:1549763313-17.1.0.20.7.0 P:Feb10'19-01:48:33
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> I used the Force to hack your feeble brain. Then I made you code me a ChatScript bot. The Force is weak with this one.  When:Feb10'19-04:34:18 Why:~presentation.1.1  Version:9.0 Build0:Feb10'19-01:23:33 Build1:Feb10'19-04:34:06 0:Feb10'19-01:39:09 F:1549763313-17.1.0.20.7.0 P:Feb10'19-01:48:33
+Respond: user:i bot:skywalker ip: (~presentation) 0   reset ==> I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.  When:Feb10'19-04:34:21 Why:~presentation.1.0=INTRO.~control.8.0   F:3 
+Respond: user:i bot:skywalker ip: (~presentation) 0   reset ==> I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.  When:Feb10'19-04:34:24 Why:~presentation.1.0=INTRO.~control.8.0   F:3 
+Respond: user:i bot:skywalker ip: (~presentation) 0   reset ==> I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.  When:Feb10'19-04:34:27 Why:~presentation.1.0=INTRO.~control.8.0   F:3 
+Command: :reset
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Hello  When:Feb10'19-04:34:35 Why:~presentation.0.0.~control.8.0  Version:9.0 Build0:Feb10'19-01:23:33 Build1:Feb10'19-04:34:06 0:Feb10'19-01:39:09 F:1549763313-17.1.0.20.7.0 P:Feb10'19-04:34:27

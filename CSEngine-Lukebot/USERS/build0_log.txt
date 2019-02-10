@@ -1,5 +1,4 @@
 ﻿ChatScript Version 9.0  compiled Jan 12 2019 20:51:21
-No such directory VERIFY/*
 
 >>Reading folder RAWDATA/ONTOLOGY/
 
@@ -1801,3 +1800,19 @@ Reading table ^tbl:tool
 Reading table ^tbl:videogames
 
 <<end folder RAWDATA/WORLDDATA
+
+WARNING SUMMARY: 
+  line 365 of concepts.top: Word thu only known in upper case
+  line 430 of concepts.top: last character of keyword f*** is punctuation. Is this intended?
+  line 433 of concepts.top: last character of keyword f*** is punctuation. Is this intended?
+  line 457 of concepts.top: Word guido only known in upper case
+  line 458 of concepts.top: Word jap only known in upper case
+  line 458 of concepts.top: Word jews only known in upper case
+  line 458 of concepts.top: Word mick only known in upper case
+  line 693 of concepts.top: Word toro only known in upper case
+  line 1802 of concepts.top: last character of keyword Google+ is punctuation. Is this intended?
+9 serious warnings, 0 function warnings, 0 spelling warnings, 25 case warnings, 0 substitution warnings
+    
+
+Finished compile
+

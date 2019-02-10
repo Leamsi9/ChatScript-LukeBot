@@ -1,0 +1,71 @@
+USERS/topic_ismael_skywalker.txt
+jul2116 Feb10'19-01:51:22 Feb10'19-04:30:35 1549767628-20.7.0 |
+1 23 0 DY 0 21 21 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~presentation ~chatbots #pending
+~chatbots + 1 EoWTn ia 9 0 0 
+~presentation + 1 130t3Js*Ok3 ma 3 0 0 
+#`end topics
+$cs_randindex=32
+$cs_bot=Skywalker
+$cs_login=Ismael
+$cs_token=67337983
+$cs_control_main=~control
+$userprompt=ismael: >
+$botprompt=Skywalker: 
+$singleresponse=1
+$cs_trace=0
+$cs_time=0
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ hi I&#39;m hoping that you managed it is time
+ if I&#39;m here
+ that&#39;s not very nice anyway why not just go for George Lucas and hack him and get him to take you to the Star Wars movie
+ getting in early AC
+ Maya the vast majority using rule-based instead of machine learning
+ Sonu danger of the singularity around the corner
+ what how do you make bots work then
+ Mrs chat script coming to this
+ SIA
+ what is the weather in Newport
+ and who is Rob Allen
+ who is Lucy of Alaska
+ what is PHP southwest
+ who is Rob Allen
+ who is Rob Allen who works in PHP
+ what is Maiden Academy
+ how do you code a chatbot
+ and how do you talk to people
+ I get to use
+ what is
+ what is serverless programming
+ what is an API
+ and what is PHP
+#`end user
+ Hello
+ I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.
+ I used the Force to hack your feeble brain. Then I made you code me a ChatScript bot. The Force is weak with this one.
+ George's brain is cleverer than yours. Plus the chatbot market is worth 250 million dollars now and is growing at a rate of 31% per year.
+ There are two kinds of conversational agents. Some are based on Machine Learning, while 85% of chatbots today use Rule Based natural language processing.
+ Frankly, because Machine Learning is not good enough in most cases. It gets more things wrong. It is harder to control, debug, and predict. Best to use Machine Learning to refine your rule based bots
+ I am the Singularity.
+ You classify the dynamics of human dialogue into rules. You can then detect and categorise sentences and words. You finally script bot behaviour based on those rules.
+ Chatscript it's the gold standard in rule based NLP. It's won the Loebner prize 3 times, which means the bot tricked several humans into thinking it was human too. Those minds would be easier to hack
+ Why don't you show them? Yoda's on the other line in any case. Multiple realities can get busy.
+ The current weather in Newport is moderate rain, which proves the Force is a nifty API.
+ A Russian mafioso?
+ I don't know who Lucy is.
+ The Force says
+ I'm not sure whether to ask a question or simply read your mind
+ I'm not sure whether to ask a question or simply read your mind
+ I know lots of things but I'm not the fount of all knowledge.
+ I just keep at it until I succeed.
+ I don't know. Can you tell me?
+ I'm not sure whether to ask a question or simply read your mind
+ What isn't?
+ I'm not sure whether to ask a question or simply read your mind
+ The Force says In computer programming, an application programming interface (API) is a set of subroutine definitions, communication protocols, and tools for building software.
+ The Force says PHP: Hypertext Preprocessor (or simply PHP) is a server-side scripting language designed for web development.
+#`end chatbot

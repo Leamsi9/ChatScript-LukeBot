@@ -2,65 +2,14 @@ body {
     background: #000
 }
 
-#responseHolder {
-    min-width: 400px;
-    min-height: 300px;
-    width: 80%;
-    height: 300px;
-    overflow: auto;
-    margin: 10px auto;
-    background-color: lightgrey;
-    border-radius: 12px;
-    padding: 10px;
-    font-family: Arial;
-    font-size: 12pt;
-    font-style: normal;
-    font-weight: normal;
-    bottom: 786px;
-}
-
 #formpanel {
-    min-width: 340px;
-    min-height: 128px;
-    width: 0%;
-    overflow: auto;
-    margin: 4px 0 0 10px;
-    font-family: Arial;
-    font-size: 10pt;
-    font-style: normal;
-    font-weight: normal;
-    background: black;
-    position: absolute;
-    top: 0%;
-    color: gold;
-    border-style: solid;
-    border-width: 1px;
-    border-radius: 12px;
-    border-color: darkgrey;
-}
-
-#form_table {
-    width: 100%;
-    overflow: auto;
-    margin: 0px auto;
-
-}
-
-#txtUser {
-    padding: 2px;
-}
-
-#txtMessage {
-    width: 95%;
-    right-margin: 5px;
-    padding: 2px;
-
+    display: none;
 }
 
 #speechcontainer {
-    position: relative;
+    position: absolute;
     left: 38%;
-    bottom: 1574px;
+
     margin: 10px auto;
     border-style: solid;
     border-width: 1px;
@@ -80,7 +29,11 @@ body {
 }
 
 #btnMicrophone {
-    margin: 34px
+    margin: 34px;
+    width: 140px;
+    height: 140px;
+    background-color: darkred;
+    border-radius: 50%;
 }
 
 #results {
@@ -92,22 +45,7 @@ body {
     margin: 10px;
 }
 
-.avatar_holder {
-    width: 31%;
-    overflow: hidden;
-    margin: 0 auto;;
-}
 
-.bot_avatar {
-    position: relative;
-    left: 82px;
-}
-
-.bot_avatar img {
-    height: 407px;
-    padding-bottom: 110px;
-    width: 273px;
-}
 
 .autosend {
     display: none;

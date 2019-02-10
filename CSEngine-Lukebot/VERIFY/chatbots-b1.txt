@@ -1,0 +1,6 @@
+﻿ ~chatbots.0.0 #! So what kind of chatbots are there
+     ~chatbots.0.1 #! Why are 85% of bots rule based?
+     ~chatbots.0.2 #! Does that mean that the singularity isn't coming?
+     ~chatbots.0.3 #! I don't believe you. So how do rule based bots work?
+     ~chatbots.0.4 #! Ismael So why did you hypnotise me to use ChatScript for your visit to our planet?
+     ~chatbots.0.5 #! Thanks, I guess now would be a good time for me to show these people how ChatScript actually works...

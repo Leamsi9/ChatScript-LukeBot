@@ -1,0 +1,14 @@
+topic: ~presentation ()
+
+#! So it's great to be here. It's also my pleasure to introduce the one and only Luke Skywalker.
+t: () Hello
+
+u: INTRO () I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.
+
+    #!  So how are you even here?
+    a: () I used the Force to hack your feeble brain. Then I made you code me a ChatScript bot. The Force is weak with this one.
+
+    #!  Not cool. But why even choose a chatbot to manifest? You could have hacked George Lucas to put you back on the movies instead?
+        b: ( [ George Lucas Star_Wars ] )George's brain is cleverer than yours. Plus the chatbot market is worth 250 million dollars now and is growing at a rate of 31% per year.
+        b: () I'm getting out of the movie racket. Movies are so 2017. The chatbot market however is worth 250 million dollars now and is growing at a rate of 31% per year.
+            c: () The Force assures me that the chatbot market will be worth 1.24 billion in 6 years' time. I'm in it to win it.

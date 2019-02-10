@@ -1,27 +1,9 @@
 ﻿ChatScript Version 9.0  compiled Jan 12 2019 20:51:21
 
->>Reading folder RAWDATA/HARRY/
+>>Reading folder RAWDATA/Skywalker/
 
-----Reading file childhood.top
-Reading topic ~childhood
-*** Warning- line 34 of childhood.top: Word "snake" known in multiple spellings snake Snake 
-*** Warning- line 59 of childhood.top: Word "as" known in multiple spellings as AS 
-
-----Reading file introductions.top
-Reading topic ~introductions
-
-----Reading file keywordless.top
-Reading topic ~keywordless
-
-----Reading file simplecontrol.top
-Reading outputmacro: ^harry
-Reading table ^tbl:defaultbot
-Reading topic ~control
-Reading topic ~xpostprocess
-
-<<end folder RAWDATA/HARRY
-
->>Reading folder RAWDATA/QUIBBLE/
+----Reading file Chatbots.top
+Reading topic ~chatbots
 
 ----Reading file eliza_because.top
 Reading topic ~quibble_because
@@ -33,6 +15,7 @@ Reading topic ~quibble_can
 *** Warning- line 27 of eliza_can.top: Word "in" known in multiple spellings in IN 
 *** Warning- line 34 of eliza_can.top: Word "an" known in multiple spellings an AN 
 *** Warning- line 35 of eliza_can.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 79 of eliza_can.top: Word "universe" known in multiple spellings universe Universe 
 
 ----Reading file eliza_do.top
 Reading topic ~quibble_do
@@ -44,11 +27,13 @@ Reading topic ~quibble_howmuch
 *** Warning- line 22 of eliza_how.top: Word "wood" known in multiple spellings wood Wood 
 *** Warning- line 22 of eliza_how.top: Word "wood" known in multiple spellings wood Wood 
 *** Warning- line 22 of eliza_how.top: Word "wood" known in multiple spellings wood Wood 
+*** Warning- line 29 of eliza_how.top: Word "friends" known in multiple spellings friends Friends 
 Reading topic ~quibble_how
 *** Warning- line 45 of eliza_how.top: Word "old" known in multiple spellings old Old 
 *** Warning- line 101 of eliza_how.top: Word "sweet" known in multiple spellings sweet Sweet 
 *** Warning- line 105 of eliza_how.top: Word "old" known in multiple spellings old Old 
 *** Warning- line 126 of eliza_how.top: Word "old" known in multiple spellings old Old 
+*** Warning- line 126 of eliza_how.top: Word "universe" known in multiple spellings universe Universe 
 *** Warning- line 147 of eliza_how.top: Word "day" known in multiple spellings day Day 
 *** Warning- line 156 of eliza_how.top: Word "in" known in multiple spellings in IN 
 *** Warning- line 216 of eliza_how.top: Word "guy" known in multiple spellings guy Guy 
@@ -62,7 +47,10 @@ Reading topic ~quibble_misc
 *** Warning- line 39 of eliza_misc.top: Word "as" known in multiple spellings as AS 
 *** Warning- line 46 of eliza_misc.top: Word "or" known in multiple spellings or OR 
 *** Warning- line 55 of eliza_misc.top: Word "day" known in multiple spellings day Day 
+*** Warning- line 64 of eliza_misc.top: Word "am" known in multiple spellings am AM 
 *** Warning- line 64 of eliza_misc.top: Word "in" known in multiple spellings in IN 
+*** Warning- line 68 of eliza_misc.top: Word "no_one" known in multiple spellings no_one No_one No_One 
+*** Warning- line 77 of eliza_misc.top: Word "lucky" known in multiple spellings lucky Lucky 
 *** Warning- line 93 of eliza_misc.top: Word "general" known in multiple spellings general General 
 *** Warning- line 98 of eliza_misc.top: Word "dollar" known in multiple spellings dollar Dollar 
 *** Warning- line 106 of eliza_misc.top: Word "as" known in multiple spellings as AS 
@@ -76,7 +64,12 @@ Reading topic ~quibble_misc
 *** Warning- line 382 of eliza_misc.top: Word "as" known in multiple spellings as AS 
 *** Warning- line 384 of eliza_misc.top: Word "in" known in multiple spellings in IN 
 *** Warning- line 389 of eliza_misc.top: Word "same" known in multiple spellings same Same 
+*** Warning- line 417 of eliza_misc.top: Word "no_one" known in multiple spellings no_one No_one No_One 
+*** Warning- line 417 of eliza_misc.top: Word "no_one" known in multiple spellings no_one No_one No_One 
+*** Warning- line 418 of eliza_misc.top: Word "no_one" known in multiple spellings no_one No_one No_One 
+*** Warning- line 418 of eliza_misc.top: Word "no_one" known in multiple spellings no_one No_one No_One 
 *** Warning- line 433 of eliza_misc.top: Word "us" known in multiple spellings us US 
+*** Warning- line 443 of eliza_misc.top: Word "no_one" known in multiple spellings no_one No_one No_One 
 *** Warning- line 453 of eliza_misc.top: Word "same" known in multiple spellings same Same 
 *** Warning- line 484 of eliza_misc.top: Word "in" known in multiple spellings in IN 
 *** Warning- line 486 of eliza_misc.top: Word "miss" known in multiple spellings miss Miss 
@@ -107,10 +100,14 @@ Reading topic ~quibble_misc
 *** Warning- line 812 of eliza_misc.top: Word "or" known in multiple spellings or OR 
 *** Warning- line 824 of eliza_misc.top: Word "or" known in multiple spellings or OR 
 *** Warning- line 830 of eliza_misc.top: Word "shape" known in multiple spellings shape SHAPE 
+*** Warning- line 917 of eliza_misc.top: Word "am" known in multiple spellings am AM 
+*** Warning- line 918 of eliza_misc.top: Word "am" known in multiple spellings am AM 
 
 ----Reading file eliza_not.top
 Reading topic ~quibble_not
+*** Warning- line 22 of eliza_not.top: Word "am" known in multiple spellings am AM 
 *** Warning- line 50 of eliza_not.top: Word "let" known in multiple spellings let LET 
+*** Warning- line 154 of eliza_not.top: Word "no_one" known in multiple spellings no_one No_one No_One 
 
 ----Reading file eliza_or.top
 Reading topic ~quibble_or
@@ -147,6 +144,7 @@ Reading topic ~quibble_what
 *** Warning- line 6 of eliza_what.top: Word "worth" known in multiple spellings worth Worth 
 *** Warning- line 20 of eliza_what.top: Word "in" known in multiple spellings in IN 
 *** Warning- line 29 of eliza_what.top: Word "worth" known in multiple spellings worth Worth 
+*** Warning- line 84 of eliza_what.top: Word "friends" known in multiple spellings friends Friends 
 *** Warning- line 93 of eliza_what.top: Word "in" known in multiple spellings in IN 
 *** Warning- line 135 of eliza_what.top: Word "romance" known in multiple spellings romance Romance 
 *** Warning- line 158 of eliza_what.top: Word "in" known in multiple spellings in IN 
@@ -176,67 +174,25 @@ Reading topic ~intent
 *** Warning- line 79 of honest.top: Word "me" known in multiple spellings me ME 
 Reading topic ~honest_response
 
+----Reading file keywordless.top
+Reading topic ~keywordless
+*** Warning- line 10 of keywordless.top: Word "in" known in multiple spellings in IN 
+
+----Reading file presentation.top
+Reading topic ~presentation
+
 ----Reading file quibble.top
 Reading topic ~quibble_all
 
-<<end folder RAWDATA/QUIBBLE
-*** Warning-  Undefined set or topic ~food line 22 in childhood.top
-*** Warning-  Undefined set or topic ~mythical_creatures line 28 in childhood.top
-*** Warning-  Undefined set or topic ~insects line 31 in childhood.top
-*** Warning-  Undefined set or topic ~animals line 37 in childhood.top
-*** Warning-  Undefined set or topic ~yesanswer line 13 in keywordless.top
-*** Warning-  Undefined set or topic ~more line 13 in keywordless.top
-*** Warning-  Undefined set or topic ~languages line 22 in eliza_can.top
-*** Warning-  Undefined set or topic ~want line 32 in eliza_do.top
-*** Warning-  Undefined set or topic ~like line 38 in eliza_do.top
-*** Warning-  Undefined set or topic ~help line 51 in eliza_do.top
-*** Warning-  Undefined set or topic ~qwords line 163 in eliza_misc.top
-*** Warning-  Undefined set or topic ~opinion line 213 in eliza_misc.top
-*** Warning-  Undefined set or topic ~locatedentity line 315 in eliza_misc.top
-*** Warning-  Undefined set or topic ~make_love line 407 in eliza_misc.top
-*** Warning-  Undefined set or topic ~category line 446 in eliza_misc.top
-*** Warning-  Undefined set or topic ~noanswer line 478 in eliza_misc.top
-*** Warning-  Undefined set or topic ~example line 595 in eliza_misc.top
-*** Warning-  Undefined set or topic ~time_reference line 744 in eliza_misc.top
-*** Warning-  Undefined set or topic ~choose line 787 in eliza_misc.top
-*** Warning-  Undefined set or topic ~why line 6 in eliza_or.top
-*** Warning-  Undefined set or topic ~opinionset line 183 in eliza_what.top
-*** Warning-  Undefined set or topic ~negativeemotions line 99 in eliza_why.top
-*** Warning-  Undefined set or topic ~emocurse line 47 in honest.top
-*** Warning-  Undefined set or topic ~bodily_states line 62 in honest.top
-*** Warning-  Undefined set or topic ~tell line 90 in honest.top
-*** Warning-  Undefined set or topic ~opinion_verbs line 99 in honest.top
-*** Warning-  Undefined set or topic ~list line 131 in honest.top
+----Reading file simplecontrol.top
+Reading outputmacro: ^skywalker
+Reading table ^tbl:defaultbot
+Reading topic ~control
+
+<<end folder RAWDATA/Skywalker
 
 WARNING SUMMARY: 
-  line 1 of : Undefined set or topic ~food line 22 in childhood.top
-  line 2 of : Undefined set or topic ~mythical_creatures line 28 in childhood.top
-  line 3 of : Undefined set or topic ~insects line 31 in childhood.top
-  line 4 of : Undefined set or topic ~animals line 37 in childhood.top
-  line 5 of : Undefined set or topic ~yesanswer line 13 in keywordless.top
-  line 6 of : Undefined set or topic ~more line 13 in keywordless.top
-  line 9 of : Undefined set or topic ~languages line 22 in eliza_can.top
-  line 10 of : Undefined set or topic ~want line 32 in eliza_do.top
-  line 11 of : Undefined set or topic ~like line 38 in eliza_do.top
-  line 12 of : Undefined set or topic ~help line 51 in eliza_do.top
-  line 13 of : Undefined set or topic ~qwords line 163 in eliza_misc.top
-  line 14 of : Undefined set or topic ~opinion line 213 in eliza_misc.top
-  line 15 of : Undefined set or topic ~locatedentity line 315 in eliza_misc.top
-  line 16 of : Undefined set or topic ~make_love line 407 in eliza_misc.top
-  line 17 of : Undefined set or topic ~category line 446 in eliza_misc.top
-  line 18 of : Undefined set or topic ~noanswer line 478 in eliza_misc.top
-  line 19 of : Undefined set or topic ~example line 595 in eliza_misc.top
-  line 20 of : Undefined set or topic ~time_reference line 744 in eliza_misc.top
-  line 21 of : Undefined set or topic ~choose line 787 in eliza_misc.top
-  line 22 of : Undefined set or topic ~why line 6 in eliza_or.top
-  line 23 of : Undefined set or topic ~opinionset line 183 in eliza_what.top
-  line 24 of : Undefined set or topic ~negativeemotions line 99 in eliza_why.top
-  line 25 of : Undefined set or topic ~emocurse line 47 in honest.top
-  line 26 of : Undefined set or topic ~bodily_states line 62 in honest.top
-  line 27 of : Undefined set or topic ~tell line 90 in honest.top
-  line 28 of : Undefined set or topic ~opinion_verbs line 99 in honest.top
-  line 29 of : Undefined set or topic ~list line 131 in honest.top
-27 serious warnings, 0 function warnings, 0 spelling warnings, 113 case warnings, 0 substitution warnings
+0 serious warnings, 0 function warnings, 0 spelling warnings, 128 case warnings, 0 substitution warnings
     
 
 Finished compile

@@ -1,36 +1,22 @@
-# This is the main control script. Start here to trace the ChatScript processing steps. 
-# When you see this "#", anything after this is a comment, it is not code that is executed. 
+# This is the main control script. Start here to trace the ChatScript processing steps.
+# When you see this "#", anything after this is a comment, it is not code that is executed.
 # For example, this line is a comment.
 
-# this function is executed once for every new user chatting with harry
-outputmacro: harry()  # you get harry by default
-# The $cs_token is set to a variety of features I want for tokenizing inpu.
+# this function is executed once for every new user chatting with Luke
+outputmacro: Luke()  # you get harry by default
 $cs_token = #DO_INTERJECTION_SPLITTING  | #DO_SUBSTITUTE_SYSTEM   | #DO_NUMBER_MERGE | #DO_DATE_MERGE  | #DO_PROPERNAME_MERGE  | #DO_SPELLCHECK  | #DO_PARSE 
-$cs_token += #SPLIT_QUOTE | #NO_WITHIN | #STRICT_CASING
-$cs_token -= #DO_INTERJECTIONS
-
-# This sets the default topic to be using when running the system
-^addtopic(~introductions)
-
+$cs_token += #SPLIT_QUOTE | #NO_WITHIN
+^addtopic(~presentation)
 $cs_control_main = ~control
 # $cs_control_post = ~XPOSTPROCESS  # uncomment to enable talk
 # The postprocess topic I define will allow windows system to use verbal output
 $userprompt = ^"%user: >"
-$botprompt = ^"HARRY: "
-
-
-# This means, after one output is generated, no more will be reacted to.
-# Alternatively one might have a reaction to every single sentence in the user's input.
+$botprompt = ^"Luke: "
 $singleResponse = 1 # issue only 1 output message
-
-# windows can do voice output if the next line is removed
-$SHUTUP = 1
-
-# This tells the engine what bot to use if no botname is provided in the message
 table: defaultbot (^name)
 ^createfact(^name defaultbot defaultbot)
 DATA:
-harry
+Luke
 
 # This topic is what gets executed for every sentence of user input because
 # it is set in the bot macro as the control script. It is declared "system" because
@@ -140,7 +126,7 @@ u: () # main per-sentence processing
 	if (%response == $_responseCount)  # we failed, somehow, to find something to say to user. Say something
 	{
 		 ^repeat() 
-         I don't know what to say.
+         I'm not sure whether to ask a question or simply read your mind
 	}
 
 

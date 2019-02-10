@@ -1,0 +1,25 @@
+﻿USERS/topic_q_skywalker.txt
+jul2116 Feb10'19-03:33:56 0 0 |
+1 0 ~presentation ~Mb uV$OrIs*Ok3  DY 0 20 20 0 # start, input#, rejoindertopic,rejoinderid (a:  ( ) I used the Force to hack your feeble brain, and made you code me a ChatScript bot. The...   ),checksum
+~presentation #pending
+~presentation + 1 uV$OrIs*Ok3 ea 0 0 0 
+#`end topics
+$cs_randindex=1558
+$cs_bot=Skywalker
+$cs_login=q
+$cs_token=67337983
+$cs_control_main=~control
+$userprompt=q: >
+$botprompt=Skywalker: 
+$singleresponse=1
+$cs_trace=0
+$cs_time=0
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context ~presentation 0 INTRO 
+#`end user
+ Hello
+ I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.
+#`end chatbot
