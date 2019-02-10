@@ -67,3 +67,6 @@ Respond: user:i bot:skywalker ip: (~presentation) 0   reset ==> I'm also delight
 Respond: user:i bot:skywalker ip: (~presentation) 0   reset ==> I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.  When:Feb10'19-04:34:27 Why:~presentation.1.0=INTRO.~control.8.0   F:3 
 Command: :reset
 Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Hello  When:Feb10'19-04:34:35 Why:~presentation.0.0.~control.8.0  Version:9.0 Build0:Feb10'19-01:23:33 Build1:Feb10'19-04:34:06 0:Feb10'19-01:39:09 F:1549763313-17.1.0.20.7.0 P:Feb10'19-04:34:27
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.  When:Feb10'19-21:44:01 Why:~presentation.1.0=INTRO.~control.8.0  Version:9.0 Build0:Feb10'19-01:23:33 Build1:Feb10'19-04:34:06 0:Feb10'19-01:39:09 F:1549763313-17.1.0.20.7.0 P:Feb10'19-04:34:27
+Command: :reset
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Hello  When:Feb10'19-21:44:05 Why:~presentation.0.0.~control.8.0  Version:9.0 Build0:Feb10'19-01:23:33 Build1:Feb10'19-04:34:06 0:Feb10'19-01:39:09 F:1549763313-17.1.0.20.7.0 P:Feb10'19-04:34:27
