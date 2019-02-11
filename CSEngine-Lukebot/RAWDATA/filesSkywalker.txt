@@ -1,5 +1,26 @@
 # underlying conversation system
-RAWDATA/Skywalker/	
+RAWDATA/Skywalker/
+RAWDATA/Skywalker/SARAH/
+RAWDATA/Skywalker/SARAH/TOPICS/
+RAWDATA/Skywalker/SARAH/GROUP_MEDITATION/
+RAWDATA/Skywalker/SARAH/INTERVIEW/
+RAWDATA/Skywalker/SARAH/MIRRORING_PRACTICE/
+RAWDATA/Skywalker/SARAH/ZEB/
+RAWDATA\Skywalker\SARAH\ZEB\zebstuff
+
+# free chat
+RAWDATA/Skywalker/free_chat/
+RAWDATA/Skywalker/free_chat/Quibbles
+RAWDATA/Skywalker/free_chat/SPEECH_ACT
+
+
+
+
+
+
+
+
+
 
 
 

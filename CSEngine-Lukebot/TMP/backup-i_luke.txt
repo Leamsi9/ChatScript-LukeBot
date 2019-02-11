@@ -1,12 +1,14 @@
 ﻿USERS/topic_i_luke.txt
-jul2116 Feb03'19-18:28:23 Feb03'19-18:28:29 0 |
-2 1 0 DY 0 3 3 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
-#pending
+jul2116 Feb11'19-03:25:59 0 0 |
+1 0 0 DY 0 22 22 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions #pending
 #`end topics
 $singleresponse=1
 $botprompt=Luke: 
+$userprompt=i: >
+$cs_control_main=~control
 $cs_token=67337983
-$cs_login=I
+$cs_login=i
 $cs_bot=Luke
 $cs_randindex=1550
 $cs_trace=0
@@ -16,6 +18,6 @@ $cs_time=0
 #`end fact sets
 #`end user facts 0
 #context 
- :builf harry
 #`end user
+ Welcome to ChatScript.
 #`end chatbot

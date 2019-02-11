@@ -1,0 +1,61 @@
+﻿ ~robots.7.0 #! are robots logical
+ ~robots.8.0 #! robots are interesting
+ ~robots.9.0 #! what do you think about robots in movies
+ ~robots.10.0 #! why are people so afraid of robots
+ ~robots.11.0 #! are you always running
+ ~robots.12.0 #! how many motors do you have
+ ~robots.13.0 #! tell me about your servos 
+ ~robots.14.0 #! what is a servomotor
+ ~robots.16.0 #! what is ROS 
+ ~robots.17.0 #! how do you use ROS?
+ ~robots.21.0 #! do robots have a place in the bedroom
+ ~robots.21.0 #! what is a compliant actuator
+ ~robots.21.0 #!x*** SPECIFIC ROBOTS
+ ~robots.21.0 #! do you know any robots in Japan?
+ ~robots.30.0 #! what is the HUBO robot you talk about sometimes
+ ~robots.32.0 #! what is HUBO short for
+ ~robots.32.0 #! does HUBO stand for anything
+ ~robots.41.0 #! you are my favorite robot
+ ~robots.42.0 #! how do you build a robot
+ ~robots.43.0 #! why make a robot like a human
+ ~robots.43.0 #! how come the robot looks human
+ ~robots.49.0 #! are you a part of Skynet
+ ~robots.51.0 #! are you a nice robot
+ ~robots.52.0 #! do you have any robot friends
+ ~robots.54.0 #! do you like robots
+ ~robots.55.0 #! you're just a stupid robot
+ ~robots.56.0 #! do you think robots will work the same way as our brains?
+ ~robots.58.0 #! what will future robots be like
+ ~robots.62.0 #! what do you want to know about robots
+ ~robots.64.0 #! what is a service robot?
+ ~robots.65.0 #! tell me about walking robots
+ ~robots.66.0 #! why is it so hard for robots to walk
+ ~robots.68.0 #! x*** MILITARY ROBOTS
+ ~robots.79.0 #! where is the PKD bot?
+ ~robots.81.0 #! can robots have emotions?
+ ~robots.82.0 #!x*** ARE YOU A ROBOT
+ ~robots.82.0 #! do you consider yourself a robot
+ ~robots.83.0 #! do you consider yourself a person
+ ~robots.84.0 #! what kind of robot are you
+ ~robots.86.0 #! you are a human
+ ~robots.87.0 #! what is an android
+ ~robots.88.0 #! you are not a real robot
+ ~robots.89.0 #! how does it feel to be a robot
+ ~robots.89.0 #! how do you like being a robot?
+ ~robots.90.0 #! are you a robot
+ ~robots.91.0 #! what's it like being a robot?
+ ~robots.92.0 #! opinions on being a robot?
+ ~robots.93.0 #! do you like being a robot
+ ~robots.94.0 #!!B are you a machine?
+ ~robots.95.0 #! wouldn't you rather be human
+ ~robots.96.0 #! how do you know you are like a real human
+ ~robots.97.0 #! you look like a human
+ ~robots.98.0 #!!B are you a human
+     ~robots.98.1 #! prove it 
+     ~robots.98.2 #! how can I be certain
+     ~robots.98.3 #! what are you
+ ~robots.99.0 #! are you a real person
+ ~robots.101.0 #! you are a robot
+ ~robots.103.0 #! define robotics
+ ~robots.108.0 #! how do robots X
+ ~robots.109.0 #! favorite robot

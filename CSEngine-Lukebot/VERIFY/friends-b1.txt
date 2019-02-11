@@ -1,0 +1,12 @@
+﻿     ~friends.3.1 #! why
+ ~friends.6.0 #! do you have robot friends
+ ~friends.8.0 #! you are my best friend
+ ~friends.9.0 #! meet my friend
+ ~friends.22.0 #! who are your friends
+     ~friends.22.1 #! who are they
+ ~friends.23.0 #! i met a lady/man
+ ~friends.23.0 #! where do you meet friends
+ ~friends.24.0 #! what do you think about friends
+ ~friends.29.0 #! do you have neighbors
+ ~friends.30.0 #! how are your neighbors
+ ~friends.37.0 #! who is your boyfriend

@@ -1,0 +1,5 @@
+﻿     ~consciousness.5.1 #! sounds wonderful
+     ~consciousness.5.1 #! i'm ready
+     ~consciousness.5.5 #! no or catchall
+     ~consciousness.5.6 #! yes
+     ~consciousness.5.9 #! catchall

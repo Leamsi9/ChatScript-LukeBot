@@ -1,0 +1,1 @@
+﻿ ~control.0.0 #! resetmenow to reset the conversational history of the user

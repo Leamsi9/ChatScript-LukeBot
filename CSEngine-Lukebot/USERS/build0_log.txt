@@ -498,7 +498,6 @@ Reading concept ~explosive_weapon
 Reading concept ~extremities
 Reading concept ~fabric_store
 Reading concept ~fairytale_characters
-Reading concept ~fake_religious_sect
 Reading concept ~family_adult
 Reading concept ~family_adult_female
 Reading concept ~family_adult_generic
@@ -569,7 +568,7 @@ Reading concept ~fire_department
 Reading concept ~fire_force
 Reading concept ~firearmor
 Reading concept ~fishes
-*** Warning- line 693 of concepts.top: Word toro only known in upper case
+*** Warning- line 692 of concepts.top: Word toro only known in upper case
 Reading concept ~fishmonger
 Reading concept ~flame_weapon
 Reading concept ~flammable
@@ -702,7 +701,6 @@ Reading concept ~japanesewords
 Reading concept ~jeweller
 Reading concept ~jewelry_items
 Reading concept ~job
-Reading concept ~job_fields
 Reading concept ~job_fields_medicine
 Reading concept ~juice_drinks
 Reading concept ~junk_food
@@ -727,7 +725,7 @@ Reading concept ~liquid_container
 Reading concept ~liquid_containers
 Reading concept ~liquid_poisons
 Reading concept ~liquid_quantity
-*** Warning- line 1008 of concepts.top: Word "pt" known in multiple spellings pt Pt 
+*** Warning- line 1003 of concepts.top: Word "pt" known in multiple spellings pt Pt 
 Reading concept ~liquids
 Reading concept ~liquor_store
 Reading concept ~living_room_items
@@ -793,7 +791,6 @@ Reading concept ~mother
 Reading concept ~mountain
 Reading concept ~mountain_sports
 Reading concept ~movers
-Reading concept ~movie_genres
 Reading concept ~movie_rating
 Reading concept ~movie_store
 Reading concept ~moviestuff
@@ -803,7 +800,6 @@ Reading concept ~music_groups
 Reading concept ~music_store
 Reading concept ~music_stuff
 Reading concept ~music_subjects
-Reading concept ~musical_genres
 Reading concept ~musical_instrument
 Reading concept ~musical_instruments_brass
 Reading concept ~musical_instruments_percussion
@@ -817,9 +813,9 @@ Reading concept ~mythical_intelligent_being
 Reading concept ~name
 Reading concept ~nanowords
 Reading concept ~nationalityhate
-*** Warning- line 1326 of concepts.top: Word "bogan" known in multiple spellings bogan Bogan 
-*** Warning- line 1327 of concepts.top: Word "lowlander" known in multiple spellings lowlander Lowlander 
-*** Warning- line 1328 of concepts.top: Word "pogue" known in multiple spellings pogue Pogue 
+*** Warning- line 1316 of concepts.top: Word "bogan" known in multiple spellings bogan Bogan 
+*** Warning- line 1317 of concepts.top: Word "lowlander" known in multiple spellings lowlander Lowlander 
+*** Warning- line 1318 of concepts.top: Word "pogue" known in multiple spellings pogue Pogue 
 Reading concept ~natural_disasters
 Reading concept ~natural_words
 Reading concept ~negation
@@ -863,7 +859,7 @@ Reading concept ~occupation_entertainment
 Reading concept ~occupation_esthetics
 Reading concept ~occupation_explorer
 Reading concept ~occupation_factory
-*** Warning- line 1387 of concepts.top: Word "boilermaker" known in multiple spellings boilermaker Boilermaker 
+*** Warning- line 1377 of concepts.top: Word "boilermaker" known in multiple spellings boilermaker Boilermaker 
 Reading concept ~occupation_female
 Reading concept ~occupation_film
 Reading concept ~occupation_food
@@ -977,12 +973,6 @@ Reading concept ~red_other
 Reading concept ~region
 Reading concept ~related_list
 Reading concept ~reliability_words
-Reading concept ~religion_kind
-Reading concept ~religionhate
-Reading concept ~religious_buildings
-Reading concept ~religious_groups
-Reading concept ~religious_leaders
-Reading concept ~religious_sect
 Reading concept ~reptiles
 Reading concept ~restaurant
 Reading concept ~result
@@ -1060,7 +1050,6 @@ Reading concept ~shoe_store
 Reading concept ~shootable
 Reading concept ~shopping_stores
 Reading concept ~sicknesses
-*** Warning- line 1784 of concepts.top: Word "fibromyalgia" known in multiple spellings fibromyalgia Fibromyalgia 
 Reading concept ~similar
 Reading concept ~singinglist
 Reading concept ~singular
@@ -1073,8 +1062,8 @@ Reading concept ~soappolish
 Reading concept ~soccer_teams
 Reading concept ~social_issues
 Reading concept ~social_network_sites
-*** Warning- line 1802 of concepts.top: last character of keyword Google+ is punctuation. Is this intended?
-*** Warning- line 1802 of concepts.top: Word "hi" known in multiple spellings hi HI 
+*** Warning- line 1779 of concepts.top: last character of keyword Google+ is punctuation. Is this intended?
+*** Warning- line 1779 of concepts.top: Word "hi" known in multiple spellings hi HI 
 Reading concept ~social_science_subjects
 Reading concept ~societal_data
 Reading concept ~softdrinks
@@ -1134,11 +1123,11 @@ Reading concept ~throwable
 Reading concept ~throwing_weapon
 Reading concept ~time_circadian_reference
 Reading concept ~time_instant
-*** Warning- line 1897 of concepts.top: Word "a.d." known in multiple spellings a.d. A.D. 
-*** Warning- line 1897 of concepts.top: Word "b.c." known in multiple spellings b.c. B.C. 
+*** Warning- line 1874 of concepts.top: Word "a.d." known in multiple spellings a.d. A.D. 
+*** Warning- line 1874 of concepts.top: Word "b.c." known in multiple spellings b.c. B.C. 
 Reading concept ~time_item
 Reading concept ~time_reference
-*** Warning- line 1905 of concepts.top: Word "bc" known in multiple spellings bc BC 
+*** Warning- line 1882 of concepts.top: Word "bc" known in multiple spellings bc BC 
 Reading concept ~time_unit
 Reading concept ~timebasedreference
 Reading concept ~timeearlier
@@ -1163,7 +1152,6 @@ Reading concept ~tv_network
 Reading concept ~tvstuff
 Reading concept ~unfocused_groups
 Reading concept ~unitmeasure
-Reading concept ~university
 Reading concept ~unknownsexhuman
 Reading concept ~unreachable
 Reading concept ~us_minorities
@@ -1240,6 +1228,257 @@ Reading concept ~yellow
 Reading concept ~yellow_other
 Reading concept ~yesanswer
 Reading concept ~noanswer
+Reading concept ~positive_emotions
+Reading concept ~inner_peace
+Reading concept ~virtues
+Reading concept ~intelligent_virtues
+Reading concept ~compassionate_virtues
+Reading concept ~sp_religious_virtues
+Reading concept ~sp_religious_vices
+Reading concept ~emotional_problems
+Reading concept ~character_problems
+Reading concept ~antisocial_traits
+Reading concept ~mean_traits
+Reading concept ~angry_traits
+Reading concept ~stress
+Reading concept ~proud_traits
+Reading concept ~neg_proud_traits
+Reading concept ~solipsism_traits
+Reading concept ~psychotic_traits
+Reading concept ~desire_traits
+Reading concept ~unrestrained_traits
+Reading concept ~manic_traits
+Reading concept ~neurotic_traits
+Reading concept ~depressive_traits
+Reading concept ~mourning_traits
+Reading concept ~lonely
+Reading concept ~detachment_traits
+Reading concept ~disharmony_traits
+Reading concept ~discontent_traits
+Reading concept ~revulsion_traits
+Reading concept ~repressive_traits
+Reading concept ~weakness_traits
+Reading concept ~low_self-esteem_traits
+Reading concept ~shame_traits
+Reading concept ~reclusive_traits
+Reading concept ~paranoid_traits
+Reading concept ~notparanoidenough_traits
+Reading concept ~victimized_traits
+Reading concept ~attachmenttopast_traits
+Reading concept ~shockandtrauma
+Reading concept ~traumatic_things
+Reading concept ~very_traumatic_things
+Reading concept ~nonlethal_violent_acts
+Reading concept ~lethal_violent_acts
+Reading concept ~violent_acts
+Reading concept ~doubtful
+Reading concept ~romantic_problems
+Reading concept ~sexual_problems
+Reading concept ~music
+Reading concept ~musical_genres
+Reading concept ~arab_music
+Reading concept ~religious_music
+Reading concept ~movie_genres
+Reading concept ~veryevil_movies
+Reading concept ~porn_movies
+Reading concept ~art
+Reading concept ~movies
+Reading concept ~fine_art
+Reading concept ~creative_actions
+Reading concept ~busy
+Reading concept ~grade_level
+Reading concept ~schooling_level
+Reading concept ~university
+Reading concept ~naughty
+Reading concept ~break-up
+Reading concept ~infidelity
+Reading concept ~dunnoe
+Reading concept ~notsaying
+Reading concept ~therapy_discuss
+Reading concept ~great
+Reading concept ~so-so
+Reading concept ~kinda
+Reading concept ~many
+Reading concept ~politics
+Reading concept ~ideological_group
+Reading concept ~fake_religious_sect
+Reading concept ~satanism
+Reading concept ~religious_sect
+Reading concept ~polytheist_sect
+Reading concept ~islamic_sect
+*** Warning- line 2242 of concepts.top: Word "muslim" known in multiple spellings muslim Muslim 
+Reading concept ~sufi_order
+Reading concept ~sufi
+*** Warning- line 2246 of concepts.top: Word "sufism" known in multiple spellings sufism Sufism 
+Reading concept ~christian_sect
+Reading concept ~buddhist_sect
+Reading concept ~jewish_sect
+Reading concept ~hindu_sect
+Reading concept ~sikh_sect
+Reading concept ~baha'i_sect
+Reading concept ~taoist_sect
+Reading concept ~jain_sect
+Reading concept ~zoroastrian_sect
+Reading concept ~zoroastrian_sect_monotheistic
+Reading concept ~tengriist_sect
+Reading concept ~shamanism_like_religion
+Reading concept ~chinese_religion
+Reading concept ~sabian_sect
+Reading concept ~extremist_sect
+Reading concept ~religion_kind
+Reading concept ~religionhate
+Reading concept ~religious_buildings
+Reading concept ~religious_groups
+Reading concept ~religious_leaders
+Reading concept ~eschatology
+Reading concept ~afterlife
+*** Warning- line 2289 of concepts.top: Word "valhalla" known in multiple spellings valhalla Valhalla 
+*** Warning- line 2289 of concepts.top: Word "hades" known in multiple spellings hades Hades 
+Reading concept ~philosophy
+Reading concept ~ontology
+Reading concept ~philosophical_sect
+Reading concept ~platonism
+*** Warning- line 2299 of concepts.top: Word "platonism" known in multiple spellings platonism Platonism 
+Reading concept ~willtopower
+Reading concept ~perennialism
+*** Warning- line 2303 of concepts.top: Word "perennialist" known in multiple spellings perennialist Perennialist 
+Reading concept ~essentialism
+Reading concept ~materialism
+Reading concept ~atomism
+Reading concept ~positivism
+Reading concept ~constructionism
+Reading concept ~existentialism
+*** Warning- line 2315 of concepts.top: Word "sartre" known in multiple spellings sartre Sartre 
+*** Warning- line 2315 of concepts.top: Word "heidegger" known in multiple spellings heidegger Heidegger 
+*** Warning- line 2315 of concepts.top: Word "dostoyevsky" known in multiple spellings dostoyevsky Dostoyevsky 
+*** Warning- line 2315 of concepts.top: Word "kierkegaard" known in multiple spellings kierkegaard Kierkegaard 
+Reading concept ~nominalism
+Reading concept ~reptilianconspiracytheory
+Reading concept ~against_religion_group
+*** Warning- line 2323 of concepts.top: Word "marxism" known in multiple spellings marxism Marxism 
+*** Warning- line 2323 of concepts.top: Word "marxist" known in multiple spellings marxist Marxist 
+*** Warning- line 2323 of concepts.top: Word "marxist-leninist" known in multiple spellings marxist-leninist Marxist-Leninist 
+*** Warning- line 2323 of concepts.top: Word "maoist" known in multiple spellings maoist Maoist 
+*** Warning- line 2323 of concepts.top: Word "maoism" known in multiple spellings maoism Maoism 
+Reading concept ~theocratic_group
+Reading concept ~religion
+Reading concept ~specific_religious_beliefs
+Reading concept ~theological_beliefs
+Reading concept ~theological_dualism
+Reading concept ~explicit_monotheism
+Reading concept ~explicit_monism
+*** Warning- line 2339 of concepts.top: Word "barelvism" known in multiple spellings barelvism Barelvism 
+Reading concept ~metaphysical_pluralism
+Reading concept ~bothmonoandpolytheistic
+Reading concept ~abrahamic_religion
+Reading concept ~dharmic_religion
+Reading concept ~explicit_relativism
+Reading concept ~eschatological_beliefs
+Reading concept ~judgment_day_believing
+Reading concept ~moksha_believing
+Reading concept ~hell_believing
+Reading concept ~heavenafterlife_believing
+Reading concept ~terrestrialparadise_believing
+Reading concept ~reincarnation_believing
+Reading concept ~religiousfigureandbook_beliefs
+Reading concept ~quran_believing
+Reading concept ~torah_believing
+Reading concept ~bible_believing
+Reading concept ~hindutext_believing
+Reading concept ~jesus_believing
+Reading concept ~muhammad_believing
+Reading concept ~moses_believing
+Reading concept ~satanexists_believing
+Reading concept ~angels_believing
+Reading concept ~religiouspractice_beliefs
+Reading concept ~holywar_believing
+Reading concept ~noalcoholever_believing
+Reading concept ~polygamy_believing
+Reading concept ~nohomosex_believing
+Reading concept ~nopremaritalsex_believing
+Reading concept ~sexualconservatism_believing
+Reading concept ~gendersegregation_believing
+Reading concept ~musicisevil_believing
+Reading concept ~hardcoregendersegregation_believing
+Reading concept ~idolsokay_believing
+Reading concept ~humansacrifice_believing
+Reading concept ~esoteric_religious_group
+Reading concept ~exclusivistic_religious_group
+Reading concept ~organized_religious_group
+Reading concept ~ultranotliberal_religious_group
+Reading concept ~notliberal_religious_group
+Reading concept ~notveryconservative_religious_group
+Reading concept ~holy_book
+*** Warning- line 2434 of concepts.top: Word "torah" known in multiple spellings torah Torah 
+*** Warning- line 2434 of concepts.top: Word "psalms" known in multiple spellings psalms Psalms 
+*** Warning- line 2434 of concepts.top: Word "koran" known in multiple spellings koran Koran 
+*** Warning- line 2434 of concepts.top: Word veda only known in upper case
+*** Warning- line 2434 of concepts.top: Word "avesta" known in multiple spellings avesta Avesta 
+*** Warning- line 2434 of concepts.top: Word "tanakh" known in multiple spellings tanakh Tanakh 
+Reading concept ~religious_act
+*** Warning- line 2436 of concepts.top: Word "eucharist" known in multiple spellings eucharist Eucharist 
+Reading concept ~prayer
+Reading concept ~meditate
+Reading concept ~religious_marriage
+Reading concept ~esoteric_religious_idea
+Reading concept ~exoteric_religious_idea
+*** Warning- line 2446 of concepts.top: Word "allah" known in multiple spellings allah Allah 
+*** Warning- line 2446 of concepts.top: Word jesus only known in upper case
+*** Warning- line 2446 of concepts.top: Word "buddha" known in multiple spellings buddha Buddha 
+Reading concept ~religious_idea
+Reading concept ~hindu_yoga
+Reading concept ~supreme_deity
+Reading concept ~oneness_with_the_one
+*** Warning- line 2454 of concepts.top: Word fana only known in upper case
+Reading concept ~personal_godhood
+Reading concept ~transhumanist_goal
+Reading concept ~nirvana
+Reading concept ~heaven
+Reading concept ~hell
+Reading concept ~happyafterlife
+Reading concept ~love
+Reading concept ~maybe
+Reading concept ~drugs
+Reading concept ~waste
+Reading concept ~limbs
+Reading concept ~travel
+Reading concept ~std
+Reading concept ~spirituality
+Reading concept ~communism
+*** Warning- line 2486 of concepts.top: Word marx only known in upper case
+*** Warning- line 2486 of concepts.top: Word "leninism" known in multiple spellings leninism Leninism 
+*** Warning- line 2486 of concepts.top: Word "mao" known in multiple spellings mao MAO 
+*** Warning- line 2486 of concepts.top: Word "trotsky" known in multiple spellings trotsky Trotsky 
+*** Warning- line 2486 of concepts.top: Word "trotskyism" known in multiple spellings trotskyism Trotskyism 
+*** Warning- line 2486 of concepts.top: Word "brezhnev" known in multiple spellings brezhnev Brezhnev 
+*** Warning- line 2486 of concepts.top: Word "stalin" known in multiple spellings stalin Stalin 
+*** Warning- line 2486 of concepts.top: Word "stalinism" known in multiple spellings stalinism Stalinism 
+Reading concept ~work
+Reading concept ~individuality
+Reading concept ~fun
+Reading concept ~pleasure
+Reading concept ~drug_pleasure
+Reading concept ~exercise
+Reading concept ~sports
+Reading concept ~socialize
+Reading concept ~party
+Reading concept ~money
+Reading concept ~school
+Reading concept ~religious
+Reading concept ~conservative
+Reading concept ~liberal
+Reading concept ~family
+Reading concept ~houri
+Reading concept ~non-religion
+Reading concept ~infidel
+Reading concept ~heathen
+Reading concept ~irreligious
+Reading concept ~job_fields
+Reading concept ~bad_jobs
+Reading concept ~thorough
+Reading concept ~successful
+Reading concept ~effective
+Reading concept ~money_problems
 
 ----Reading file opposite.tbl
 Reading concept ~numberoperator
@@ -1809,9 +2048,13 @@ WARNING SUMMARY:
   line 458 of concepts.top: Word jap only known in upper case
   line 458 of concepts.top: Word jews only known in upper case
   line 458 of concepts.top: Word mick only known in upper case
-  line 693 of concepts.top: Word toro only known in upper case
-  line 1802 of concepts.top: last character of keyword Google+ is punctuation. Is this intended?
-9 serious warnings, 0 function warnings, 0 spelling warnings, 25 case warnings, 0 substitution warnings
+  line 692 of concepts.top: Word toro only known in upper case
+  line 1779 of concepts.top: last character of keyword Google+ is punctuation. Is this intended?
+  line 2434 of concepts.top: Word veda only known in upper case
+  line 2446 of concepts.top: Word jesus only known in upper case
+  line 2454 of concepts.top: Word fana only known in upper case
+  line 2486 of concepts.top: Word marx only known in upper case
+13 serious warnings, 0 function warnings, 0 spelling warnings, 55 case warnings, 0 substitution warnings
     
 
 Finished compile

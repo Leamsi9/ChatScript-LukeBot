@@ -1,0 +1,16 @@
+﻿ ~computers.7.0 #! what's your opinion on closed source
+ ~computers.8.0 #! how does your computer work
+ ~computers.9.0 #! do you like being a computer
+ ~computers.10.0 #! what is dynamic programming
+ ~computers.11.0 #! what is DNA computing
+ ~computers.12.0 #! what is image compression
+ ~computers.13.0 #! what is voice over IP?
+ ~computers.16.0 #! !! AFFECTIVE COMPUTING
+ ~computers.16.0 #! what is affective computing
+ ~computers.17.0 #! tell me about emotional computing
+ ~computers.18.0 #! can a computer have emotions?
+ ~computers.20.0 #! c or java? 
+ ~computers.24.0 #! what programming languages do you know
+ ~computers.25.0 #! can computers think
+ ~computers.54.0 #! what can you tell me about your computer
+ ~computers.55.0 #! what can you tell me about computers

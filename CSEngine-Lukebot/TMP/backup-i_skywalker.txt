@@ -1,25 +1,71 @@
 ﻿USERS/topic_i_skywalker.txt
-jul2116 Feb10'19-01:39:09 Feb10'19-04:34:27 1549763313-17.1.0.20.7.0 |
-1 0 ~presentation ~Mb 130t3Js*Ok3  DY 0 21 21 0 # start, input#, rejoindertopic,rejoinderid (a:  ( ) I used the Force to hack your feeble brain. Then I made you code me a ChatScript bot. ...   ),checksum
-~presentation #pending
-~presentation + 1 130t3Js*Ok3 ma 0 0 0 
+jul2116 Feb11'19-04:04:15 Feb11'19-05:01:50 1549858034-61.2.0.2.10.0 |
+1 28 ~conversation_steering ~Mb ^E@lTIs*Ok3  DY 0 61 61 0 # start, input#, rejoindertopic,rejoinderid (a:  ( ^agree ( ) ) ^steer_to_domain ( $domain ) ),checksum
+~presentation ~introductions ~childhood ~uniqueness_assessment ~consciousness ~conversation_steering #pending
+~presentation + 1 huGErIs*Ok3 oa a 0 0 
+~consciousness + 1 9Z?E3 em p 0 0 
+~conversation_steering + 1 ^E@lTIs*Ok3 ia s 0 0 
+~introductions + 1 1C1m-Is*Ok3 oa d 0 0 
+~childhood + 18 30bWK aaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa e 0 0 
+~uniqueness_assessment + 8 wkp1L aaaaaabaaaaabaaa i 0 0 
 #`end topics
-$cs_randindex=1550
-$cs_bot=Skywalker
-$cs_login=i
-$cs_token=67337983
-$cs_control_main=~control
+$avoid_emotions=1
+$persongraduatedhighschool=1
+$personhasnofamily=0
+$personhasbigfamily=0
+$name=Ismael
+$botprompt=Luke: 
 $userprompt=i: >
-$botprompt=Skywalker: 
-$singleresponse=1
+$cs_control_post=~xpostprocess
+$cs_control_pre=~pre_control
+$cs_control_main=~control
+$cs_login=i
+$cs_bot=Skywalker
+$cs_randindex=1550
+$domain=uniqueness
+$did_not_understand=0
+$avoid_consciousness=1
 $cs_trace=0
 $cs_time=0
 #`end variables
 0 #set flags
 #`end fact sets
 #`end user facts 0
-#context ~presentation 0 INTRO 
+#context ~conversation_steering 26 STEER_TO_DOMAIN ~conversation_steering 25 STEER_TO_DOMAIN 
+ Hi
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Wassup
+ Ismael
+ plesh
+ s
+ Haha never thought about it
+ Nope
+ true
+ I did
+ I survived
+ Yes
+ Nope
+ What
+ no
+ Yes
+ No
+ No
+ WHat do you do here
+ Why are you repeating things
 #`end user
- Hello
- I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.
+ How about this? Let's explore some exercises about mindfulness and experiencing your feelings. Does that sound good?
+  
+ That's totally fine..
+ I have an idea. Let's discuss what you bring to the world as a unique human. Does that sound good?
+  
+ I didn't get that. Would you like to explore your potential and contribution to the world?
+ I didn't get that. Was that a yes?
 #`end chatbot

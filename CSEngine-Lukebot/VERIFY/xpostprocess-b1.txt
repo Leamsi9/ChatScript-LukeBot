@@ -1,0 +1,7 @@
+﻿ ~xpostprocess.1.0 #!t: ( $loebnermain $inittimers !$settimers ) 
+ ~xpostprocess.1.0 #! $settimers = 1
+ ~xpostprocess.1.0 #! $$ending = 1000 * 60 * 23
+ ~xpostprocess.1.0 #! $$boring = 1000 * 60 * 5
+ ~xpostprocess.1.0 #! $loopbacktopic = ~soliloquy
+ ~xpostprocess.1.0 #! $alarmtopic =  ~running_out_of_time
+ ~xpostprocess.1.0 #! ^postprintbefore( ^"\[ alarm=$$ending loopback=$$boring \]")

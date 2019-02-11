@@ -1,0 +1,7 @@
+﻿ ~special_requests.1.0 #! could you repeat that
+ ~special_requests.2.0 #! what did you say?
+ ~special_requests.3.0 #! i didn't hear you
+ ~special_requests.4.0 #! say that again
+ ~special_requests.5.0 #! what did I just say
+ ~special_requests.6.0 #! What was the last question I asked you?
+ ~special_requests.7.0 #! Repeat what I say

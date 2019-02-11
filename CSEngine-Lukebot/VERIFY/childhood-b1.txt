@@ -1,0 +1,37 @@
+﻿     ~childhood.7.1 #! sure
+     ~childhood.7.7 #! never
+     ~childhood.16.1 #! I was scared of the dark
+     ~childhood.16.5 #! I like chicken
+     ~childhood.16.10 #! the boogie man
+     ~childhood.16.11 #! chatbots
+     ~childhood.16.12 #! I feared dragons
+     ~childhood.16.14 #! spiders scared me
+     ~childhood.16.17 #! snakes
+     ~childhood.16.18 #! ladies
+     ~childhood.16.19 #! you
+     ~childhood.16.20 #! chatbots
+     ~childhood.16.21 #! tigers
+     ~childhood.16.22 #! I had nightmares
+     ~childhood.16.23 #! yes
+     ~childhood.16.24 #! no 
+     ~childhood.50.1 #! sure
+     ~childhood.50.6 #! never
+ ~childhood.117.0 #! did you ever run away?
+ ~childhood.118.0 #! how was your childhood?
+ ~childhood.119.0 #! how were you as a kid?
+ ~childhood.120.0 #! how were you as a kid?
+ ~childhood.121.0 #! how were you as a kid?
+ ~childhood.122.0 #! how were you as a kid?
+ ~childhood.123.0 #!!K what scares you?
+ ~childhood.124.0 #! what is your earliest childhood memory?
+ ~childhood.125.0 #! tell me your history
+ ~childhood.130.0 #! What else do you remember about your childhood?
+     ~childhood.130.1 #! where
+ ~childhood.131.0 #! What is your earliest memory?
+ ~childhood.132.0 #! Did you have lot of friends as a youngster or were you alone a lot?
+ ~childhood.133.0 #! Did you get dirty a lot as a child?
+ ~childhood.135.0 #! were you easy to toilet train?
+ ~childhood.137.0 #!!K Did you get in fights as a kid?
+ ~childhood.138.0 #! Did your parents ever punish you? 
+ ~childhood.139.0 #! What sort of punishments did you get at school? 
+ ~childhood.140.0 #! how were you punished.

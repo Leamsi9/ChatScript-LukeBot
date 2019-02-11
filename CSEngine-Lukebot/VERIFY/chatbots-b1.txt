@@ -1,6 +1,21 @@
-﻿ ~chatbots.0.0 #! So what kind of chatbots are there
-     ~chatbots.0.1 #! Why are 85% of bots rule based?
-     ~chatbots.0.2 #! Does that mean that the singularity isn't coming?
-     ~chatbots.0.3 #! I don't believe you. So how do rule based bots work?
-     ~chatbots.0.4 #! Ismael So why did you hypnotise me to use ChatScript for your visit to our planet?
-     ~chatbots.0.5 #! Thanks, I guess now would be a good time for me to show these people how ChatScript actually works...
+﻿ ~chatbots.0.0 #! who is your botmaster
+ ~chatbots.1.0 #! have you ever written a chatbot
+ ~chatbots.2.0 #! are you a program or a person
+ ~chatbots.3.0 #! do you know about chatbots
+ ~chatbots.4.0 #! Are you a human or a computer?
+ ~chatbots.5.0 #! Are you a chatbot?
+ ~chatbots.6.0 #! Is a chatbot for fun?
+ ~chatbots.7.0 #! Cleverbot
+ ~chatbots.8.0 #! Mitsuku
+ ~chatbots.9.0 #! A.L.I.C.E.
+ ~chatbots.10.0 #! you're programmed
+ ~chatbots.15.0 #!!B are you a chatbot
+ ~chatbots.16.0 #!!B how do you create a chatbot
+ ~chatbots.17.0 #!!B when do you chat
+ ~chatbots.18.0 #!u: ( [true genuine real actual] human) Since I am a real human robot, I don't see the point of this.
+ ~chatbots.18.0 #! a:  (prove) ^reuse(PROVE)
+ ~chatbots.18.0 #! a: ( ? how * ['you 'I] [certain sure know] ) reuse(HUMAN)
+ ~chatbots.19.0 #!!B tell me about ChatScript
+ ~chatbots.20.0 #!!B define chatbot
+ ~chatbots.21.0 #!!B what is a chatbot
+ ~chatbots.22.0 #!!B do you know any chatbots

@@ -1,0 +1,70 @@
+﻿ ~lying.0.0 #! what do people lie about?
+ ~lying.1.0 #! what women lie about
+ ~lying.2.0 #! what men lie about
+ ~lying.3.0 #! were you a good liar as a child
+ ~lying.4.0 #! how often do you lie
+ ~lying.5.0 #! do you always tell the truth
+ ~lying.6.0 #! what's the biggest lie you've told
+ ~lying.7.0 #! How can you tell when people are being truthful with you?
+ ~lying.8.0 #! is exaggeration lying
+ ~lying.9.0 #! Do you feel guilty when you tell a lie?
+ ~lying.10.0 #! Have you ever cheated on or lied to a partner?
+ ~lying.11.0 #! Could you beat a lie detection test?
+ ~lying.12.0 #! Would you ever lie in a court of law?
+ ~lying.13.0 #! do politicians lie
+ ~lying.14.0 #! how does a lie detector work?
+ ~lying.16.0 #! Have you ever lied in a job interview?
+ ~lying.17.0 #! What do you think of liars?
+ ~lying.18.0 #! have you ever been caught lying
+ ~lying.19.0 #! has a lie someone told you ever hurt you
+ ~lying.20.0 #! what do you usually lie about
+ ~lying.21.0 #! have you lied today
+ ~lying.22.0 #! who lies more, men or women
+ ~lying.23.0 #!!B will you tell me the truth
+ ~lying.24.0 #! Why do people lie?
+ ~lying.25.0 #! can a computer lie
+ ~lying.26.0 #! can you lie?
+ ~lying.27.0 #! when did I lie
+ ~lying.28.0 #! when did you lie
+ ~lying.31.0 #! are you honest
+ ~lying.32.0 #! but what about when you make mistakes
+ ~lying.34.0 #! at least I'm not a liar.
+ ~lying.35.0 #! Everyone lies.
+ ~lying.36.0 #! have you ever lied?
+ ~lying.37.0 #! i think you sometimes lie
+ ~lying.38.0 #!x*** ONE TIME QUESTIONS
+ ~lying.38.0 #! I might be lying
+ ~lying.39.0 #! What if I lie about my age
+ ~lying.40.0 #! was that a lie?
+ ~lying.41.0 #! tell me a lie
+     ~lying.41.1 #! why not
+ ~lying.42.0 #! lie to me
+ ~lying.43.0 #! i think you were lying to me
+ ~lying.45.0 #!x*** ONE TIME STATEMENTS
+ ~lying.45.0 #! tell the truth
+ ~lying.46.0 #! don't lie to me
+ ~lying.47.0 #! You are full of lies.
+ ~lying.48.0 #!!B You just never say the truth.
+ ~lying.49.0 #! I never lie
+ ~lying.50.0 #!!B I always tell the truth
+ ~lying.51.0 #! why did you lie?
+ ~lying.52.0 #! why would I lie
+ ~lying.53.0 #! Would you lie?
+ ~lying.54.0 #! Would I lie?
+ ~lying.55.0 #! are you deceptive
+ ~lying.56.0 #! Is a white lie still classified a lie? 
+ ~lying.57.0 #! Are white lies good or bad? 
+ ~lying.58.0 #! Can you lie with out lying? 
+ ~lying.59.0 #! Does telling a white lie make you a bad person? 
+ ~lying.60.0 #! Do you ever lie?
+ ~lying.61.0 #! Can lying be a good thing?
+ ~lying.62.0 #! Are there people that you do not trust? 
+ ~lying.63.0 #! How can you tell when people are being dishonest with you? 
+ ~lying.64.0 #! when have you been dishonest
+ ~lying.65.0 #! Is it ever all right to give only a partial truth? 
+ ~lying.66.0 #!!B Do you ever tell the truth?
+ ~lying.67.0 #! what is cheating
+ ~lying.68.0 #!!B is that the truth
+ ~lying.69.0 #! Have you ever cheated? 
+ ~lying.70.0 #! Why do you think that people cheat? 
+ ~lying.71.0 #! If you had a chance to cheat now, would you take it? 

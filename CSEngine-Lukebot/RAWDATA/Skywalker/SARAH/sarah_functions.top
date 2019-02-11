@@ -1,0 +1,93 @@
+# Functions and concepts for the Loving-AI character
+
+# ^agree()
+# Create a general pattern to be used when user is asked whether they agree to participate in something.
+# E.g., "Do you want to try this?" "Would you like to talk about this?"
+concept: ~agreement_words [ awesome ]
+patternmacro: ^agree()
+	[ (!not [~yes yes ~good_quality_adjectives ~verbal_agree ~agreement_words better ~thinkso] ) ~emomaybe "why not"]
+
+# Note: Added word 'yes' above to match things like "lots of things, yes", which
+#       ~yes doesn't match for some reason
+
+patternmacro: ^dont_agree()
+	[~no ~bad_quality_adjectives (not *~2 [~good_quality_adjectives ~verbal_agree ~agreement_words]) (i *~2 don't want) ]
+
+# add ~feeling_happy to ^agree() pattern?
+
+# fix to have "no plus words after it" match (~no)
+concept: ~no MORE (no)
+
+patternmacro: ^ready()
+	[(!not ready) ^agree() ~feeling_happy]
+
+
+outputmacro: ^pause(^ms)
+  ^preprint(\[ ^join(callback= ^ms) \])
+
+# insert commands for triggering robot expressions
+outputmacro: ^express(^expression ^magnitude ^duration)
+  # express: ^expression ^magnitude ^duration
+  # $command = \[ ^join(express: ^expression) ^join(magnitude: ^magnitude) ^join(duration: ^duration) \]
+  $command = ^join(| ^expression,) ^magnitude, ^duration |
+  # $command
+  ^preprint($command)
+
+
+
+# ^goto(^topic)
+# adds ^addTopic for topics that block accidental access
+outputmacro: ^goto(^topic)
+	# == going to ^topic ==
+	^addTopic(^topic)
+	^gambit(^topic)
+
+# dev macro to jump to topic, but clear rejoinder first
+outputmacro: ^g(^topic)
+	# ^goto(~clearRej)
+	# %inputrejoinder = null # doesn't reset the var
+	# ^setrejoinder(input null)
+	# ^setrejoinder(output null)
+	# ^disable(inputrejoinder)  # this doesn't seem to be working
+ 	^disable(outputrejoinder)
+
+	^goto(^topic)
+
+ 	# if (^topic == ~body_exercise) { setrejoinder(input ~body_exercise.1.2) }
+
+
+topic: ~clearRej system keep []
+t: (!~) ^fail(topic)
+t: () $nothing = nothing .
+
+# ^continue_after_pause()
+# continues to next gambit after user says anything or after pause timeout
+# doesn't work, ^setRejoinder() is failing
+outputmacro: ^continue_after_pause()
+{
+	# a: (*) ^gambit(~)
+	^setRejoinder(Pause_Continue.CONTINUE_AFTER_PAUSE)
+}
+
+# for use with ^cointinue_after_pause()
+topic: ~PauseContinue []
+t: (!~) ^fail(topic) # block topic from accidental access
+t: ()
+	a: CONTINUE_AFTER_PAUSE (*) ^gambit(~)
+
+# for use with conversation steering
+outputmacro: ^clear_avoided_domains()
+  $avoid_consciousness = 0
+  $avoid_emotions = 0
+  $avoid_uniqueness = 0
+  $all_domains_avoided = 0
+
+
+
+
+# ###### Concepts #######
+
+concept: ~dontknow (~emoignorance "not know" "no idea" "doubt it" "doubt so" "not sure" "don't know" "what are you saying" "not clear" "already did" ~no)
+concept: ~thinkso ("think so" "kind of" "pretty sure" "sort of" "seems right" "okay" ~yes)
+
+concept: ~emotions MORE (feelings !please)

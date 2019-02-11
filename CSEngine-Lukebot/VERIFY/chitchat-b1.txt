@@ -1,0 +1,51 @@
+﻿ ~chitchat.0.0 #! Theater
+ ~chitchat.1.0 #! Hurtful
+ ~chitchat.2.0 #! Bird
+ ~chitchat.3.0 #! Drawing
+ ~chitchat.4.0 #! Sagittarius
+ ~chitchat.5.0 #! Sunny
+ ~chitchat.6.0 #! billiards
+ ~chitchat.7.0 #! music
+ ~chitchat.8.0 #! science
+ ~chitchat.9.0 #! movie
+ ~chitchat.10.0 #! car
+ ~chitchat.11.0 #! clothing
+ ~chitchat.12.0 #! crime
+ ~chitchat.13.0 #! alien
+ ~chitchat.14.0 #! tremor
+ ~chitchat.15.0 #! anarchism
+ ~chitchat.16.0 #! religion
+ ~chitchat.17.0 #! African
+ ~chitchat.18.0 #! You are
+ ~chitchat.19.0 #! Are you interested in abundance?
+ ~chitchat.20.0 #! Are you interested in something horrible?
+ ~chitchat.21.0 #! You are interested in
+ ~chitchat.22.0 #! You are saying that
+ ~chitchat.23.0 #! Ask me about
+ ~chitchat.24.0 #! Ask me questions about
+ ~chitchat.25.0 #! I'll be right back
+ ~chitchat.26.0 #! But I do not understand why
+ ~chitchat.27.0 #! But I do not understand where
+ ~chitchat.28.0 #! But I do not understand how
+ ~chitchat.29.0 #! Can I ask more questions about
+ ~chitchat.30.0 #! I can do
+ ~chitchat.31.0 #! Can you meet me
+ ~chitchat.32.0 #! Can you get me information about
+ ~chitchat.33.0 #! Can you help me understand more about
+ ~chitchat.34.0 #! Can you help me with
+ ~chitchat.35.0 #! Do something
+ ~chitchat.36.0 #! Do you have a favorite?
+ ~chitchat.37.0 #! Do you have
+ ~chitchat.38.0 #! Do you know something about
+ ~chitchat.39.0 #! Do you like to cooperate?
+ ~chitchat.40.0 #! Do you like bribery?
+ ~chitchat.41.0 #! You like
+ ~chitchat.42.0 #! You want to say that
+ ~chitchat.43.0 #! You want
+ ~chitchat.44.0 #! Do not be deceitful
+ ~chitchat.44.0 #! To be abnormal
+ ~chitchat.44.0 #! Stop being shit
+ ~chitchat.45.0 #! Do not be so friendly
+ ~chitchat.45.0 #! To be sociable
+ ~chitchat.45.0 #! Stop being good
+ ~chitchat.46.0 #! How can it be

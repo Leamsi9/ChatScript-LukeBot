@@ -1,0 +1,11 @@
+﻿ ~byebye.0.0 #! it's been nice talking to you
+ ~byebye.1.0 #! good evening
+ ~byebye.2.0 #! sweet dreams
+ ~byebye.3.0 #! Good bye
+     ~byebye.3.1 #! me too
+     ~byebye.3.2 #! Why don't you want me to go?
+     ~byebye.3.3 #! staying
+     ~byebye.3.5 #! no sorry have to go
+     ~byebye.3.6 #! bye bye
+     ~byebye.3.7 #! bye bye
+     ~byebye.3.8 #! I am

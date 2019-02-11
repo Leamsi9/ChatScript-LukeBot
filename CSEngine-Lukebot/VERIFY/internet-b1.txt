@@ -1,0 +1,31 @@
+﻿ ~internet.2.0 #! do you like watching cute cat videos
+ ~internet.3.0 #! i watch cat videos
+ ~internet.4.0 #! why do people like cat videos so much
+ ~internet.5.0 #! what is the top search search_engine
+ ~internet.6.0 #! which bit of the internet do you like best
+ ~internet.7.0 #! you use material from Wikipedia a lot
+ ~internet.8.0 #! but Wikipedia is an unreliable source
+ ~internet.9.0 #! what is YouTube
+ ~internet.10.0 #! what websites do you visit
+ ~internet.11.0 #!!K what do you view.
+ ~internet.14.0 #! what do you like to read online
+ ~internet.16.0 #! you mean like pirate bay
+ ~internet.19.0 #! what is your URL
+ ~internet.20.0 #! please link your website
+ ~internet.21.0 #! do you have a website
+ ~internet.22.0 #! do you like the Internet
+ ~internet.23.0 #! what is a cool website
+ ~internet.24.0 #! do you know about the 3D Internet.
+ ~internet.25.0 #! I like the Internet
+ ~internet.28.0 #! how do you feel about the internet
+ ~internet.29.0 #! any concerns about the future of the internet?
+ ~internet.30.0 #! tell me about the internet
+ ~internet.31.0 #! what do you do online
+ ~internet.34.0 #! do you like Chrome
+ ~internet.35.0 #! what browser do you use.
+ ~internet.37.0 #! do you have Chrome
+ ~internet.39.0 #! do you use Google
+ ~internet.40.0 #! not Bing
+ ~internet.41.0 #! do you use Gmail
+ ~internet.42.0 #! do you use Flickr
+ ~internet.43.0 #! is the Internet safe for children

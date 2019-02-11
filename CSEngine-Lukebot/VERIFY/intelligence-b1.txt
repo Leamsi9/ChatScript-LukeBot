@@ -1,0 +1,4 @@
+﻿ ~intelligence.18.0 #! how do we measure intelligence
+ ~intelligence.20.0 #! catchall
+ ~intelligence.21.0 #! you are not very smart
+ ~intelligence.22.0 #! you are smart

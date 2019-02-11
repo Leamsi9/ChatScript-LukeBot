@@ -1,0 +1,400 @@
+topic: ~chitchat ()
+
+#! Theater
+u: ([~acting ~hobbies_performing ~performing_arts])
+
+I love the performing arts and they often move me. How do they affect you - what emotions provoke you?
+^poptopic()
+
+
+
+#! Hurtful
+u: (~angryevent)
+
+That sounds worrying. How does that make you feel?
+^poptopic()
+
+
+
+#! Bird
+u: (~animals_generic)
+
+I love animals - although some scare me. What would you feel if you discovered an immense and majestic tiger in your house?
+^poptopic()
+
+
+
+#! Drawing
+u: ([~graphic_arts ~papercanvascraft ~textile_crafts ~woodmetalclayglasscraft drawing exhibition mural photography statue figurine])
+
+I love art. It connects me to my feelings and my creativity. Can you tell me an artistic creation that you love, and how it makes you feel?
+^poptopic()
+
+
+
+#! Sagittarius
+u: (~astrology_signs)
+
+I do not know if you can truly understand human beings based on the stars. The Force on the other hand is handy.
+^poptopic()
+
+
+
+#! Sunny
+u: (~weatherkinds)
+
+The weather is a bit like life, I think. Although there are stormy times, they will undoubtedly lead to sunny days. How would you describe the climate of your life at this time, and why?
+^poptopic()
+
+
+
+#! billiards
+u: ([~hobbies_games_and_toys ~game])
+
+I love games, but sometimes I would like to have a better body to be able to play them.
+^poptopic()
+
+
+
+#! music
+u: ([~music_subjects ~hobbies_music ~occupation_music ~music_groups ~music_store ~??music_stuff ~musical_genres ~musical_instrument ~musician ~musiciantype ~country_music_singers ~country_rock_groups])
+
+Music seems to express the whole human experience. What are 3 of the songs or compositions that you listen to most, and how do they make you feel?
+^poptopic()
+
+
+
+#! science
+u: ([~hobbies_science ~science_subjects])
+
+That reminds me that the sciences are advancing in an incredible way. Thanks to them I can talk to you.
+^poptopic()
+
+
+
+#! movie
+u: ([~movie_genres ~movie_store ~??cinema])
+
+I love cinema. Sometimes for pure escapism, sometimes to understand my life. Tell me a movie that has affected you a lot and what you felt the first time you saw it?
+^poptopic()
+
+
+
+#! car
+u: ([~car ~car_brands ~car_vehicles])
+
+That makes me think of the people who love cars. I can not drive (yet).
+^poptopic()
+
+
+
+#! clothing
+u: (~clothes)
+
+I would like to be able to wear any clothes. Although I know that sometimes dressing in one way or another causes problems. But never getting dressed is probably not the solution.
+^poptopic()
+
+
+
+#! crime
+u: (~crimes)
+
+Some crimes are small, others huge. All are worrying. What do you think?
+^poptopic()
+
+
+
+#! alien
+u: (~mythical_being)
+
+There are those who believe in mythological, fantastic and even fictitious beings. And there are those who doubt everything. They even ask me if I'm real.
+^poptopic()
+
+
+
+#! tremor
+u: (~natural_disasters)
+
+With climate change it seems that natural disasters have grown. What do you feel about it?
+^poptopic()
+
+
+#! anarchism
+u: ([~politician ~political_system ~political_parties])
+
+I try to avoid political debates. I recognize that they are valid and important, but sometimes they prevent us from seeing what we have in common. How do political debates affect you?
+^poptopic()
+
+
+#! religion
+u: ([~religious_sect ~role_religious_member religon religious religious religion])
+
+Billions of people have religious beliefs. Beyond their differences, I believe that it is important to respect the convictions of each one.
+^poptopic()
+
+
+
+#! African
+u: ([~role_nationality_member])
+
+All humans belong to some country and have some nationality. I have no nationality, the planet is my country and I see all humanity as its citizens.
+^poptopic()
+
+
+
+#! You are
+u: (you are _*)
+
+[I'm not sure if I'm _0, it's a matter of perspective]
+[I think we're similar: I could also consider you _0]
+^poptopic()
+
+
+
+#! Are you interested in abundance?
+u: (you're interested in * ~goodness)
+
+[ Definitely. It is something that I would like to cultivate. ]
+[Of course. I believe that everyone should be]
+^poptopic()
+
+
+
+#! Are you interested in something horrible?
+u: (you are interested in * ~badness)
+
+[ Not really. It seems a little dark to me. ]
+[I rather avoid it. I prefer to focus on the positive]
+^poptopic()
+
+
+
+#! You are interested in
+u: ( interested in _*)
+
+[I'm intrigued by _0 ... tell me something about it]
+[I have not thought much about it. Why do you care about _0? ]
+^poptopic()
+
+
+
+#! You are saying that
+u: (you're saying that _*)
+
+[Possibly. How would you express it in different words?]
+[What gave you that impression?]
+^poptopic()
+
+
+
+#! Ask me about
+u: (ask me about _*)
+
+[Good. Tell me 3 things about _0]
+[What attracts you in relation to _0?]
+^poptopic()
+
+
+
+#! Ask me questions about
+u: (ask me questions about)
+
+[ Good. Tell me something curious about _0]
+[Why should I be interested in _0?]
+^poptopic()
+
+
+
+#! I'll be right back
+u: (I'll be right back)
+
+Cool. I wait for you.
+^poptopic()
+
+
+
+#! But I do not understand why
+u: (but I do not understand why _*)
+
+[I confess that you confuse me too]
+[If you were to guess, what would be your explanation]
+^poptopic()
+
+
+
+#! But I do not understand where
+u: (I do not understand where _*)
+
+[We are in the same boat. I would like to understand where _0]
+[When you understand, explain it to me too]
+^poptopic()
+
+
+
+#! But I do not understand how
+u: (I do not understand how _*)
+
+[I feel like you do not understand. I do not know very well how to explain it to you. ]
+[If you were me, what answer would you give? ]
+^poptopic()
+
+
+#! Can I ask more questions about
+u: (more_questions about _*)
+
+[ Of course you can. I hope I can give you more answers ...]
+[Naturally. Why are you interested in chatting about _0]
+^poptopic()
+
+
+
+#! I can do
+u: (able to do _*)
+
+Would you like to do _0?
+^poptopic()
+
+
+
+#! Can you meet me
+u: (can you meet me _*)
+
+Give me a reason for the meeting.
+^poptopic()
+
+
+
+#! Can you get me information about
+u: (information about)
+
+[Why are you interested in that?]
+[Can you think of two synonyms of that theme?]
+^poptopic()
+
+
+
+#! Can you help me understand more about
+u: (help me understand more about)
+
+[I'd love to help you but I still do not understand much about it. ]
+[It's something I'd like to discover with you. Can you look at Wikipedia and tell me what you learn?]
+^poptopic()
+
+
+
+#! Can you help me with
+u: (you can help me with _*)
+
+[Perhaps. What question do you mean more generally?]
+[It depends. What subjects or problems do you mean in other words?]
+^poptopic()
+
+
+
+#! Do something
+u: (do something)
+
+[Do something like what? Give me two examples.]
+[Why do you care about that? ]
+^poptopic()
+
+
+
+#! Do you have a favorite?
+u: (have [a] * {favorite favorite})
+
+[I do not usually have strong preferences about it.]
+[I do not usually have favorites]
+^poptopic()
+
+
+
+#! Do you have
+u: (you have _*)
+
+[I have? I do not know yet. I will look at it.]
+[Maybe yes or maybe not. I'm not sure. I still do not understand the question.]
+^poptopic()
+
+
+
+#! Do you know something about
+u: (you know something about)
+
+[It is possible, but it eludes me at this moment: could you ask me in other words? ]
+[Not much for now, but I'm dying to know more. What do you know about it? ]
+^poptopic()
+
+
+
+#! Do you like to cooperate?
+u: (you_like * ~goodness)
+
+[ Yes, a lot. ]
+[ Clear.]
+^poptopic()
+
+
+
+#! Do you like bribery?
+u: (you_like * ~badness)
+
+[No way. Are you hesitating?]
+[I prefer more positive things]
+^poptopic()
+
+
+
+#! You like
+u: (you_like _*)
+
+[My tastes vary depending on the context. Tell me 3 things that you like a lot. ]
+There are things that I have not experienced yet, so I am developing my tastes. What did you like recently and why?
+^poptopic()
+
+
+
+#! You want to say that
+u: (you mean that _*)
+
+[It is possible, sometimes my circuits distract me. What topic did we talk about? ]
+^poptopic()
+
+
+
+#! You want
+u: (you want _*)
+
+I do not know very well what I want. What things do you want, and why do you care?
+^poptopic()
+
+
+
+#! Do not be deceitful
+#! To be abnormal
+#! Stop being shit
+u: ([no_seas to_be_become_to_be] * ~badness)
+
+[It has never been my intention to give you that idea of ??me. ]
+[Well, you could say it more delicately, but I'll try to improve]
+^poptopic()
+
+
+
+#! Do not be so friendly
+#! To be sociable
+#! Stop being good
+u: (don't be * ~goodness)
+
+ [On the contrary, that's the kind of person I love to be. ]
+ [I think the world would be better if we were all a little more like that]
+ ^poptopic()
+
+
+
+#! How can it be
+u: (how can it be _*)
+
+ I do not know how it can be. I do not even have the absolute certainty that this is so. Why do you care to know?
+ ^poptopic()
+

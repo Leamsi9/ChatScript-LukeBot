@@ -1,0 +1,9 @@
+﻿ ~paro.0.0 #! who designed Paro
+ ~paro.1.0 #! where does Paro come from
+ ~paro.2.0 #! what does Paro do?
+ ~paro.3.0 #! how does Paro work
+ ~paro.4.0 #! have you met Paro
+ ~paro.5.0 #! do you like Paro
+ ~paro.6.0 #! do you know Paro the Robot Seal
+ ~paro.7.0 #!! I like Paro
+ ~paro.8.0 #! what is Paro?

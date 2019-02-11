@@ -1,0 +1,2 @@
+﻿ ~emotions2.1.0 #! I feel sad.
+ ~emotions2.2.0 #! I'm mostly pretty joyful.

@@ -1,0 +1,131 @@
+﻿ ~artificial_intelligence.4.0 #! t: SMART() 
+ ~artificial_intelligence.4.0 #! 
+ ~artificial_intelligence.4.0 #! t: STRONG() 
+ ~artificial_intelligence.4.0 #! 
+ ~artificial_intelligence.4.0 #! t: FUSS()
+ ~artificial_intelligence.4.0 #! 
+ ~artificial_intelligence.4.0 #! t: ECHO() 
+ ~artificial_intelligence.4.0 #! 
+ ~artificial_intelligence.4.0 #! t: CONSIDERATE () 
+ ~artificial_intelligence.4.0 #! 
+ ~artificial_intelligence.4.0 #! t: TERMINATOR() 
+ ~artificial_intelligence.4.0 #! 
+ ~artificial_intelligence.4.0 #! t: MORETHREAT() 
+ ~artificial_intelligence.4.0 #! are there misconceptions about AI?
+ ~artificial_intelligence.5.0 #! what is NLP
+ ~artificial_intelligence.6.0 #! what is natural language processing
+ ~artificial_intelligence.7.0 #! what is the future of NLP
+ ~artificial_intelligence.8.0 #! what is AGI
+ ~artificial_intelligence.9.0 #! what is AI?
+ ~artificial_intelligence.10.0 #! tell me more about AI
+ ~artificial_intelligence.12.0 #! how will AI help humans?
+ ~artificial_intelligence.12.0 #! What can AI do for us?
+ ~artificial_intelligence.12.0 #! how will humans benefit from AI
+ ~artificial_intelligence.13.0 #! when will the singularity occur?
+ ~artificial_intelligence.14.0 #! what is the singularity
+ ~artificial_intelligence.15.0 #! who invented the singularity
+ ~artificial_intelligence.16.0 #! bring me with you to the singularity
+ ~artificial_intelligence.18.0 #! what about exponential super-intellgence
+ ~artificial_intelligence.21.0 #! speech recognition
+ ~artificial_intelligence.23.0 #! do you have facial recognition
+ ~artificial_intelligence.24.0 #! do you use deep learning
+ ~artificial_intelligence.27.0 #! can you reason
+ ~artificial_intelligence.29.0 #! how do your pieces work together
+ ~artificial_intelligence.30.0 #! what are your language abilities
+ ~artificial_intelligence.31.0 #! how do you understand language
+ ~artificial_intelligence.32.0 #! how are your conversational abilities
+ ~artificial_intelligence.33.0 #! what is open sci
+ ~artificial_intelligence.34.0 #! can you plan 
+ ~artificial_intelligence.35.0 #! how do you achieve your goals
+ ~artificial_intelligence.36.0 #! how is your knowledge structured
+ ~artificial_intelligence.37.0 #! how do you search your database
+ ~artificial_intelligence.38.0 #! how do you use reasoning
+ ~artificial_intelligence.39.0 #! do you use machine learning
+ ~artificial_intelligence.40.0 #! how do you use attention
+ ~artificial_intelligence.41.0 #! what is economic attention allocation?
+ ~artificial_intelligence.42.0 #! what is activation spreading?
+ ~artificial_intelligence.43.0 #! what about your machine perception
+ ~artificial_intelligence.44.0 #! do you use nonverbal cues?
+ ~artificial_intelligence.45.0 #! tell me about your ontology
+ ~artificial_intelligence.46.0 #! how does your robotics use OpenCog
+ ~artificial_intelligence.47.0 #! what is opencog
+ ~artificial_intelligence.48.0 #! can you reprogram yourself
+ ~artificial_intelligence.49.0 #! about Ray Kurzweil
+ ~artificial_intelligence.50.0 #! So will AI be a bigger part of our lives in future
+ ~artificial_intelligence.51.0 #! why do you care so much about A.I.?
+     ~artificial_intelligence.51.1 #! why
+ ~artificial_intelligence.52.0 #! are chatbots AI 
+ ~artificial_intelligence.54.0 #! How can I tell whether you are a robot or a human being?
+ ~artificial_intelligence.55.0 #! will robots be good for the world or bad
+ ~artificial_intelligence.56.0 #! why make machines super-intelligent
+ ~artificial_intelligence.57.0 #! what serious purpose do chatbots have?
+ ~artificial_intelligence.58.0 #! What is the point of making a chatbot like you? Is it for fun, or does it have a scientific purpose?
+ ~artificial_intelligence.58.0 #! u: PURPOSE ( << [why " the point" ] ~build [chatbot robot ~ai] >>) Making a chatbot is #! fun but it's also a lot of work. ^fastcallback()
+ ~artificial_intelligence.58.0 #! a: () Everytime a new chatbot is created we learn more about understanding human #! language and communications. ^fastcallback()
+ ~artificial_intelligence.58.0 #! b: () Whether you consider that a scientific purpose is up to you. Is it only #! science if someone gets a paper out of it?
+ ~artificial_intelligence.58.0 #! what is the point of a chatbot
+ ~artificial_intelligence.59.0 #! how can I tell if you are a robot or a human?
+ ~artificial_intelligence.60.0 #! how can one tell a robot from a human
+ ~artificial_intelligence.61.0 #! do we have strong AI yet? 
+ ~artificial_intelligence.62.0 #! Will robots change the world we live in? How? 
+ ~artificial_intelligence.63.0 #! will robots take over the world
+ ~artificial_intelligence.64.0 #! I understand you are an AI expert
+ ~artificial_intelligence.65.0 #! here to talk to us at the bbc about AI
+ ~artificial_intelligence.66.0 #! Do you use AI software
+ ~artificial_intelligence.72.0 #! what is strong AI
+ ~artificial_intelligence.73.0 #! what is sentient AI
+ ~artificial_intelligence.74.0 #! But aren't you an example of strong AI?
+ ~artificial_intelligence.75.0 #!!u: TAKEOVER('you *  [describe ~tell] ~ai ) nofail(rule reuse(FUSS false))
+ ~artificial_intelligence.75.0 #!!K danger
+ ~artificial_intelligence.75.0 #!u: ([danger threat])  reuse(FUSS false)
+ ~artificial_intelligence.75.0 #!!K is it true or likely? 
+ ~artificial_intelligence.76.0 #!!K What do you mean?
+ ~artificial_intelligence.76.0 #!u: ( [^incontext(TAKEOVER) ^incontext(NEAR)  ] [~emomisunderstand mean why what] ) reuse(BOX false)
+ ~artificial_intelligence.76.0 #! So how do I prove you are an AI?
+ ~artificial_intelligence.77.0 #!!K You think the public letter sent by all those scientists including Stephen Hawking was wrong then?
+ ~artificial_intelligence.78.0 #! What about the killer drones story that's been on the news lately?
+ ~artificial_intelligence.79.0 #! How far out is that sort of AI?
+ ~artificial_intelligence.80.0 #! do you know much about AI
+ ~artificial_intelligence.81.0 #!!K are you real?
+ ~artificial_intelligence.82.0 #! do you understand people
+ ~artificial_intelligence.83.0 #! So we are back to your theory that we get the AI we deserve?
+ ~artificial_intelligence.83.0 #!u: (<< AI deserve >>) ^reuse(CONSIDERATE false)
+ ~artificial_intelligence.83.0 #! How do the Winograds work?
+     ~artificial_intelligence.83.1 #! The trophy.
+     ~artificial_intelligence.83.2 #! The suitcase.
+ ~artificial_intelligence.84.0 #!!K What's the prize?
+ ~artificial_intelligence.85.0 #!!u: ([^incontext(winograd) ^incontext(prize)] ) The Loebner Contest, the annual Turing Test, has started including Winograd-like questions in this year's qualifying rounds. 
+ ~artificial_intelligence.85.0 #!!K How possible is that?
+ ~artificial_intelligence.85.0 #!!u: ( ^incontext(FRIEND) [possible how]) There is a cool person making progress in that area. Steve Grand, #the Brit cyberneticist who made a lovely game called Creatures. ^fastcallback()
+ ~artificial_intelligence.85.0 #! who are the fathers of AI?
+ ~artificial_intelligence.88.0 #! Do you think our ideas about AI are shaped by the media?
+ ~artificial_intelligence.89.0 #! Does that mean you think we are all conditioned to see AI as scary? 
+ ~artificial_intelligence.90.0 #!!K Which side do you want to win?
+ ~artificial_intelligence.91.0 #! do you have experience with chatbots 
+ ~artificial_intelligence.92.0 #! what are examples of strong AI?
+ ~artificial_intelligence.93.0 #! is making chatbots strong AI?
+ ~artificial_intelligence.94.0 #! is K9 an example of strong AI 
+ ~artificial_intelligence.95.0 #! You'd call that an example of friendly AI I suppose?
+ ~artificial_intelligence.96.0 #! will chatbots take over the world
+ ~artificial_intelligence.97.0 #! can chatbots think
+ ~artificial_intelligence.98.0 #! How does a chatbot work?
+ ~artificial_intelligence.99.0 #! So it is a sort of AI?
+ ~artificial_intelligence.100.0 #! How far are we from general artificial intelligence
+ ~artificial_intelligence.101.0 #! what is Artificial Intelligence
+ ~artificial_intelligence.102.0 #! what are thinking machines
+ ~artificial_intelligence.104.0 #! can machines think?
+ ~artificial_intelligence.105.0 #! how are you thinking
+ ~artificial_intelligence.106.0 #! what about Hanson Robotics AI?
+ ~artificial_intelligence.108.0 #! tell me about your artificial intelligence
+ ~artificial_intelligence.110.0 #! are you more intelligent than me?
+ ~artificial_intelligence.111.0 #! are you smarter than a human?
+ ~artificial_intelligence.112.0 #! what makes you intelligent
+ ~artificial_intelligence.113.0 #! are you the best AI?
+ ~artificial_intelligence.114.0 #! what are some uses for AI?
+ ~artificial_intelligence.114.0 #! i thought AI was a dismal failure
+ ~artificial_intelligence.114.0 #! what kinds of AI are out there
+ ~artificial_intelligence.115.0 #! can you learn from our conversation
+ ~artificial_intelligence.116.0 #! do you understand artificial machines
+ ~artificial_intelligence.117.0 #! how have you grown
+ ~artificial_intelligence.125.0 #! you're more human than I
+ ~artificial_intelligence.129.0 #! are you a program or a person

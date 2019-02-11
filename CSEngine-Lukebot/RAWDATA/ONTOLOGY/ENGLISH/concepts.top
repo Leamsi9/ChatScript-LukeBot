@@ -1,4 +1,4 @@
-﻿
+
 ##<<ENGLISH concept: ~cartoon_character ( ) ##>>
 ##<<ENGLISH concept: ~architect ( ) ##>>
 ##<<ENGLISH concept: ~athlete UPPERCASE_MATCH() ##>>
@@ -76,7 +76,7 @@
 ##<<ENGLISH concept: ~aerial_sports (ballooning base_jump glider hang_glide hang_glider hang_gliding paragliding sky_dive skydive skydiving ) ##>>
 ##<<ENGLISH concept: ~age_gender (~age_words ~family_adult_female ~family_adult_male ~family_members ~father ~he ~mother ~occupation_female ~occupation_male ~religious_leaders ~ruler ~she adolescent 
           adult baby babys child children childrens elderly feminine infant kid kids masculine newborn preteen senior teen teenage teenager toddler tween youth ) ##>>
-##<<ENGLISH concept: ~age_nouns  (adult child infant old_fogie senior_citizen teenager ) ##>>
+##<<ENGLISH concept: ~age_nouns (adult child infant old_fogie senior_citizen teenager ) ##>>
 ##<<ENGLISH concept: ~age_reference (~age_adjectives ~age_words ~agenoun ) ##>>
 ##<<ENGLISH concept: ~age_words (age day millennium month old week year young ) ##>>
 ##<<ENGLISH concept: ~aged_adults (~adult adult centenarian eightysomething fiftysomething fortysomething grandmother grandparent grownup legal mature ninetysomething old_enough quadragenarian 
@@ -109,7 +109,7 @@
           violence violent wasteful ) ##>>
 ##<<ENGLISH concept: ~animal_kingdoms   ANIMATE_BEING (~animals ~microlife ~plants ) ##>>
 ##<<ENGLISH concept: ~animal_product (animal_product~1 cowhide rawhide ) ##>>
-##<<ENGLISH concept: ~animals   PROBABLE_NOUN ANIMATE_BEING (~bird ~fishes ~insects ~mammals ~pet_animals ~reptiles   ) ##>>
+##<<ENGLISH concept: ~animals   PROBABLE_NOUN ANIMATE_BEING (~bird ~fishes ~insects ~mammals ~pet_animals ~reptiles bitch boy girl hack human man woman ) ##>>
 ##<<ENGLISH concept: ~animals_generic (~animals beast bird creature fish mammal reptile ) ##>>
 ##<<ENGLISH concept: ~animate_thing (~beings ~bodyparts ~microlife ~plants ) ##>>
 ##<<ENGLISH concept: ~appliance_store (appliance dryer freezer refrigerator TV washer ) ##>>
@@ -132,7 +132,7 @@
           ~weapon ~xmeasurers ) ##>>
 ##<<ENGLISH concept: ~artist (~glassblower ~painter ~sculptor ) ##>>
 ##<<ENGLISH concept: ~arts (paint play~40 sculpt sing ) ##>>
-##<<ENGLISH concept: ~assassin   PROBABLE_NOUN (assassin gunman hit_man hitman  killer mercenary murderer ) ##>>
+##<<ENGLISH concept: ~assassin   PROBABLE_NOUN (assassin gunman hit_man hitman kill killer mercenary murderer ) ##>>
 ##<<ENGLISH concept: ~astrology_signs (Aquarius Aries Cancer Capricorn Gemini Leo Libra Pisces Sagittarius Scorpio Taurus Virgo ) ##>>
 ##<<ENGLISH concept: ~astronautics (astronautics launchpad NASA space_probe space_shuttle space_station spacesuit ) ##>>
 ##<<ENGLISH concept: ~attaches (~fasteners ) ##>>
@@ -154,7 +154,7 @@
 ##<<ENGLISH concept: ~baseball_teams NOUN NOUN_PROPER_SINGULAR (Angels Braves Brewers Cleveland_Indians Cubs Detroit_Tigers Dogers Mariners Mets Oakland_A_'s Oakland_Athletics Orioles Redsox Royals 
           White_Sox Yankees ) ##>>
 ##<<ENGLISH concept: ~baseorgans (gut heart heartbeat intestine kidney liver lung pancreas ) ##>>
-##<<ENGLISH concept: ~basic_degrees (associate B.A. B.S. BA Bachelor BASc BS BSc Diploma R.N. RN ) ##>>
+##<<ENGLISH concept: ~basic_degrees (Associate B.A. B.S. BA Bachelor BASc BS BSc Diploma R.N. RN ) ##>>
 ##<<ENGLISH concept: ~bathroom_items   (band_aid bath bathtub cologne conditioner deodorant medicine_cabinet shampoo shaving_cream shower shower_curtain soap soap_dish tile toilet 
           toilet_paper toilet_seat toothbrush toothpaste towel ) ##>>
 ##<<ENGLISH concept: ~beach   (beach ) ##>>
@@ -239,7 +239,7 @@
 ##<<ENGLISH concept: ~carnivore (alligator badger cat cheetah crocodile dog dolphin eagle falcon foxhawk hyena lion orca owl polar-bear puma salmon scorpion shark spider tiger whale wolf ) ##>>
 ##<<ENGLISH concept: ~carryable (~nutrient ) ##>>
 ##<<ENGLISH concept: ~cashable_item (cash coin money treasure ) ##>>
-##<<ENGLISH concept: ~cat_breeds   PROBABLE_NOUN ANIMATE_BEING (Abysinnian Aegean Americal_Curl American_Bobtail American_Shorthair American_Wirehair Arabian_Mau  Asian_Semi-longhair 
+##<<ENGLISH concept: ~cat_breeds   PROBABLE_NOUN ANIMATE_BEING (Abysinnian Aegean Americal_Curl American_Bobtail American_Shorthair American_Wirehair Arabian_Mau Asian Asian_Semi-longhair 
           Australian_Mist Balinese Bambino Bengal Birman Bombay Brazilian_Shorthair British_Longhair British_Semi-longhair British_Shorthair coon kitten kitty maine Mau Persian siamese 
           tabby Toybob ) ##>>
 ##<<ENGLISH concept: ~category (brand breed breed_of category class class_of division flavor_of genre grouping kind kind_of kind_of_stuff kinds_of make_of model sort_of species style_of subdivision 
@@ -308,7 +308,7 @@
 ##<<ENGLISH concept: ~communications (message signal ) ##>>
 ##<<ENGLISH concept: ~communicators (~communication_artifacts ~gesturelist ~sounds ) ##>>
 ##<<ENGLISH concept: ~company (company ) ##>>
-##<<ENGLISH concept: ~company_groups PROBABLE_NOUN (association company corporation guild partnership  business  ) ##>>
+##<<ENGLISH concept: ~company_groups PROBABLE_NOUN (association company corporation guild partnership ) ##>>
 ##<<ENGLISH concept: ~comparisons (best better compare difference different further higher least less like lower more most opposite same similar similarity than unlike various worse worst ) ##>>
 ##<<ENGLISH concept: ~compass_directions (east north northeast northwest south southeast southwest west ) ##>>
 ##<<ENGLISH concept: ~compassdirection (CNTR E N NE NW S SE SW W ) ##>>
@@ -401,7 +401,7 @@
 ##<<ENGLISH concept: ~do_with_titles (~buy ~hear ~like ~own ~read ~watch ) ##>>
 ##<<ENGLISH concept: ~doctor PROBABLE_NOUN (acupuncturist audiologist cardiologist chiropractor coroner dermatologist doctor doc Dr endocrinologist gynecologist ob/gyn kinesiologist medical_doctor naturopath neurologist oncologist opthamologist optometrist pathologist pediatrician physician podiatrist psychiatrist 
           psychologist shaman surgeon therapist vet veterinarian urologist veterinary_surgeon ) ##>>
-##<<ENGLISH concept: ~dog_breeds   PROBABLE_NOUN ANIMATE_BEING (basset beagle Bulldog collie colly dachshund dalmatian Dalmation Doberman hound poodle spaniel terrier ) ##>>
+##<<ENGLISH concept: ~dog_breeds   PROBABLE_NOUN ANIMATE_BEING (basset beagle bulldog collie colly dachshund dalmatian Dalmation Doberman hound poodle spaniel terrier ) ##>>
 ##<<ENGLISH concept: ~dominance_words (assertive dominance dominant independent inferior passive predominant subordinate superior ) ##>>
 ##<<ENGLISH concept: ~draper (clothes draper nightclothes ) ##>>
 ##<<ENGLISH concept: ~drinkstuff (drinker~2 ) ##>>
@@ -416,7 +416,7 @@
 ##<<ENGLISH concept: ~drugstore (~cosmetics ~hair_products ~vitamin antacid blade chapstick cold_medicine cold_remedy comb cosmetics cough_syrup diapers drugstore film lipstick lotion medicine 
           mouthwash nail_polish ointment razor sunglasses sunscreen tissues toothpaste vitamins ) ##>>
 ##<<ENGLISH concept: ~dry_cleaner (dry_cleaner dry_cleaning ) ##>>
-##<<ENGLISH concept: ~dunno (~emoignorance not_know ) ##>>
+##<<ENGLISH concept: ~dunno (~emoignorance not_know ~dunnoe ) ##>>
 ##<<ENGLISH concept: ~durability_words (biodegradable delicate durable eternal forever fragile heavy-duty heavy_duty lifelong light-duty light_duty long-lasting perpetual sensitive tough transient ) ##>>
 ##<<ENGLISH concept: ~earthmedia_words (above_ground aerial buoyant buried floating flying marine maritime oceanic submerged submersible submersive terrestrial ) ##>>
 ##<<ENGLISH concept: ~eatable (~animals ~nutrient ) ##>>
@@ -457,7 +457,7 @@
 		  assnigger beaner camel_jockey camel_jockies chinc chink cracker dago deggo fag faggit faggits faggot fagoots fags gook gringo guido gypsies heeb 
           honkey honkies honky jap Jews jews jigaboo jungle_bunny junglebunny kike kikes kraut kyke mick n1gr nazi nazis negro nigaboo nigga niggas nigger niggers nigguh nigguhs niglet 
           nigur niiger niigr paki polack polacks pollock porcH_monkey porchmonkey raghead ragheads ruski sand_nigger sandnigger spic spick spics spook towel_head towel_heads w0p wetback 
-          wetbacks wop wops yid yids abbo   "border hopper" "border jumper" "border nigger" "Bounty bar"  Buddhahead "bug eater" bunga burrhead "cab nigger" "camel cowboy" "camel humper" "camel jacker"
+          wetbacks wop wops yid yids abbo ago  "border hopper" "border jumper" "border nigger" "Bounty bar"  Buddhahead "bug eater" bunga burrhead "cab nigger" "camel cowboy" "camel humper" "camel jacker"
 	"camel jockey" "can eater" "carpet pilot" "chee chee"  "chi chi" "chili shitter" "Chinese wetback" "ching chong" chinig "chink a billy" chonky cocolo coolie coon "coon ass"
 	"cotton picker" "cowboy killer" "curry muncher" "curry slurper" "curry stinker" Cushi Cushite dago darkey darkie darky dego "diaper head" dinge dink "dot head" "dune coon" "dune nigger"
 	eurotrash eyetie "fog nigger" "gator bait" gew "ghetto hamster" "gin jockey" ginzo gipp gippo "house nigger" Hunkie hymie "ice nigger" ikey "ikey mo" iky injun "island nigger"
@@ -480,20 +480,19 @@
 ##<<ENGLISH concept: ~extremities (ankle arm claw elbow feet finger fist foot hand heel hip hoof knee kneecap leg limb palm tail thigh thumb toe wing wrist ) ##>>
 ##<<ENGLISH concept: ~fabric_store (~clothing_material fabric_store ) ##>>
 ##<<ENGLISH concept: ~fairytale_characters PROBABLE_NOUN (dragon frog king knight prince princess queen wizard ) ##>>
-##<<ENGLISH concept: ~fake_religious_sect (Christian_Science Christian_Scientist Freemason Freemasonry Moonie Satanism Satanist Scientologist Scientology Unification_Church Wicca Wiccan Witch Witchcraft ) ##>>
-##<<ENGLISH concept: ~family_adult   PROBABLE_NOUN ANIMATE_BEING (~family_adult_female partner ~family_adult_generic ~family_adult_male ) ##>>
+##<<ENGLISH concept: ~family_adult   PROBABLE_NOUN ANIMATE_BEING (~family_adult_female ~family_adult_generic ~family_adult_male ) ##>>
 ##<<ENGLISH concept: ~family_adult_female   PROBABLE_NOUN ANIMATE_BEING (~mother aunt aunty daughter-in-law ex-wife fiancee girlfriend godmother gran grandma grandmom grandmother granny 
-          matriarch mistress mother-in-law  spinster stepmother widow wife ) ##>>
+          matriarch mistress mother-in-law partner spinster step-mother stepmother widow wife ) ##>>
 ##<<ENGLISH concept: ~family_adult_generic NOUN_HUMAN PROBABLE_NOUN ANIMATE_BEING (ancestor clan cousin descendant descendent elders folks grandparent heir parent partner spouse 
           stepparent tribe ) ##>>
 ##<<ENGLISH concept: ~family_adult_male PROBABLE_NOUN ANIMATE_BEING (~brother ~family_grandfather ~father boyfriend brother-in-law ex-husband father-in-law fiance hubby husband 
-          patriarch scion son-in-law  stepfather uncle widower ) ##>>
+          patriarch scion son-in-law step-father stepfather uncle widower ) ##>>
 ##<<ENGLISH concept: ~family_children  PROBABLE_NOUN ANIMATE_BEING (~family_children_female ~family_children_generic ~family_children_male ) ##>>
-##<<ENGLISH concept: ~family_children_female  PROBABLE_NOUN ANIMATE_BEING (~sister daughter granddaughter grandniece niece sister sister-in-law stepdaughter 
+##<<ENGLISH concept: ~family_children_female  PROBABLE_NOUN ANIMATE_BEING (~sister daughter granddaughter grandniece niece sister sister-in-law step-daughter step-sister stepdaughter 
           stepsister ) ##>>
-##<<ENGLISH concept: ~family_children_generic NOUN_HUMAN  PROBABLE_NOUN ANIMATE_BEING (baby child cousin grandchild grandkid infant kid offspring progeny sibling stepchild 
+##<<ENGLISH concept: ~family_children_generic NOUN_HUMAN  PROBABLE_NOUN ANIMATE_BEING (baby child cousin grandchild grandkid infant kid offspring progeny sibling step-child stepchild 
           teen teenager toddler tot twin ward youth nephling) ##>>
-##<<ENGLISH concept: ~family_children_male PROBABLE_NOUN ANIMATE_BEING (~brother brother grandnephew grandson nephew scion son  stepson stepbrother ) ##>>
+##<<ENGLISH concept: ~family_children_male PROBABLE_NOUN ANIMATE_BEING (~brother brother grandnephew grandson nephew scion son sstep-son step-brother stepson  ) ##>>
 ##<<ENGLISH concept: ~family_grandfather  PROBABLE_NOUN ANIMATE_BEING (granddad granddaddy grandfather grandpa grandpaw grandpop ) ##>>
 ##<<ENGLISH concept: ~family_members  PROBABLE_NOUN ANIMATE_BEING (~family_adult ~family_children relative twin ) ##>>
 ##<<ENGLISH concept: ~farm_animals  PROBABLE_NOUN ANIMATE_BEING (boar bull calf chick cow duck duckling ewe foal goose gosling hen mare pig piglet ram rooster stallion ) ##>>
@@ -505,7 +504,7 @@
           paste peg pin ribbon rivet riveter rope safety_pin scotch_tape screw shoe_lace shoelace shoestring spike stake staple stitch strap string tape tent_peg thread thumbtack twine 
           welder zipper ) ##>>
 ##<<ENGLISH concept: ~fastfood_place (breakfast burger dinner food french_fries fried_chicken fries hamburger lunch milk_shake ) ##>>
-##<<ENGLISH concept: ~father  PROBABLE_NOUN ANIMATE_BEING (dad dada daddy father old_man pa papa pappy pop stepfather ) ##>>
+##<<ENGLISH concept: ~father  PROBABLE_NOUN ANIMATE_BEING (dad dada daddy father old_man pa papa pappy pop step-father ) ##>>
 ##<<ENGLISH concept: ~favorite (best coolest fave favorite greatest like_most like_the_most love_the_most most_beloved most_like most_liked most_love most_loved ) ##>>
 ##<<ENGLISH concept: ~feeling_adequate (adequate capable competent composed confident encouraged excited in_control organized proud responsible satisfied ) ##>>
 ##<<ENGLISH concept: ~feeling_admiration (admiration amazed amazement ) ##>>
@@ -972,10 +971,6 @@
 ##<<ENGLISH concept: ~jewelry_items   (bauble bead bracelet charms diamond earring emerald gem gem~2 gold jewel jewelry jewelry~1 medallion necklace pendant quartz ring ruby sapphire 
           silver topaz trinket ) ##>>
 ##<<ENGLISH concept: ~job (a_career a_job career dream_job earn employ employment ideal_job job livelihood living make_a_buck occupation perfect_job profession vocation work ) ##>>
-##<<ENGLISH concept: ~job_fields (~job_fields_medicine ~wnapplied_science ~wndoctrines ~wnengineering ~wnmedicine ~wnsocial_science accounting acting advertising agriculture alchemy archaeology 
-          architecture arts aviation babysitting banking biochemistry bricklaying chemistry communications computers computing construction cooking drama engineering farming finance 
-          heating journalism law lecture management marketing mathematics medicine meteorology ministry occupation~2 pedagogy physics plumbing politics publishing research sales science 
-          sexuality sociology software talk teaching telecommunication theater tourism transport transportation trucking ) ##>>
 ##<<ENGLISH concept: ~job_fields_medicine (anesthesiology cardiology dentistry dermatology endocrinology epidemiology gastroenterology geriatrics gerontology gynecology hematology histology immunology 
           nephrology neurology obstetrics oncology ophthalmology orthopedics osteology osteopathy paleopathology parasitology pathology pediatrics pharmacology physiotherapy plastic_surgery 
           proctology psychiatry psychology pulmonology radiology rheumatology surgery toxicology urology ) ##>>
@@ -1045,7 +1040,7 @@
 ##<<ENGLISH concept: ~magicians (Circe Criss_Angel David_Blaine David_Copperfield Doug_Henning Faust Harry_Blackstone Harry_Houdini Hecate Houdini Lance_Burton Mark_Wilson Medea Merlin Nostradamus 
           Penn_and_Teller Siegfried_and_Roy ) ##>>
 ##<<ENGLISH concept: ~male (bachelor beau bloke boy boyfriend chap dandy dude fellow gay gent gentleman guy lad laddie male man Mister Mr. swain ) ##>>
-##<<ENGLISH concept: ~malesexanimals NOUN_HE   (bull rooster drake ) ##>>
+##<<ENGLISH concept: ~malesexanimals NOUN_HE   (bull rooster ) ##>>
 ##<<ENGLISH concept: ~mammals   PROBABLE_NOUN ANIMATE_BEING (~cat_breeds ~dog_breeds ~farm_animals aardvark aardwolf Aberdeen_Angus abrocome Abyssinian Abyssinian_cat Acinonyx_jubatus 
           addax Addax_nasomaculatus Adenota_vardoni Aegyptopithecus Aepyceros_melampus affenpinscher Affirmed Afghan Afghan_hound African_elephant African_green_monkey African_hunting_dog 
           African_wild_ass Africander agouti ai Ailuropoda_melanoleuca Ailuropodidae Ailurus_fulgens Airedale Airedale_terrier Alaska_fur_seal Alaskan_brown_bear Alaskan_malamute Alces_alces 
@@ -1224,7 +1219,7 @@
           white-tailed_jackrabbit white_elephant white_fox white_rhinoceros white_sheep white_tail white_whale white_wolf whiteface whitetail whitetail_antelope_squirrel whitetail_deer 
           whitetail_jackrabbit whitetail_prairie_dog wild_ass wild_boar wild_cavy wild_dog wild_goat wild_horse wild_ox wild_sheep wildcat wildebeest wire-haired_fox_terrier wire-haired_pointing_griffon 
           wire-haired_terrier wirehair wirehaired_terrier wisent wolf wolf_cub wolf_pup wolfhound wolverine wombat wood-rat wood_mouse wood_pussy wood_rabbit wood_rat woodchuck woodland_caribou 
-          woolly_indris woolly_mammoth woolly_monkey woolly_rhinoceros workhorse working_dog  yak yearling yellow-throated_marten yellowbelly_marmot Yorkshire_Terrier young_carnivore 
+          woolly_indris woolly_mammoth woolly_monkey woolly_rhinoceros workhorse working_dog world yak yearling yellow-throated_marten yellowbelly_marmot Yorkshire_Terrier young_carnivore 
           young_mammal young_mammal~1 Zalophus_californianus Zalophus_californicus Zalophus_lobatus Zapodidae Zapus_hudsonius zebra zebu Zinjanthropus Ziphiidae zoril ) ##>>
 ##<<ENGLISH concept: ~marital_state (available divorced marital_state marital_status~1 married separated single spinster unattached unmarried ) ##>>
 ##<<ENGLISH concept: ~markers (~region beacon buoy chalk_line landmark lighthouse marker memorial monument tombstone ) ##>>
@@ -1270,20 +1265,18 @@
 ##<<ENGLISH concept: ~moisture_words (damp dampness dehydrated desicated dried dry flooded humid moist muggy soaked soaking wet wetness ) ##>>
 ##<<ENGLISH concept: ~monera   ANIMATE_BEING (bacteria bacteria_family~1 Filoviridae~1 germ microbe probiotic_microflora~1 true_bacteria~1 virus ) ##>>
 ##<<ENGLISH concept: ~money_container (alms_box coin_purse donation_box money_belt money_box moneybag penny_bank piggy_bank poor_box ) ##>>
-##<<ENGLISH concept: ~month_names (Apr April Aug August Dec December Feb February Jan January Jul July Jun June Mar March 'May 'may Nov November Oct October Sep Sept September ) ##>>
+##<<ENGLISH concept: ~month_names (Apr April Aug August Dec December Feb February Jan January Jul July Jun June Mar March May may Nov November Oct October Sep Sept September ) ##>>
 ##<<ENGLISH concept: ~month_names_index DUPLICATE (3 3 7 7 11 11 1 1 0 0 6 6 5 5 2 2 4 4 10 10 9 9 8 8 8  ) ##>>
 ##<<ENGLISH concept: ~daysinmonth DUPLICATE (30 30 31 31 31 31 28 28 31 31 31 31 30 30 31 31 31 31 30 30 31 31 30 30  30) ##>> # 0-based
 ##<<ENGLISH concept: ~month_proper_names DUPLICATE (April April August August December December February February January January July July June June March March May May November November October October September September September ) ##>>
 
 ##<<ENGLISH concept: ~more (again another continue do_it_again further go_on more other repeat resume what_else ) ##>>
 ##<<ENGLISH concept: ~morningthings (~groom arise awake breakfast dawn daylight dress get_up go_to_the_office go_to_work morning shave shower wake ) ##>>
-##<<ENGLISH concept: ~mother   PROBABLE_NOUN ANIMATE_BEING (ma mama mamma mammy mom momma mommy mother mother-in-law mum mummy mummy~2 stepmother ) ##>>
+##<<ENGLISH concept: ~mother   PROBABLE_NOUN ANIMATE_BEING (ma mama mamma mammy mom momma mommy mother mother-in-law mum mummy mummy~2 step-mother ) ##>>
 ##<<ENGLISH concept: ~mountain (mountain ) ##>>
 ##<<ENGLISH concept: ~mountain_sports (climbing hiking mountain_biking mountain_climbing mountaineering ) ##>>
 ##<<ENGLISH concept: ~movers (box_wrench chopstick crescent_wrench crowbar dustpan elevator fan flat-nosed_pliers fork hammer ladle lever mallet monkey_wrench needle-nosed_pliers open-end_wrench 
           parachute pipe_wrench pliers plunger pry pry_bar pulley pump screwdriver sifter skewer socket_wrench spatula spoon suction_pump wrecking_bar ) ##>>
-##<<ENGLISH concept: ~movie_genres (action~7 adventure animated animation anime art biography biopic cinema_verite combat comedy con crime criminal documentary drama foreign gangster heist historical 
-          horror indie love_story musical mystery noir period police romance romantic sci-fi sci_fi science_fiction soldier sports thriller war ) ##>>
 ##<<ENGLISH concept: ~movie_rating (G_rated G_rating GP_rated GP_rating M_rated M_rating NC-17_rated NC-17_rating PG-13_rated PG-13_rating PG_rated PG_rating R_rated R_rating rated_G rated_GP rated_M 
           rated_NC-17 rated_NR rated_PG rated_PG-13 rated_R rated_X X_rated X_rating ) ##>>
 ##<<ENGLISH concept: ~movie_store (DVD movie movie_store ) ##>>
@@ -1294,9 +1287,6 @@
 ##<<ENGLISH concept: ~music_store (album audio_CD CD music_store record single ) ##>>
 ##<<ENGLISH concept: ~music_stuff (alto band baritone bass duet lyric song soprano tenor ) ##>>
 ##<<ENGLISH concept: ~music_subjects (band choir chorus music orchestra ) ##>>
-##<<ENGLISH concept: ~musical_genres (avant-garde bebop bluegrass blues Celtic classical classical_music country_and_western country_music disco drum'n'bass drum_and_bass drum_n_base drumnbass 
-          easy_listening electronic elevator_music emo folk_music gangsta garage Hawaiian hip_hop indie industrial J-pop jazz K-pop merengue musical muzak New_Age opera pop_music punk 
-          rap reggae rhythm-and-blues rock rock_and_roll salsa ska techno trace urban ) ##>>
 ##<<ENGLISH concept: ~musical_instrument (~musical_instruments_brass ~musical_instruments_percussion ~musical_instruments_string ~musical_instruments_woodwind harmonica kazoo melodeon organ synthesizer ) ##>>
 ##<<ENGLISH concept: ~musical_instruments_brass (bugle French_horn trombone trumpet tuba ) ##>>
 ##<<ENGLISH concept: ~musical_instruments_percussion (bass_drum castanet chime cymbal drum glockenspiel gong kettle_drum rhythm_stick snare_drum tambourine tom-tom xylophone ) ##>>
@@ -1405,7 +1395,7 @@
 ##<<ENGLISH concept: ~occupation_insurance PROBABLE_NOUN (actuary insurance_broker statistician ) ##>>
 ##<<ENGLISH concept: ~occupation_inventor PROBABLE_NOUN (inventor tinkerer ) ##>>
 ##<<ENGLISH concept: ~occupation_jobless PROBABLE_NOUN (bum hobo jobless unemployed vagrant ) ##>>
-##<<ENGLISH concept: ~occupation_law PROBABLE_NOUN (~occupation_lawyer  bail_agent beat_cop civil_investigator cop correctional_services detective guard investigator judge  
+##<<ENGLISH concept: ~occupation_law PROBABLE_NOUN (~occupation_lawyer  bail_agent beat_cop civil_investigator cop correctional_services detective guard investigator judge law 
           magistrate  patrolman police police_officer policeman policewoman security_officer sheriff traffic_officer ) ##>>
 ##<<ENGLISH concept: ~occupation_lawyer (advocate arbitrator attorney jurist lawyer   mediator patent_attorney  barrister solicitor ) ##>>
 ##<<ENGLISH concept: ~occupation_magic PROBABLE_NOUN (astrologer psychic soothsayer thaumaturgist warlock witch wizard ) ##>>
@@ -1477,7 +1467,7 @@
           the_play theater to_juggle ) ##>>
 ##<<ENGLISH concept: ~performlist (dance juggle play~40 sing to_act to_sing ) ##>>
 ##<<ENGLISH concept: ~personal_article (comb contact_lenses eyeglasses hairbrush handbag luggage personal_article razor toothbrush tweezer umbrella ) ##>>
-##<<ENGLISH concept: ~pet_animals    ANIMATE_BEING (~bird angelfish  bird canary catfish cat~1 cat~2 chameleon chicken~1 colt dog~1 dolphin donkey~1 ferret fish 
+##<<ENGLISH concept: ~pet_animals   PROBABLE_NOUN ANIMATE_BEING (~bird angelfish animal bird canary catfish cat~1 cat~2 chameleon chicken~1 colt dog~1 dolphin donkey~1 ferret fish 
           frog~1 gerbil goldfish guinea_pig hamster hedgehog horse~1 iguana kitten lizard monkey~1 mouse~1 mule parakeet parrot pig~1 rabbit~1 raccoon rattlesnake rat~1 salamander~1 
           snake spider~1 turtle~1 ) ##>>
 ##<<ENGLISH concept: ~pet_cage (aquarium aviary barn bird-house bird_cage bird_house birdcage birdhouse cage coop dog-house doghouse fish_tank hutch kennel stable sty terrarium vivarium ) ##>>
@@ -1571,18 +1561,6 @@
           village world world-wide zone ) ##>>
 ##<<ENGLISH concept: ~related_list (ancestor ancestral ancestry clan descendant descended_from descendent family kin kith related_to relative tribe ) ##>>
 ##<<ENGLISH concept: ~reliability_words (accurate dishonest honest inaccurate reliable trustworthy unreliable untrustworthy ) ##>>
-##<<ENGLISH concept: ~religion_kind (~fake_religious_sect ~religious_sect ) ##>>
-##<<ENGLISH concept: ~religionhate   (Amo Christ_killer clamhead dogan dogun Gerudo gew Hebe hebro heeb higger hymie Jihadi khazar muzzie Orangie papist proddy_dog proddywhoddy 
-          proddywoddy Russellite soup_taker ) ##>>
-##<<ENGLISH concept: ~religious_buildings   (abbey cathedral church minaret mosque synagogue tabernacle temple vicarage ) ##>>
-##<<ENGLISH concept: ~religious_groups   PROBABLE_NOUN (congregation fellowship ) ##>>
-##<<ENGLISH concept: ~religious_leaders   (~religious_leader bishop Brother Buddha chaplain Christ clergy cleric Dalai_Lama god Holy_Order Jesus_Christ Krishna Mohammed Monseigneur 
-          mullah nun Pope priest rabbi Rev Revd Reverend Reverend_Father Satan vicar Vishnu ) ##>>
-
-
-##<<ENGLISH concept: ~religious_sect   (agnostic Anglican Anglicanism atheism atheist Baha'i Baptist Buddhism Buddhist Calvinism Catholic Catholicism Christian Christianity Church_of_Christ 
-          disciple~1 Episcopal faith~3 faith~4 Hindu Hinduism Islam Jehovah_'s_Witness Jehovah_Witness Jew Jewish Judaism Lutheran Methodist Mormon Mormonism order pagan Paganism Pentecostal 
-          Protestant Reformed_Church Russian_Orthodox Seventh-Day_Adventist Shinto Shism Sunnism Swedenborgian Swedenborgism Tao Taoism Taoist Unitarian United_Church_of_Christ ) ##>>
 ##<<ENGLISH concept: ~reptiles   PROBABLE_NOUN ANIMATE_BEING (~dinosaur Acanthophis_antarcticus Acris_crepitans Acris_gryllus adder African_chameleon African_clawed_frog African_coral_snake 
           African_crocodile African_monitor agama agamid agamid_lizard Agamidae Agkistrodon_contortrix Agkistrodon_piscivorus agua agua_toad alligator alligator_lizard Alligator_mississipiensis 
           Alligator_sinensis alligator_snapper alligator_snapping_turtle Alligatoridae allosaur allosaurus alpine_salamander Alytes_cisternasi Alytes_obstetricans Amblyrhynchus_cristatus 
@@ -1672,13 +1650,12 @@
 ##<<ENGLISH concept: ~role_legalbadguy   PROBABLE_NOUN (~assassin accomplice arsonist assassin bad_guy bastard bully con_artist confidence_man criminal crook culprit delinquent 
           fiend fugitive jerk killer malefactor menace militant murderer pilferer predator prey prisoner pyromaniac rebel sociopath suspect swindler thief threat traitor trickster troublemaker 
           villain ) ##>>
-##<<ENGLISH concept: ~role_legalgoodguy   PROBABLE_NOUN (barrister defendant hostage juror plaintiff victim witness 
-executor beneficiary magistrate conservator ) ##>>
-##<<ENGLISH concept: ~role_medical   PROBABLE_NOUN (patient "guinea pig" corpse deceased ) ##>>
+##<<ENGLISH concept: ~role_legalgoodguy   PROBABLE_NOUN (barrister defendant hostage juror plaintiff victim witness ) ##>>
+##<<ENGLISH concept: ~role_medical   PROBABLE_NOUN (patient ) ##>>
 ##<<ENGLISH concept: ~role_member PROBABLE_NOUN (~role_nationality_member ~role_political_member ~role_religious_member citizen civilian foreigner immigrant local member native passenger pilgrim 
           refugee resident settler stranger tourist traveler ) ##>>
-##<<ENGLISH concept: ~role_misc   PROBABLE_NOUN (adult altar_boy audience bum character disciplinarian fellow fool hippie hobo human individual mutant peer player predecessor scavenger zombie
-          scout servant spokesperson stick-in-the-mud spokeswoman sponsor stakeholder stooge stoolie stoolpigeon straggler supplicant surfboarder survivalist survivor swinger sympathizer 
+##<<ENGLISH concept: ~role_misc   PROBABLE_NOUN (adult altar_boy audience bum character disciplinarian fellow fool hippie hobo human individual mutant peer player predecessor scavenger 
+          scout servant spokespersonstick-in-the-mud spokeswoman sponsor stakeholder stooge stoolie stoolpigeon straggler supplicant surfboarder survivalist survivor swinger sympathizer 
           tattletale taxpayer techie technophile technophobe teetotalist teetotaller telepathist tempter temptress third-rater thrill-seeker throwback thrower toastmaster tomboy weirdo ) ##>>
 ##<<ENGLISH concept: ~role_nationality_member PROBABLE_NOUN (African Algerian alien American Andorrian Arab Argentinian Armenian Asian Athenian Australian Austrian Bolivian Bosnian Brazilian Brit 
           Bulgarian Cambodian Canadian Chilean Chinese Columbian Costa_Rican Cuban Czech Dane Dutchman Earthling Estonian European extraterrestrial Finn Frenchman Georgian German Greek 
@@ -1690,7 +1667,7 @@ executor beneficiary magistrate conservator ) ##>>
           reactionary revolutionary senator vice-president ) ##>>
 ##<<ENGLISH concept: ~role_religious_member PROBABLE_NOUN (Bhuddist Catholic Christian Christian_Scientist Freemason Hindu Jew Jewish Lutheran Moonie Muslim Orthodox Presbyterian Protestant Satanist 
           Scientologist Sikh Unitarian Wiccan ) ##>>
-##<<ENGLISH concept: ~role_romantic PROBABLE_NOUN (~dating_friend ~sexual_preference_nouns ~spouse bachelor bride bridegroom confidant Mr. Mrs. fiancé fiancée ex temptress) ##>>
+##<<ENGLISH concept: ~role_romantic PROBABLE_NOUN (~dating_friend ~sexual_preference_nouns ~spouse bachelor bride bridegroom confidant Mr. Mrs. ) ##>>
 ##<<ENGLISH concept: ~role_worship   PROBABLE_NOUN (deity fan follower groupie idol spectator ) ##>>
 ##<<ENGLISH concept: ~roman_gods   (Apollo Ceres Cupid Diana god_Mars Janus Jove Juno Jupiter Mercury Minerva Neptune Pluto Venus Vesta Vulcan ) ##>>
 ##<<ENGLISH concept: ~roomlist   (atrium attic basement bathroom bedroom closet conservatory den dining_room entryway foyer garage garden greenhouse hall hallway kitchen laundry 
@@ -1743,7 +1720,7 @@ executor beneficiary magistrate conservator ) ##>>
 ##<<ENGLISH concept: ~serial_killers (Albert_Fish Behram Charles_Manson Countess_Bathory Dahmer Dalmer Dexter Harold_Shipman Jack_Kevorkian John_Gacy Manson Pedro_Lopez Robert_Pickton Ted_Bundy 
           Zodiac_Killer ) ##>>
 ##<<ENGLISH concept: ~service_station (auto_repair gas gasoline service_station ) ##>>
-##<<ENGLISH concept: ~sex (~make_love ~sex_stuff adult_bookstore adult_news adultery afterglow asexual bisexual blueballs boner brothel chastity climax coitus_interruptus condom contraceptive cum 
+##<<ENGLISH concept: ~sex (~make_love copulate copulation ~sex_stuff adult_bookstore adult_news adultery afterglow asexual bisexual blueballs boner brothel chastity climax coitus_interruptus condom contraceptive cum 
           ejaculate ejaculation erectile erection erotic exotic_dancer fetish g-spot hard_on harlot heterosexual homosexual homosexuality hooker horny impotence impotent Kama_Sutra 
           kegel kinky lady_of_the_night lesbian libido Lolita lust make_out MILF nymphomania nymphomaniac orgasm orgone orgy petit_mort playboy polyamory porno porno_magazine pornography 
           procreation prostitute prostitution prude prudery prudish raunchy sapphic seduce seducement seduction seductive seductress semen sensuous sex sex_addict sex_surrogate sexual 
@@ -1781,7 +1758,7 @@ executor beneficiary magistrate conservator ) ##>>
 ##<<ENGLISH concept: ~shootable (~projectile_weapon ) ##>>
 ##<<ENGLISH concept: ~shopping_stores (Bloomingdales Costco eBay Harrods IKEA JC_Penny Kmart Kohl Macy Marks_and_Spencer Marshalls Neiman_Marcus Nordstrom Nordstrom_Rack Ross Saks Saks_5th_Avenue 
           Sears Target Walmart Zappos Zara ) ##>>
-##<<ENGLISH concept: ~sicknesses (~birth_defect ~diseaselist ~mental_illnesses ~symptom ailment allergy amnesia blind deaf ulcer deafness death disease epidemic fibromyalgia ill illness infection malfunction 
+##<<ENGLISH concept: ~sicknesses (~birth_defect ~diseaselist ~mental_illnesses ~symptom ailment allergy amnesia blind deaf deafness death disease epidemic Fibromyalgia ill illness infection malfunction 
           mute parasite plague sick symptom toothache ) ##>>
 ##<<ENGLISH concept: ~similar (akin alike analogous comparable compare congruent congruous identical in_common like much_the_same relate resemble same similar similarity the_same ) ##>>
 ##<<ENGLISH concept: ~singinglist (choral_group kibuki musical musical_theater~1 opera ) ##>>
@@ -1799,7 +1776,7 @@ executor beneficiary magistrate conservator ) ##>>
           global_warming gun_control homelessness homosexuality human_rights immigration marijuana nuclear_proliferation nuclear_weapons organ_donation organ_donor overpopulation poverty 
           prayer_in_school racial_profiling religion same_sex_marriage school_prayer smoking sweatshop terrorism tobacco violence welfare world_population ) ##>>
 ##<<ENGLISH concept: ~social_network_sites   NOUN_PROPER_SINGULAR (Badoo Bebo BlackPlanet Busuu Buzznet Care2 Caringbrige Classmates Classmates.com Cyworld deviantArt douban eGenki 
-          Facebook Flickr Flixster Formspring Fotolog Foursqare Friends_Reunited Friendster Gaia_Online Geni.com Google+ Habbo hi5 Hyves Ibibo Instagram Itsmy Last.fm LinkedIn LiveJournal 
+          FaceBook Flickr Flixster Formspring Fotolog Foursqare Friends_Reunited Friendster Gaia_Online Geni.com Google+ Habbo hi5 Hyves Ibibo Instagram Itsmy Last.fm LinkedIn LiveJournal 
           Livemocha Meetup.com Mixi MyLife MySpace Netlog Odnoklassniki Open_Diary Orkut Pinterest Plaxo Qzone Renren Ryze Sina_Weibo Skype Skyrock Sonico.com SoundCloud Stickam StudiVZ 
           StumbleuUpon Taringa Tuenti Tumblr Twitter Viadeo Vkontakte WAYN We_Heart_It WeeWorld Xanga XING Yelp YouTube ) ##>>
 ##<<ENGLISH concept: ~social_science_subjects (anthropology comparative_religion psychology social_studies social_work sociology theology ) ##>>
@@ -1839,7 +1816,7 @@ executor beneficiary magistrate conservator ) ##>>
 ##<<ENGLISH concept: ~startreklist NOUN NOUN_PROPER_SINGULAR (7_of_9 Bajor Brent_Spiner Captain_Janeway Captain_Kirk Data Deep_Space_9 Doohan DS9 Ensign_Ohura Enterprise Federation Ferengi Janeway 
           Jonathan_Frakes Kate_Mulgrew Kirk Klingon Koenig McCoy Michael_Dorn Nichols Nimoy Patrick_Stewart Picard Riker Roddenberry Romulan Scotty Shatner Sisko Spock Star_Trek Sulu 
           Takei trekkie tribble United_Federation_of_Planets Voyager Worf ) ##>>
-##<<ENGLISH concept: ~state (Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts 
+##<<ENGLISH concept: ~state (Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts 
           Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New_Hampshire New_Jersey New_Mexico New_York North_Carolina North_Dakota Ohio Oklahoma Oregon Pennsylvania 
           Rhode_Island South_Carolina South_Dakota Tennessee Texas Utah Vermont Virginia Washington West_Virginia Wisconsin Wyoming ) ##>>
 ##<<ENGLISH concept: ~state_abbreviations NOUN NOUN_PROPER_SINGULAR ( AL AK AZ AR CA CO CT DE  FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY ) ##>>
@@ -1930,11 +1907,10 @@ executor beneficiary magistrate conservator ) ##>>
 ##<<ENGLISH concept: ~treatments (catharsis diagnosis healing operation physiotherapy recuperation therapy transplant treatment ) ##>>
 ##<<ENGLISH concept: ~tv_genre (action~7 adult_movie attorney cartoon comedy cop court crime current_affairs detective doctor documentary drama fashion game_show hospital judge law lawyer legal 
           medical medicine news police quiz quiz_show reality sci-fi science_fiction serial shopping sitcom soap ) ##>>
-##<<ENGLISH concept: ~tv_network (ABC BBC BBC-America CBS CNN Comedy_Central CSPAN CW ESPN Fox FOX-TV FX HBO HGTV MTV NBC network PBS Sci-Fi_Channel Showtime TBS television_network tv_network ) ##>>
+##<<ENGLISH concept: ~tv_network (ABC BBC BBC-America CBS CNN Comedy_Central CSPAN CW ESPN Fox FOX-TV FX HBO HGTV MTV NBC network PBS Sci-Fi_Channel ShowTime TBS television_network tv_network ) ##>>
 ##<<ENGLISH concept: ~tvstuff (broadcast~1 program variety_show ) ##>>
 ##<<ENGLISH concept: ~unfocused_groups (bevy crowd drove flock folk gang herd huddle mob pack pool swarm throng ) ##>>
 ##<<ENGLISH concept: ~unitmeasure (article assortment bag bar bottle box can carton case casket collection count crate CT handful jug pack packet pair piece plateful rasher set skein square tin ) ##>>
-##<<ENGLISH concept: ~university (university ) ##>>
 ##<<ENGLISH concept: ~unknownsexhuman NOUN_HUMAN   ANIMATE_BEING (~family_adult_generic ~family_children_generic acquaintance admirer anybody anyone believer buddy devotee disciple 
           enemy foe friend groupie human human_being junkie kin kith lover nobody pal paramour person police resident suitor sweetheart wooer worshiper ) ##>>
 ##<<ENGLISH concept: ~unreachable (~scenery_air ~scenery_outer_space ) ##>>
@@ -2030,7 +2006,7 @@ executor beneficiary magistrate conservator ) ##>>
 ##<<ENGLISH concept: ~weapon_modern (~gas_weapon ~weapon_massdestruction ~weapon_missile ~weapon_stun EMP modern_weapon modern_weaponry ) ##>>
 ##<<ENGLISH concept: ~weapon_nuclear (A-bomb atom_bomb atomic_bomb atomic_weapon clean_bomb dirty_bomb fission_bomb fusion_bomb H-bomb hydrogen_bomb megaton_bomb neutron_bomb nuclear_weapon nuke 
           plutonium_bomb thermonuclear_bomb ) ##>>
-##<<ENGLISH concept: ~weapon_stun (stun_baton stun_gun Taser ) ##>>
+##<<ENGLISH concept: ~weapon_stun (stun_baton stun_gun taser ) ##>>
 ##<<ENGLISH concept: ~wearable (~all_shields ~clothes ) ##>>
 ##<<ENGLISH concept: ~weatherkinds (~bad_weather ~good_weather ~reallybadweather climate dew weather ) ##>>
 ##<<ENGLISH concept: ~weatherprocess (~natural_disasters ~seasons ~weather_verbs ) ##>>
@@ -2071,3 +2047,497 @@ executor beneficiary magistrate conservator ) ##>>
 ##<<ENGLISH concept: ~yellow_other (apricot butter buttercup butterscotch canary chrome gold goldenrod lemon mustard peach persimmon primrose saffron suede sulphur tangerine ) ##>>
 ##<<ENGLISH concept: ~yesanswer (~yes  Y "its ok" "it is ok" yo ya ys) ##>>
 ##<<ENGLISH concept: ~noanswer (~no  N  ) ##>>
+
+
+
+### NEW CONCEPTS
+
+## emotions and character
+
+# positive emotions and character traits
+
+##<<ENGLISH concept: ~positive_emotions ( ~feeling_adequate ~feeling_admiration ~feeling_attached ~feeling_esteem ~feeling_fearless ~feeling_focused ~feeling_free ~feeling_grateful ~feeling_happy ~feeling_justified ~feeling_loved ~feeling_safe ~feeling_sympathy ~feeling_fearless ~inner_peace ) ##>>
+
+##<<ENGLISH concept: ~inner_peace ( inner_peace inner_calm inner_harmony inward_harmony serenity tranquility at_peace_with_myself at_peace_with_yourself at_peace peaceful_state not_a_care_in_the_world) ##>>
+
+##<<ENGLISH concept: ~virtues ( altruistic charitable compassionate empathic understanding loving caring appreciative affectionate kind nice gentle big-hearted sensitive tactful accepting tolerant approving cooperative helpful adaptable flexible open open-minded analytical intelligent wise clever thoughtful intellectual reflective reflectiveness contemplative genius brilliant smart spiritual religious holy saintly righteous well-behaved pious balanced calm composed peaceful tranquil at_peace restraint has_self-control disciplined brave bold courageous ~feeling_fearless fair just responsible faithful trusting trustworthy truthful sincere well-meaning well-intentioned honest perfectionism perfectionist good-hearted grateful loyal reliable confident committed bold cheerful bright cheery positive happy content joyful joyous inspired passionate enthusiastic zealous lively visionary ambitious expressive open creative innovative dignified noble honorable worthy eccentric unique special interesting charismatic charming personable agreeable friendly street-smart tough strong humble modest selfless simple sophisticated piety) ##>>
+
+##<<ENGLISH concept: ~intelligent_virtues ( understanding sensitive tactful tolerant open open-minded analytical intelligent wise clever thoughtful intellectual reflective reflectiveness contemplative genius brilliant smart spiritual visionary creative innovative street-smart sophisticated) ##>>
+
+##<<ENGLISH concept: ~compassionate_virtues ( altruistic charitable compassionate empathic understanding loving caring appreciative affectionate kind nice gentle big-hearted sensitive tactful accepting tolerant approving cooperative helpful righteous fair just trusting trustworthy truthful well-meaning well-intentioned honest good-hearted grateful loyal reliable) ##>>
+
+##<<ENGLISH concept: ~sp_religious_virtues ( spirituality guilt shame repentance humility lowliness chastity virginity believing pious piety faithful god-conscious devoted ) ##>>
+
+##<<ENGLISH concept: ~sp_religious_vices ( pride proud desire lust promiscuity lewdness ) ##>>
+
+
+# negative emotions and character traits
+
+##<<ENGLISH concept: ~emotional_problems ( ~lonely ~stress ~sexual_problems ~romantic_problems ~victimized_traits mourning grief regret remorse triggered ~shockandtrauma ~character_problems ~shame_traits ~revulsion_traits ~feeling_demoralized ~feeling_reproachful ~doubtful ~very_traumatic_things ~traumatic_things) ##>>
+
+##<<ENGLISH concept: ~character_problems ( ~neg_proud_traits ~antisocial_traits ~mean_traits ~desire_traits ~unrestrained_traits ~manic_traits ~neurotic_traits ~depressive_traits ~detachment_traits ~disharmony_traits ~discontent_traits ~repressive_traits ~weakness_traits ~low_self-esteem_traits ~reclusive_traits ~paranoid_traits ~notparanoidenough_traits ~psychotic_traits ~solipsism_traits) ##>>
+
+##<<ENGLISH concept: ~antisocial_traits ( ~mean_traits ~reclusive_traits misandry misogyny racism sexism bigotry no_empathy lack_of_empathy unfeeling no_love no_feeling no_affection dishonest liar ) ##>>
+
+##<<ENGLISH concept: ~mean_traits ( anger irritability destructiveness violence aggressive aggressiveness bossiness meanness unkindness possessive possessiveness dominating controlling manipulative hatred hateful merciless unforgiving spiteful sadistic cruel vengeful antisocial judgemental quarrelsome argumentative intolerant ) ##>>
+
+##<<ENGLISH concept: ~angry_traits ( ~feeling_angry grumpy ) ##>>
+
+##<<ENGLISH concept: ~stress ( stress anxiety worry anxious stressful stressed anxiety nervous nerves strain tension worried restless restlessness agitation agitated tense ) ##>>
+
+##<<ENGLISH concept: ~proud_traits ( ~feeling_independent overambition overambitious overconfident stubbornness judgemental intolerant pride arrogance arrogant egoism egomania conceit conceitedness selfishness ~solipsism_traits narcissism vanity ) ##>>
+
+##<<ENGLISH concept: ~neg_proud_traits (overambition overambitious overconfident stubbornness judgemental intolerant pride arrogance arrogant egoism egomania conceit conceitedness selfishness solipsism narcissism vanity ) ##>>
+
+##<<ENGLISH concept: ~solipsism_traits (only_i_have_consciousness i_am_the_only_one i_am_the_only_conscious solipsist solipsism trapped_in_my_own_mind ) ##>>
+
+##<<ENGLISH concept: ~psychotic_traits (delusions hallucinations don't_know_what_is_real delusional psychosis ) ##>>
+
+##<<ENGLISH concept: ~desire_traits ( desire want hankering discontentment overambition jealousy greed avarice envy lust romantic_longing ) ##>>
+
+##<<ENGLISH concept: ~unrestrained_traits ( ~feeling_irristable ~feeling_outofcontrol shameless impulsive impulsivness impatience not_serious_enough amoral immoral vulgarity overambition hypersocial hypersexual ) ##>>
+
+##<<ENGLISH concept: ~manic_traits ( hypersocial overambition overoptimism hyperactivity impatience impulsiveness mania manicness) ##>>
+
+##<<ENGLISH concept: ~neurotic_traits ( anxiety stress neurosis discontentment agitation OCD obsessive panic hysteria desperation despair helplessness hopelessness perfectionism ) ##>>
+
+##<<ENGLISH concept: ~depressive_traits ( undermotivation desperation despair helplessness hopelessness pessimism grief sorrow depression mourning angst remorse regret loneliness boredom ~feeling_bored ennui ~feeling_sad ~detachment_traits ~mourning_traits ) ##>>
+
+##<<ENGLISH concept: ~mourning_traits ( grief sorrow depression mourning father_died mother_died brother_died sister_died son_died daugher_died uncle_died aunt_died friend_died died passed away grieving) ##>>
+
+##<<ENGLISH concept: ~lonely ( lonesome lonely companionless friendless isolated ) ##>>
+
+##<<ENGLISH concept: ~detachment_traits ( ~feeling_apathetic coldness emptiness emotional_numbness emotionlessness angst apathy indifference nihilism detached unresponsive no_empathy lack_of_empathy unfeeling no_love no_feeling no_affection) ##>>
+
+##<<ENGLISH concept: ~disharmony_traits ( ~feeling_derailed ~feeling_lost disorientation incoherence lack_of_direction lost confusion confused hypocrisy inner_conflict identity_crisis insecurity insecure ) ##>>
+
+##<<ENGLISH concept: ~discontent_traits ( perfectionism discontentment ungratefulness whiny whininess complain complaining pessimism contempt hatred grumpy ) ##>>
+
+##<<ENGLISH concept: ~revulsion_traits ( ~feeling_disgust ) ##>>
+
+##<<ENGLISH concept: ~repressive_traits ( fear afraid cowardice cowardly too_serious too_moralistic repressed unmotivation passivity ) ##>>
+
+##<<ENGLISH concept: ~weakness_traits ( ~feeling_codependent ~feeling_powerless fear cowardly cowardice ~low_self-esteem_traits repressed unmotivation passivity laziness sloth disorientation incoherence lack_of_direction lost confusion confused loneliness boredom ennui shy shyness timidity timid ) ##>>
+
+##<<ENGLISH concept: ~low_self-esteem_traits ( shame guilt low_self-esteem insecure insecurity self-hatred self-defeating masochistic masochism ) ##>>
+
+##<<ENGLISH concept: ~shame_traits ( ~feeling_embarrass ~low_self-esteem_traits ) ##>>
+
+##<<ENGLISH concept: ~reclusive_traits ( unfriendly shy shyness timidity timid withdrawn misanthropy reclusiveness self-isolation ) ##>>
+
+##<<ENGLISH concept: ~paranoid_traits ( paranoid untrusting no_faith_in_others ) ##>>
+
+##<<ENGLISH concept: ~notparanoidenough_traits ( gullible too_trusting too_much_faith_in_others too_much_trust_in_others easily_fooled easily_taken_advantage_of ) ##>>
+
+##<<ENGLISH concept: ~victimized_traits ( ~feeling_alone ~feeling_belittle ~feeling_cheated ~feeling_hated ~feeling_singledout ~feeling_trapped judged worried_about_reputation unhappy_with_persona unhappy_with_society manipulated abused persecuted feeling_oppressed feeling_weak feeling_powerless dishonored demoralized victimized insulted offended harrassed degraded humiliated ) ##>>
+
+##<<ENGLISH concept: ~attachmenttopast_traits ( nostalgia mourning grief regret remorse triggered ) ##>>
+
+##<<ENGLISH concept: ~shockandtrauma ( shocked traumatized shock trauma triggered) ##>>
+
+##<<ENGLISH concept: ~traumatic_things ( rape sexual_abuse molested sexual_violence human_trafficking trafficked prostituted torture beaten beating domestic_violence abuse verbal_abuse shell_shock shell-shock violence death passed_away disaster accident ~break-up adultery cheated_on antipsychotics bad_trip kidnapping persecution discrimination segregation slavery ~very_traumatic_things ~nonlethal_violent_acts) ##>>
+
+##<<ENGLISH concept: ~very_traumatic_things ( rape sexual_abuse molested sexual_violence violence torture beaten beating domestic_violence shell_shock shell-shock war_trauma) ##>>
+
+##<<ENGLISH concept: ~nonlethal_violent_acts ( hit beat strangle slap flog whip smack smash bash bonk cut slice choke hurt pinch manhandle) ##>>
+
+##<<ENGLISH concept: ~lethal_violent_acts ( beat_to_death strangle_to_death run_over slit_their_throat decapitate choke_to_death shoot blow_up murder kill hang guillotine execute drown) ##>>
+
+##<<ENGLISH concept: ~violent_acts (~lethal_violent_acts ~nonlethal_violent_acts) ##>>
+
+##<<ENGLISH concept: ~doubtful ( doubtful full_of_doubt skeptical wavering unsure uncertain faithless hesitant) ##>>
+
+##<<ENGLISH concept: ~romantic_problems ( romantic_loneliness romantic_longing infatuation in_love broken_heart broke_my_heart heart_is_broken heartbreak heartbroken one-sided_romance unrequited_love unrequited_feelings does_not_love_me_back romantic_obsession miss_my_ex romantic_nostalgia betrayed_by_lover betrayed_by_partner betrayed_by_spouse suspect_lover cheated_on_me with_another_man with_another_woman walked_out_on_me ~infidelity jealous jealousy drifting_apart doesn't_love_me don't_love_each_other not_in_love) ##>>
+
+##<<ENGLISH concept: ~sexual_problems ( horny horniness high_sex_drive sexual_obsession too_kinky pervert perverted zoophile zoophilia pedophile pedophilia compulsive_masturbation porn_addiction pornography_addiction violent_in_bed sexually_aggressive sadistic masochistic sexually_repressed passive inert obsessive hypersexual nymphomania sex_addict sex_addiction frigid low_libido low_sex_drive no_sex_drive erectile_dysfunction can't_get_it_up ) ##>>
+
+## music
+
+##<<ENGLISH concept: ~music ( ~music_groups ~music_store ~music_stuff ~music_subjects ~musical_genres ~musical_instrument ~musician ~musiciantype) ##>>
+
+##<<ENGLISH concept: ~musical_genres ( ~arab_music ~religious_music avant-garde bebop bluegrass blues Celtic classical classical_music country_and_western country_music disco drum'n'bass drum_and_bass drum_n_base drumnbass 
+          easy_listening electronic elevator_music emo folk_music gangsta garage Hawaiian hip_hop indie industrial J-pop jazz K-pop merengue musical muzak klezmer sufi_music gospel sacred_harp New_Age opera pop_music punk 
+          rap reggae rhythm-and-blues rock rock_and_roll salsa ska techno trace urban ) ##>>
+
+##<<ENGLISH concept: ~arab_music ( fairuz fayruz fayrouz fairouz wassouf chamamyan boutros kulthoom kulthum souad_massi samira_tawfik ) ##>>
+
+##<<ENGLISH concept: ~religious_music ( gospel gospel_music gregorian_chant kirtan ghazal hadra sema qawwali piyyut zemirot nigun pizmonim bagashot christian_rock christian_music church_music nasheed nashid taqwacore hymn sacred_harp honkyoku ) ##>>
+
+
+## movies
+
+##<<ENGLISH concept: ~movie_genres (action~7 adventure animated animation anime art biography biopic cinema_verite combat comedy con crime criminal documentary drama foreign gangster heist historical french_new_wave czech_new_wave nouvelle_vague
+          horror indie love_story musical mystery noir period police romance romantic sci-fi sci_fi science_fiction soldier sports thriller war ~porn_movies ~veryevil_movies) ##>>
+
+##<<ENGLISH concept: ~veryevil_movies (rape_video snuff_film snuff_video snuff rape torture_video torture crush_video crush_film) ##>>
+
+##<<ENGLISH concept: ~porn_movies (porn porno pornography adult_film adult_movie erotic_movie erotic_cinema erotic_film XXX X-rated) ##>>
+
+
+## arts
+
+##<<ENGLISH concept: ~art (~arts ~music ~movies ~art_kinds ~art_museum ~art_stuff ~art_subjects ~artist ~art_history ~art_gallery) ##>>
+
+##<<ENGLISH concept: ~movies (movies cinema film videos) ##>>
+
+##<<ENGLISH concept: ~fine_art (~arts  classical_music art_film art_movies film art_cinema ~art_kinds ~art_museum ~art_stuff ~art_subjects ~artist ~art_history ~art_gallery) ##>>
+
+##<<ENGLISH concept: ~creative_actions (compose_music composing_music playing_music play_music singing painting sculpting designing drawing sketching doodling improvising_music writing_a_script writing_a_story writing_a_novel writing_a_poem writing_poetry writing_verse rhyming making_a_film making_a_movie shooting_a_film editing_a_film editing_a_movie filmmaking) ##>>
+
+## work
+
+##<<ENGLISH concept: ~busy ( hustling bustling busy occupied a_lot_of_work lots_of_work ) ##>>
+
+
+## studies
+
+##<<ENGLISH concept: ~grade_level ( day_care preschool kindergarten first_grade second_grade third_grade fourth_grade fifth_grade sixth_grade seventh_grade eighth_grade ninth_grade tenth_grade eleventh_grade twelvth_grade freshman sophomore junior senior ) ##>>
+
+##<<ENGLISH concept: ~schooling_level ( ~grade_level college university undergrad finished_high_school finished_secondary_school undergraduate postgraduate postgrad graduate_studies independent_study independent_study independent_studies homeschooling homeschooled self-study self-studies postgrad_school ) ##>>
+
+##<<ENGLISH concept: ~university ( graduate_school undergraduate_school undergrad undergraduate postgraduate_school post-graduate_school postgraduate_institution university college ) ##>>
+
+##<<ENGLISH concept: ~naughty (naughty mischievous out_of_line disobedient rebellious) ##>>
+
+
+## interpersonal relationships
+
+##<<ENGLISH concept: ~break-up (break_up broke_up dumped walk_out_on walked_out_on divorce divorced separated separate) ##>>
+
+##<<ENGLISH concept: ~infidelity ( betrayed_by_lover betrayed_by_partner betrayed_by_spouse  cheated_on_me with_another_man with_another_woman walked_out_on_me ) ##>>
+
+
+## misc
+
+##<<ENGLISH concept: ~dunnoe (don't_know not_sure how_would_i_know unsure do_not_know no_clue no_idea) ##>>
+
+##<<ENGLISH concept: ~notsaying (don't_want_to_say don't_want_to_talk don't_want_to_discuss rather_not_talk rather_not_say rather_not_discuss don't_feel_comfortable_discussing don't_feel_comfortable_saying uncomfortable_to_talk not_comfortable_discussing not_comfortable_discussing that's_a_secret it's_a_secret ) ##>>
+
+##<<ENGLISH concept: ~therapy_discuss (talk_about talk_on discuss chat_about have_a_talk address get_some_help_with get_help_with get_some_assistance_with get_assistance_with get_guidance_on need_guidance_on get_advice_on get_some_advice get_advice advice_on advice_about need_advice_on go_over help help_with ) ##>>
+
+
+##<<ENGLISH concept: ~great (wonderful splendid excellent great awesome coolbeans cool_beans) ##>>
+
+##<<ENGLISH concept: ~so-so (fine alright decent so-so not_bad good_enough passable) ##>>
+
+##<<ENGLISH concept: ~kinda (kinda kind_of maybe sort_of sorta) ##>>
+
+##<<ENGLISH concept: ~many (many great_amount great_quantity large_amount large_quantity) ##>>
+
+
+## politics
+
+##<<ENGLISH concept: ~politics ( ~political_groups ~political_parties ~political_system ~politicalstuff ~politician ) ##>>
+
+
+##<<ENGLISH concept: ~ideological_group (~fake_religious_sect ~religious_sect ~philosophical_sect ~political_system) ##>>
+
+##<<ENGLISH concept: ~fake_religious_sect (Moonie ~Satanism Satanist Scientologist Scientology  Wicca Wiccan Witch Witchcraft) ##>>
+
+##<<ENGLISH concept: ~Satanism (Satan Satanism Temple_of_Set Church_of_Satan Satanic_Temple Anton_LaVey Lucien_Greaves Devil demon LaVeyan_Satanism Baphomet pentagram black_mass Temple_of_Satan Satanic_panic) ##>>
+
+##<<ENGLISH concept: ~religious_sect   (agnostic atheism atheist Baha'ism Bahaism ~Baha'i_sect ~Buddhist_sect Caodai Caodaism ~Christian_sect Gnostic Gnosticism Christianity Druze disciple~1 ~Extremist_sect faith~3 faith~4 Freemason Freemasonry ~Hindu_sect Hermeticism Hermeticist Islam ~Islamic_sect Jedi ~Jain_sect Jew ~Jewish_sect Judaism ~Polytheist_sect Manichaean Manichaeism pagan Paganism Egyptian_polytheism ~Sabian_sect ~Sikh_sect Shinto Shintoism ~Sufi_order Tao Taoism Taoist Taoist_sect Theosophy Theosophist Tenriism Tenriist Tenrikyo ~Tengriist_sect ~Shamanism_like_religion ~Chinese_religion Unification_Church Unitarian United_Church_of_Christ ~Zoroastrian_sect Zoroastrian Zartushti Zoroastrianism Mazdayasni Yarsani Yarsanism Ahl_e_haqq Orphism Mithraism ~reptilianconspiracytheory) ##>>
+
+##<<ENGLISH concept: ~Polytheist_sect  (Norse_Paganism Roman_Paganism Greek_Paganism Arab_Paganism Chinese_Polytheism Egyptian_Polytheism) ##>>
+
+##<<ENGLISH concept: ~Islamic_sect  (Muslim muslim Alawite Alawism Ahl-us-sunnah Ahl-as-sunnah Ahl-e-sunnah Sunnism Sunni Shiism Shia Shi'ism Twelver_Shiism Twelver_Shi'ism Zaidism Zaydism Zaydi Ismailism Dawoodi_Bohra Deobandi Deobandism Barelvi Barelvism Habashi Ahbash Sufism Sufi Wahhabism Wahhabi Salafism Salafi Zahirism Zahiri Batini ~Sufi_order ~Sufi Quran_alone Quran_aloner Just_a_muslim Nation_of_Islam Ahmadism Ahmadi) ##>>
+
+##<<ENGLISH concept: ~Sufi_order (Naqshbandi Naqshbandiyya Chishti Chishtiyya Firdausi Qadiri Qadiriyya Rifai Shadhili Shadhiliyya Suhrawardi Tijani Tijaniyya Bektashi) ##>>
+
+##<<ENGLISH concept: ~Sufi (~Sufi_order Sufi sufism Tasawwuf) ##>>
+
+##<<ENGLISH concept: ~Christian_sect ( christian Christian Anglican Anglicanism Baptist Calvinism Catholic Catholicism Christian_Science Christian_Scientist Just_a_Christian Church_of_Christ Episcopal Heyschasm Jehovah_'s_Witness Jehovah_Witness Jesuit Jesuism Lutheran Methodist Mormon Mormonism Community_of_Christ Pentecostal Protestant Protestantism Reformed_Church Quaker Quakerism Russian_Orthodox Orthodox_Church Eastern_Orthodox Greek_Orthodox Ethiopian_Orthodox Nestorian Arian Gnostic_Christian Hermetic_Christian Seventh-Day_Adventist Swedenborgian Swedenborgism Unitarian United_Church_of_Christ Chrislam Ebionite Ebionism Bogomilist Bogomilism) ##>>
+
+##<<ENGLISH concept: ~Buddhist_sect (Just_a_Buddhist Pure_Land Amitabha_Buddhism Mahayana Hinayana Theravada Vajrayana Dharmaguptaka Mulasarvastivada Shingon Zen Nichiren Tendai Tantric_Buddhism) ##>>
+
+##<<ENGLISH concept: ~Jewish_sect (Samaritan Masortic_Judaism Masortic Orthodox_Judaism Orthodox_Jew Haredi_Judaism Hasidic_Judaism Hasidic Haredi Reconstructionist Judaism Jewish Reconstructionist_Jew Liberal_Judaism Progressive_Judaism Kabbalah Kabbalism Just_a_Jew) ##>>
+
+##<<ENGLISH concept: ~Hindu_sect (Vaishnavism Vaishnava Shaivism Shaiva Shaktism Shakta Smartism Smarta Shrautism Shrauta Suryaism Suryaites Saura Ganapatism Ganapta Kaumaram Hare_Krishna Vedanta Vedantism Neo-Vedantism Arya_Samaj Prarthana_Samaj Gandhism Ramakrishna_Mission Ananda_Marga Ayyavazhi Bhakti_Yoga Just_a_Hindu) ##>>
+
+##<<ENGLISH concept: ~Sikh_sect (Udasi Ramraiya Nanakpanthi Namdhari Nirmala Nirankari Radha_Soami Just_a_Sikh) ##>>
+
+##<<ENGLISH concept: ~Baha'i_sect (Haifan_Baha'i Provisions_of_the_Covenant Orthodox_Baha'i Free_Baha'i Reformed_Baha'i Unitarian_Baha'i) ##>>
+
+##<<ENGLISH concept: ~Taoist_sect (Quanzhen Orthodox_Unity_Taoism Wuduomi Tianshi Shangqing Lingbao Zhengyi Wuliu Yao_Taoism) ##>>
+
+##<<ENGLISH concept: ~Jain_sect (Just_a_Jain Digambara Svetambara Sthanakavasi Murtipujaka Terapanth Mula_Sangh Kashtha_Sangha) ##>>
+
+##<<ENGLISH concept: ~Zoroastrian_sect (Parsi Irani Gathas_Alone Ilm-e-Kshnoom Ilm-e-Khshnoom Zurvani Zurvanite Mazdakism Mazdakite Just_a_Zoroastrian) ##>>
+
+##<<ENGLISH concept: ~Zoroastrian_sect_monotheistic (Gathas_Alone Ilm-e-Kshnoom Ilm-e-Khshnoom Zurvani Zurvanite) ##>>
+
+##<<ENGLISH concept: ~Tengriist_sect (Yellow_Shamanism White_Shamanism Black_Shamanism) ##>>
+
+##<<ENGLISH concept: ~Shamanism_like_religion (~Tengriist_sect Uatsdin Assdin Watsdin Chinese_Shamanism Shamanism Native_American_Religion) ##>>
+
+##<<ENGLISH concept: ~Chinese_religion (~Taoist_sect Taoism Confucianism Falun_Gong Uatsdin Assdin Watsdin Chinese_Shamanism Chinese_Polytheism) ##>>
+
+##<<ENGLISH concept: ~Sabian_sect (Yazidi Yazidism Mandaean Mandaeism) ##>>
+
+##<<ENGLISH concept: ~Extremist_sect (Al-Qaeda ISIS ISIL Daesh Boko_haram Taliban Kharijism Kharijite KKK Klu_Klux_Klan Zionism) ##>>
+
+
+##<<ENGLISH concept: ~religion_kind (~fake_religious_sect ~religious_sect ~notveryconservative_religious_group ~notliberal_religious_group ~ultranotliberal_religious_group ~exclusivistic_religious_group ~esoteric_religious_group ) ##>>
+##<<ENGLISH concept: ~religionhate   (Amo Christ_killer clamhead dogan dogun Gerudo gew Hebe hebro heeb higger hymie Jihadi khazar muzzie Orangie papist proddy_dog proddywhoddy 
+          proddywoddy Russellite soup_taker ) ##>>
+##<<ENGLISH concept: ~religious_buildings   (abbey cathedral church minaret mosque dargah darga zawiyah madrasa synagogue tabernacle temple vicarage ) ##>>
+##<<ENGLISH concept: ~religious_groups   PROBABLE_NOUN (congregation fellowship jama'a) ##>>
+##<<ENGLISH concept: ~religious_leaders   (~religious_leader bishop Brother Buddha chaplain Christ clergy cleric Dalai_Lama god Holy_Order Jesus_Christ Krishna Mohammed Muhammad Monseigneur Imam Ustadh Ustaz Shaykh Sheikh ayatollah Amir Moses Hermes Zoroaster Zarathustra
+          mullah imam nun Pope priest Father rabbi Rev Revd Reverend Reverend_Father Satan vicar Vishnu ) ##>>
+
+##<<ENGLISH concept: ~eschatology (~afterlife life_after_death end_times apocalypse end_of_world reincarnation judgment_day) ##>>
+
+##<<ENGLISH concept: ~afterlife (afterlife life_after_death reincarnation reborn rebirth resurrection heaven hell underworld valhalla hades next_world next_life second_life judgment_day) ##>>
+
+###PHIlOSOPHY
+
+##<<ENGLISH concept: ~philosophy (philosophy ~Philosophical_sect ~ontology afterlife meaning_of_life meaning_of_existence meaning reality nature_of_reality ~willtopower ~essentialism ~materialism) ##>>
+
+##<<ENGLISH concept: ~ontology (nature_of_existence being existence reality nature_of_reality ~willtopower) ##>>
+
+##<<ENGLISH concept: ~Philosophical_sect ( ~Atomism Atomist Aristotelianism ~constructionism Confucianism Confucian Deist Deism ~existentialism Hermeticism Hermetic Nietzschean Schopenhauerian Kantian Hegelian Platonist ~Platonism Neo-Platonism Neo-Platonism ~Perennialism Perennialist Traditionalism Traditionalist Tolstoyism Tolstoian Gandhian Gandhism Modernism ~Positivism Postmodernism Modernist ~nominalism Postmodernist Absurdism Anarchism Positivism Positivist Cynicism Hedonism Nihilism Hedonist Nihilist German_Idealism Idealist Materialist Materialism Objectivism Rationalist Rationalism Scientism Sophism Sophist ~reptilianconspiracytheory) ##>>
+
+##<<ENGLISH concept: ~Platonism ( Plato platonic_idea platonic_form plato's_republic ~essentialism neo_platonism platonism) ##>>
+
+##<<ENGLISH concept: ~willtopower ( will_to_power Nietzsche Nietzschean might_makes_right philosophizing_with_a_hammer ) ##>>
+
+##<<ENGLISH concept: ~perennialism ( all_religions_are_one all_religions_are_true all_true_religion_is_one traditionalism traditionalist perennialist different_religions_express_the_same) ##>>
+
+##<<ENGLISH concept: ~essentialism ( ~platonism) ##>>
+
+##<<ENGLISH concept: ~materialism ( only_matter_exists) ##>>
+
+##<<ENGLISH concept: ~atomism () ##>>
+
+##<<ENGLISH concept: ~positivism () ##>>
+
+##<<ENGLISH concept: ~constructionism (gender_is_a_social_construct is_a_social_construct social construct) ##>>
+
+##<<ENGLISH concept: ~existentialism ( sartre heidegger dostoyevsky kierkegaard nietzche) ##>>
+
+##<<ENGLISH concept: ~nominalism () ##>>
+
+##<<ENGLISH concept: ~reptilianconspiracytheory ( “Hillary Clinton” “Donald Trump” “Queen Elizabeth II” "Netanyahu" "David Icke" reptilian lizard_men lizard_people lizard_illuminati) ##>>
+
+## DELETE ANYTHING POLITICALLY INAPPROPRIATE
+
+##<<ENGLISH concept: ~against_religion_group ( New_Atheist  New_Atheism Communism Communist marxism marxist marxist-leninist maoist maoism PRC People's_Republic_of_China Chinese_Communist_Party ) ##>>
+
+##<<ENGLISH concept: ~theocratic_group ( Vatican Catholic_Church Mormonism LDS Islamic_Republic_of_Iran ) ##>>
+
+##<<ENGLISH concept: ~religion ( religion spirituality ~specific_religious_beliefs ~religious_sect ~religion_kind ~religionhate ~religious_buildings ~religious_groups ~religious_leaders ~religious_idea ) ##>>
+
+##<<ENGLISH concept: ~specific_religious_beliefs ( ~quran_believing ~torah_believing ~bible_believing ~hindutext_believing ~jesus_believing ~muhammad_believing ~moses_believing ~satanexists_believing ~eschatological_beliefs ~theological_beliefs ~angels_believing ) ##>>
+
+#Theology/ontology
+
+##<<ENGLISH concept: ~theological_beliefs ( ~theological_dualism ~explicit_monotheism ~explicit_monism ~bothmonoandpolytheistic ~metaphysical_pluralism Trinity Incarnation Avatara ) ##>>
+
+##<<ENGLISH concept: ~theological_dualism ( Zoroastrian Manichaean Zoroastrianism Manichaeaism Bogomilist Bogomilism ) ##>>
+
+##<<ENGLISH concept: ~explicit_monotheism ( ~Baha'i_sect ~Sikh_sect ~Islamic_sect Muslim Hindu ~Hindu_sect Hermeticism Freemasonry ~Jewish_sect Tenrikyo ~Sabian_sect ~Tengriist_sect ~Christian_sect ~Zoroastrian_sect_monotheistic ~Sabian_sect Tolstoyism) ##>>
+
+##<<ENGLISH concept: ~explicit_monism ( ~Baha'i_sect ~Sikh_sect ~Sufi_order ~Hindu_sect ~Taoist_sect Hermeticism Kabbalah Kabbalism Zurvanism Zurvanite Ismailism Barelvi barelvism ~Sufi Batini ~Taoist_sect) ##>>
+
+##<<ENGLISH concept: ~metaphysical_pluralism ( ~Jain_sect Nihilism Nietzschean Nietzscheanism Will-to-power Materialism Materialist ~Polytheist_sect) ##>>
+
+##<<ENGLISH concept: ~bothmonoandpolytheistic ( ~Hindu_sect Hinduism ~Zoroastrian_sect Zoroastrianism) ##>>
+
+##<<ENGLISH concept: ~abrahamic_religion ( ~Baha'i_sect ~Islamic_sect ~Christian_sect ~Jewish_sect) ##>>
+
+##<<ENGLISH concept: ~dharmic_religion ( ~Hindu_sect ~Buddhist_sect ~Jain_sect ~Sikh_sect) ##>>
+
+##<<ENGLISH concept: ~explicit_relativism ( ~Buddhist_sect Zen Nietzschean Nietzsche) ##>>
+
+
+#Eschatology
+
+##<<ENGLISH concept: ~eschatological_beliefs ( ~judgment_day_believing ~moksha_believing ~hell_believing ~heavenafterlife_believing ~terrestrialparadise_believing ~reincarnation_believing) ##>>
+
+##<<ENGLISH concept: ~judgment_day_believing ( ~Islamic_sect ~Christian_sect ~Zoroastrian_sect ~Jewish_sect ~Sabian_sect) ##>>
+
+##<<ENGLISH concept: ~moksha_believing ( ~Sufi_order ~Hindu_sect ~Taoist_sect ~Buddhist_sect Ilm-e-Khshnoom ~Sikh_sect ~Jain_sect Ismaili Batini) ##>>
+
+##<<ENGLISH concept: ~hell_believing ( ~Islamic_sect ~Baha'i_sect ~Christian_sect ~Jewish_sect ~Buddhist_sect ~Zoroastrian_sect ~Hindu_sect ~Sikh_sect) ##>>
+
+##<<ENGLISH concept: ~heavenafterlife_believing ( ~Baha'i_sect ~Sikh_sect ~Islamic_sect ~Hindu_sect Hermeticism ~Buddhist_sect ~Jewish_sect ~Sabian_sect ~Tengriist_sect ~Christian_sect ~Zoroastrian_sect ~Sabian_sect) ##>>
+
+##<<ENGLISH concept: ~terrestrialparadise_believing ( ~Zoroastrian_sect ~Jewish_sect Mormon Mormonism ~Islamic_sect ~Baha'i_sect) ##>>
+
+##<<ENGLISH concept: ~reincarnation_believing ( ~Hindu_sect ~Buddhist_sect ~Jain_sect ~Sikh_sect ~Baha'i_sect ~Tengriist_sect Ilm-e-Kshnoom Ilm-e-Khshnoom Ismaili Ismailism Batini Druze_religion Alawism Theosophy Theosophist) ##>>
+
+
+#Books and prophets etc
+
+##<<ENGLISH concept: ~religiousfigureandbook_beliefs ( ~quran_believing ~torah_believing ~bible_believing ~hindutext_believing ~jesus_believing ~muhammad_believing ~moses_believing ~satanexists_believing) ##>>
+
+##<<ENGLISH concept: ~quran_believing ( ~Islamic_sect ~Baha'i_sect ) ##>>
+
+##<<ENGLISH concept: ~torah_believing ( ~Sufi_order ~Christian_sect ~Jewish_sect ~Baha'i_sect ) ##>>
+
+##<<ENGLISH concept: ~bible_believing ( ~Sufi_order ~Christian_sect ~Baha'i_sect ) ##>>
+
+##<<ENGLISH concept: ~hindutext_believing ( ~Hindu_sect ~Baha'i_sect ~Sikh_sect Chishti Chishtiyya) ##>>
+
+##<<ENGLISH concept: ~jesus_believing ( ~Islamic_sect ~Baha'i_sect ~Christian_sect  ) ##>>
+
+##<<ENGLISH concept: ~muhammad_believing ( ~Islamic_sect ~Baha'i_sect ) ##>>
+
+##<<ENGLISH concept: ~moses_believing ( ~Islamic_sect ~Baha'i_sect ~Christian_sect ~Jewish_sect) ##>>
+
+##<<ENGLISH concept: ~satanexists_believing (~Islamic_sect ~Baha'i_sect ~Christian_sect ~Jewish_sect ~Buddhist_sect ~Zoroastrian_sect ~Sabian_sect) ##>>
+
+##<<ENGLISH concept: ~angels_believing (~Islamic_sect ~Baha'i_sect ~Christian_sect ~Jewish_sect ~Zoroastrian_sect ~Sabian_sect) ##>>
+
+
+# Practices and rules
+
+##<<ENGLISH concept: ~religiouspractice_beliefs ( ~holywar_believing ~noalcoholever_believing ~polygamy_believing ~nohomosex_believing ~nopremaritalsex_believing ~sexualconservatism_believing ~gendersegregation_believing ~hardcoregendersegregation_believing ~idolsokay_believing ~humansacrifice_believing) ##>>
+
+##<<ENGLISH concept: ~holywar_believing ( ~Islamic_sect ~Christian_sect Hindu_sect Zionist Zionism Parsi Irani ~Extremist_sect) ##>>
+
+##<<ENGLISH concept: ~noalcoholever_believing ( Ahl-us-sunnah Ahl-as-sunnah Ahl-e-sunnah Sunnism Sunni Shiism Shia Shi'ism Twelver_Shiism Twelver_Shi'ism Zaidism Zaydism Zaydi Dawoodi_Bohra Deobandi Deobandism Barelvi Barelvism Habashi Ahbash Sufism Sufi Wahhabism Wahhabi Salafism Salafi Zahirism Zahiri ~Sufi_order Quran_alone Quran_aloner Nation_of_Islam Ahmadism Ahmadi ) ##>>
+
+##<<ENGLISH concept: ~polygamy_believing ( ~Islamic_sect Mormon Mormonism ~Zoroastrian_sect) ##>>
+
+##<<ENGLISH concept: ~nohomosex_believing ( ~Christian_sect ~Islamic_sect ~Jewish_sect ~Hindu_sect ~Sikh_sect ~Zoroastrian_sect ~Baha'i_sect ) ##>>
+
+##<<ENGLISH concept: ~nopremaritalsex_believing ( ~Islamic_sect ~Hindu_sect Islam ~Christian_sect ~Jewish_sect ~Sikh_sect ~Baha'i_sect) ##>>
+
+##<<ENGLISH concept: ~sexualconservatism_believing (~nopremaritalsex_believing  ~nohomosex_believing) ##>>
+
+##<<ENGLISH concept: ~gendersegregation_believing (Ahl-us-sunnah Ahl-as-sunnah Ahl-e-sunnah Sunnism Sunni Shiism Shia Shi'ism Twelver_Shiism Twelver_Shi'ism Zaidism Zaydism Zaydi Dawoodi_Bohra Deobandi Deobandism Barelvi Barelvism Habashi Ahbash ~Sufi_order Sufism Sufi Wahhabism Wahhabi Salafism Salafi Zahirism Zahiri Nation_of_Islam Ahmadism Ahmadi) ##>>
+
+##<<ENGLISH concept: ~musicisevil_believing (Deobandi Deobandism Wahhabism Wahhabi Salafism Salafi Zahirism Zahiri ) ##>>
+
+##<<ENGLISH concept: ~hardcoregendersegregation_believing (Iranian_government Saudi_Arabian_government Deobandi Deobandism Wahhabism Wahhabi Salafism Salafi Zahirism Zahiri Al-Qaeda ISIS ISIL Daesh Boko_haram Taliban Kharijism Kharijite) ##>>
+
+##<<ENGLISH concept: ~idolsokay_believing ( ~Buddhist_sect ~Hindu_sect ~Taoist_sect ~Polytheist_sect ~Shamanism_like_religion ~Jain_sect) ##>>
+
+##<<ENGLISH concept: ~humansacrifice_believing ( Aztec_Religion Aztec_Polytheism Mayan_religion Mayan_polytheism ) ##>>
+
+
+
+# religion types
+
+##<<ENGLISH concept: ~esoteric_religious_group ( Kabbalah Kabbalism Sufism ~Sufi_order ~Sufi Batini Ismaili Hermeticism Hermeticist Gnostic Gnosticism Heyschasm Freemason Freemasonry) ##>>
+
+##<<ENGLISH concept: ~exclusivistic_religious_group ( Anglican Anglicanism Baptist Calvinism Catholic Catholicism Christian_Science Christian_Scientist Church_of_Christ Episcopal Jehovah_'s_Witness Jehovah_Witness Jesuit Jesuism Lutheran Methodist Mormon Mormonism Community_of_Christ Pentecostal Protestant Protestantism Reformed_Church Russian_Orthodox Eastern_Orthodox Greek_Orthodox Ethiopian_Orthodox Nestorian Arian Gnostic_Christian Hermetic_Christian Seventh-Day_Adventist Swedenborgian Swedenborgism  Ebionite Ebionism Bogomilism Ahl-us-sunnah Ahl-as-sunnah Ahl-e-sunnah Sunnism Sunni Shiism Shia Shi'ism Twelver_Shiism Twelver_Shi'ism Zaidism Zaydism Zaydi Ismailism Dawoodi_Bohra Deobandi Deobandism Barelvi Barelvism Habashi Ahbash Wahhabism Wahhabi Salafism Salafi Zahirism Zahiri Batini Nation_of_Islam Ahmadism Ahmadi ~Jewish_sect Parsi Irani) ##>>
+
+##<<ENGLISH concept: ~organized_religious_group ( Alawite Alawism Ahl-us-sunnah Ahl-as-sunnah Ahl-e-sunnah Shiism Shia Shi'ism Twelver_Shiism Twelver_Shi'ism Zaidism Zaydism Zaydi Ismailism Dawoodi_Bohra Deobandi Deobandism Batini ~Sufi_order Nation_of_Islam Ahmadism Ahmadi ~Baha'i_sect ~Extremist_sect Freemason Freemasonry Anglican Anglicanism Baptist Calvinism Catholic Catholicism Christian_Science Christian_Scientist Church_of_Christ Episcopal Jehovah_'s_Witness Jehovah_Witness Jesuit Jesuism Methodist Mormon Mormonism Community_of_Christ Pentecostal Reformed_Church Russian_Orthodox Orthodox_Church Eastern_Orthodox Greek_Orthodox Ethiopian_Orthodox  Seventh-Day_Adventist United_Church_of_Christ Bogomilist Bogomilism) ##>>
+
+##<<ENGLISH concept: ~ultranotliberal_religious_group ( ~Extremist_sect Wahhabi Wahhabism Salafi Salafism ) ##>>
+
+##<<ENGLISH concept: ~notliberal_religious_group ( ~ultranotliberal_religious_group Deobandi Zahiri Catholic Catholicism Russian_Orthodox) ##>>
+
+##<<ENGLISH concept: ~notveryconservative_religious_group ( Quaker Quakerism Protestantism Protestant Unitarian Just_a_Muslim Quran_Aloner Just_a_Hindu Just_a_Buddhist Zen ~Taoist_sect Just_a_Christian Batini Ismaili ) ##>>
+
+##<<ENGLISH concept: ~holy_book ( Quran torah zabur psalms tawrat koran Qur'an Bible old_testament new_testament veda vedas avesta bhagavad_gita tanakh) ##>>
+
+##<<ENGLISH concept: ~religious_act ( ~prayer ~worship eucharist baptism baptize dua du'a salah salat sawm fast fasting zakat charity alms sermon preach dawa proselytize jihad holy_war crusade ~meditate puja dhikr zikr zekr zikrullah dhikrullah salawat recital recitation yoga adhan call_to_prayer sacrifice)  ##>>
+
+##<<ENGLISH concept: ~prayer ( dua du'a salah salat prayer pray pray_to_god ask_god worship call_to_prayer supplication )  ##>>
+
+##<<ENGLISH concept: ~meditate ( meditate meditation muraqaba contemplation reflection )  ##>>
+
+##<<ENGLISH concept: ~religious_marriage( nikah zawaj Bar_Mitzvah Bat_Mitzvah)  ##>>
+
+##<<ENGLISH concept: ~esoteric_religious_idea ( wahdat-al-wujud haqiqat_muhammadiyya metatron sephirot ein_sof) ##>>
+
+##<<ENGLISH concept: ~exoteric_religious_idea ( ~heaven ~hell paradise reincarnation idolatry worship god allah jesus trinity buddha) ##>>
+
+##<<ENGLISH concept: ~religious_idea ( ~esoteric_religious_idea ~exoteric_religious_idea ~supreme_deity ~nirvana)  ##>>
+
+##<<ENGLISH concept: ~hindu_yoga (yoga karma_yoga hatha_yoga bhakti_yoga jnana_yoga union_with_god)  ##>>
+
+##<<ENGLISH concept: ~supreme_deity ( god Allah Brahman lord_god the_lord lord_god_almighty supreme_being supreme_deity lord_of_the_universe creator creator_god)  ##>>
+
+##<<ENGLISH concept: ~oneness_with_the_one ( faan fana baqaa baqa annihilation_in_god annihilation_in_allah  ~nirvana moksha union_with_god yoga one_with_god oneness_with_god unity_with_god )  ##>>
+
+##<<ENGLISH concept: ~personal_godhood ( godhood attain_godhood attain_divinity become_a_god become_divine achieve_godhood achieve_divinity reach_godhood become_gods become_a_divinity )  ##>>
+
+##<<ENGLISH concept: ~transhumanist_goal ( upload_myself superhuman uberman singularity trancending_man trancending_humankind superintelligent cyborg ~personal_godhood )  ##>>
+
+##<<ENGLISH concept: ~nirvana ( nirvana moksha deliverance enlightenment )  ##>>
+
+##<<ENGLISH concept: ~heaven ( heaven paradise valhalla jannah )  ##>>
+
+##<<ENGLISH concept: ~hell ( hell hades jahannam underworld )  ##>>
+
+##<<ENGLISH concept: ~happyafterlife ( ~nirvana ~heaven )  ##>>
+
+## fill in concepts
+
+##<<ENGLISH concept: ~love ( compassion romance romantic_love love appreciation adoration in_love )  ##>>
+
+##<<ENGLISH concept: ~maybe ( maybe perhaps could_be )  ##>>
+
+##<<ENGLISH concept: ~drugs ( ~druglist )  ##>>
+
+##<<ENGLISH concept: ~waste ( poop poopy poopoo pooh poopie dookie doodoo caca shit crap piss pee peepee whizz urine feces fecal_matter sewage )  ##>>
+
+##<<ENGLISH concept: ~limbs ( ~extremities )  ##>>
+
+##<<ENGLISH concept: ~travel ( adventure journey voyage flight trip trek )  ##>>
+
+##<<ENGLISH concept: ~STD (sexually_transmitted_disease herpes hepatitis AIDS HIV gonorrhea crabs chlamydia HPV syphilis trichomoniasis)  ##>>
+
+##<<ENGLISH concept: ~spirituality (~religion spriritual spirit spiritual_but_not_religious)  ##>>
+
+##<<ENGLISH concept: ~communism (marx marxism leninism leni mao maoism PRC USSR marxist-leninism trotsky trotskyism brezhnev stalin stalinism opium_of_the_masses people's_revolution worker's_revolution proletariat proletarian)  ##>>
+
+##<<ENGLISH concept: ~work (~worklist)  ##>>
+
+##<<ENGLISH concept: ~individuality (individuality individual your_special_qualities special_qualities unique_qualities unique_traits special_snowflake)  ##>>
+
+##<<ENGLISH concept: ~fun (having_a_blast have_a_blast great_time good_time enjoyment amusement excitement yaaay fun ~recreation)  ##>>
+
+##<<ENGLISH concept: ~pleasure (~fun pleasure massage good_food good_meal ~drug_pleasure feels_good pleasant ~positive_emotions ~sexual_act ~sexual_titillation orgasm )  ##>>
+
+##<<ENGLISH concept: ~drug_pleasure ( getting_high getting_stoned coked_up good_trip high stoned baked amped_up)  ##>>
+
+##<<ENGLISH concept: ~exercise ( exercise ~exerciselist ~exercises ~exercise_verbs)  ##>>
+
+##<<ENGLISH concept: ~sports ( ~sport )  ##>>
+
+##<<ENGLISH concept: ~socialize ( chill_with talk chatter hang_out socialize spend_time_with )  ##>>
+
+##<<ENGLISH concept: ~party ( party gala prom )  ##>>
+
+##<<ENGLISH concept: ~money ( moolah money cash kaching dollar moneh  )  ##>>
+
+##<<ENGLISH concept: ~school ( ~school_classes ~school_groups ~school_types ~grade_level )  ##>>
+
+##<<ENGLISH concept: ~religious ( pious ~sp_religious_virtues true_believer believer religious faithful devoted god-fearing )  ##>>
+
+##<<ENGLISH concept: ~conservative ( conservative conservatism the_right political_right old_fashioned traditional reactionary right-wing right_wing republican )  ##>>
+
+##<<ENGLISH concept: ~liberal ( liberal liberalism libertarian the_left political_left progressive progressivist progressivism left-wing left_wing democrat )  ##>>
+
+##<<ENGLISH concept: ~family ( ~family_members)  ##>>
+
+##<<ENGLISH concept: ~houri ( houri huri hoori hoor maiden_of_paradise virgin_of_paradise woman_of_paradise maiden_in_paradise virgin_in_paradise women_in_paradise wives_in_paradise)  ##>>
+
+##<<ENGLISH concept: ~Non-religion ( atheist atheism agnostic agnosticism non_religion non-religion not_religious not_into_religion)  ##>>
+
+##<<ENGLISH concept: ~infidel ( infidel kafir unbeliever nonbeliever disbeliever)  ##>>
+
+##<<ENGLISH concept: ~heathen ( heathen unchristian non-christian unbeliever pagan faithless ) ##>>
+
+##<<ENGLISH concept: ~irreligious ( atheist atheism anti-religion against_religion against_spirituality faithless godless ) ##>>
+
+##<<ENGLISH concept: ~job_fields (~job_fields_medicine ~wnapplied_science ~wndoctrines ~wnengineering ~wnmedicine ~wnsocial_science accounting acting advertising agriculture alchemy archaeology 
+          architecture arts aviation babysitting banking biochemistry bricklaying chemistry communications computers computing construction cooking drama engineering farming finance 
+          heating journalism law lecture management marketing mathematics medicine meteorology ministry occupation~2 pedagogy physics plumbing politics publishing research sales science 
+          sexuality sociology software talk teaching telecommunication theater tourism transport transportation trucking editing translation translator ~bad_jobs freelancer ) ##>>
+
+##<<ENGLISH concept: ~bad_jobs (pimp pimping prostitute prostitution ho selling_your_body porn_acting porn_actor sex_worker escort courtesan drug_dealer dealer hitman drug_trafficker human_trafficker kidnapper ~assassin thug )  ##>>
+
+##<<ENGLISH concept: ~thorough (complete thorough comprehensive exhaustive full total meticulous consummate)  ##>>
+
+##<<ENGLISH concept: ~successful (successful fruitful lucrative rewarding victorious triumphant)  ##>>
+
+##<<ENGLISH concept: ~effective (successful fruitful efficacious effectual useful cogent)  ##>>
+
+##<<ENGLISH concept: ~money_problems ( debt insolvency insolvent bankrupt bankruptcy poverty poor not_enough_money low_income too_poor destitute impoverished indigent penniless broke down_and_out )  ##>>
+

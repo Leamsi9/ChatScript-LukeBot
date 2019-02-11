@@ -1,0 +1,13 @@
+﻿ ~inventions.0.0 #! do you invent
+ ~inventions.0.0 #! do you have the capacity to invent
+ ~inventions.0.0 #! do you have the capability to invent 
+ ~inventions.0.0 #! are you inventive
+ ~inventions.0.0 #! are you creative
+ ~inventions.0.0 #! what do you want to invent
+ ~inventions.1.0 #! do you build anything
+ ~inventions.1.0 #! do you have the ability to build stuff
+ ~inventions.2.0 #! do you like inventing
+ ~inventions.2.0 #! do you like to build
+ ~inventions.2.0 #! do you like to be creative
+ ~inventions.3.0 #! what should I invent
+ ~inventions.4.0 #! What is the most important invention or innovation that has happened during your life-time?

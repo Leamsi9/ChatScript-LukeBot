@@ -635,7 +635,6 @@
 + drugs VERB_PRESENT_3PS NOUN VERB NOUN_PLURAL GRADE1_2 
 + Dien_Bien_Phu NOUN_TITLE_OF_WORK 
 + Dunkirk NOUN_TITLE_OF_WORK 
-+ drake NOUN_HE 
 + Doberman posdefault:NOUN 
 + Doberman_pinscher posdefault:NOUN 
 + Donald_Duck NOUN_HUMAN NOUN_HE 
@@ -717,6 +716,7 @@
 + Dick_Turpin NOUN_TITLE_OF_WORK 
 + Webster NOUN_TITLE_OF_WORK 
 + Rebecca_West NOUN_HUMAN NOUN_HE 
++ delusions NOUN NOUN_PLURAL GRADE5_6 
 + Decoration_Day NOUN_TITLE_OF_WORK 
 + Dark_Ages NOUN_TITLE_OF_WORK 
 + Edinburgh NOUN_TITLE_OF_WORK ALWAYS_PROPER_NAME_MERGE LOCATIONWORD 
@@ -1171,7 +1171,7 @@
 + Iris_Murdoch NOUN_HUMAN NOUN_SHE 
 + Mussolini NOUN_HUMAN NOUN_HE 
 + Sir_Isaac_Newton NOUN_HUMAN NOUN_HE 
-+ Stalin NOUN_HUMAN NOUN_HE NOUN_TITLE_OF_WORK 
++ Stalin NOUN_HUMAN NOUN_HE 
 + Igor_Stravinsky NOUN_HUMAN NOUN_HE 
 + Ivan_Turgenev NOUN_HUMAN NOUN_HE 
 + Michael_Jackson NOUN_HUMAN NOUN_HE 
@@ -1271,7 +1271,6 @@
 + Jules_Verne NOUN_HUMAN NOUN_HE 
 + John_von_Neumann NOUN_HUMAN NOUN_HE 
 + John_Wayne NOUN_HUMAN NOUN_HE 
-+ Judgment_Day NOUN_TITLE_OF_WORK 
 + Kansas NOUN_HUMAN NOUN_THEY NOUN_TITLE_OF_WORK ALWAYS_PROPER_NAME_MERGE LOCATIONWORD OF_PROPER 
 + Qatar ALWAYS_PROPER_NAME_MERGE LOCATIONWORD 
 + Kentucky ALWAYS_PROPER_NAME_MERGE LOCATIONWORD OF_PROPER 
@@ -1691,6 +1690,7 @@
 + Phyllis NOUN_TITLE_OF_WORK 
 + Patria NOUN_TITLE_OF_WORK 
 + parent NOUN_HUMAN 
++ passed VERB_PAST VERB_PAST_PARTICIPLE VERB ADJECTIVE_PARTICIPLE NOUN_ADJECTIVE KINDERGARTEN 
 + Petersburg NOUN_TITLE_OF_WORK 
 + Pacific_Ocean ALWAYS_PROPER_NAME_MERGE LOCATIONWORD 
 + Plymouth ALWAYS_PROPER_NAME_MERGE LOCATIONWORD 
@@ -1965,6 +1965,7 @@
 + Slovakian NOUN_HUMAN NOUN_THEY NOUN_TITLE_OF_WORK NOUN NOUN_PROPER_SINGULAR 
 + spirits VERB_PRESENT_3PS NOUN VERB NOUN_PLURAL GRADE1_2 
 + Saints NOUN NOUN_PROPER_SINGULAR 
++ step-child NOUN_HUMAN 
 + Toronto ALWAYS_PROPER_NAME_MERGE LOCATIONWORD 
 + Transylvania NOUN_TITLE_OF_WORK 
 + Tripoli NO_PROPER_MERGE ALWAYS_PROPER_NAME_MERGE LOCATIONWORD 
@@ -3031,7 +3032,6 @@
 + ideal_job 
 + make_a_buck 
 + perfect_job 
-+ computers NOUN NOUN_PLURAL KINDERGARTEN 
 + trash_compactor 
 + coffee_pot 
 + tea_kettle 
@@ -3099,6 +3099,7 @@
 + artificial_stone 
 + masonry_supply_store 
 + number_theory 
++ computers NOUN NOUN_PLURAL KINDERGARTEN 
 + prize_winning 
 + Amazon.com NOUN NOUN_PROPER_SINGULAR 
 + Encyclopedia_Dramatica NOUN_PROPER_SINGULAR 
@@ -3125,12 +3126,6 @@
 + multiplied_by 
 + product_of 
 + music_store 
-+ classical_music 
-+ country_music 
-+ easy_listening 
-+ elevator_music 
-+ folk_music 
-+ pop_music 
 + kettle_drum 
 + clarinet_player 
 + Leviathan NOUN_TITLE_OF_WORK NOUN NOUN_PROPER_SINGULAR 
@@ -3444,7 +3439,6 @@
 + like_to_do 
 + steppes NOUN NOUN_PLURAL 
 + descended_from 
-+ proddy_dog 
 + rock_shop 
 + laundry_room 
 + cross_country_running 
@@ -3959,6 +3953,343 @@
 + body_care 
 + its_ok 
 + it_is_ok 
++ inner_peace 
++ inner_calm 
++ inner_harmony 
++ inward_harmony 
++ at_peace_with_myself 
++ at_peace_with_yourself 
++ peaceful_state 
++ not_a_care_in_the_world 
++ has_self-control 
++ triggered VERB_PAST VERB_PAST_PARTICIPLE VERB ADJECTIVE_PARTICIPLE 
++ no_empathy 
++ lack_of_empathy 
++ no_love 
++ no_feeling 
++ no_affection 
++ nerves VERB_PRESENT_3PS NOUN VERB NOUN_PLURAL KINDERGARTEN 
++ only_i_have_consciousness 
++ i_am_the_only_one 
++ i_am_the_only_conscious 
++ trapped_in_my_own_mind 
++ hallucinations NOUN NOUN_PLURAL GRADE5_6 
++ don't_know_what_is_real 
++ romantic_longing 
++ not_serious_enough 
++ father_died 
++ mother_died 
++ brother_died 
++ sister_died 
++ son_died 
++ daugher_died 
++ uncle_died 
++ aunt_died 
++ friend_died 
++ emotional_numbness 
++ lack_of_direction 
++ inner_conflict 
++ too_serious 
++ too_moralistic 
++ low_self-esteem 
++ no_faith_in_others 
++ too_trusting 
++ too_much_faith_in_others 
++ too_much_trust_in_others 
++ easily_fooled 
++ easily_taken_advantage_of 
++ worried_about_reputation 
++ unhappy_with_persona 
++ unhappy_with_society 
++ persecuted VERB_PAST VERB_PAST_PARTICIPLE VERB ADJECTIVE_PARTICIPLE NOUN_ADJECTIVE 
++ feeling_oppressed 
++ feeling_weak 
++ feeling_powerless 
++ molested VERB_PAST VERB_PAST_PARTICIPLE VERB ADJECTIVE_PARTICIPLE NOUN_ADJECTIVE 
++ sexual_violence 
++ human_trafficking 
++ prostituted VERB_PAST VERB_PAST_PARTICIPLE VERB ADJECTIVE_PARTICIPLE NOUN_ADJECTIVE 
++ verbal_abuse 
++ passed_away 
++ antipsychotics NOUN NOUN_PLURAL 
++ bad_trip 
++ war_trauma 
++ beat_to_death 
++ strangle_to_death 
++ slit_their_throat 
++ choke_to_death 
++ full_of_doubt 
++ romantic_loneliness 
++ broke_my_heart 
++ heart_is_broken 
++ one-sided_romance 
++ unrequited_love 
++ unrequited_feelings 
++ does_not_love_me_back 
++ romantic_obsession 
++ miss_my_ex 
++ romantic_nostalgia 
++ betrayed_by_lover 
++ betrayed_by_partner 
++ betrayed_by_spouse 
++ suspect_lover 
++ cheated_on_me 
++ with_another_man 
++ with_another_woman 
++ walked_out_on_me 
++ drifting_apart 
++ doesn't_love_me 
++ don't_love_each_other 
++ not_in_love 
++ high_sex_drive 
++ sexual_obsession 
++ too_kinky 
++ compulsive_masturbation 
++ porn_addiction 
++ pornography_addiction 
++ violent_in_bed 
++ sexually_aggressive 
++ sexually_repressed 
++ sex_addiction 
++ low_libido 
++ low_sex_drive 
++ no_sex_drive 
++ can't_get_it_up 
++ classical_music 
++ country_music 
++ easy_listening 
++ elevator_music 
++ folk_music 
++ sufi_music 
++ sacred_harp 
++ pop_music 
++ souad_massi 
++ samira_tawfik 
++ gospel_music 
++ gregorian_chant 
++ christian_rock 
++ christian_music 
++ church_music 
++ french_new_wave 
++ czech_new_wave 
++ nouvelle_vague 
++ rape_video 
++ snuff_film 
++ snuff_video 
++ torture_video 
++ crush_video 
++ crush_film 
++ adult_film 
++ erotic_movie 
++ erotic_cinema 
++ erotic_film 
++ movies NOUN NOUN_PLURAL KINDERGARTEN 
++ videos NOUN NOUN_PLURAL KINDERGARTEN 
++ art_film 
++ art_movies 
++ art_cinema 
++ play_music 
++ sketching VERB_PRESENT_PARTICIPLE VERB 
++ doodling VERB_PRESENT_PARTICIPLE VERB GRADE1_2 
++ improvising_music 
++ writing_a_script 
++ writing_a_story 
++ writing_a_novel 
++ writing_a_poem 
++ writing_poetry 
++ writing_verse 
++ making_a_film 
++ making_a_movie 
++ shooting_a_film 
++ editing_a_film 
++ editing_a_movie 
++ hustling VERB_PRESENT_PARTICIPLE VERB 
++ a_lot_of_work 
++ lots_of_work 
++ first_grade 
++ second_grade 
++ third_grade 
++ fourth_grade 
++ fifth_grade 
++ sixth_grade 
++ seventh_grade 
++ eighth_grade 
++ ninth_grade 
++ tenth_grade 
++ eleventh_grade 
++ twelvth_grade 
++ finished_high_school 
++ finished_secondary_school 
++ graduate_studies 
++ independent_study 
++ independent_studies 
++ postgrad_school 
++ undergraduate_school 
++ postgraduate_school 
++ post-graduate_school 
++ postgraduate_institution 
++ out_of_line 
++ dumped VERB_PAST VERB_PAST_PARTICIPLE VERB ADJECTIVE_PARTICIPLE NOUN_ADJECTIVE KINDERGARTEN 
++ walked_out_on 
++ don't_know 
++ not_sure 
++ how_would_i_know 
++ do_not_know 
++ no_clue 
++ no_idea 
++ don't_want_to_say 
++ don't_want_to_talk 
++ don't_want_to_discuss 
++ rather_not_talk 
++ rather_not_say 
++ rather_not_discuss 
++ don't_feel_comfortable_discussing 
++ don't_feel_comfortable_saying 
++ uncomfortable_to_talk 
++ not_comfortable_discussing 
++ that's_a_secret 
++ it's_a_secret 
++ talk_about 
++ talk_on 
++ chat_about 
++ have_a_talk 
++ get_some_help_with 
++ get_help_with 
++ get_some_assistance_with 
++ get_assistance_with 
++ get_guidance_on 
++ need_guidance_on 
++ get_advice_on 
++ get_some_advice 
++ get_advice 
++ advice_on 
++ advice_about 
++ need_advice_on 
++ help_with 
++ cool_beans 
++ not_bad 
++ great_amount 
++ great_quantity 
++ large_amount 
++ large_quantity 
++ black_mass 
++ proddy_dog 
++ life_after_death 
++ end_times 
++ end_of_world 
++ judgment_day 
++ next_world 
++ next_life 
++ second_life 
++ meaning_of_life 
++ meaning_of_existence 
++ nature_of_reality 
++ nature_of_existence 
++ platonic_idea 
++ platonic_form 
++ plato's_republic 
++ neo_platonism 
++ will_to_power 
++ might_makes_right 
++ philosophizing_with_a_hammer 
++ all_religions_are_one 
++ all_religions_are_true 
++ all_true_religion_is_one 
++ different_religions_express_the_same 
++ only_matter_exists 
++ gender_is_a_social_construct 
++ is_a_social_construct 
++ lizard_men 
++ lizard_people 
++ lizard_illuminati 
++ old_testament 
++ new_testament 
++ bhagavad_gita 
++ holy_war 
++ call_to_prayer 
++ pray_to_god 
++ ask_god 
++ haqiqat_muhammadiyya 
++ ein_sof 
++ karma_yoga 
++ bhakti_yoga 
++ jnana_yoga 
++ union_with_god 
++ lord_god 
++ the_lord 
++ lord_god_almighty 
++ supreme_being 
++ supreme_deity 
++ lord_of_the_universe 
++ creator_god 
++ annihilation_in_god 
++ annihilation_in_allah 
++ one_with_god 
++ oneness_with_god 
++ unity_with_god 
++ attain_godhood 
++ attain_divinity 
++ become_a_god 
++ become_divine 
++ achieve_godhood 
++ achieve_divinity 
++ reach_godhood 
++ become_gods 
++ become_a_divinity 
++ upload_myself 
++ trancending_man 
++ trancending_humankind 
++ romantic_love 
++ crabs VERB_PRESENT_3PS NOUN VERB NOUN_PLURAL KINDERGARTEN 
++ spiritual_but_not_religious 
++ opium_of_the_masses 
++ people's_revolution 
++ worker's_revolution 
++ your_special_qualities 
++ special_qualities 
++ unique_qualities 
++ unique_traits 
++ special_snowflake 
++ having_a_blast 
++ have_a_blast 
++ great_time 
++ good_food 
++ good_meal 
++ feels_good 
++ getting_high 
++ getting_stoned 
++ coked_up 
++ good_trip 
++ amped_up 
++ chill_with 
++ spend_time_with 
++ true_believer 
++ the_right 
++ political_right 
++ the_left 
++ political_left 
++ maiden_of_paradise 
++ virgin_of_paradise 
++ woman_of_paradise 
++ maiden_in_paradise 
++ virgin_in_paradise 
++ women_in_paradise 
++ wives_in_paradise 
++ non_religion 
++ not_religious 
++ not_into_religion 
++ against_religion 
++ against_spirituality 
++ pimping VERB_PRESENT_PARTICIPLE VERB 
++ selling_your_body 
++ porn_acting 
++ porn_actor 
++ sex_worker 
++ human_trafficker 
++ not_enough_money 
++ low_income 
++ too_poor 
++ down_and_out 
 + ^ 
 + devel 
 + defense_lawyers 
@@ -4029,7 +4360,6 @@
 + have_you_run_across 
 + what_do_you_know_about 
 + who_be 
-+ chat_about 
 + engage_in_conversation 
 + ask_me_out 
 + asking_me_out 
@@ -4052,7 +4382,6 @@
 + do_you_a_favor 
 + give_you_a_hand 
 + lend_you_a_hand 
-+ passed_away 
 + be_big_on 
 + attached_to 
 + be_keen_on 
@@ -27623,7 +27952,6 @@
 + The_Star_Of_Christmas NOUN_TITLE_OF_WORK NOUN NOUN_PROPER_SINGULAR 
 + The_Tracey_Fragments NOUN_TITLE_OF_WORK NOUN NOUN_PROPER_SINGULAR 
 + Secuestro_Express NOUN_TITLE_OF_WORK NOUN NOUN_PROPER_SINGULAR 
-+ True_Believer NOUN_TITLE_OF_WORK NOUN NOUN_PROPER_SINGULAR 
 + The_Winjin_Pom NOUN_TITLE_OF_WORK NOUN NOUN_PROPER_SINGULAR 
 + Nandha NOUN_TITLE_OF_WORK NOUN NOUN_PROPER_SINGULAR 
 + Dont_Raise_The_Bridge_Lower_The_River NOUN_TITLE_OF_WORK NOUN NOUN_PROPER_SINGULAR 
@@ -40842,7 +41170,6 @@
 + The_Ground_Truth NOUN_TITLE_OF_WORK NOUN NOUN_PROPER_SINGULAR 
 + Just_Around_The_Corner NOUN_TITLE_OF_WORK NOUN NOUN_PROPER_SINGULAR 
 + Lanton_Mills NOUN_TITLE_OF_WORK NOUN NOUN_PROPER_SINGULAR 
-+ Lord_Of_The_Universe NOUN_TITLE_OF_WORK NOUN NOUN_PROPER_SINGULAR 
 + Whats_Going_On_Up_There NOUN_TITLE_OF_WORK NOUN NOUN_PROPER_SINGULAR 
 + The_Curse_Of_Quon_Gwon NOUN_TITLE_OF_WORK NOUN NOUN_PROPER_SINGULAR 
 + The_Parent_Trap_II_I NOUN_TITLE_OF_WORK NOUN NOUN_PROPER_SINGULAR 

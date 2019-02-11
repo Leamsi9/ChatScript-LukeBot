@@ -1,0 +1,20 @@
+﻿ ~religio-philo_assumptions.1.0 #! assume person is religious if belong to religious sect
+ ~religio-philo_assumptions.2.0 #! assume person in certain groups disbelieves in reincarnation
+ ~religio-philo_assumptions.3.0 #! assume person in certain groups believes in reincarnation
+ ~religio-philo_assumptions.4.0 #! assume person in certain groups believes in karma
+ ~religio-philo_assumptions.5.0 #! assume person in certain groups is monotheist
+ ~religio-philo_assumptions.6.0 #! assume person in certain groups is not monotheist
+ ~religio-philo_assumptions.7.0 #! assume person in certain groups believes in afterlife
+ ~religio-philo_assumptions.8.0 #! assume monotheist believes God is all-seeing
+ ~religio-philo_assumptions.9.0 #! assume monotheist believes God is all-knowing
+ ~religio-philo_assumptions.10.0 #! assume Xtian believes God is person
+ ~religio-philo_assumptions.11.0 #! assume Muslim or Jew etc. believes God is not person
+ ~religio-philo_assumptions.12.0 #! assume most monotheists believe God made evil
+ ~religio-philo_assumptions.13.0 #! assume belief in heaven based on group
+ ~religio-philo_assumptions.14.0 #! assume belief in hell based on group
+ ~religio-philo_assumptions.15.0 #! assume belief in judgment day based on group
+ ~religio-philo_assumptions.16.0 #! assume belief in eternal damnation based on group
+ ~religio-philo_assumptions.17.0 #! assume belief in angels based on group
+ ~religio-philo_assumptions.18.0 #! assume belief in satan's existence based on group
+ ~religio-philo_assumptions.19.0 #! assume belief in nirvana/enlightenment based on group
+ ~religio-philo_assumptions.20.0 #! assume belief in monism based on group
