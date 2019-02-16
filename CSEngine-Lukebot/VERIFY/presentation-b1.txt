@@ -1,8 +1,0 @@
-﻿ ~presentation.0.0 #! So it's great to be here. It's also my pleasure to introduce the one and only Luke Skywalker.
-     ~presentation.1.1 #! So how are you even here?
-     ~presentation.1.2 #! Not cool. But why even choose a chatbot to manifest? You could have hacked George Lucas to put you back on the movies instead?
-     ~presentation.2.1 #! Why are 85% of bots rule based?
-     ~presentation.2.2 #! Does that mean that the singularity isn't coming?
-     ~presentation.2.3 #! I don't believe you. So how do rule based bots work?
-     ~presentation.2.4 #! Ismael So why did you hypnotise me to use ChatScript for your visit to our planet?
-     ~presentation.2.5 #! Thanks, I guess now would be a good time for me to show these people how ChatScript actually works...

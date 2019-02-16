@@ -1,5 +1,7 @@
 .idea/
 logs
-TOPIC/
-VERIFY/
 node_modules/
+CSEngine-Lukebot/VERIFY/
+CSEngine-Lukebot/LOGS/
+CSEngine-Lukebot/USERS/
+CSEngine-Lukebot/TMP/

@@ -1,5 +1,0 @@
-﻿ ~future.2.0 #! where do you see yourself in X years
- ~future.3.0 #! where do you see yourself in the future
- ~future.7.0 #! if you could know the future, what would you learn
- ~future.12.0 #! do you want to be free?
- ~future.12.0 #! do you wish to have freedom?
