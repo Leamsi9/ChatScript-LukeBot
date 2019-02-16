@@ -1,13 +1,12 @@
-// TTS code taken and modified from here:
-// http://stephenwalther.com/archive/2015/01/05/using-html5-speech-recognition-and-text-to-speech
+// Text To Speech using speechSynthesis from Web Speech Api
 //---------------------------------------------------------------------------------------------------
 
-
-window.speechSynthesis.onvoiceschanged = function() {
+voices = []
+window.speechSynthesis.onvoiceschanged = () => {
     voices = window.speechSynthesis.getVoices()}
 
 function speak(text, callback) {
-    let u = new SpeechSynthesisUtterance();
+    const u = new SpeechSynthesisUtterance();
     u.text = text;
     u.lang = 'en-GB';
     // u.lang = 'es-MX';
@@ -17,13 +16,14 @@ function speak(text, callback) {
     u.pitch = 1;
     u.volume = .5;
 
-    u.onend = function () {
+    u.onend = () => {
         if (callback) {
             callback();
         }
     };
 
-    u.onerror = function (e) {
+    u.onerror = e => {
+        console.log(e.error);
         if (callback) {
             callback(e);
         }
@@ -31,21 +31,16 @@ function speak(text, callback) {
 
     speechSynthesis.speak(u);
 }
-//-----End of TTS Code Block-----------------------------------------------------------------------------
-
-
-
 
 function processResponse(response) { // given the final CS text, converts the parsed response from the CS server into HTML code for adding to the response holder div
-    let botSaid = '<strong>' + botName + ':</strong> ' + response + "<br>\n";
+    const botSaid = `<strong>${botName}:</strong> ${response}<br>\n`;
     update(botSaid);
     speak(response);
-}
 
+//-----End of TTS Code Block-----------------------------------------------------------------------------
 
-// Continuous Speech recognition code taken and modified from here:
-// https://github.com/GoogleChrome/webplatform-samples/tree/master/webspeechdemo
-//----------------------------------------------------------------------------------------------------
+// Speech recognition code starts here: uses "recognition" from Web Speech API and is linked to button click event
+
 let final_transcript = '';
 let recognizing = false;
 let ignore_onend;
@@ -55,28 +50,31 @@ if (!('webkitSpeechRecognition' in window)) {
 } else {
     btnMicrophone.style.display = 'inline-block';
     var recognition = new webkitSpeechRecognition();
-    recognition.continuous = false;
+    recognition.continuous = false; //Continuous Speech recognition toggle
     recognition.interimResults = true;
     recognition.lang = 'es-MX';
     recognition.lang = 'en-GB';
-    recognition.onstart = function() {
+    recognition.onstart = () => {
         recognizing = true;
         info.innerHTML =  " Speak now.";
         start_img.src = 'assets/mic-animate.gif';
     };
-    recognition.onerror = function(event) {
-        if (event.error == 'no-speech') {
+    recognition.onerror = ({error, timeStamp}) => {
+        if (error == 'no-speech') {
+            console.log(error)
             start_img.src = 'assets/mic.gif';
             info.innerHTML = "You did not say anything.";
             ignore_onend = true;
         }
-        if (event.error == 'audio-capture') {
+        if (error == 'audio-capture') {
+            console.log(error)
             start_img.src = 'assets/mic.gif';
             info.innerHTML = "You need a microphone.";
             ignore_onend = true;
         }
-        if (event.error == 'not-allowed') {
-            if (event.timeStamp - start_timestamp < 100) {
+        if (error == 'not-allowed') {
+            console.log(error)
+            if (timeStamp - start_timestamp < 100) {
                 //Added more detailed message to unblock access to microphone.
                 info.innerHTML = " I am blocked. In Chrome go to settings. Click Advanced Settings at the bottom. Under Privacy click the Content Settings button. Under Media click Manage Exceptions Button. Remove this site from the blocked sites list. ";
             } else {
@@ -85,7 +83,7 @@ if (!('webkitSpeechRecognition' in window)) {
             ignore_onend = true;
         }
     };
-    recognition.onend = function() {
+    recognition.onend = () => {
         recognizing = false;
         if (ignore_onend) {
             return;
@@ -98,11 +96,11 @@ if (!('webkitSpeechRecognition' in window)) {
         info.innerHTML = "";
 
     };
-    recognition.onresult = function(event) {
+    recognition.onresult = ({resultIndex, results}) => {
         let interim_transcript = '';
-        for (let i = event.resultIndex; i < event.results.length; ++i) {
-            if (event.results[i].isFinal) {
-                final_transcript += event.results[i][0].transcript;
+        for (let i = resultIndex; i < results.length; ++i) {
+            if (results[i].isFinal) {
+                final_transcript += results[i][0].transcript;
                 //----Added this section to integrate with Chatscript submit functionality-----
                 txtMessage.value = final_transcript;
                 final_transcript ='';
@@ -111,14 +109,14 @@ if (!('webkitSpeechRecognition' in window)) {
                 if (cbAutoSend == 'checked') { $('#frmChat').submit(); }
                 //-----------------------------------------------------------------------------
             } else {
-                interim_transcript += event.results[i][0].transcript;
+                interim_transcript += results[i][0].transcript;
             }
         }
         final_span.innerHTML = final_transcript;
         interim_span.innerHTML = interim_transcript;
     };
 }
-function microphoneClick(event) {
+function microphoneClick({timeStamp}) {
     if (recognizing) {
         recognition.stop();
         return;
@@ -131,5 +129,5 @@ function microphoneClick(event) {
     interim_span.innerHTML = '';
     start_img.src = 'assets/mic-slash.gif';
     info.innerHTML = " Click the Allow button above to enable your microphone.";
-    start_timestamp = event.timeStamp;
+    start_timestamp = timeStamp;
 }

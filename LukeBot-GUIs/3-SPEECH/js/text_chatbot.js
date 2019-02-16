@@ -1,28 +1,28 @@
 
 
-var botName = 'Luke';    // change this to your bot name
+const botName = 'Luke';    // change this to your bot name
 // declare timer variables
-var alarm = null;
-var callback = null;
-var loopback = null;
-var CSoutput = '';
-$(function(){
+let alarm = null;
+let callback = null;
+let loopback = null;
+let CSoutput = '';
+$(() => {
     $('#frmChat').submit(function(e){
         // this function overrides the form's submit() method, allowing us to use AJAX calls to communicate with the ChatScript server
         e.preventDefault();  // Prevent the default submit() method
-        var name = $('#txtUser').val();
+        const name = $('#txtUser').val();
         if (name == "") {
             alert('Please provide your name.');
             document.getElementById('txtUser').focus();
         }
-        var youSaid = '<strong style="color: darkgoldenrod">' + name + ': ' +  $('#txtMessage').val() + '</strong> ' + "<br>\n";
+        const youSaid = `<strong style="color: darkgoldenrod">${name}: ${$('#txtMessage').val()}</strong> <br>\n`;
         update(youSaid);
-        var data = $(this).serialize();
+        const data = $(this).serialize();
         sendMessage(data);
         $('#txtMessage').val('').focus();
     });
     // any user typing cancels loopback or callback for this round
-    $('#txtMessage').keypress(function(){
+    $('#txtMessage').keypress(() => {
         window.clearInterval(loopback);
         window.clearTimeout(callback);
     });
@@ -32,20 +32,20 @@ function sendMessage(data){ //Sends inputs to the ChatScript server, and returns
     $.ajax({
         url: 'ui.php',
         dataType: 'text',
-        data: data,
+        data,
         type: 'post',
-        success: function(response){
+        success(response) {
             processResponse(parseCommands(response));
         },
-        error: function(xhr, status, error){
-            alert('oops? Status = ' + status + ', error message = ' + error + "\nResponse = " + xhr.responseText);
+        error({responseText}, status, error) {
+            alert(`oops? Status = ${status}, error message = ${error}\nResponse = ${responseText}`);
         }
     });
 }
 function parseCommands(response){ // Response is data from CS server. This processes OOB commands sent from the CS server returning the remaining response w/o oob commands
     CSoutput = response.replace(/\((.*?)\)/, "HELLO")
-    var len  = CSoutput.length;
-    var i = -1;
+    const len  = CSoutput.length;
+    let i = -1;
     while (++i < len )
     {
         if (CSoutput.charAt(i) == ' ' || CSoutput.charAt(i) == '\t') continue; // starting whitespace
@@ -53,22 +53,22 @@ function parseCommands(response){ // Response is data from CS server. This proce
         return CSoutput;            // there is no oob data
     }
     if ( i == len) return CSoutput; // no starter found
-    var user = $('#txtUser').val();
+    const user = $('#txtUser').val();
 
     // walk string to find oob data and when ended return rest of string
-    var start = 0;
+    let start = 0;
     while (++i < len )
     {
         if (CSoutput.charAt(i) == ' ' || CSoutput.charAt(i) == ']') // separation
         {
             if (start != 0) // new oob chunk
             {
-                var blob = CSoutput.slice(start,i);
+                const blob = CSoutput.slice(start,i);
                 start = 0;
-                var commandArr = blob.split('=');
+                const commandArr = blob.split('=');
                 if (commandArr.length == 1) continue; // failed to split left=right
-                var command = commandArr[0]; // left side is command
-                var interval = (commandArr.length > 1) ? commandArr[1].trim() : -1; // right side is millisecond count
+                const command = commandArr[0]; // left side is command
+                let interval = (commandArr.length > 1) ? commandArr[1].trim() : -1; // right side is millisecond count
                 if (interval == 0)  /* abort timeout item */
                 {
                     switch (command){
@@ -89,16 +89,16 @@ function parseCommands(response){ // Response is data from CS server. This proce
                 else if (interval == -1) interval = -1; // do nothing
                 else
                 {
-                    var timeoutmsg = {user: user, send: true, message: '[' + command + ' ]'}; // send naked command if timer goes off
+                    const timeoutmsg = {user, send: true, message: `[${command} ]`}; // send naked command if timer goes off
                     switch (command) {
                         case 'alarm':
-                            alarm = setTimeout(function(){sendMessage(timeoutmsg );}, interval);
+                            alarm = setTimeout(() => {sendMessage(timeoutmsg );}, interval);
                             break;
                         case 'callback':
-                            callback = setTimeout(function(){sendMessage(timeoutmsg );}, interval);
+                            callback = setTimeout(() => {sendMessage(timeoutmsg );}, interval);
                             break;
                         case 'loopback':
-                            loopback = setInterval(function(){sendMessage(timeoutmsg );}, interval);
+                            loopback = setInterval(() => {sendMessage(timeoutmsg );}, interval);
                             break;
                     }
                 }
@@ -111,7 +111,6 @@ function parseCommands(response){ // Response is data from CS server. This proce
 }
 
 function update(text){ // text is  HTML code to append to the 'chat log' div. This appends the input text to the response div)
-    var chatLog = $('#responseContent').html();
-    $('#responseContent').html(chatLog + '<br>' + text);
-
+    const chatLog = $('#responseContent').html();
+    $('#responseContent').html(`${chatLog}<br>${text}`);
 }

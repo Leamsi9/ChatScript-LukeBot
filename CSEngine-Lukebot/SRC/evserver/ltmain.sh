@@ -1703,7 +1703,7 @@ func_mode_execute ()
       fi
     done
 
-    # This variable tells wrapper scripts just to set shlibpath_var
+    # This variable tells wrapper js just to set shlibpath_var
     # rather than running their programs.
     libtool_execute_magic="$magic"
 
@@ -1964,7 +1964,7 @@ func_mode_install ()
       ;;
     esac
 
-    # This variable tells wrapper scripts just to set variables rather
+    # This variable tells wrapper js just to set variables rather
     # than running their programs.
     libtool_install_magic="$magic"
 
@@ -2579,7 +2579,7 @@ func_win32_libid ()
   *DLL*)
     win32_libid_type="x86 DLL"
     ;;
-  *executable*) # but shell scripts are "executable" too...
+  *executable*) # but shell js are "executable" too...
     case $win32_fileres in
     *MS\ Windows\ PE\ Intel*)
       win32_libid_type="x86 DLL"
@@ -4600,7 +4600,7 @@ func_mode_link ()
       -no-install)
 	case $host in
 	*-*-cygwin* | *-*-mingw* | *-*-pw32* | *-*-os2* | *-*-darwin* | *-cegcc*)
-	  # The PATH hackery in wrapper scripts is required on Windows
+	  # The PATH hackery in wrapper js is required on Windows
 	  # and Darwin in order for the loader to find any dlls it needs.
 	  func_warning "\`-no-install' is ignored for $host"
 	  func_warning "assuming \`-no-fast-install' instead"
@@ -8202,7 +8202,7 @@ func_mode_uninstall ()
     rmforce=
     exit_status=0
 
-    # This variable tells wrapper scripts just to set variables rather
+    # This variable tells wrapper js just to set variables rather
     # than running their programs.
     libtool_install_magic="$magic"
 

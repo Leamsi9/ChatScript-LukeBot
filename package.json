@@ -1,0 +1,30 @@
+{
+  "name": "lukebot",
+  "version": "1.0.0",
+  "description": "Demo ChatScript bot",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leamsi9/LukeBot.git"
+  },
+  "keywords": [
+    "chatbot",
+    "chatscript"
+  ],
+  "author": "Ismael Velasco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leamsi9/LukeBot/issues"
+  },
+  "homepage": "https://github.com/Leamsi9/LukeBot#readme",
+  "devDependencies": {
+    "@babel/core": "^7.3.3",
+    "@babel/preset-env": "^7.3.1",
+    "babel-cli": "^6.26.0",
+    "webpack": "^4.29.4"
+  },
+  "dependencies": {}
+}

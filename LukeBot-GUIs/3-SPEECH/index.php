@@ -8,7 +8,7 @@
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css">
     <link rel="stylesheet" type="text/css" href="stylesheets/star_wars.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script type="text/javascript" src="scripts/text_chatbot.js"></script>
+    <script type="text/javascript" src="js/text_chatbot.js"></script>
     <script type="text/javascript">
         var cbAutoSend = 'checked';
     </script>
@@ -63,7 +63,7 @@
     </div>
 </div>
 </section>
-<script type="text/javascript" src="scripts/speech_chatbot.js"></script>
+<script type="text/javascript" src="js/speech_chatbot.js"></script>
 </body>
 </html>
 
