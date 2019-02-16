@@ -10,8 +10,8 @@ $cs_token += #SPLIT_QUOTE | #NO_WITHIN
 $cs_control_main = ~control
 # $cs_control_post = ~XPOSTPROCESS  # uncomment to enable talk
 # The postprocess topic I define will allow windows system to use verbal output
-$userprompt = ^"%user: >"
-$botprompt = ^"Skywalker: "
+$userprompt = ^"%uset: >"
+$botprompt = ^"Skywalket: "
 $singleResponse = 1 # issue only 1 output message
 table: defaultbot (^name)
 ^createfact(^name defaultbot defaultbot)

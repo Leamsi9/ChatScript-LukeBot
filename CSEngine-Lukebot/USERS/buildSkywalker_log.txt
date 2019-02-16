@@ -9,13 +9,13 @@ Reading topic ~special_requests
 Reading topic ~control
 Reading topic ~pre_control
 Reading topic ~xpostprocess
-*** Warning- line 257 of advanced_control.top: @chatoutput is not a recognized @rename. Is it intended to be?
-*** Warning- line 262 of advanced_control.top: @chatoutput is not a recognized @rename. Is it intended to be?
-*** Warning- line 267 of advanced_control.top: @chatoutputsubject is not a recognized @rename. Is it intended to be?
+*** Warning- line 243 of advanced_control.top: @chatoutput is not a recognized @rename. Is it intended to be?
+*** Warning- line 248 of advanced_control.top: @chatoutput is not a recognized @rename. Is it intended to be?
+*** Warning- line 253 of advanced_control.top: @chatoutputsubject is not a recognized @rename. Is it intended to be?
 Reading topic ~xprocess1
-*** Warning- line 312 of advanced_control.top: Word "or" known in multiple spellings or OR 
-*** Warning- line 322 of advanced_control.top: Word "old" known in multiple spellings old Old 
-*** Warning- line 323 of advanced_control.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 298 of advanced_control.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 308 of advanced_control.top: Word "old" known in multiple spellings old Old 
+*** Warning- line 309 of advanced_control.top: Word "or" known in multiple spellings or OR 
 
 ----Reading file presentation.top
 Reading topic ~presentation
@@ -23,38 +23,6 @@ Reading topic ~presentation
 <<end folder RAWDATA/Skywalker
 
 >>Reading folder RAWDATA/Skywalker/SARAH/
-
-----Reading file consciousness.top
-Reading concept ~consciousness_words
-Reading topic ~consciousness
-*** Warning- line 23 of consciousness.top: Word "me" known in multiple spellings me ME 
-Reading topic ~awareness_exercise_1
-Reading topic ~tryagaintofeelawareness
-Reading topic ~consciousnessprior
-Reading topic ~exercise_alt
-Reading topic ~practiceathome
-Reading topic ~confidence
-Reading topic ~practice
-Reading topic ~tryagain2
-Reading topic ~tryagain3
-Reading topic ~unityexperience
-
-----Reading file conversation_steering.top
-Reading topic ~conversation_steering
-Reading outputmacro: ^steer_to_domain
-Reading outputmacro: ^avoid_and_steer
-Reading outputmacro: ^steer_to_different_domain
-*** Warning- line 76 of conversation_steering.top: Recursive call to topic - possible infinite recursion danger 
-
-----Reading file emotions.top
-Reading concept ~negative_emotion
-Reading concept ~positive_emotion
-Reading topic ~emotions2
-Reading topic ~support_feeling
-Reading topic ~self_compassion
-Reading topic ~refuse
-Reading topic ~body_exercise
-Reading topic ~needs_support
 
 ----Reading file functions.top
 Rename @18 as @inputtopics
@@ -123,12 +91,6 @@ Reading outputmacro: ^howoftentable
 Reading outputmacro: ^doyoutable
 Reading patternmacro: ^what_is_your_favorite
 
-----Reading file introductions.top
-Reading topic ~introductions
-*** Warning- line 31 of introductions.top: Word "am" known in multiple spellings am AM 
-Reading topic ~rebond
-Reading topic ~ending
-
 ----Reading file sarah_functions.top
 Reading concept ~agreement_words
 Reading patternmacro: ^agree
@@ -147,13 +109,6 @@ Reading outputmacro: ^clear_avoided_domains
 Reading concept ~dontknow
 Reading concept ~thinkso
 Reading concept ~emotions
-
-----Reading file uniqueness.top
-Reading concept ~uniqueness_words
-Reading topic ~uniqueness
-Reading topic ~senseofpurpose
-Reading topic ~livingfullpotential
-Reading topic ~unifiedwhole
 
 <<end folder RAWDATA/Skywalker/SARAH
 
@@ -221,25 +176,6 @@ Reading topic ~computers
 *** Warning- line 146 of computers.top: Word "ARM" known in multiple spellings arm ARM 
 *** Warning- line 146 of computers.top: Keyword ARM should not be uppercase - did prior rule fail to close
 
-----Reading file conversation.top
-Reading topic ~conversation
-*** Warning- line 10 of conversation.top: Word "me" known in multiple spellings me ME 
-*** Warning- line 16 of conversation.top: Word "me" known in multiple spellings me ME 
-*** Warning- line 29 of conversation.top: Word "me" known in multiple spellings me ME 
-*** Warning- line 31 of conversation.top: Word "converse" known in multiple spellings converse Converse 
-*** Warning- line 44 of conversation.top: Word "converse" known in multiple spellings converse Converse 
-*** Warning- line 76 of conversation.top: Word "converse" known in multiple spellings converse Converse 
-
-----Reading file friends.top
-Reading concept ~avoidsocial
-Reading topic ~friends
-*** Warning- line 36 of friends.top: Word "friends" known in multiple spellings friends Friends 
-*** Warning- line 37 of friends.top: Word "hi" known in multiple spellings hi HI 
-*** Warning- line 45 of friends.top: Word "pal" known in multiple spellings pal Pal 
-*** Warning- line 47 of friends.top: Word "pal" known in multiple spellings pal Pal 
-*** Warning- line 47 of friends.top: Word "old" known in multiple spellings old Old 
-*** Warning- line 67 of friends.top: Word "pal" known in multiple spellings pal Pal 
-
 ----Reading file future.top
 Reading topic ~future
 *** Warning- line 10 of future.top: Keyword Climate should not be uppercase - did prior rule fail to close
@@ -284,6 +220,11 @@ Reading topic ~internet
 *** Warning- line 169 of internet.top: Word "Internet" known in multiple spellings internet Internet 
 *** Warning- line 174 of internet.top: Word "internet" known in multiple spellings internet Internet 
 
+----Reading file introductions.top
+Reading topic ~introductions
+*** Warning- line 12 of introductions.top: Word "am" known in multiple spellings am AM 
+Reading topic ~bye
+
 ----Reading file inventions.top
 Reading topic ~inventions
 
@@ -302,47 +243,6 @@ Reading topic ~lying
 *** Warning- line 207 of lying.top: Word "truth" known in multiple spellings truth Truth 
 *** Warning- line 210 of lying.top: Word "truth" known in multiple spellings truth Truth 
 *** Warning- line 216 of lying.top: Word "truth" known in multiple spellings truth Truth 
-
-----Reading file name_some_things.top
-Reading topic ~name_some_things
-*** Warning- line 15 of name_some_things.top: Word "word" known in multiple spellings word Word 
-*** Warning- line 31 of name_some_things.top: Word "freeze" known in multiple spellings freeze Freeze 
-*** Warning- line 43 of name_some_things.top: Word "God" known in multiple spellings god God 
-*** Warning- line 57 of name_some_things.top: Word "no_one" known in multiple spellings no_one No_one No_One 
-
-----Reading file physical_self.top
-Reading topic ~myself
-*** Warning- line 23 of physical_self.top: Word "day" known in multiple spellings day Day 
-*** Warning- line 26 of physical_self.top: Word "day" known in multiple spellings day Day 
-*** Warning- line 93 of physical_self.top: Word "in" known in multiple spellings in IN 
-*** Warning- line 183 of physical_self.top: Word "me" known in multiple spellings me ME 
-*** Warning- line 184 of physical_self.top: Word "me" known in multiple spellings me ME 
-*** Warning- line 218 of physical_self.top: Word "nail" known in multiple spellings nail Nail 
-*** Warning- line 354 of physical_self.top: Word "day" known in multiple spellings day Day 
-*** Warning- line 357 of physical_self.top: Word "old" known in multiple spellings old Old 
-*** Warning- line 360 of physical_self.top: Word "old" known in multiple spellings old Old 
-*** Warning- line 363 of physical_self.top: Word "day" known in multiple spellings day Day 
-*** Warning- line 375 of physical_self.top: Word "old" known in multiple spellings old Old 
-*** Warning- line 378 of physical_self.top: Word "old" known in multiple spellings old Old 
-*** Warning- line 401 of physical_self.top: Word "in" known in multiple spellings in IN 
-*** Warning- line 431 of physical_self.top: Substitutes.txt changes lastname to last+name anywhere in input
-*** Warning- line 450 of physical_self.top: Word "me" known in multiple spellings me ME 
-*** Warning- line 452 of physical_self.top: Word "me" known in multiple spellings me ME 
-
-----Reading file psychological_self.top
-Reading topic ~my_psychology
-*** Warning- line 6 of psychological_self.top: Word "or" known in multiple spellings or OR 
-*** Warning- line 10 of psychological_self.top: Spelling.txt erases A anywhere in input
-*** Warning- line 19 of psychological_self.top: Word "Type_A" known in multiple spellings Type_A type_A 
-*** Warning- line 19 of psychological_self.top: Word "Type_B" known in multiple spellings Type_B type_B 
-*** Warning- line 54 of psychological_self.top: Word "quest" known in multiple spellings quest Quest 
-*** Warning- line 74 of psychological_self.top: Word "me" known in multiple spellings me ME 
-*** Warning- line 111 of psychological_self.top: Word "hero" known in multiple spellings hero Hero 
-*** Warning- line 131 of psychological_self.top: Word "passion" known in multiple spellings passion Passion 
-*** Warning- line 138 of psychological_self.top: Word "rice" known in multiple spellings rice Rice 
-*** Warning- line 158 of psychological_self.top: Word "old" known in multiple spellings old Old 
-*** Warning- line 188 of psychological_self.top: Word "me" known in multiple spellings me ME 
-*** Warning- line 191 of psychological_self.top: Word "me" known in multiple spellings me ME 
 
 ----Reading file robots.top
 Reading concept ~asimov_laws
@@ -371,24 +271,24 @@ Reading topic ~robots
 *** Warning- line 253 of robots.top: Word "robotics" known in multiple spellings robotics Robotics 
 *** Warning- line 258 of robots.top: Word "robotics" known in multiple spellings robotics Robotics 
 *** Warning- line 273 of robots.top: Word "service" known in multiple spellings service Service 
-*** Warning- line 313 of robots.top: Word "terminator" known in multiple spellings terminator Terminator 
-*** Warning- line 313 of robots.top: Word "Skynet" known in multiple spellings Skynet SkyNet 
-*** Warning- line 336 of robots.top: Word "hell" known in multiple spellings hell Hell 
-*** Warning- line 343 of robots.top: Word "android" known in multiple spellings android Android 
-*** Warning- line 355 of robots.top: Word "android" known in multiple spellings android Android 
-*** Warning- line 369 of robots.top: Word "android" known in multiple spellings android Android 
-*** Warning- line 383 of robots.top: Word "android" known in multiple spellings android Android 
-*** Warning- line 394 of robots.top: Word "android" known in multiple spellings android Android 
-*** Warning- line 405 of robots.top: Word "android" known in multiple spellings android Android 
-*** Warning- line 442 of robots.top: Word "robotics" known in multiple spellings robotics Robotics 
-*** Warning- line 463 of robots.top: Word "android" known in multiple spellings android Android 
-*** Warning- line 465 of robots.top: Word "brother" known in multiple spellings brother Brother 
-*** Warning- line 466 of robots.top: Word "same" known in multiple spellings same Same 
-*** Warning- line 466 of robots.top: Word "maker" known in multiple spellings maker Maker 
+*** Warning- line 312 of robots.top: Word "terminator" known in multiple spellings terminator Terminator 
+*** Warning- line 312 of robots.top: Word "Skynet" known in multiple spellings Skynet SkyNet 
+*** Warning- line 335 of robots.top: Word "hell" known in multiple spellings hell Hell 
+*** Warning- line 342 of robots.top: Word "android" known in multiple spellings android Android 
+*** Warning- line 354 of robots.top: Word "android" known in multiple spellings android Android 
+*** Warning- line 368 of robots.top: Word "android" known in multiple spellings android Android 
+*** Warning- line 382 of robots.top: Word "android" known in multiple spellings android Android 
+*** Warning- line 393 of robots.top: Word "android" known in multiple spellings android Android 
+*** Warning- line 404 of robots.top: Word "android" known in multiple spellings android Android 
+*** Warning- line 441 of robots.top: Word "robotics" known in multiple spellings robotics Robotics 
+*** Warning- line 462 of robots.top: Word "android" known in multiple spellings android Android 
+*** Warning- line 464 of robots.top: Word "brother" known in multiple spellings brother Brother 
+*** Warning- line 465 of robots.top: Word "same" known in multiple spellings same Same 
+*** Warning- line 465 of robots.top: Word "maker" known in multiple spellings maker Maker 
 Reading topic ~paro
-*** Warning- line 476 of robots.top: Word "creator" known in multiple spellings creator Creator 
-*** Warning- line 479 of robots.top: Word "hail" known in multiple spellings hail Hail 
-*** Warning- line 493 of robots.top: Word "pet" known in multiple spellings pet PET 
+*** Warning- line 475 of robots.top: Word "creator" known in multiple spellings creator Creator 
+*** Warning- line 478 of robots.top: Word "hail" known in multiple spellings hail Hail 
+*** Warning- line 492 of robots.top: Word "pet" known in multiple spellings pet PET 
 
 ----Reading file science.top
 Reading concept ~gc
@@ -409,172 +309,23 @@ Reading topic ~science_react
 
 >>Reading folder RAWDATA/Skywalker/SARAH/GROUP_MEDITATION/
 No such directory RAWDATA/Skywalker/SARAH/GROUP_MEDITATION/*
-18 Mon Feb 11 04:59:36 2019 in sentence: So why did you come to Earth? 
+2 Wed Feb 13 05:45:03 2019 in sentence: great 
     
 <<end folder RAWDATA/Skywalker/SARAH/GROUP_MEDITATION
 
 >>Reading folder RAWDATA/Skywalker/SARAH/INTERVIEW/
 No such directory RAWDATA/Skywalker/SARAH/INTERVIEW/*
-18 Mon Feb 11 04:59:36 2019 in sentence: So why did you come to Earth? 
+2 Wed Feb 13 05:45:03 2019 in sentence: great 
     
 <<end folder RAWDATA/Skywalker/SARAH/INTERVIEW
 
 >>Reading folder RAWDATA/Skywalker/SARAH/MIRRORING_PRACTICE/
 No such directory RAWDATA/Skywalker/SARAH/MIRRORING_PRACTICE/*
-18 Mon Feb 11 04:59:36 2019 in sentence: So why did you come to Earth? 
+2 Wed Feb 13 05:45:03 2019 in sentence: great 
     
 <<end folder RAWDATA/Skywalker/SARAH/MIRRORING_PRACTICE
 
 >>Reading folder RAWDATA/Skywalker/SARAH/ZEB/
-
-----Reading file belief_interpersonal.top
-Reading topic ~belief_interpersonal
-*** Warning- line 12 of belief_interpersonal.top: Word "to_each_his_own" known in multiple spellings to_each_his_own To_Each_His_Own 
-
-----Reading file childhood.top
-Reading topic ~childhood
-*** Warning- line 27 of childhood.top: Word "parent" known in multiple spellings parent Parent 
-*** Warning- line 27 of childhood.top: Word "me" known in multiple spellings me ME 
-*** Warning- line 42 of childhood.top: Word "south" known in multiple spellings south South 
-*** Warning- line 42 of childhood.top: Word korea only known in upper case
-*** Warning- line 104 of childhood.top: Word "snake" known in multiple spellings snake Snake 
-*** Warning- line 196 of childhood.top: Word "parent" known in multiple spellings parent Parent 
-*** Warning- line 196 of childhood.top: Word "father" known in multiple spellings father Father 
-*** Warning- line 196 of childhood.top: Word "me" known in multiple spellings me ME 
-*** Warning- line 213 of childhood.top: Word "delicious" known in multiple spellings delicious Delicious 
-*** Warning- line 223 of childhood.top: Word "delicious" known in multiple spellings delicious Delicious 
-*** Warning- line 247 of childhood.top: Word "me" known in multiple spellings me ME 
-*** Warning- line 252 of childhood.top: Word "singer" known in multiple spellings singer Singer 
-*** Warning- line 311 of childhood.top: Word "pong" known in multiple spellings pong Pong 
-*** Warning- line 340 of childhood.top: Word "doctor" known in multiple spellings doctor Doctor 
-*** Warning- line 342 of childhood.top: Word "god" known in multiple spellings god God 
-*** Warning- line 382 of childhood.top: Word "me" known in multiple spellings me ME 
-*** Warning- line 384 of childhood.top: Word "me" known in multiple spellings me ME 
-*** Warning- line 414 of childhood.top: Word pokemon only known in upper case
-*** Warning- line 424 of childhood.top: Word "parent" known in multiple spellings parent Parent 
-*** Warning- line 450 of childhood.top: Word "pet" known in multiple spellings pet PET 
-*** Warning- line 482 of childhood.top: Word "as" known in multiple spellings as AS 
-*** Warning- line 499 of childhood.top: Word "as" known in multiple spellings as AS 
-*** Warning- line 505 of childhood.top: Word "as" known in multiple spellings as AS 
-*** Warning- line 538 of childhood.top: Word "as" known in multiple spellings as AS 
-*** Warning- line 541 of childhood.top: Word "bath" known in multiple spellings bath Bath 
-*** Warning- line 551 of childhood.top: Word "as" known in multiple spellings as AS 
-*** Warning- line 554 of childhood.top: Word "parent" known in multiple spellings parent Parent 
-Reading concept ~mathematics
-
-----Reading file eschatologyandafter.top
-Reading topic ~eschatologyandafter
-*** Warning- line 3 of eschatologyandafter.top: Word "am" known in multiple spellings am AM 
-*** Warning- line 9 of eschatologyandafter.top: Word "sin" known in multiple spellings sin Sin 
-*** Warning- line 20 of eschatologyandafter.top: Word "paradise" known in multiple spellings paradise Paradise 
-*** Warning- line 20 of eschatologyandafter.top: Word "hell" known in multiple spellings hell Hell 
-*** Warning- line 46 of eschatologyandafter.top: Word "hell" known in multiple spellings hell Hell 
-*** Warning- line 60 of eschatologyandafter.top: Word "universe" known in multiple spellings universe Universe 
-*** Warning- line 61 of eschatologyandafter.top: Word "universe" known in multiple spellings universe Universe 
-*** Warning- line 62 of eschatologyandafter.top: Word "hell" known in multiple spellings hell Hell 
-*** Warning- line 63 of eschatologyandafter.top: Word "paradise" known in multiple spellings paradise Paradise 
-*** Warning- line 63 of eschatologyandafter.top: Word "valhalla" known in multiple spellings valhalla Valhalla 
-*** Warning- line 64 of eschatologyandafter.top: Word "hell" known in multiple spellings hell Hell 
-*** Warning- line 64 of eschatologyandafter.top: Word "paradise" known in multiple spellings paradise Paradise 
-*** Warning- line 64 of eschatologyandafter.top: Word "valhalla" known in multiple spellings valhalla Valhalla 
-*** Warning- line 67 of eschatologyandafter.top: Word "paradise" known in multiple spellings paradise Paradise 
-*** Warning- line 67 of eschatologyandafter.top: Word "valhalla" known in multiple spellings valhalla Valhalla 
-*** Warning- line 67 of eschatologyandafter.top: Word "hell" known in multiple spellings hell Hell 
-*** Warning- line 95 of eschatologyandafter.top: Word "in" known in multiple spellings in IN 
-*** Warning- line 95 of eschatologyandafter.top: Word "hell" known in multiple spellings hell Hell 
-*** Warning- line 96 of eschatologyandafter.top: Word "in" known in multiple spellings in IN 
-*** Warning- line 109 of eschatologyandafter.top: Word "sin" known in multiple spellings sin Sin 
-*** Warning- line 120 of eschatologyandafter.top: Word "sin" known in multiple spellings sin Sin 
-
-----Reading file philosophicalassessment.top
-Reading topic ~philosophicalassessment
-*** Warning- line 7 of philosophicalassessment.top: Word "gospel" known in multiple spellings gospel Gospel 
-*** Warning- line 7 of philosophicalassessment.top: Word "jesus_christ" known in multiple spellings jesus_Christ Jesus_Christ 
-*** Warning- line 8 of philosophicalassessment.top: Word "nirvana" known in multiple spellings nirvana Nirvana 
-*** Warning- line 8 of philosophicalassessment.top: Word "enlightenment" known in multiple spellings enlightenment Enlightenment 
-*** Warning- line 10 of philosophicalassessment.top: Word "balance" known in multiple spellings balance Balance 
-*** Warning- line 11 of philosophicalassessment.top: Word "balance" known in multiple spellings balance Balance 
-*** Warning- line 18 of philosophicalassessment.top: Word "valhalla" known in multiple spellings valhalla Valhalla 
-*** Warning- line 18 of philosophicalassessment.top: Word "paradise" known in multiple spellings paradise Paradise 
-*** Warning- line 24 of philosophicalassessment.top: Word "romance" known in multiple spellings romance Romance 
-*** Warning- line 68 of philosophicalassessment.top: Word "“god”" known in multiple spellings “god” “God” 
-*** Warning- line 68 of philosophicalassessment.top: Word "“God”" known in multiple spellings “god” “God” 
-*** Warning- line 72 of philosophicalassessment.top: Word "nirvana" known in multiple spellings nirvana Nirvana 
-*** Warning- line 72 of philosophicalassessment.top: Word "enlightenment" known in multiple spellings enlightenment Enlightenment 
-*** Warning- line 75 of philosophicalassessment.top: Word "balance" known in multiple spellings balance Balance 
-*** Warning- line 76 of philosophicalassessment.top: Word "balance" known in multiple spellings balance Balance 
-*** Warning- line 83 of philosophicalassessment.top: Word "valhalla" known in multiple spellings valhalla Valhalla 
-*** Warning- line 83 of philosophicalassessment.top: Word "paradise" known in multiple spellings paradise Paradise 
-*** Warning- line 103 of philosophicalassessment.top: Word "am" known in multiple spellings am AM 
-*** Warning- line 104 of philosophicalassessment.top: Keyword Solipsism should not be uppercase - did prior rule fail to close
-
-----Reading file relationwithgod.top
-Reading topic ~relationwithgod
-*** Warning- line 3 of relationwithgod.top: Word "am" known in multiple spellings am AM 
-*** Warning- line 14 of relationwithgod.top: Word "reading" known in multiple spellings reading Reading 
-*** Warning- line 60 of relationwithgod.top: Word "sin" known in multiple spellings sin Sin 
-*** Warning- line 80 of relationwithgod.top: Word "me" known in multiple spellings me ME 
-*** Warning- line 80 of relationwithgod.top: Word "sin" known in multiple spellings sin Sin 
-*** Warning- line 99 of relationwithgod.top: Word "Khan" known in multiple spellings khan Khan 
-*** Warning- line 103 of relationwithgod.top: Word "Alexander_the_Great" known in multiple spellings Alexander_The_Great Alexander_the_Great 
-*** Warning- line 129 of relationwithgod.top: Word "same" known in multiple spellings same Same 
-*** Warning- line 129 of relationwithgod.top: Word "as" known in multiple spellings as AS 
-*** Warning- line 129 of relationwithgod.top: Word "universe" known in multiple spellings universe Universe 
-*** Warning- line 129 of relationwithgod.top: Word "earth" known in multiple spellings earth Earth 
-*** Warning- line 136 of relationwithgod.top: Word "same" known in multiple spellings same Same 
-*** Warning- line 136 of relationwithgod.top: Word "as" known in multiple spellings as AS 
-*** Warning- line 136 of relationwithgod.top: Word "universe" known in multiple spellings universe Universe 
-*** Warning- line 136 of relationwithgod.top: Word "earth" known in multiple spellings earth Earth 
-
-----Reading file religio-philo_assumptions.top
-Reading topic ~religio-philo_assumptions
-
-----Reading file scriabin.top
-Reading topic ~scriabin
-*** Warning- line 1 of scriabin.top: Word "scriabin" known in multiple spellings scriabin Scriabin 
-*** Warning- line 1 of scriabin.top: Word alexander only known in upper case
-*** Warning- line 3 of scriabin.top: Word "scriabin" known in multiple spellings scriabin Scriabin 
-*** Warning- line 5 of scriabin.top: Word "scriabin" known in multiple spellings scriabin Scriabin 
-*** Warning- line 7 of scriabin.top: Word "scriabin" known in multiple spellings scriabin Scriabin 
-*** Warning- line 35 of scriabin.top: Word "oh" known in multiple spellings oh OH 
-*** Warning- line 45 of scriabin.top: Interjections.txt changes haha to ~emolaugh anywhere in input
-
-----Reading file uniqueness_assessment.top
-Reading topic ~uniqueness_assessment
-*** Warning- line 3 of uniqueness_assessment.top: Word "am" known in multiple spellings am AM 
-*** Warning- line 23 of uniqueness_assessment.top: Word "superman" known in multiple spellings superman Superman 
-*** Warning- line 35 of uniqueness_assessment.top: Word "superman" known in multiple spellings superman Superman 
-*** Warning- line 86 of uniqueness_assessment.top: Word "dominion" known in multiple spellings dominion Dominion 
-*** Warning- line 89 of uniqueness_assessment.top: Substitutes.txt changes themself to themselves anywhere in input
-*** Warning- line 112 of uniqueness_assessment.top: Word "dominion" known in multiple spellings dominion Dominion 
-*** Warning- line 115 of uniqueness_assessment.top: Substitutes.txt changes themself to themselves anywhere in input
-*** Warning- line 185 of uniqueness_assessment.top: Word "am" known in multiple spellings am AM 
-*** Warning- line 242 of uniqueness_assessment.top: Recursive call to topic - possible infinite recursion danger ~uniqueness_assessment
-*** Warning- line 269 of uniqueness_assessment.top: Word "let" known in multiple spellings let LET 
-*** Warning- line 271 of uniqueness_assessment.top: Word "let" known in multiple spellings let LET 
-*** Warning- line 317 of uniqueness_assessment.top: Word "in" known in multiple spellings in IN 
-*** Warning- line 318 of uniqueness_assessment.top: Word "in" known in multiple spellings in IN 
-*** Warning- line 324 of uniqueness_assessment.top: Word "in" known in multiple spellings in IN 
-*** Warning- line 329 of uniqueness_assessment.top: Word "in" known in multiple spellings in IN 
-*** Warning- line 331 of uniqueness_assessment.top: Keyword Tell should not be uppercase - did prior rule fail to close
-*** Warning- line 331 of uniqueness_assessment.top: Word "me" known in multiple spellings me ME 
-*** Warning- line 333 of uniqueness_assessment.top: Keyword If should not be uppercase - did prior rule fail to close
-*** Warning- line 334 of uniqueness_assessment.top: Word "As" known in multiple spellings as AS 
-*** Warning- line 334 of uniqueness_assessment.top: Keyword As should not be uppercase - did prior rule fail to close
-*** Warning- line 334 of uniqueness_assessment.top: Word "as" known in multiple spellings as AS 
-*** Warning- line 335 of uniqueness_assessment.top: Word "in" known in multiple spellings in IN 
-*** Warning- line 337 of uniqueness_assessment.top: Word "am" known in multiple spellings am AM 
-*** Warning- line 337 of uniqueness_assessment.top: Word "am" known in multiple spellings am AM 
-*** Warning- line 340 of uniqueness_assessment.top: Word "in" known in multiple spellings in IN 
-*** Warning- line 344 of uniqueness_assessment.top: Word "in" known in multiple spellings in IN 
-*** Warning- line 348 of uniqueness_assessment.top: Word "in" known in multiple spellings in IN 
-*** Warning- line 351 of uniqueness_assessment.top: Word "am" known in multiple spellings am AM 
-*** Warning- line 351 of uniqueness_assessment.top: Word "am" known in multiple spellings am AM 
-*** Warning- line 352 of uniqueness_assessment.top: Word "in" known in multiple spellings in IN 
-*** Warning- line 563 of uniqueness_assessment.top: Word "me" known in multiple spellings me ME 
-*** Warning- line 603 of uniqueness_assessment.top: Word "brother" known in multiple spellings brother Brother 
-*** Warning- line 603 of uniqueness_assessment.top: Word "sister" known in multiple spellings sister Sister 
-*** Warning- line 613 of uniqueness_assessment.top: Word "burden" known in multiple spellings burden Burden 
 
 <<end folder RAWDATA/Skywalker/SARAH/ZEB
 
@@ -582,121 +333,180 @@ Reading topic ~uniqueness_assessment
 
 ----Reading file chitchat.top
 Reading topic ~chitchat
-*** Warning- line 155 of chitchat.top: Word "in" known in multiple spellings in IN 
-*** Warning- line 164 of chitchat.top: Word "in" known in multiple spellings in IN 
-*** Warning- line 173 of chitchat.top: Word "in" known in multiple spellings in IN 
-*** Warning- line 191 of chitchat.top: Word "me" known in multiple spellings me ME 
-*** Warning- line 200 of chitchat.top: Word "me" known in multiple spellings me ME 
-*** Warning- line 260 of chitchat.top: Word "me" known in multiple spellings me ME 
-*** Warning- line 277 of chitchat.top: Word "me" known in multiple spellings me ME 
-*** Warning- line 286 of chitchat.top: Word "me" known in multiple spellings me ME 
-
-----Reading file keywordless.top
-Reading topic ~keywordless
-*** Warning- line 10 of keywordless.top: Word "in" known in multiple spellings in IN 
+*** Warning- line 4 of chitchat.top: Word "in" known in multiple spellings in IN 
+*** Warning- line 188 of chitchat.top: Word "in" known in multiple spellings in IN 
+*** Warning- line 197 of chitchat.top: Word "in" known in multiple spellings in IN 
+*** Warning- line 206 of chitchat.top: Word "in" known in multiple spellings in IN 
+*** Warning- line 224 of chitchat.top: Word "me" known in multiple spellings me ME 
+*** Warning- line 233 of chitchat.top: Word "me" known in multiple spellings me ME 
+*** Warning- line 293 of chitchat.top: Word "me" known in multiple spellings me ME 
+*** Warning- line 310 of chitchat.top: Word "me" known in multiple spellings me ME 
+*** Warning- line 319 of chitchat.top: Word "me" known in multiple spellings me ME 
+Reading topic ~quibble_can
+*** Warning- line 485 of chitchat.top: Word "in" known in multiple spellings in IN 
+*** Warning- line 490 of chitchat.top: Word "in" known in multiple spellings in IN 
+*** Warning- line 497 of chitchat.top: Word "an" known in multiple spellings an AN 
+*** Warning- line 498 of chitchat.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 542 of chitchat.top: Word "universe" known in multiple spellings universe Universe 
+Reading topic ~quibble_because
+Reading topic ~quibble_do
+Reading topic ~quibble_howmuch
+*** Warning- line 708 of chitchat.top: Word "in" known in multiple spellings in IN 
+*** Warning- line 710 of chitchat.top: Word "wood" known in multiple spellings wood Wood 
+*** Warning- line 710 of chitchat.top: Word "wood" known in multiple spellings wood Wood 
+*** Warning- line 710 of chitchat.top: Word "wood" known in multiple spellings wood Wood 
+*** Warning- line 710 of chitchat.top: Word "wood" known in multiple spellings wood Wood 
+*** Warning- line 717 of chitchat.top: Word "friends" known in multiple spellings friends Friends 
+Reading topic ~quibble_how
+*** Warning- line 733 of chitchat.top: Word "old" known in multiple spellings old Old 
+*** Warning- line 789 of chitchat.top: Word "sweet" known in multiple spellings sweet Sweet 
+*** Warning- line 793 of chitchat.top: Word "old" known in multiple spellings old Old 
+*** Warning- line 814 of chitchat.top: Word "old" known in multiple spellings old Old 
+*** Warning- line 814 of chitchat.top: Word "universe" known in multiple spellings universe Universe 
+*** Warning- line 835 of chitchat.top: Word "day" known in multiple spellings day Day 
+*** Warning- line 844 of chitchat.top: Word "in" known in multiple spellings in IN 
+*** Warning- line 904 of chitchat.top: Word "guy" known in multiple spellings guy Guy 
+*** Warning- line 910 of chitchat.top: Word "old" known in multiple spellings old Old 
+*** Warning- line 924 of chitchat.top: Word "old" known in multiple spellings old Old 
+Reading topic ~quibble_misc
+*** Warning- line 952 of chitchat.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 955 of chitchat.top: Word "in" known in multiple spellings in IN 
+*** Warning- line 977 of chitchat.top: Word "as" known in multiple spellings as AS 
+*** Warning- line 984 of chitchat.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 993 of chitchat.top: Word "day" known in multiple spellings day Day 
+*** Warning- line 1002 of chitchat.top: Word "am" known in multiple spellings am AM 
+*** Warning- line 1002 of chitchat.top: Word "in" known in multiple spellings in IN 
+*** Warning- line 1006 of chitchat.top: Word "no_one" known in multiple spellings no_one No_one No_One 
+*** Warning- line 1015 of chitchat.top: Word "lucky" known in multiple spellings lucky Lucky 
+*** Warning- line 1031 of chitchat.top: Word "general" known in multiple spellings general General 
+*** Warning- line 1036 of chitchat.top: Word "dollar" known in multiple spellings dollar Dollar 
+*** Warning- line 1044 of chitchat.top: Word "as" known in multiple spellings as AS 
+*** Warning- line 1051 of chitchat.top: Word "let" known in multiple spellings let LET 
+*** Warning- line 1051 of chitchat.top: Word "us" known in multiple spellings us US 
+*** Warning- line 1056 of chitchat.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 1060 of chitchat.top: Word "old" known in multiple spellings old Old 
+*** Warning- line 1072 of chitchat.top: Word "let" known in multiple spellings let LET 
+*** Warning- line 1220 of chitchat.top: Word "let" known in multiple spellings let LET 
+*** Warning- line 1221 of chitchat.top: Word "let" known in multiple spellings let LET 
+*** Warning- line 1320 of chitchat.top: Word "as" known in multiple spellings as AS 
+*** Warning- line 1322 of chitchat.top: Word "in" known in multiple spellings in IN 
+*** Warning- line 1327 of chitchat.top: Word "same" known in multiple spellings same Same 
+*** Warning- line 1355 of chitchat.top: Word "no_one" known in multiple spellings no_one No_one No_One 
+*** Warning- line 1355 of chitchat.top: Word "no_one" known in multiple spellings no_one No_one No_One 
+*** Warning- line 1356 of chitchat.top: Word "no_one" known in multiple spellings no_one No_one No_One 
+*** Warning- line 1356 of chitchat.top: Word "no_one" known in multiple spellings no_one No_one No_One 
+*** Warning- line 1371 of chitchat.top: Word "us" known in multiple spellings us US 
+*** Warning- line 1381 of chitchat.top: Word "no_one" known in multiple spellings no_one No_one No_One 
+*** Warning- line 1391 of chitchat.top: Word "same" known in multiple spellings same Same 
+*** Warning- line 1422 of chitchat.top: Word "in" known in multiple spellings in IN 
+*** Warning- line 1424 of chitchat.top: Word "miss" known in multiple spellings miss Miss 
+*** Warning- line 1472 of chitchat.top: Word "dollar" known in multiple spellings dollar Dollar 
+*** Warning- line 1478 of chitchat.top: Word "stone" known in multiple spellings stone Stone 
+*** Warning- line 1480 of chitchat.top: Word "as" known in multiple spellings as AS 
+*** Warning- line 1480 of chitchat.top: Word "as" known in multiple spellings as AS 
+*** Warning- line 1486 of chitchat.top: Word "hell" known in multiple spellings hell Hell 
+*** Warning- line 1490 of chitchat.top: Word "as" known in multiple spellings as AS 
+*** Warning- line 1491 of chitchat.top: Word "as" known in multiple spellings as AS 
+*** Warning- line 1491 of chitchat.top: Word "as" known in multiple spellings as AS 
+*** Warning- line 1492 of chitchat.top: Word "as" known in multiple spellings as AS 
+*** Warning- line 1492 of chitchat.top: Word "as" known in multiple spellings as AS 
+*** Warning- line 1493 of chitchat.top: Word "as" known in multiple spellings as AS 
+*** Warning- line 1493 of chitchat.top: Word "as" known in multiple spellings as AS 
+*** Warning- line 1494 of chitchat.top: Word "as" known in multiple spellings as AS 
+*** Warning- line 1521 of chitchat.top: Word "Army" known in multiple spellings army Army 
+*** Warning- line 1521 of chitchat.top: Word "Navy" known in multiple spellings navy Navy 
+*** Warning- line 1521 of chitchat.top: Word "Air_Force" known in multiple spellings air_force Air_Force 
+*** Warning- line 1521 of chitchat.top: Word "Marine" known in multiple spellings marine Marine 
+*** Warning- line 1581 of chitchat.top: Word "let" known in multiple spellings let LET 
+*** Warning- line 1581 of chitchat.top: Word "us" known in multiple spellings us US 
+*** Warning- line 1649 of chitchat.top: Word "in" known in multiple spellings in IN 
+*** Warning- line 1663 of chitchat.top: Word "let" known in multiple spellings let LET 
+*** Warning- line 1668 of chitchat.top: Word "as" known in multiple spellings as AS 
+*** Warning- line 1695 of chitchat.top: Word "miss" known in multiple spellings miss Miss 
+*** Warning- line 1710 of chitchat.top: Word "truth" known in multiple spellings truth Truth 
+*** Warning- line 1750 of chitchat.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 1762 of chitchat.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 1768 of chitchat.top: Word "shape" known in multiple spellings shape SHAPE 
+*** Warning- line 1855 of chitchat.top: Word "am" known in multiple spellings am AM 
+*** Warning- line 1856 of chitchat.top: Word "am" known in multiple spellings am AM 
+Reading topic ~quibble_not
+*** Warning- line 1906 of chitchat.top: Word "am" known in multiple spellings am AM 
+*** Warning- line 1934 of chitchat.top: Word "let" known in multiple spellings let LET 
+*** Warning- line 2038 of chitchat.top: Word "no_one" known in multiple spellings no_one No_one No_One 
+Reading topic ~quibble_or
+*** Warning- line 2163 of chitchat.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 2164 of chitchat.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 2167 of chitchat.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 2170 of chitchat.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 2171 of chitchat.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 2174 of chitchat.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 2178 of chitchat.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 2181 of chitchat.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 2185 of chitchat.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 2188 of chitchat.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 2192 of chitchat.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 2195 of chitchat.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 2199 of chitchat.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 2202 of chitchat.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 2206 of chitchat.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 2209 of chitchat.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 2213 of chitchat.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 2216 of chitchat.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 2220 of chitchat.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 2223 of chitchat.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 2226 of chitchat.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 2229 of chitchat.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 2232 of chitchat.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 2235 of chitchat.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 2238 of chitchat.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 2240 of chitchat.top: Word "or" known in multiple spellings or OR 
+*** Warning- line 2242 of chitchat.top: Word "or" known in multiple spellings or OR 
+Reading topic ~quibble_what
+*** Warning- line 2250 of chitchat.top: Word "worth" known in multiple spellings worth Worth 
+*** Warning- line 2264 of chitchat.top: Word "in" known in multiple spellings in IN 
+*** Warning- line 2273 of chitchat.top: Word "worth" known in multiple spellings worth Worth 
+*** Warning- line 2328 of chitchat.top: Word "friends" known in multiple spellings friends Friends 
+*** Warning- line 2337 of chitchat.top: Word "in" known in multiple spellings in IN 
+*** Warning- line 2379 of chitchat.top: Word "romance" known in multiple spellings romance Romance 
+*** Warning- line 2402 of chitchat.top: Word "in" known in multiple spellings in IN 
+*** Warning- line 2405 of chitchat.top: Word "in" known in multiple spellings in IN 
+Reading topic ~quibble_where
+Reading topic ~quibble_who
+*** Warning- line 2516 of chitchat.top: Word "parent" known in multiple spellings parent Parent 
+*** Warning- line 2516 of chitchat.top: Word "father" known in multiple spellings father Father 
+*** Warning- line 2516 of chitchat.top: Word "creator" known in multiple spellings creator Creator 
+*** Warning- line 2530 of chitchat.top: Word "an" known in multiple spellings an AN 
+Reading topic ~quibble_why
+*** Warning- line 2576 of chitchat.top: Word "bath" known in multiple spellings bath Bath 
+*** Warning- line 2615 of chitchat.top: Word "cross" known in multiple spellings cross Cross 
+Reading topic ~intent
+*** Warning- line 2748 of chitchat.top: Word "me" known in multiple spellings me ME 
+Reading topic ~honest_response
 
 <<end folder RAWDATA/Skywalker/free_chat
-*** Warning-  Undefined set or topic ~quibble_all line 148 in advanced_control.top
-*** Warning-  Undefined set or topic ~xdeletepronouns line 216 in advanced_control.top
-*** Warning-  Undefined set or topic ~xacquirepronouns line 277 in advanced_control.top
+*** Warning-  Undefined set or topic ~xdeletepronouns line 202 in advanced_control.top
+*** Warning-  Undefined set or topic ~xacquirepronouns line 263 in advanced_control.top
 *** Warning-  Undefined set or topic ~hear_a_story line 54 in functions.top
-*** Warning-  Undefined set or topic ~fullpotontial_exercise line 19 in uniqueness.top
-*** Warning-  Undefined set or topic ~fullpotential_exercise line 21 in uniqueness.top
 *** Warning-  Undefined set or topic ~ai line 5 in artificial_intelligence.top
 *** Warning-  Undefined set or topic ~popular_ai line 8 in artificial_intelligence.top
 *** Warning-  Undefined set or topic ~haha line 92 in artificial_intelligence.top
 *** Warning-  Undefined set or topic ~usa line 11 in future.top
 *** Warning-  Undefined set or topic ~stronggoodness line 25 in internet.top
-*** Warning-  Undefined set or topic ~botnames line 4 in physical_self.top
-*** Warning-  Undefined set or topic ~made_of line 180 in physical_self.top
 *** Warning-  Undefined set or topic ~darpa line 169 in robots.top
 *** Warning-  Undefined set or topic ~jobless line 206 in robots.top
 *** Warning-  Undefined set or topic ~consider line 236 in robots.top
-*** Warning-  Undefined set or topic ~opinon line 281 in robots.top
-*** Warning-  Undefined set or topic ~pkd line 343 in robots.top
-*** Warning-  Undefined set or topic ~relationships line 1 in belief_interpersonal.top
-*** Warning-  Undefined set or topic ~mental_illness line 521 in childhood.top
-*** Warning-  Undefined set or topic ~self_improvement line 72 in eschatologyandafter.top
-*** Warning-  Undefined set or topic ~self-improvement line 109 in eschatologyandafter.top
-*** Warning-  Undefined set or topic ~god line 4 in philosophicalassessment.top
-*** Warning-  Undefined set or topic ~philosophical_questions line 6 in philosophicalassessment.top
-*** Warning-  Undefined set or topic ~animal line 16 in philosophicalassessment.top
-*** Warning-  Undefined set or topic ~romance line 24 in philosophicalassessment.top
-*** Warning-  Undefined set or topic ~happiness line 25 in philosophicalassessment.top
-*** Warning-  Undefined set or topic ~no_purpose line 28 in philosophicalassessment.top
-*** Warning-  Undefined set or topic ~hobbies line 52 in philosophicalassessment.top
-*** Warning-  Undefined set or topic ~depression line 54 in philosophicalassessment.top
-*** Warning-  Undefined set or topic ~emotional_assessment line 25 in relationwithgod.top
-*** Warning-  Undefined set or topic ~sex_addiction line 28 in relationwithgod.top
-*** Warning-  Undefined set or topic ~karma_believing line 17 in religio-philo_assumptions.top
-*** Warning-  Undefined set or topic ~believe_godisnotaperson line 38 in religio-philo_assumptions.top
-*** Warning-  Undefined set or topic ~eternaldamnation_believing line 53 in religio-philo_assumptions.top
-*** Warning-  Undefined set or topic ~mormon_sect line 123 in religio-philo_assumptions.top
-*** Warning-  Undefined set or topic ~manichaean_sect line 143 in religio-philo_assumptions.top
-*** Warning-  Undefined set or topic ~freemason line 149 in religio-philo_assumptions.top
-*** Warning-  Undefined set or topic ~hermeticism line 151 in religio-philo_assumptions.top
-*** Warning-  Undefined set or topic ~jedism line 153 in religio-philo_assumptions.top
-*** Warning-  Undefined set or topic ~goals line 1 in uniqueness_assessment.top
-*** Warning-  Undefined set or topic ~personality line 1 in uniqueness_assessment.top
-*** Warning-  Undefined set or topic ~religion_assessment line 9 in uniqueness_assessment.top
-*** Warning-  Undefined set or topic ~religionassessment line 63 in uniqueness_assessment.top
-*** Warning-  Undefined set or topic ~illness line 64 in uniqueness_assessment.top
-*** Warning-  Undefined set or topic ~person line 95 in uniqueness_assessment.top
-*** Warning-  Undefined set or topic ~kindness_therapy line 177 in uniqueness_assessment.top
-*** Warning-  Undefined set or topic ~porn_therapy line 180 in uniqueness_assessment.top
-*** Warning-  Undefined set or topic ~stress_management line 230 in uniqueness_assessment.top
-*** Warning-  Undefined set or topic ~emotional_problem line 234 in uniqueness_assessment.top
-*** Warning-  Undefined set or topic ~bad line 237 in uniqueness_assessment.top
-*** Warning-  Undefined set or topic ~character_problem line 238 in uniqueness_assessment.top
-*** Warning-  Undefined set or topic ~trauma_therapy line 326 in uniqueness_assessment.top
-*** Warning-  Undefined set or topic ~good line 356 in uniqueness_assessment.top
-*** Warning-  Undefined set or topic ~child line 493 in uniqueness_assessment.top
-*** Warning-  Undefined set or topic ~health_problems line 504 in uniqueness_assessment.top
-*** Warning-  Undefined set or topic ~big line 509 in uniqueness_assessment.top
-*** Warning-  Undefined set or topic ~happy line 510 in uniqueness_assessment.top
-*** Warning-  Undefined set or topic ~sad line 512 in uniqueness_assessment.top
-*** Warning-  Undefined set or topic ~violent_abuse_therapy line 528 in uniqueness_assessment.top
-*** Warning-  Undefined set or topic ~sexual_abuse_therapy line 530 in uniqueness_assessment.top
-*** Warning-  Undefined set or topic ~relation_management line 532 in uniqueness_assessment.top
-*** Warning-  Undefined set or topic ~mean line 537 in uniqueness_assessment.top
-*** Warning-  Undefined set or topic ~evil line 537 in uniqueness_assessment.top
-*** Warning-  Undefined set or topic ~grief_management line 562 in uniqueness_assessment.top
-*** Warning-  Undefined set or topic ~traumatherapy line 564 in uniqueness_assessment.top
-*** Warning-  Undefined set or topic ~jobs line 575 in uniqueness_assessment.top
-*** Warning-  Undefined set or topic ~small line 593 in uniqueness_assessment.top
-*** Warning-  Undefined set or topic ~sorrow_management line 643 in uniqueness_assessment.top
-*** Warning- line 18 of missingLabel.txt: Missing cross-topic label ~SELF_COMPASSION.LONGER? for reuse in File: emotions.top Line: 114 Bot: 
-*** Warning- line 37 of missingLabel.txt: Missing cross-topic label ~SENSEOFPURPOSE.RIGHT? for reuse in File: uniqueness.top Line: 87 Bot: 
-*** Warning- line 39 of missingLabel.txt: Missing cross-topic label ~SENSEOFPURPOSE.RIGHT? for reuse in File: uniqueness.top Line: 92 Bot: 
-*** Warning- line 41 of missingLabel.txt: Missing cross-topic label ~EMOTIONS2.FROM_OTHERTOPIC_TO_EMOTIONS for reuse in File: uniqueness.top Line: 107 Bot: 
-*** Warning- line 48 of missingLabel.txt: Missing cross-topic label ~ARTIFICIAL_INTELLIGENCE.PURPOSE for reuse in File: artificial_intelligence.top Line: 275 Bot: 
-*** Warning- line 50 of missingLabel.txt: Missing cross-topic label ~CHATBOTS.PROVE for reuse in File: chatbots.top Line: 53 Bot: 
-*** Warning- line 92 of missingLabel.txt: Missing cross-topic label ~EMOTIONAL_ASSESSMENT.QESYTOLOVPPL for reuse in File: relationwithgod.top Line: 25 Bot: 
-*** Warning- line 93 of missingLabel.txt: Missing cross-topic label ~EMOTIONAL_ASSESSMENT.QESYTOLOVPPL for reuse in File: relationwithgod.top Line: 26 Bot: 
-*** Warning- line 94 of missingLabel.txt: Missing cross-topic label ~RELIGION_ASSESSMENT.QRELIGTLKCMFRT for reuse in File: uniqueness_assessment.top Line: 9 Bot: 
-*** Warning- line 99 of missingLabel.txt: Missing cross-topic label ~RELIGION_ASSESSMENT.QAREYOURELIG for reuse in File: uniqueness_assessment.top Line: 24 Bot: 
-*** Warning- line 102 of missingLabel.txt: Missing cross-topic label ~RELIGION_ASSESSMENT.QAREYOURELIG for reuse in File: uniqueness_assessment.top Line: 36 Bot: 
-*** Warning- line 104 of missingLabel.txt: Missing cross-topic label ~RELIGION_ASSESSMENT.QAREYOURELIG for reuse in File: uniqueness_assessment.top Line: 62 Bot: 
-*** Warning- line 105 of missingLabel.txt: Missing cross-topic label ~RELIGION_ASSESSMENT.QRELIGBIGINYOLIFE for reuse in File: uniqueness_assessment.top Line: 147 Bot: 
-*** Warning- line 111 of missingLabel.txt: Missing cross-topic label ~EMOTIONAL_ASSESSMENT.SUDPROBLEMADDRESS for reuse in File: uniqueness_assessment.top Line: 235 Bot: 
-*** Warning- line 112 of missingLabel.txt: Missing cross-topic label ~EMOTIONAL_ASSESSMENT.SUDPROBLEMADDRESS for reuse in File: uniqueness_assessment.top Line: 239 Bot: 
-*** Warning- line 113 of missingLabel.txt: Missing cross-topic label ~EMOTIONAL_ASSESSMENT.SUDPROBLEMADDRESS for reuse in File: uniqueness_assessment.top Line: 330 Bot: 
-*** Warning- line 114 of missingLabel.txt: Missing cross-topic label ~EMOTIONAL_ASSESSMENT.SUDPROBLEMADDRESS for reuse in File: uniqueness_assessment.top Line: 332 Bot: 
-*** Warning- line 115 of missingLabel.txt: Missing cross-topic label ~EMOTIONAL_ASSESSMENT.QEMOPROBSPEC for reuse in File: uniqueness_assessment.top Line: 369 Bot: 
-*** Warning- line 116 of missingLabel.txt: Missing cross-topic label ~EMOTIONAL_ASSESSMENT.QWANTHELPWITHSTRESS for reuse in File: uniqueness_assessment.top Line: 374 Bot: 
-*** Warning- line 117 of missingLabel.txt: Missing cross-topic label ~EMOTIONAL_ASSESSMENT.QWANTHELPWITHSTRESS for reuse in File: uniqueness_assessment.top Line: 376 Bot: 
-*** Warning- line 118 of missingLabel.txt: Missing cross-topic label ~EMOTIONAL_ASSESSMENT.SUDPROBLEMADDRESS for reuse in File: uniqueness_assessment.top Line: 500 Bot: 
-*** Warning- line 119 of missingLabel.txt: Missing cross-topic label ~EMOTIONAL_ASSESSMENT.SUDPROBLEMADDRESS for reuse in File: uniqueness_assessment.top Line: 501 Bot: 
-*** Warning- line 120 of missingLabel.txt: Missing cross-topic label ~EMOTIONAL_ASSESSMENT.SUDPROBLEMADDRESS for reuse in File: uniqueness_assessment.top Line: 502 Bot: 
-*** Warning- line 121 of missingLabel.txt: Missing cross-topic label ~EMOTIONAL_ASSESSMENT.SUDPROBLEMADDRESS for reuse in File: uniqueness_assessment.top Line: 503 Bot: 
-*** Warning- line 122 of missingLabel.txt: Missing cross-topic label ~EMOTIONAL_ASSESSMENT.SUDPROBLEMADDRESS for reuse in File: uniqueness_assessment.top Line: 504 Bot: 
-*** Warning- line 125 of missingLabel.txt: Missing cross-topic label ~EMOTIONAL_ASSESSMENT.SUDPROBLEMADDRESS for reuse in File: uniqueness_assessment.top Line: 533 Bot: 
+*** Warning-  Undefined set or topic ~opinon line 280 in robots.top
+*** Warning-  Undefined set or topic ~pkd line 342 in robots.top
+*** Warning-  Undefined set or topic ~quibble_when line 448 in chitchat.top
+*** Warning-  Undefined set or topic ~quibble_will line 460 in chitchat.top
+*** Warning- line 6 of missingLabel.txt: Missing cross-topic label ~ARTIFICIAL_INTELLIGENCE.PURPOSE for reuse in File: artificial_intelligence.top Line: 275 Bot: 
+*** Warning- line 8 of missingLabel.txt: Missing cross-topic label ~CHATBOTS.PROVE for reuse in File: chatbots.top Line: 53 Bot: 
+*** Warning- line 24 of missingLabel.txt: Missing cross-topic label ~HONEST_RESPONSE.GRUNT for reuse in File: chitchat.top Line: 2954 Bot: 
 
 WARNING SUMMARY: 
-  line 257 of advanced_control.top: @chatoutput is not a recognized @rename. Is it intended to be?
-  line 262 of advanced_control.top: @chatoutput is not a recognized @rename. Is it intended to be?
-  line 267 of advanced_control.top: @chatoutputsubject is not a recognized @rename. Is it intended to be?
-  line 76 of conversation_steering.top: Recursive call to topic - possible infinite recursion danger 
+  line 243 of advanced_control.top: @chatoutput is not a recognized @rename. Is it intended to be?
+  line 248 of advanced_control.top: @chatoutput is not a recognized @rename. Is it intended to be?
+  line 253 of advanced_control.top: @chatoutputsubject is not a recognized @rename. Is it intended to be?
   line 14 of sarah_functions.top: Essentials.txt erases i anywhere in input
   line 229 of artificial_intelligence.top: Word opencog only known in upper case
   line 470 of artificial_intelligence.top: Keyword Robotics should not be uppercase - did prior rule fail to close
@@ -712,13 +522,13 @@ WARNING SUMMARY:
   line 11 of future.top: Keyword Trump should not be uppercase - did prior rule fail to close
   line 15 of internet.top: Keyword Case should not be uppercase - did prior rule fail to close
   line 15 of internet.top: Keyword Panther should not be uppercase - did prior rule fail to close
-  line 10 of psychological_self.top: Spelling.txt erases A anywhere in input
   line 29 of robots.top: Keyword Furby should not be uppercase - did prior rule fail to close
   line 169 of robots.top: Keyword Robotics should not be uppercase - did prior rule fail to close
   line 169 of robots.top: Keyword Challenge should not be uppercase - did prior rule fail to close
   line 175 of robots.top: Keyword Pepper should not be uppercase - did prior rule fail to close
   line 183 of robots.top: Keyword Pepper should not be uppercase - did prior rule fail to close
-129 serious warnings, 0 function warnings, 0 spelling warnings, 293 case warnings, 8 substitution warnings
+  line 386 of science.top: Keyword Science should not be uppercase - did prior rule fail to close
+42 serious warnings, 0 function warnings, 0 spelling warnings, 263 case warnings, 4 substitution warnings
     
 
 Finished compile

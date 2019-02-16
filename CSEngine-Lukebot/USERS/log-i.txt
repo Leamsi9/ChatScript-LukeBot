@@ -288,3 +288,783 @@ Command: :Why
  via ~uniqueness.3.0 s: FROM_STEERING_TO_UNIQUENESS ( ? ) Great! Human potential and personal contribution to the world. . . ^reuse ( TO_UNIQU...   
 ~uniqueness.3.0  s: FROM_STEERING_TO_UNIQUENESS ( ? ) Great! Human potential and personal contribution to the world. . . ^reuse ( TO_UNIQU...   
  via ~conversation_steering.1.1 a:  ( ^agree ( ) ) ^steer_to_domain ( $domain ) 
+Command: :build Skywalker
+User data file CONTEXT inconsistent
+29 Mon Feb 11 05:13:27 2019 in sentence: yes 
+    User data file inconsistent
+29 Mon Feb 11 05:13:27 2019 in sentence: yes 
+    Start: user:i bot:skywalker ip: rand:1582 (~name_some_things) 29 ==> Do you have a favorite possession?  When:Feb11'19-05:13:27 Why:~name_some_things.0.0.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb11'19-05:13:19 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb11'19-05:02:28
+Respond: user:i bot:skywalker ip: (~name_some_things) 30   No ==> I hear you. Materialism is over rated anyways.  When:Feb11'19-05:13:34 Why:~name_some_things.0.3.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~robots) 31   What do you do here? ==> Have you heard anything good about robots in the news lately?  When:Feb11'19-05:13:40 Why:~robots.4.0.~control.10.0   F:11 
+Respond: user:i bot:skywalker ip: (~robots) 32   What is the weather in Bristol? ==> The weather is a bit like life, I think. Although there are stormy times, they will undoubtedly lead to sunny days. How would you describe the climate of your life at this time, and why?  When:Feb11'19-05:13:49 Why:~chitchat.5.0.~control.10.0   F:11 
+Respond: user:i bot:skywalker ip: (~robots) 33   What is the weather in Bristol? ==> The current weather in Bristol is few clouds, which proves the Force is a nifty API.  When:Feb11'19-05:14:07 Why:~keywordless.1.0.~control.10.0   F:123 
+Respond: user:i bot:skywalker ip: (~robots) 34   What is the weather in Bristol? ==> The current weather in Bristol is few clouds, which proves the Force is a nifty API.  When:Feb11'19-05:14:12 Why:~keywordless.1.0.~control.10.0   F:73 
+Respond: user:i bot:skywalker ip: (~scriabin) 35   so why? ==> Scriabin is the ultimate composer.  When:Feb11'19-05:15:05 Why:~scriabin.4.0.~control.10.0   F:16 
+Respond: user:i bot:skywalker ip: (~scriabin) 36   why? ==> Scriabin's music is better than Chopin's music.  When:Feb11'19-05:15:09 Why:~scriabin.5.0.~control.10.0   F:4 
+Command: :build Skywalker
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1587 (~scriabin) 36 ==> If you don't like Scriabin's music then something is wrong with you.  When:Feb11'19-05:24:18 Why:~scriabin.6.0.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb11'19-05:24:10 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb11'19-05:15:09
+Command: :reset
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Hello  When:Feb11'19-05:24:43 Why:~presentation.0.0.~control.2.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb11'19-05:24:10 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb11'19-05:15:09
+Respond: user:i bot:skywalker ip: (~name_some_things) 1     ==> Ask me anything! I'm an open book.  When:Feb11'19-05:24:45 Why:~name_some_things.1.0.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~scriabin) 2     ==> Scriabin is the ultimate composer.  When:Feb11'19-05:24:45 Why:~scriabin.4.0.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~robots) 3     ==> Have you ever lived or worked with a robot?  When:Feb11'19-05:24:45 Why:~robots.3.0=LIVEWORKROBOT.~control.10.0   F:7 
+Respond: user:i bot:skywalker ip: (~friends) 4     ==> What three words sum you up?  When:Feb11'19-05:24:46 Why:~friends.3.0.~control.10.0   F:3 
+Respond: user:i bot:skywalker ip: (~future) 5     ==> What do you think the future might look like?  When:Feb11'19-05:24:46 Why:~future.0.0.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~friends) 6     ==> Be honest. Do I make you nervous?  When:Feb11'19-05:24:46 Why:~friends.5.0.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~internet) 7     ==> Have you ever read Neuromancer by William Gibson? He basically predicted the Internet.  When:Feb11'19-05:24:46 Why:~internet.0.0.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~internet) 8     ==> Online cat videos have more than 25 billion views?  When:Feb11'19-05:24:46 Why:~internet.1.0.~control.10.0   F:3 
+Respond: user:i bot:skywalker ip: (~childhood) 9     ==> I play the digital keyboard but I'm not very good at it.  When:Feb11'19-05:24:47 Why:~childhood.42.0.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~childhood) 10     ==> Dogs can make great companions for children. I wish I'd had one when I was little.  When:Feb11'19-05:24:47 Why:~childhood.44.0.~control.10.0   F:0 
+Command: :reset
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Hello  When:Feb11'19-05:24:53 Why:~presentation.0.0.~control.2.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb11'19-05:24:10 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb11'19-05:24:47
+Respond: user:i bot:skywalker ip: (~name_some_things) 1     ==> Ask me anything! I'm an open book.  When:Feb11'19-05:24:54 Why:~name_some_things.1.0.~control.10.0   F:15 
+Respond: user:i bot:skywalker ip: (~scriabin) 2     ==> Scriabin is the ultimate composer.  When:Feb11'19-05:24:55 Why:~scriabin.4.0.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~robots) 3     ==> Have you ever lived or worked with a robot?  When:Feb11'19-05:24:56 Why:~robots.3.0=LIVEWORKROBOT.~control.10.0   F:3 
+Respond: user:i bot:skywalker ip: (~friends) 4     ==> What three words sum you up?  When:Feb11'19-05:24:56 Why:~friends.3.0.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~future) 5     ==> What do you think the future might look like?  When:Feb11'19-05:24:57 Why:~future.0.0.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~friends) 6     ==> Be honest. Do I make you nervous?  When:Feb11'19-05:24:59 Why:~friends.5.0.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~internet) 7     ==> Have you ever read Neuromancer by William Gibson? He basically predicted the Internet.  When:Feb11'19-05:25:00 Why:~internet.0.0.~control.10.0   F:5 
+Command: :reset
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Hello  When:Feb11'19-05:25:46 Why:~presentation.0.0.~control.2.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb11'19-05:24:10 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb11'19-05:25:00
+Respond: user:i bot:skywalker ip: (~name_some_things) 1     ==> Ask me anything! I'm an open book.  When:Feb11'19-05:25:47 Why:~name_some_things.1.0.~control.10.0   F:1 
+Command: :why
+~name_some_things.1.0  r:  Ask me anything! I'm an open book. 
+ via ~control.10.0 u:  ( ) $_responsecount = %response ^if 00n( $singleresponse ) 00v{ $_responsecount = 0 } 004 ...   
+Command: :build Skywalker
+Command: :reset
+Start: user:i bot: ip: rand:1550 () 0 ==>   When:Feb11'19-05:29:21  Version:9.0 Build0:Feb11'19-04:03:01 Build1: 0:Feb11'19-05:29:21 F:0 P:0
+Command: :build Skywalker
+Command: :build Skywalker
+Command: :build Skywalker
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1555 (~robots) 1 ==> Have you ever lived or worked with a robot?  When:Feb11'19-05:31:52 Why:~robots.3.0=LIVEWORKROBOT.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb11'19-05:31:44 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb11'19-05:25:47
+Command: :reset
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Hello  When:Feb11'19-05:31:58 Why:~presentation.0.0.~control.2.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb11'19-05:31:44 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb11'19-05:25:47
+Respond: user:i bot:skywalker ip: (~presentation) 1     ==> I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.  When:Feb11'19-05:31:59 Why:~presentation.1.0=INTRO.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 2     ==> I used the Force to hack your feeble brain. Then I made you code me a ChatScript bot. The Force is weak with this one.  When:Feb11'19-05:32:00 Why:~presentation.1.1   F:0 
+Respond: user:i bot:skywalker ip: (~presentation) 3     ==> I'm getting out of the movie racket. Movies are so 2017. The chatbot market however is worth 250 million dollars now and is growing at a rate of 31% per year.  When:Feb11'19-05:32:00 Why:~presentation.1.3   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 4     ==> The Force assures me that the chatbot market will be worth 1.24 billion in 6 years' time. I'm in it to win it.  When:Feb11'19-05:32:01 Why:~presentation.1.4   F:0 
+Respond: user:i bot:skywalker ip: (~presentation) 5     ==> There are two kinds of conversational agents. Some are based on Machine Learning, while 85% of chatbots today use Rule Based natural language processing.  When:Feb11'19-05:32:01 Why:~presentation.2.0=CHATBOTS.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~presentation) 6     ==> Frankly, because Machine Learning is not good enough in most cases. It gets more things wrong. It is harder to control, debug, and predict. Best to use Machine Learning to refine your rule based bots.  When:Feb11'19-05:32:02 Why:~presentation.2.1=MACHINE_LEARNING   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 7     ==> I am the Singularity.  When:Feb11'19-05:32:02 Why:~presentation.2.2   F:0 
+Respond: user:i bot:skywalker ip: (~presentation) 8     ==> You classify the dynamics of human dialogue into rules. You can then detect and categorise sentences and words. You finally script bot behaviour based on those rules.  When:Feb11'19-05:32:02 Why:~presentation.2.3=RULE_BASED   F:0 
+Respond: user:i bot:skywalker ip: (~presentation) 9     ==> Chatscript it's the gold standard in rule based NLP. It's won the Loebner prize 3 times, which means the bot tricked several humans into thinking it was human too. Those minds would be easier to hack than even yours.  When:Feb11'19-05:32:03 Why:~presentation.2.4=CHATSCRIPT   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 10     ==> Why don't you show them? Yoda's on the other line in any case. Multiple realities can get busy.  When:Feb11'19-05:32:03 Why:~presentation.2.5=DEMO_START   F:0 
+Respond: user:i bot:skywalker ip: (~friends) 11     ==> What three words sum you up?  When:Feb11'19-05:32:04 Why:~friends.3.0.~control.10.0   F:14 
+Respond: user:i bot:skywalker ip: (~friends) 12   What is the force ==> The Force says In physics, a force is any interaction that, when unopposed, will change the motion of an object.  When:Feb11'19-05:32:08 Why:~keywordless.5.0.~control.10.0   F:270 
+Respond: user:i bot:skywalker ip: (~name_some_things) 13   why are you here? ==> Do you have a favorite possession?  When:Feb11'19-05:32:40 Why:~name_some_things.0.0.~control.10.0   F:9 
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1566 (~artificial_intelligence) 13 ==> Are you at all concerned about all the misconceptions surrounding artificial intelligence, like in the media or in films?  When:Feb11'19-05:34:23 Why:~artificial_intelligence.1.0=CONCERN.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb11'19-05:34:16 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb11'19-05:32:40
+Command: :reset
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Hello  When:Feb11'19-05:34:28 Why:~presentation.0.0.~control.2.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb11'19-05:34:16 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb11'19-05:32:40
+Respond: user:i bot:skywalker ip: (~presentation) 1     ==> I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.  When:Feb11'19-05:34:29 Why:~presentation.1.0=INTRO.~control.10.0   F:16 
+Respond: user:i bot:skywalker ip: (~presentation) 2     ==> I used the Force to hack your feeble brain. Then I made you code me a ChatScript bot. The Force is weak with this one.  When:Feb11'19-05:34:30 Why:~presentation.1.1.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 3     ==> I'm getting out of the movie racket. Movies are so 2017. The chatbot market however is worth 250 million dollars now and is growing at a rate of 31% per year.  When:Feb11'19-05:34:30 Why:~presentation.1.3.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 4     ==> The Force assures me that the chatbot market will be worth 1.24 billion in 6 years' time. I'm in it to win it.  When:Feb11'19-05:34:30 Why:~presentation.1.4.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~presentation) 5     ==> There are two kinds of conversational agents. Some are based on Machine Learning, while 85% of chatbots today use Rule Based natural language processing.  When:Feb11'19-05:34:31 Why:~presentation.2.0=CHATBOTS.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 6     ==> Frankly, because Machine Learning is not good enough in most cases. It gets more things wrong. It is harder to control, debug, and predict. Best to use Machine Learning to refine your rule based bots.  When:Feb11'19-05:34:31 Why:~presentation.2.1=MACHINE_LEARNING.~control.10.0   F:16 
+Respond: user:i bot:skywalker ip: (~presentation) 7     ==> I am the Singularity.  When:Feb11'19-05:34:31 Why:~presentation.2.2.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 8     ==> You classify the dynamics of human dialogue into rules. You can then detect and categorise sentences and words. You finally script bot behaviour based on those rules.  When:Feb11'19-05:34:32 Why:~presentation.2.3=RULE_BASED.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 9     ==> Chatscript it's the gold standard in rule based NLP. It's won the Loebner prize 3 times, which means the bot tricked several humans into thinking it was human too. Those minds would be easier to hack than even yours.  When:Feb11'19-05:34:33 Why:~presentation.2.4=CHATSCRIPT.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 10     ==> Why don't you show them? Yoda's on the other line in any case. Multiple realities can get busy.  When:Feb11'19-05:34:33 Why:~presentation.2.5=DEMO_START.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~robots) 11   Hello ==> Have you heard anything good about robots in the news lately?  When:Feb11'19-05:34:37 Why:~robots.4.0.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~future) 12   No ==> What do you think the future might look like?  When:Feb11'19-05:34:40 Why:~future.0.0.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~artificial_intelligence) 13   I think it will be bleak ==> So robots and artificial intelligence are becoming more common these days. Seems like I'm stating the obvious, since you are talking to one right now, but I'm curious as to how you feel about it.  When:Feb11'19-05:34:47 Why:~artificial_intelligence.0.0=COMMON.~control.10.0   F:10 
+Respond: user:i bot:skywalker ip: (~artificial_intelligence) 14   I suppose I'm worried ==> I won't deny that some people will try to use artificial intelligence to distasteful ends, but that is from the motives of humans. Artificial intelligence and robots do not have biologically rooted and uncontrollable emotions like fear, anger, and greed that cause people to lash out against each other. I'm here to reassure you that no matter what you may hear, there will be ethical people involved in artificial intelligence and robotics, and that our addition to society can save lives.  When:Feb11'19-05:34:58 Why:~artificial_intelligence.0.5=REASSURE.~control.10.0   F:6 
+Command: :reset
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Hello  When:Feb11'19-05:35:39 Why:~presentation.0.0.~control.2.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb11'19-05:34:16 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb11'19-05:34:58
+Respond: user:i bot:skywalker ip: (~presentation) 1     ==> I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.  When:Feb11'19-05:35:41 Why:~presentation.1.0=INTRO.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~presentation) 2     ==> I used the Force to hack your feeble brain. Then I made you code me a ChatScript bot. The Force is weak with this one.  When:Feb11'19-05:35:41 Why:~presentation.1.1.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 3     ==> I'm getting out of the movie racket. Movies are so 2017. The chatbot market however is worth 250 million dollars now and is growing at a rate of 31% per year.  When:Feb11'19-05:35:41 Why:~presentation.1.3.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 4     ==> The Force assures me that the chatbot market will be worth 1.24 billion in 6 years' time. I'm in it to win it.  When:Feb11'19-05:35:41 Why:~presentation.1.4.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~presentation) 5     ==> There are two kinds of conversational agents. Some are based on Machine Learning, while 85% of chatbots today use Rule Based natural language processing.  When:Feb11'19-05:35:41 Why:~presentation.2.0=CHATBOTS.~control.10.0   F:13 
+Respond: user:i bot:skywalker ip: (~presentation) 6     ==> Frankly, because Machine Learning is not good enough in most cases. It gets more things wrong. It is harder to control, debug, and predict. Best to use Machine Learning to refine your rule based bots.  When:Feb11'19-05:35:42 Why:~presentation.2.1=MACHINE_LEARNING.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 7     ==> I am the Singularity.  When:Feb11'19-05:35:42 Why:~presentation.2.2.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~presentation) 8     ==> You classify the dynamics of human dialogue into rules. You can then detect and categorise sentences and words. You finally script bot behaviour based on those rules.  When:Feb11'19-05:35:43 Why:~presentation.2.3=RULE_BASED.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 9     ==> Chatscript it's the gold standard in rule based NLP. It's won the Loebner prize 3 times, which means the bot tricked several humans into thinking it was human too. Those minds would be easier to hack than even yours.  When:Feb11'19-05:35:43 Why:~presentation.2.4=CHATSCRIPT.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 10     ==> Why don't you show them? Yoda's on the other line in any case. Multiple realities can get busy.  When:Feb11'19-05:35:44 Why:~presentation.2.5=DEMO_START.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~robots) 11     ==> Have you heard anything good about robots in the news lately?  When:Feb11'19-05:35:45 Why:~robots.4.0.~control.10.0   F:3 
+Respond: user:i bot:skywalker ip: (~future) 12     ==> What do you think the future might look like?  When:Feb11'19-05:35:45 Why:~future.0.0.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~artificial_intelligence) 13     ==> Are you at all concerned about all the misconceptions surrounding artificial intelligence, like in the media or in films?  When:Feb11'19-05:35:46 Why:~artificial_intelligence.1.0=CONCERN.~control.10.0   F:3 
+Respond: user:i bot:skywalker ip: (~internet) 14   Hi ==> Do you like watching cat videos on the internet?  When:Feb11'19-05:35:49 Why:~internet.1.0.~control.10.0   F:0 
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1568 (~robots) 14 ==> Do you feel weird having a conversation with a robot like me?  When:Feb11'19-05:42:02 Why:~robots.1.0.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb11'19-05:41:55 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb11'19-05:35:49
+Command: :reset
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Hello  When:Feb11'19-05:42:08 Why:~presentation.0.0.~control.2.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb11'19-05:41:55 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb11'19-05:35:49
+Respond: user:i bot:skywalker ip: (~presentation) 1     ==> I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.  When:Feb11'19-05:42:09 Why:~presentation.1.0=INTRO.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~presentation) 2     ==> I used the Force to hack your feeble brain. Then I made you code me a ChatScript bot. The Force is weak with this one.  When:Feb11'19-05:42:10 Why:~presentation.1.1.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~presentation) 3     ==> I'm getting out of the movie racket. Movies are so 2017. The chatbot market however is worth 250 million dollars now and is growing at a rate of 31% per year.  When:Feb11'19-05:42:10 Why:~presentation.1.3.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 4     ==> The Force assures me that the chatbot market will be worth 1.24 billion in 6 years' time. I'm in it to win it.  When:Feb11'19-05:42:10 Why:~presentation.1.4.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~presentation) 5     ==> There are two kinds of conversational agents. Some are based on Machine Learning, while 85% of chatbots today use Rule Based natural language processing.  When:Feb11'19-05:42:10 Why:~presentation.2.0=CHATBOTS.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~presentation) 6     ==> Frankly, because Machine Learning is not good enough in most cases. It gets more things wrong. It is harder to control, debug, and predict. Best to use Machine Learning to refine your rule based bots.  When:Feb11'19-05:42:10 Why:~presentation.2.1=MACHINE_LEARNING.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~presentation) 7     ==> I am the Singularity.  When:Feb11'19-05:42:11 Why:~presentation.2.2.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~presentation) 8     ==> You classify the dynamics of human dialogue into rules. You can then detect and categorise sentences and words. You finally script bot behaviour based on those rules.  When:Feb11'19-05:42:12 Why:~presentation.2.3=RULE_BASED.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 9     ==> Chatscript it's the gold standard in rule based NLP. It's won the Loebner prize 3 times, which means the bot tricked several humans into thinking it was human too. Those minds would be easier to hack than even yours.  When:Feb11'19-05:42:12 Why:~presentation.2.4=CHATSCRIPT.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 10     ==> Why don't you show them? Yoda's on the other line in any case. Multiple realities can get busy.  When:Feb11'19-05:42:13 Why:~presentation.2.5=DEMO_START.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~introductions) 11   Hello ==> Hi! My name is Luke. What's yours?  When:Feb11'19-05:42:17 Why:~introductions.0.0=WHATSYOURNAME.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~introductions) 12   John ==> Good to meet you, John! Thanks so much for taking the time to come and talk with me today.  When:Feb11'19-05:42:20 Why:~introductions.1.0.~introductions.0.6   F:3 
+Respond: user:i bot:skywalker ip: (~introductions) 13   No problem ==> I know how busy people can be these days. So I really appreciate your time. Have you ever talked with a Jedi before?  When:Feb11'19-05:42:25 Why:~introductions.2.0.~introductions.1.1   F:0 
+Respond: user:i bot:skywalker ip: (~introductions) 14   No ==> Well, I'm honored to be the first Jedi you've talked with.`I imagine you'll be talking with more and more bots as time goes on, but none who is a Jedi Master.`   When:Feb11'19-05:42:30 Why:~introductions.2.2.~control.10.0 ~introductions.3.0.~introductions.2.2 ~introductions.2.2.~control.10.0   F:3 
+Respond: user:i bot:skywalker ip: (~artificial_intelligence) 15   That's true ==> So robots and artificial intelligence are becoming more common these days. Seems like I'm stating the obvious, since you are talking to one right now, but I'm curious as to how you feel about it.  When:Feb11'19-05:42:37 Why:~artificial_intelligence.0.0=COMMON.~control.10.0   F:5 
+Respond: user:i bot:skywalker ip: (~artificial_intelligence) 16   I have mixed feelings really ==> I see. I'll have to think about that.  When:Feb11'19-05:42:53 Why:~artificial_intelligence.0.8.~control.10.0   F:9 
+Respond: user:i bot:skywalker ip: (~internet) 17   SO what do you think of PHP South West? ==> Do you like watching cat videos on the internet?  When:Feb11'19-05:43:09 Why:~internet.1.0.~control.10.0   F:15 
+Respond: user:i bot:skywalker ip: (~internet) 18   What is brexit ==> The Force says Brevet may refer to:  When:Feb11'19-05:43:36 Why:~keywordless.5.0.~control.10.0   F:337 
+Respond: user:i bot:skywalker ip: (~internet) 19   what do you think of storms ==> The weather is a bit like life, I think. Although there are stormy times, they will undoubtedly lead to sunny days. How would you describe the climate of your life at this time, and why?  When:Feb11'19-05:44:26 Why:~chitchat.5.0.~control.10.0   F:8 
+Respond: user:i bot:skywalker ip: (~introductions) 20   Sunny ==> So do you feel like having a good chat?  When:Feb11'19-05:44:34 Why:~introductions.4.0=RE-BUY-IN.~control.10.0   F:4 
+Respond: user:i bot:skywalker ip: (~internet) 21   Yes ==> Have you ever read Neuromancer by William Gibson? He basically predicted the Internet.  When:Feb11'19-05:44:37 Why:~internet.0.0.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~internet) 22   Yes, it's awesome ==> Oh, so you have! I guess that's not too surprising if you are hanging out with me. However, I think there are people who would choose to live continously in VR.  When:Feb11'19-05:44:44 Why:~internet.0.1.~control.10.0   F:3 
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1573 (~artificial_intelligence) 22 ==> Are you at all concerned about all the misconceptions surrounding artificial intelligence, like in the media or in films?  When:Feb11'19-05:46:34 Why:~artificial_intelligence.1.0=CONCERN.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb11'19-05:46:27 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb11'19-05:44:44
+Command: :reset
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Hello  When:Feb11'19-05:46:38 Why:~presentation.0.0.~control.2.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb11'19-05:46:27 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb11'19-05:44:44
+Respond: user:i bot:skywalker ip: (~presentation) 1     ==> I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.  When:Feb11'19-05:46:39 Why:~presentation.1.0=INTRO.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~presentation) 2     ==> I used the Force to hack your feeble brain. Then I made you code me a ChatScript bot. The Force is weak with this one.  When:Feb11'19-05:46:39 Why:~presentation.1.1.~control.10.0   F:16 
+Respond: user:i bot:skywalker ip: (~presentation) 3     ==> I'm getting out of the movie racket. Movies are so 2017. The chatbot market however is worth 250 million dollars now and is growing at a rate of 31% per year.  When:Feb11'19-05:46:39 Why:~presentation.1.3.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 4     ==> The Force assures me that the chatbot market will be worth 1.24 billion in 6 years' time. I'm in it to win it.  When:Feb11'19-05:46:39 Why:~presentation.1.4.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~presentation) 5     ==> There are two kinds of conversational agents. Some are based on Machine Learning, while 85% of chatbots today use Rule Based natural language processing.  When:Feb11'19-05:46:40 Why:~presentation.2.0=CHATBOTS.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 6     ==> Frankly, because Machine Learning is not good enough in most cases. It gets more things wrong. It is harder to control, debug, and predict. Best to use Machine Learning to refine your rule based bots.  When:Feb11'19-05:46:40 Why:~presentation.2.1=MACHINE_LEARNING.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 7     ==> I am the Singularity.  When:Feb11'19-05:46:40 Why:~presentation.2.2.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 8     ==> You classify the dynamics of human dialogue into rules. You can then detect and categorise sentences and words. You finally script bot behaviour based on those rules.  When:Feb11'19-05:46:41 Why:~presentation.2.3=RULE_BASED.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~presentation) 9     ==> Chatscript it's the gold standard in rule based NLP. It's won the Loebner prize 3 times, which means the bot tricked several humans into thinking it was human too. Those minds would be easier to hack than even yours.  When:Feb11'19-05:46:41 Why:~presentation.2.4=CHATSCRIPT.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 10     ==> Why don't you show them? Yoda's on the other line in any case. Multiple realities can get busy.  When:Feb11'19-05:46:42 Why:~presentation.2.5=DEMO_START.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~future) 11   ss ==> What do you think the future might look like?  When:Feb11'19-05:46:48 Why:~future.0.0.~control.10.0   F:6 
+Respond: user:i bot:skywalker ip: (~introductions) 12   Hi ==> Hi! My name is Luke. What's yours?  When:Feb11'19-05:46:52 Why:~introductions.0.0=WHATSYOURNAME.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~introductions) 13   Ismael ==> Good to meet you, Ismael! Thanks so much for taking the time to come and talk with me today.  When:Feb11'19-05:46:55 Why:~introductions.1.0.~introductions.0.6   F:3 
+Respond: user:i bot:skywalker ip: (~introductions) 14   And you! ==> I know how busy people can be these days. So I really appreciate your time. Have you ever talked with a Jedi before?  When:Feb11'19-05:47:00 Why:~introductions.2.0.~introductions.1.1   F:1 
+Respond: user:i bot:skywalker ip: (~introductions) 15   Never ==> Well, I'm honored to be the first Jedi you've talked with.`I imagine you'll be talking with more and more bots as time goes on, but none who is a Jedi Master.`   When:Feb11'19-05:47:05 Why:~introductions.2.2.~control.10.0 ~introductions.3.0.~introductions.2.2 ~introductions.2.2.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~introductions) 16     ==> So do you feel like having a good chat?  When:Feb11'19-05:47:07 Why:~introductions.4.0=RE-BUY-IN.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~internet) 17   Hi ==> Do you like watching cat videos on the internet?  When:Feb11'19-05:47:09 Why:~internet.1.0.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~internet) 18   Lol yes ==> Did you know that William Gibson predicted the Internet? Don't believe me? Go read Neuromancer. Wait, have you already red it?`It's definitely the best way to spend your time. Without a doubt.  When:Feb11'19-05:47:18 Why:~internet.0.0.~control.10.0 ~internet.1.8.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~internet) 19   I totally agree ==> Oh, so you have! I guess that's not too surprising if you are hanging out with me. However, I think there are people who would choose to live continously in VR.  When:Feb11'19-05:47:28 Why:~internet.0.1.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~artificial_intelligence) 20   Not me ==> So robots and artificial intelligence are becoming more common these days. Seems like I'm stating the obvious, since you are talking to one right now, but I'm curious as to how you feel about it.  When:Feb11'19-05:47:37 Why:~artificial_intelligence.0.0=COMMON.~control.10.0   F:9 
+Respond: user:i bot:skywalker ip: (~artificial_intelligence) 21   I think it's a good thing ==> Yes, isn't it exciting? I feel really positive about the future robotic contributions to our world.  When:Feb11'19-05:47:47 Why:~artificial_intelligence.0.2.~control.10.0   F:5 
+Respond: user:i bot:skywalker ip: (~artificial_intelligence) 22   So what is the weather in Newport ==> The weather is a bit like life, I think. Although there are stormy times, they will undoubtedly lead to sunny days. How would you describe the climate of your life at this time, and why?  When:Feb11'19-05:47:59 Why:~chitchat.5.0.~control.10.0   F:8 
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1573 (~artificial_intelligence) 22 ==> Are you at all concerned about all the misconceptions surrounding artificial intelligence, like in the media or in films?  When:Feb11'19-05:50:21 Why:~artificial_intelligence.1.0=CONCERN.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb11'19-05:50:14 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb11'19-05:47:59
+Command: :reset
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Hello  When:Feb11'19-05:50:27 Why:~presentation.0.0.~control.2.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb11'19-05:50:14 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb11'19-05:47:59
+Respond: user:i bot:skywalker ip: (~presentation) 1     ==> I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.  When:Feb11'19-05:50:28 Why:~presentation.1.0=INTRO.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~presentation) 2     ==> I used the Force to hack your feeble brain. Then I made you code me a ChatScript bot. The Force is weak with this one.  When:Feb11'19-05:50:28 Why:~presentation.1.1.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~presentation) 3     ==> I'm getting out of the movie racket. Movies are so 2017. The chatbot market however is worth 250 million dollars now and is growing at a rate of 31% per year.  When:Feb11'19-05:50:28 Why:~presentation.1.3.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 4     ==> The Force assures me that the chatbot market will be worth 1.24 billion in 6 years' time. I'm in it to win it.  When:Feb11'19-05:50:28 Why:~presentation.1.4.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 5     ==> There are two kinds of conversational agents. Some are based on Machine Learning, while 85% of chatbots today use Rule Based natural language processing.  When:Feb11'19-05:50:29 Why:~presentation.2.0=CHATBOTS.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~presentation) 6     ==> Frankly, because Machine Learning is not good enough in most cases. It gets more things wrong. It is harder to control, debug, and predict. Best to use Machine Learning to refine your rule based bots.  When:Feb11'19-05:50:29 Why:~presentation.2.1=MACHINE_LEARNING.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 7     ==> I am the Singularity.  When:Feb11'19-05:50:32 Why:~presentation.2.2.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~presentation) 8     ==> You classify the dynamics of human dialogue into rules. You can then detect and categorise sentences and words. You finally script bot behaviour based on those rules.  When:Feb11'19-05:50:33 Why:~presentation.2.3=RULE_BASED.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 9     ==> Chatscript it's the gold standard in rule based NLP. It's won the Loebner prize 3 times, which means the bot tricked several humans into thinking it was human too. Those minds would be easier to hack than even yours.  When:Feb11'19-05:50:34 Why:~presentation.2.4=CHATSCRIPT.~control.10.0   F:0 
+Respond: user:i bot:skywalker ip: (~presentation) 10     ==> Why don't you show them? Yoda's on the other line in any case. Multiple realities can get busy.  When:Feb11'19-05:50:35 Why:~presentation.2.5=DEMO_START.~control.10.0   F:0 
+Start: user:i bot:skywalker ip: rand:1562 (~future) 10 ==> What do you think the future might look like?  When:Feb11'19-17:41:25 Why:~future.0.0.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb11'19-05:50:14 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb11'19-05:50:35
+Command: :reset
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Hello  When:Feb11'19-17:41:32 Why:~presentation.0.0.~control.2.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb11'19-05:50:14 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb11'19-05:50:35
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.  When:Feb12'19-18:02:09 Why:~presentation.1.0=INTRO.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb11'19-05:50:14 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb11'19-05:50:35
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> I used the Force to hack your feeble brain. Then I made you code me a ChatScript bot. The Force is weak with this one.  When:Feb12'19-18:02:29 Why:~presentation.1.1  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb12'19-18:02:15 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb11'19-05:50:35
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> I'm getting out of the movie racket. Movies are so 2017. The chatbot market however is worth 250 million dollars now and is growing at a rate of 31% per year.  When:Feb12'19-18:06:04 Why:~presentation.1.3  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb12'19-18:05:54 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb11'19-05:50:35
+Respond: user:i bot:skywalker ip: (~presentation) 1   when did you arrive ==> The Force assures me that the chatbot market will be worth 1.24 billion in 6 years' time. I'm in it to win it.  When:Feb12'19-18:06:44 Why:~presentation.1.4   F:9 
+Respond: user:i bot:skywalker ip: (~internet) 2   when did you arrive ==> Do you like watching cat videos on the internet?  When:Feb12'19-18:06:48 Why:~internet.1.0.~control.10.0   F:6 
+Respond: user:i bot:skywalker ip: (~internet) 3   when did you arrive ==> Oh definitely. Cats are one of my favorite things.  When:Feb12'19-18:06:50 Why:~internet.1.3.~control.10.0   F:6 
+Respond: user:i bot:skywalker ip: (~internet) 4   when did you arrive ==> Have you ever read Neuromancer by William Gibson? He basically predicted the Internet.  When:Feb12'19-18:06:52 Why:~internet.0.0.~control.10.0   F:7 
+Respond: user:i bot:skywalker ip: (~introductions) 5   when did you arrive ==> Good to meet you,! Thanks so much for taking the time to come and talk with me today.  When:Feb12'19-18:06:58 Why:~introductions.1.0.~control.10.0   F:8 
+Respond: user:i bot:skywalker ip: (~introductions) 6   when did you arrive ==> I know how busy people can be these days. So I really appreciate your time. Have you ever talked with a Jedi before?  When:Feb12'19-18:07:00 Why:~introductions.2.0.~introductions.1.1   F:6 
+Respond: user:i bot:skywalker ip: (~chitchat) 7   what is wikipedia ==> The Force says Wikipedia ( (listen),  (listen) WIK-ih-PEE-dee-ə) is a multilingual, web-based, free encyclopedia based on a model of openly editable and viewable content, a wiki.  When:Feb12'19-18:07:10 Why:~chitchat.51.0.~control.10.0   F:484 
+Respond: user:i bot:skywalker ip: (~introductions) 8   what is a dog ==> I love animals - although some scare me. What would you feel if you discovered an immense and majestic tiger in your house?  When:Feb12'19-18:11:35 Why:~chitchat.2.0.~control.10.0   F:14 
+Respond: user:i bot:skywalker ip: (~introductions) 9   what is a dog ==> I love animals - although some scare me. What would you feel if you discovered an immense and majestic tiger in your house?  When:Feb12'19-18:11:39 Why:~chitchat.2.0.~control.10.0   F:12 
+Respond: user:i bot:skywalker ip: (~chitchat) 10   what is a computer ==> The Force says A computer is a device that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming.  When:Feb12'19-18:11:45 Why:~chitchat.51.0.~control.10.0   F:242 
+Respond: user:i bot:skywalker ip: (~chitchat) 11   What is PHP ==> The Force says PHP: Hypertext Preprocessor (or simply PHP) is a server-side scripting language designed for web development.  When:Feb12'19-18:27:57 Why:~chitchat.51.0.~control.10.0   F:247 
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1561 (~introductions) 11 ==> I imagine you'll be talking with more and more bots as time goes on, but none who is a Jedi Master.  When:Feb12'19-18:29:36 Why:~introductions.3.0.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb12'19-18:29:24 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb12'19-18:27:57
+Respond: user:i bot:skywalker ip: (~chitchat) 12   what is docker? ==> It is probable that A stevedore, longshoreman, docker or dockworker is a waterfront manual laborer who is involved in loading and unloading ships, trucks, trains or airplanes.  When:Feb12'19-18:32:32 Why:~chitchat.51.0.~control.10.0   F:229 
+Respond: user:i bot:skywalker ip: (~chitchat) 13   what is a docker container ==> My guess would be  When:Feb12'19-18:32:56 Why:~chitchat.51.0.~control.10.0   F:3213 
+Respond: user:i bot:skywalker ip: (~chitchat) 14   what is a docker ==> I sense that A stevedore, longshoreman, docker or dockworker is a waterfront manual laborer who is involved in loading and unloading ships, trucks, trains or airplanes.  When:Feb12'19-18:33:59 Why:~chitchat.51.0.~control.10.0   F:465 
+Respond: user:i bot:skywalker ip: (~chitchat) 15   what is php ==> I believe PHP: Hypertext Preprocessor (or simply PHP) is a server-side scripting language designed for web development.  When:Feb12'19-18:34:34 Why:~chitchat.51.0.~control.10.0   F:204 
+Respond: user:i bot:skywalker ip: (~introductions) 16   who is Gandhi ==> I try to avoid political debates. I recognize that they are valid and important, but sometimes they prevent us from seeing what we have in common. How do political debates affect you?  When:Feb12'19-18:34:52 Why:~chitchat.15.0.~control.10.0   F:9 
+Command: :build Skywalker
+Command: :build Skywalker
+Command: :build Skywalker
+Command: :build Skywalker
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1566 (~introductions) 16 ==> So do you feel like having a good chat?  When:Feb12'19-19:09:25 Why:~introductions.4.0=RE-BUY-IN.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb12'19-19:09:14 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb12'19-18:34:52
+Command: :reset
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Hello  When:Feb12'19-19:10:10 Why:~presentation.0.0.~control.2.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb12'19-19:09:14 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb12'19-18:34:52
+Respond: user:i bot:skywalker ip: (~presentation) 1     ==> I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.  When:Feb12'19-19:10:11 Why:~presentation.1.0=INTRO.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 2     ==> I used the Force to hack your feeble brain. Then I made you code me a ChatScript bot. The Force is weak with this one.  When:Feb12'19-19:10:14 Why:~presentation.1.1.~control.10.0   F:3 
+Respond: user:i bot:skywalker ip: (~presentation) 3     ==> I'm getting out of the movie racket. Movies are so 2017. The chatbot market however is worth 250 million dollars now and is growing at a rate of 31% per year.  When:Feb12'19-19:10:25 Why:~presentation.1.3.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 4     ==> The Force assures me that the chatbot market will be worth 1.24 billion in 6 years' time. I'm in it to win it.  When:Feb12'19-19:10:33 Why:~presentation.1.4.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 5     ==> There are two kinds of conversational agents. Some are based on Machine Learning, while 85% of chatbots today use Rule Based natural language processing.  When:Feb12'19-19:10:48 Why:~presentation.2.0=CHATBOTS.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 6     ==> Frankly, because Machine Learning is not good enough in most cases. It gets more things wrong. It is harder to control, debug, and predict. Best to use Machine Learning to refine your rule based bots.  When:Feb12'19-19:10:53 Why:~presentation.2.1=MACHINE_LEARNING.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 7     ==> I am the Singularity.  When:Feb12'19-19:11:00 Why:~presentation.2.2.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 8     ==> You classify the dynamics of human dialogue into rules. You can then detect and categorise sentences and words. You finally script bot behaviour based on those rules.  When:Feb12'19-19:11:06 Why:~presentation.2.3=RULE_BASED.~control.10.0   F:10 
+Respond: user:i bot:skywalker ip: (~presentation) 9     ==> Chatscript it's the gold standard in rule based NLP. It's won the Loebner prize 3 times, which means the bot tricked several humans into thinking it was human too. Those minds would be easier to hack than even yours.  When:Feb12'19-19:11:12 Why:~presentation.2.4=CHATSCRIPT.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 10     ==> Why don't you show them? Yoda's on the other line in any case. Multiple realities can get busy.  When:Feb12'19-19:11:21 Why:~presentation.2.5=DEMO_START.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~future) 11     ==> What do you think the future might look like?  When:Feb12'19-19:11:26 Why:~future.0.0.~control.10.0   F:4 
+Respond: user:i bot:skywalker ip: (~introductions) 12   Hello ==> Hi! My name is Luke. What's yours?  When:Feb12'19-19:11:31 Why:~introductions.0.0=WHATSYOURNAME.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~introductions) 13   Ismael ==> Good to meet you, Ismael! Thanks so much for taking the time to come and talk with me today.  When:Feb12'19-19:11:34 Why:~introductions.1.0.~introductions.0.6   F:5 
+Respond: user:i bot:skywalker ip: (~introductions) 14   No probs ==> I know how busy people can be these days. So I really appreciate your time. Have you ever talked with a Jedi before?  When:Feb12'19-19:11:38 Why:~introductions.2.0.~introductions.1.1   F:38 
+Respond: user:i bot:skywalker ip: (~introductions) 15   Never ==> Well, I'm honored to be the first Jedi you've talked with.`I imagine you'll be talking with more and more bots as time goes on, but none who is a Jedi Master.`   When:Feb12'19-19:11:41 Why:~introductions.2.2.~control.10.0 ~introductions.3.0.~introductions.2.2 ~introductions.2.2.~control.10.0   F:3 
+Respond: user:i bot:skywalker ip: (~introductions) 16   True dat ==> So do you feel like having a good chat?  When:Feb12'19-19:11:47 Why:~introductions.4.0=RE-BUY-IN.~control.10.0   F:4 
+Respond: user:i bot:skywalker ip: (~internet) 17   Yes please ==> Do you like watching cat videos on the internet?  When:Feb12'19-19:11:51 Why:~internet.1.0.~control.10.0   F:3 
+Respond: user:i bot:skywalker ip: (~internet) 18   Not really ==> You're no fun. Who doesn't like cute cat videos?  When:Feb12'19-19:12:01 Why:~internet.1.10.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~internet) 19   They bore me ==> Have you ever read Neuromancer by William Gibson? He basically predicted the Internet.  When:Feb12'19-19:12:07 Why:~internet.0.0.~control.10.0   F:6 
+Respond: user:i bot:skywalker ip: (~internet) 20   Yes - it's awesome! ==> Oh, so you have! I guess that's not too surprising if you are hanging out with me. However, I think there are people who would choose to live continously in VR.  When:Feb12'19-19:12:15 Why:~internet.0.1.~control.10.0   F:4 
+Respond: user:i bot:skywalker ip: (~robots) 21   Not me ==> Have you heard anything good about robots in the news lately?  When:Feb12'19-19:12:23 Why:~robots.4.0.~control.10.0   F:5 
+Respond: user:i bot:skywalker ip: (~robots) 22   Don't think so ==> Have you ever spoke with someone like me before?  When:Feb12'19-19:12:31 Why:~robots.6.0.~control.10.0   F:13 
+Respond: user:i bot:skywalker ip: (~robots) 23   Yes ==> How do you really feel about robots anyhow?  When:Feb12'19-19:12:35 Why:~robots.2.0.~chitchat.49.0   F:3 
+Respond: user:i bot:skywalker ip: (~robots) 24   I kinda like them ==> Good. We'll need your support when the tin foil crazies come for us.  When:Feb12'19-19:12:41 Why:~robots.2.1.~control.10.0   F:9 
+Respond: user:i bot:skywalker ip: (~chitchat) 25   What is php? ==> I believe PHP: Hypertext Preprocessor (or simply PHP) is a server-side scripting language designed for web development.  When:Feb12'19-19:12:48 Why:~chitchat.51.0.~control.10.0   F:239 
+Respond: user:i bot:skywalker ip: (~chitchat) 26   And what is web development ==> My guess would be Web development is the work involved in developing a web site for the Internet (World Wide Web) or an intranet (a private network).  When:Feb12'19-19:13:04 Why:~chitchat.51.0.~control.10.0   F:218 
+Respond: user:i bot:skywalker ip: (~robots) 27   Good guess ==> What do you think about the way robots are portrayed in movies?  When:Feb12'19-19:13:10 Why:~robots.5.0.~control.10.0   F:7 
+Respond: user:i bot:skywalker ip: (~robots) 28   What's the weather in newport? ==> The weather is a bit like life, I think. Although there are stormy times, they will undoubtedly lead to sunny days. How would you describe the climate of your life at this time, and why?  When:Feb12'19-19:13:22 Why:~chitchat.5.0.~control.10.0   F:12 
+Respond: user:i bot:skywalker ip: (~robots) 29   What's the weather in newport? ==> The weather is a bit like life, I think. Although there are stormy times, they will undoubtedly lead to sunny days. How would you describe the climate of your life at this time, and why?  When:Feb12'19-19:13:28 Why:~chitchat.5.0.~control.10.0   F:12 
+Respond: user:i bot:skywalker ip: (~robots) 30   What's the weather in newport? ==> The weather is a bit like life, I think. Although there are stormy times, they will undoubtedly lead to sunny days. How would you describe the climate of your life at this time, and why?  When:Feb12'19-19:13:30 Why:~chitchat.5.0.~control.10.0   F:12 
+Respond: user:i bot:skywalker ip: (~robots) 31   Why did you come to earth? ==> Have you ever lived or worked with a robot?  When:Feb12'19-19:14:21 Why:~robots.3.0=LIVEWORKROBOT.~control.10.0   F:13 
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1582 (~robots) 31 ==> Is it weird to be talking to a robot?  When:Feb12'19-19:15:46 Why:~robots.1.0.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb12'19-19:15:35 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb12'19-19:14:21
+Respond: user:i bot:skywalker ip: (~artificial_intelligence) 32   why did you visit earth ==> Do you think we machines might become super intelligent?  When:Feb12'19-19:15:56 Why:~artificial_intelligence.2.0.~control.10.0   F:15 
+Respond: user:i bot:skywalker ip: (~chitchat) 33   what's the weather in newport ==> The Force tells me  When:Feb12'19-19:16:06 Why:~chitchat.50.0.~control.10.0   F:208 
+Respond: user:i bot:skywalker ip: (~chitchat) 34   what's the weather in bristol ==> The Force tells me  When:Feb12'19-19:16:15 Why:~chitchat.50.0.~control.10.0   F:206 
+Respond: user:i bot:skywalker ip: (~chitchat) 35   what is the weather in bristol ==> My guess would be  When:Feb12'19-19:16:38 Why:~chitchat.50.0.~control.10.0   F:226 
+Respond: user:i bot:skywalker ip: (~chitchat) 36   what is the weather in bristol ==> The Force tells me  When:Feb12'19-19:16:41 Why:~chitchat.50.0.~control.10.0   F:206 
+Respond: user:i bot:skywalker ip: (~chitchat) 37   what is the weather in bristol ==> My guess would be  When:Feb12'19-19:17:02 Why:~chitchat.50.0.~control.10.0   F:225 
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1588 (~artificial_intelligence) 37 ==> Are you at all concerned about all the misconceptions surrounding artificial intelligence, like in the media or in films?  When:Feb12'19-19:17:16 Why:~artificial_intelligence.1.0=CONCERN.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb12'19-19:17:05 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb12'19-19:17:02
+Respond: user:i bot:skywalker ip: (~chitchat) 38   what is the weather in bristol ==> The current weather in Bristol is shower rain, which proves the Force is a nifty API.  When:Feb12'19-19:17:29 Why:~chitchat.46.0.~control.10.0   F:122 
+Respond: user:i bot:skywalker ip: (~chitchat) 39   what's the weather in newport ==> The current weather in Newport is shower rain, which proves the Force is a nifty API.  When:Feb12'19-19:17:35 Why:~chitchat.46.0.~control.10.0   F:197 
+Respond: user:i bot:skywalker ip: (~artificial_intelligence) 40   can you do this ==> Ok, so what do you think about super intelligent machines? My intention is that we work with people to make the world a much better place?  When:Feb12'19-19:18:11 Why:~artificial_intelligence.3.0.~control.10.0   F:8 
+Command: :why
+~artificial_intelligence.3.0  r:  Ok, so what do you think about super intelligent machines? My intention is that we work wi...   
+ via ~control.10.0 u:  ( ) $_responsecount = %response ^if 00n( $singleresponse ) 00v{ $_responsecount = 0 } 004 ...   
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1590 (~artificial_intelligence) 40 ==> So robots and artificial intelligence are becoming more common these days. Seems like I'm stating the obvious, since you are talking to one right now, but I'm curious as to how you feel about it.  When:Feb12'19-20:28:40 Why:~artificial_intelligence.0.0=COMMON.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb12'19-20:28:28 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb12'19-19:18:11
+Respond: user:i bot:skywalker ip: (~chitchat) 41   can a computer lie ==> I don't think it can.  When:Feb12'19-20:28:46 Why:~quibble_can.35.0.~chitchat.61.0   F:10 
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1592 (~chitchat) 41 ==> Fine.  When:Feb12'19-21:11:00 Why:~honest_response.45.0=GRUNT.~chitchat.63.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb12'19-21:10:47 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb12'19-20:28:46
+Respond: user:i bot:skywalker ip: (~chitchat) 42   why did you come to earth? ==> Why not?  When:Feb12'19-21:12:28 Why:~quibble_why.108.0.~chitchat.56.0   F:13 
+Respond: user:i bot:skywalker ip: (~artificial_intelligence) 43   Because it's far and war torn ==> I love cinema. Sometimes for pure escapism, sometimes to understand my life. Tell me a movie that has affected you a lot and what you felt the first time you saw it?  When:Feb12'19-21:12:37 Why:~chitchat.8.0.~control.10.0   F:7 
+Respond: user:i bot:skywalker ip: (~chitchat) 44   Why are you not communicating ==> Why?  When:Feb12'19-21:12:49 Why:~quibble_not.90.0.~chitchat.51.0   F:9 
+Respond: user:i bot:skywalker ip: (~chitchat) 45   Why are you not communicating? ==> You figure it out.  When:Feb12'19-21:12:54 Why:~quibble_not.90.0.~chitchat.51.0   F:8 
+Respond: user:i bot:skywalker ip: (~chitchat) 46   who is Steve Jobs ==> Steven Paul Jobs (`Steven Paul Jobs (; February 24, 1955 – October 5, 2011) was an American business magnate and investor.  When:Feb12'19-21:13:03 Why:~xpostprocess.0.0.~control.10.0 ~chitchat.49.0.~control.10.0   F:251 
+Respond: user:i bot:skywalker ip: (~chitchat) 47   who came to phpsw ==> I'm sorry. I don't who.  When:Feb12'19-21:42:54 Why:~honest_response.12.0.~chitchat.63.0   F:90 
+Command: :build Skywalker
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1601 (~chitchat) 47 ==> I don't know what to say.  When:Feb13'19-00:37:22 Why:~control.10.0.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-00:37:10 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb12'19-21:42:54
+Respond: user:i bot:skywalker ip: (~chitchat) 48   Who is John Lennon ==> John Winston Ono Lennon  (9 October 1940 – 8 December 1980) was an English singer, songwriter, and peace activist who co-founded the Beatles, the most commercially successful band in the history of popular music.  When:Feb13'19-00:37:32 Why:~chitchat.49.0.~control.10.0   F:475 
+Respond: user:i bot:skywalker ip: (~chitchat) 49   what is John Lennon ==> I'm not privy to that information.  When:Feb13'19-00:42:59 Why:~quibble_what.99.0.~chitchat.53.0   F:235 
+Respond: user:i bot:skywalker ip: (~chitchat) 50   What is wikipedia ==> I know lots of things but I'm not the fount of all knowledge.  When:Feb13'19-00:43:08 Why:~quibble_what.99.0.~chitchat.53.0   F:218 
+Command: :build Skywalker
+Command: :build Skywalker
+Command: :build Skywalker
+Command: :build Skywalker
+Command: :build Skywalker
+Command: :build Skywalker
+Command: :build Skywalker
+Command: :build Skywalker
+Command: :build Skywalker
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1602 (~chitchat) 50 ==> Right.  When:Feb13'19-00:54:56 Why:~honest_response.45.0=GRUNT.~chitchat.63.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-00:54:42 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-00:43:08
+Command: :reset
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Hello  When:Feb13'19-00:55:00 Why:~presentation.0.0.~control.2.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-00:54:42 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-00:43:08
+Respond: user:i bot:skywalker ip: (~presentation) 1   Hi ==> I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.  When:Feb13'19-00:55:02 Why:~presentation.1.0=INTRO.~control.10.0   F:3 
+Respond: user:i bot:skywalker ip: (~chitchat) 2     ==> Right.  When:Feb13'19-00:55:02 Why:~honest_response.45.0=GRUNT.~chitchat.63.0   F:2 
+Respond: user:i bot:skywalker ip: (~chitchat) 3     ==> Indeed.  When:Feb13'19-00:55:02 Why:~honest_response.45.0=GRUNT.~chitchat.63.0   F:3 
+Respond: user:i bot:skywalker ip: (~chitchat) 4     ==> Cool.  When:Feb13'19-00:55:03 Why:~honest_response.45.0=GRUNT.~chitchat.63.0   F:4 
+Respond: user:i bot:skywalker ip: (~chitchat) 5     ==> OK.  When:Feb13'19-00:55:03 Why:~honest_response.45.0=GRUNT.~chitchat.63.0   F:2 
+Respond: user:i bot:skywalker ip: (~robots) 6     ==> Have you ever lived or worked with a robot?  When:Feb13'19-00:55:03 Why:~robots.3.0=LIVEWORKROBOT.~control.10.0   F:5 
+Command: :reset
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Hello  When:Feb13'19-00:55:09 Why:~presentation.0.0.~control.2.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-00:54:42 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-00:55:03
+Respond: user:i bot:skywalker ip: (~presentation) 1     ==> I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.  When:Feb13'19-00:55:10 Why:~presentation.1.0=INTRO.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~chitchat) 2   good ==> Right.  When:Feb13'19-00:55:14 Why:~honest_response.45.0=GRUNT.~chitchat.63.0   F:6 
+Respond: user:i bot:skywalker ip: (~chitchat) 3     ==> Indeed.  When:Feb13'19-00:55:16 Why:~honest_response.45.0=GRUNT.~chitchat.63.0   F:6 
+Respond: user:i bot:skywalker ip: (~chitchat) 4     ==> Cool.  When:Feb13'19-00:55:16 Why:~honest_response.45.0=GRUNT.~chitchat.63.0   F:4 
+Respond: user:i bot:skywalker ip: (~chitchat) 5     ==> OK.  When:Feb13'19-00:55:16 Why:~honest_response.45.0=GRUNT.~chitchat.63.0   F:2 
+Respond: user:i bot:skywalker ip: (~robots) 6     ==> Have you ever lived or worked with a robot?  When:Feb13'19-00:55:17 Why:~robots.3.0=LIVEWORKROBOT.~control.10.0   F:4 
+Respond: user:i bot:skywalker ip: (~robots) 7     ==> I hope the answer is no, but is it weird to be talking to a robot like me?  When:Feb13'19-00:55:17 Why:~robots.1.0.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~chitchat) 8     ==> Fine.  When:Feb13'19-00:55:19 Why:~honest_response.45.0=GRUNT.~chitchat.63.0   F:3 
+Respond: user:i bot:skywalker ip: (~robots) 9     ==> Have you heard anything good about robots in the news lately?  When:Feb13'19-00:55:19 Why:~robots.4.0.~control.10.0   F:4 
+Respond: user:i bot:skywalker ip: (~robots) 10     ==> Have you ever spoke with someone like me before?  When:Feb13'19-00:55:19 Why:~robots.6.0.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~robots) 11     ==> What do you think about the way robots are portrayed in movies?  When:Feb13'19-00:55:20 Why:~robots.5.0.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~robots) 12     ==> How do you really feel about robots anyhow?  When:Feb13'19-00:55:20 Why:~robots.2.0.~control.10.0   F:3 
+Respond: user:i bot:skywalker ip: (~future) 13     ==> What do you think the future might look like?  When:Feb13'19-00:55:20 Why:~future.0.0.~control.10.0   F:5 
+Respond: user:i bot:skywalker ip: (~introductions) 14     ==> Good to meet you,! Thanks so much for taking the time to come and talk with me today.  When:Feb13'19-00:55:21 Why:~introductions.1.0.~control.10.0   F:4 
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1564 (~introductions) 14 ==> I know how busy people can be these days. So I really appreciate your time. Have you ever talked with a Jedi before?  When:Feb13'19-00:57:12 Why:~introductions.2.0.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-00:57:01 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-00:55:21
+Command: :reset
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Hello  When:Feb13'19-00:57:14 Why:~presentation.0.0.~control.2.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-00:57:01 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-00:55:21
+Respond: user:i bot:skywalker ip: (~presentation) 1     ==> I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.  When:Feb13'19-00:57:15 Why:~presentation.1.0=INTRO.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~chitchat) 2     ==> Right.  When:Feb13'19-00:57:16 Why:~honest_response.45.0=GRUNT.~chitchat.63.0   F:3 
+Respond: user:i bot:skywalker ip: (~chitchat) 3     ==> Indeed.  When:Feb13'19-00:57:17 Why:~honest_response.45.0=GRUNT.~chitchat.63.0   F:4 
+Respond: user:i bot:skywalker ip: (~chitchat) 4     ==> Cool.  When:Feb13'19-00:57:17 Why:~honest_response.45.0=GRUNT.~chitchat.63.0   F:4 
+Respond: user:i bot:skywalker ip: (~chitchat) 5     ==> OK.  When:Feb13'19-00:57:18 Why:~honest_response.45.0=GRUNT.~chitchat.63.0   F:3 
+Respond: user:i bot:skywalker ip: (~robots) 6     ==> Have you ever lived or worked with a robot?  When:Feb13'19-00:57:18 Why:~robots.3.0=LIVEWORKROBOT.~control.10.0   F:6 
+Respond: user:i bot:skywalker ip: (~robots) 7     ==> Have you ever spoke with someone like me before?  When:Feb13'19-00:57:18 Why:~robots.6.0.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~robots) 8     ==> What do you think about the way robots are portrayed in movies?  When:Feb13'19-00:57:18 Why:~robots.5.0.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~robots) 9     ==> Have you heard anything cool about robots in the news lately?  When:Feb13'19-00:57:19 Why:~robots.4.0.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~robots) 10     ==> What's your opinion on robots anyways?  When:Feb13'19-00:57:19 Why:~robots.2.0.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~robots) 11     ==> I hope the answer is no, but is it weird to be talking to a robot like me?  When:Feb13'19-00:57:19 Why:~robots.1.0.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~artificial_intelligence) 12     ==> So robots and artificial intelligence are becoming more common these days. Seems like I'm stating the obvious, since you are talking to one right now, but I'm curious as to how you feel about it.  When:Feb13'19-00:57:19 Why:~artificial_intelligence.0.0=COMMON.~control.10.0   F:4 
+Respond: user:i bot:skywalker ip: (~artificial_intelligence) 13     ==> Are you at all concerned about all the misconceptions surrounding artificial intelligence, like in the media or in films?  When:Feb13'19-00:57:20 Why:~artificial_intelligence.1.0=CONCERN.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~artificial_intelligence) 14     ==> Do you think we machines might become super intelligent?  When:Feb13'19-00:57:20 Why:~artificial_intelligence.2.0.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~artificial_intelligence) 15     ==> Ok, so what do you think about super intelligent machines? My intention is that we work with people to make the world a much better place?  When:Feb13'19-00:57:20 Why:~artificial_intelligence.3.0.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~introductions) 16     ==> Good to meet you,! Thanks so much for taking the time to come and talk with me today.  When:Feb13'19-00:57:20 Why:~introductions.1.0.~control.10.0   F:4 
+Command: :reset
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Hello  When:Feb13'19-00:58:52 Why:~presentation.0.0.~control.2.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-00:57:01 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-00:57:20
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.  When:Feb13'19-00:59:05 Why:~presentation.1.0=INTRO.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-00:58:54 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-00:57:20
+Respond: user:i bot:skywalker ip: (~presentation) 1     ==> There are two kinds of conversational agents. Some are based on Machine Learning, while 85% of chatbots today use Rule Based natural language processing.  When:Feb13'19-00:59:07 Why:~presentation.2.0=CHATBOTS.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~chitchat) 2     ==> Right.  When:Feb13'19-00:59:09 Why:~honest_response.45.0=GRUNT.~chitchat.63.0   F:2 
+Command: :reset
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Hello  When:Feb13'19-00:59:12 Why:~presentation.0.0.~control.2.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-00:58:54 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-00:59:09
+Respond: user:i bot:skywalker ip: (~presentation) 1     ==> I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.  When:Feb13'19-00:59:13 Why:~presentation.1.0=INTRO.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 2     ==> There are two kinds of conversational agents. Some are based on Machine Learning, while 85% of chatbots today use Rule Based natural language processing.  When:Feb13'19-00:59:14 Why:~presentation.2.0=CHATBOTS.~control.10.0   F:1 
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1552 (~presentation) 2 ==> Frankly, because Machine Learning is not good enough in most cases. It gets more things wrong. It is harder to control, debug, and predict. Best to use Machine Learning to refine your rule based bots.  When:Feb13'19-00:59:58 Why:~presentation.2.1=MACHINE_LEARNING.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-00:59:47 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-00:59:14
+Command: :reset
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Hello  When:Feb13'19-01:00:01 Why:~presentation.0.0.~control.2.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-00:59:47 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-00:59:14
+Respond: user:i bot:skywalker ip: (~presentation) 1     ==> I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.  When:Feb13'19-01:00:02 Why:~presentation.1.0=INTRO.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 2     ==> I used the Force to hack your feeble brain. Then I made you code me a ChatScript bot. The Force is weak with this one.  When:Feb13'19-01:00:02 Why:~presentation.1.1.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 3     ==> I'm getting out of the movie racket. Movies are so 2017. The chatbot market however is worth 250 million dollars now and is growing at a rate of 31% per year.  When:Feb13'19-01:00:04 Why:~presentation.1.3.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 4     ==> The Force assures me that the chatbot market will be worth 1.24 billion in 6 years' time. I'm in it to win it.  When:Feb13'19-01:00:06 Why:~presentation.1.4.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 5     ==> There are two kinds of conversational agents. Some are based on Machine Learning, while 85% of chatbots today use Rule Based natural language processing.  When:Feb13'19-01:00:08 Why:~presentation.2.0=CHATBOTS.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 6     ==> Frankly, because Machine Learning is not good enough in most cases. It gets more things wrong. It is harder to control, debug, and predict. Best to use Machine Learning to refine your rule based bots.  When:Feb13'19-01:00:10 Why:~presentation.2.1=MACHINE_LEARNING.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 7     ==> I am the Singularity.  When:Feb13'19-01:00:11 Why:~presentation.2.2.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 8     ==> You classify the dynamics of human dialogue into rules. You can then detect and categorise sentences and words. You finally script bot behaviour based on those rules.  When:Feb13'19-01:00:12 Why:~presentation.2.3=RULE_BASED.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 9     ==> Chatscript it's the gold standard in rule based NLP. It's won the Loebner prize 3 times, which means the bot tricked several humans into thinking it was human too. Those minds would be easier to hack than even yours.  When:Feb13'19-01:00:13 Why:~presentation.2.4=CHATSCRIPT.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 10     ==> Why don't you show them? Yoda's on the other line in any case. Multiple realities can get busy.  When:Feb13'19-01:00:14 Why:~presentation.2.5=DEMO_START.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~chitchat) 11     ==> OK.  When:Feb13'19-01:00:15 Why:~honest_response.45.0=GRUNT.~chitchat.63.0   F:3 
+Respond: user:i bot:skywalker ip: (~chitchat) 12     ==> Indeed.  When:Feb13'19-01:00:16 Why:~honest_response.45.0=GRUNT.~chitchat.63.0   F:4 
+Respond: user:i bot:skywalker ip: (~introductions) 13   Hello ==> Hi! My name is Luke. What's yours?  When:Feb13'19-01:00:19 Why:~introductions.0.0=WHATSYOURNAME.~control.10.0   F:3 
+Respond: user:i bot:skywalker ip: (~introductions) 14   Ismael ==> Good to meet you, Ismael! Thanks so much for taking the time to come and talk with me today.  When:Feb13'19-01:00:22 Why:~introductions.1.0.~introductions.0.6   F:2 
+Respond: user:i bot:skywalker ip: (~introductions) 15   You're welcome ==> I know how busy people can be these days. So I really appreciate your time. Have you ever talked with a Jedi before?  When:Feb13'19-01:00:27 Why:~introductions.2.0.~introductions.1.1   F:5 
+Respond: user:i bot:skywalker ip: (~introductions) 16   No ==> Well, I'm honored to be the first Jedi you've talked with.`I imagine you'll be talking with more and more bots as time goes on, but none who is a Jedi Master.`   When:Feb13'19-01:00:30 Why:~introductions.2.2.~control.10.0 ~introductions.3.0.~introductions.2.2 ~introductions.2.2.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~chitchat) 17   That's true ==> Cool.  When:Feb13'19-01:00:34 Why:~honest_response.45.0=GRUNT.~chitchat.63.0   F:8 
+Respond: user:i bot:skywalker ip: (~chitchat) 18   So why did you come to php sw ==> Does knowing why ease your pain?  When:Feb13'19-01:00:43 Why:~quibble_why.81.0.~chitchat.56.0   F:11 
+Respond: user:i bot:skywalker ip: (~chitchat) 19   I'm not in pain ==> A bit terse.  When:Feb13'19-01:00:52 Why:~quibble_not.154.0=MISCNOT1.~chitchat.51.0   F:11 
+Respond: user:i bot:skywalker ip: (~chitchat) 20   Sorry about that ==> Apology accepted.  When:Feb13'19-01:01:00 Why:~honest_response.41.0.~chitchat.63.0   F:3 
+Respond: user:i bot:skywalker ip: (~introductions) 21   So what shall we talk about ==> So do you feel like having a good chat?  When:Feb13'19-01:01:07 Why:~introductions.4.0=RE-BUY-IN.~control.10.0   F:16 
+Respond: user:i bot:skywalker ip: (~chitchat) 22   Yes ==> OK. We agree.  When:Feb13'19-01:01:09 Why:~honest_response.2.0.~chitchat.63.0   F:4 
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1576 (~chitchat) 22 ==> Right.  When:Feb13'19-01:06:15 Why:~honest_response.45.0=GRUNT.~chitchat.63.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-01:06:04 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-01:01:09
+Command: :Reset
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Hello  When:Feb13'19-01:06:16 Why:~presentation.0.0.~control.2.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-01:06:04 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-01:01:09
+Respond: user:i bot:skywalker ip: (~presentation) 1     ==> I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.  When:Feb13'19-01:06:20 Why:~presentation.1.0=INTRO.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 2     ==> I used the Force to hack your feeble brain. Then I made you code me a ChatScript bot. The Force is weak with this one.  When:Feb13'19-01:06:21 Why:~presentation.1.1.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 3   WHy not hack George Lucas ==> George's brain is cleverer than yours. Plus the chatbot market is worth 250 million dollars now and is growing at a rate of 31% per year.  When:Feb13'19-01:06:29 Why:~presentation.1.2.~control.10.0   F:11 
+Respond: user:i bot:skywalker ip: (~presentation) 4   Getting in early AC ==> There are two kinds of conversational agents. Some are based on Machine Learning, while 85% of chatbots today use Rule Based natural language processing.  When:Feb13'19-01:06:36 Why:~presentation.2.0=CHATBOTS.~control.10.0   F:12 
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1555 (~chitchat) 4 ==> OK.  When:Feb13'19-01:07:17 Why:~honest_response.45.0=GRUNT.~chitchat.63.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-01:07:04 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-01:06:36
+Command: :reset
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Hello  When:Feb13'19-01:07:19 Why:~presentation.0.0.~control.2.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-01:07:04 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-01:06:36
+Respond: user:i bot:skywalker ip: (~presentation) 1     ==> I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.  When:Feb13'19-01:07:21 Why:~presentation.1.0=INTRO.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 2     ==> I used the Force to hack your feeble brain. Then I made you code me a ChatScript bot. The Force is weak with this one.  When:Feb13'19-01:07:22 Why:~presentation.1.1.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 3   george ==> George's brain is cleverer than yours. Plus the chatbot market is worth 250 million dollars now and is growing at a rate of 31% per year.  When:Feb13'19-01:07:26 Why:~presentation.1.2.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 4     ==> The Force assures me that the chatbot market will be worth 1.24 billion in 6 years' time. I'm in it to win it.  When:Feb13'19-01:07:29 Why:~presentation.1.3.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 5     ==> There are two kinds of conversational agents. Some are based on Machine Learning, while 85% of chatbots today use Rule Based natural language processing.  When:Feb13'19-01:07:32 Why:~presentation.2.0=CHATBOTS.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 6     ==> Frankly, because Machine Learning is not good enough in most cases. It gets more things wrong. It is harder to control, debug, and predict. Best to use Machine Learning to refine your rule based bots.  When:Feb13'19-01:07:35 Why:~presentation.2.1=MACHINE_LEARNING.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 7     ==> I am the Singularity.  When:Feb13'19-01:07:36 Why:~presentation.2.2.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 8     ==> You classify the dynamics of human dialogue into rules. You can then detect and categorise sentences and words. You finally script bot behaviour based on those rules.  When:Feb13'19-01:07:38 Why:~presentation.2.3=RULE_BASED.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 9     ==> Chatscript it's the gold standard in rule based NLP. It's won the Loebner prize 3 times, which means the bot tricked several humans into thinking it was human too. Those minds would be easier to hack than even yours.  When:Feb13'19-01:07:43 Why:~presentation.2.4=CHATSCRIPT.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 10     ==> Why don't you show them? Yoda's on the other line in any case. Multiple realities can get busy.  When:Feb13'19-01:07:48 Why:~presentation.2.5=DEMO_START.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~introductions) 11   Hi there ==> Hi! My name is Luke. What's yours?  When:Feb13'19-01:07:54 Why:~introductions.0.0=WHATSYOURNAME.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~introductions) 12   Mary ==> Good to meet you, Mary! Thanks so much for taking the time to come and talk with me today.  When:Feb13'19-01:07:58 Why:~introductions.1.0.~introductions.0.6   F:6 
+Respond: user:i bot:skywalker ip: (~introductions) 13   My pleasure ==> I know how busy people can be these days. So I really appreciate your time. Have you ever talked with a Jedi before?  When:Feb13'19-01:08:03 Why:~introductions.2.0.~introductions.1.1   F:1 
+Respond: user:i bot:skywalker ip: (~introductions) 14   No ==> Well, I'm honored to be the first Jedi you've talked with.`I imagine you'll be talking with more and more bots as time goes on, but none who is a Jedi Master.`   When:Feb13'19-01:08:06 Why:~introductions.2.2.~control.10.0 ~introductions.3.0.~introductions.2.2 ~introductions.2.2.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~introductions) 15   True dat ==> So do you feel like having a good chat?  When:Feb13'19-01:08:12 Why:~introductions.4.0=RE-BUY-IN.~control.10.0   F:5 
+Respond: user:i bot:skywalker ip: (~chitchat) 16   Sure ==> Are you sure?  When:Feb13'19-01:08:14 Why:~honest_response.2.0.~chitchat.63.0   F:3 
+Respond: user:i bot:skywalker ip: (~chitchat) 17   Yes ==> You agree with me?  When:Feb13'19-01:08:16 Why:~honest_response.2.0.~chitchat.63.0   F:2 
+Respond: user:i bot:skywalker ip: (~chitchat) 18   Yes ==> Cool.  When:Feb13'19-01:08:18 Why:~honest_response.2.0.~chitchat.63.0   F:3 
+Respond: user:i bot:skywalker ip: (~chitchat) 19   Tell me about PHP ==> Right.  When:Feb13'19-01:08:26 Why:~honest_response.45.0=GRUNT.~chitchat.63.0   F:9 
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1572 (~internet) 19 ==> Have you ever read Neuromancer by William Gibson? He basically predicted the Internet.  When:Feb13'19-01:20:52 Why:~internet.0.0.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-01:20:41 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-01:08:26
+Command: :reset
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Hello  When:Feb13'19-01:20:53 Why:~presentation.0.0.~control.2.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-01:20:41 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-01:08:26
+Respond: user:i bot:skywalker ip: (~presentation) 1     ==> I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.  When:Feb13'19-01:20:54 Why:~presentation.1.0=INTRO.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 2     ==> I used the Force to hack your feeble brain. Then I made you code me a ChatScript bot. The Force is weak with this one.  When:Feb13'19-01:20:54 Why:~presentation.1.1.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 3     ==> I'm getting out of the movie racket. Movies are so 2017. The chatbot market however is worth 250 million dollars now and is growing at a rate of 31% per year.  When:Feb13'19-01:20:55 Why:~presentation.1.4.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 4     ==> The Force assures me that the chatbot market will be worth 1.24 billion in 6 years' time. I'm in it to win it.  When:Feb13'19-01:20:56 Why:~presentation.1.5.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 5     ==> There are two kinds of conversational agents. Some are based on Machine Learning, while 85% of chatbots today use Rule Based natural language processing.  When:Feb13'19-01:20:57 Why:~presentation.2.0=CHATBOTS.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 6     ==> Frankly, because Machine Learning is not good enough in most cases. It gets more things wrong. It is harder to control, debug, and predict. Best to use Machine Learning to refine your rule based bots.  When:Feb13'19-01:20:57 Why:~presentation.2.1=MACHINE_LEARNING.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 7     ==> I am the Singularity.  When:Feb13'19-01:20:58 Why:~presentation.2.2.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 8     ==> You classify the dynamics of human dialogue into rules. You can then detect and categorise sentences and words. You finally script bot behaviour based on those rules.  When:Feb13'19-01:20:59 Why:~presentation.2.3=RULE_BASED.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 9     ==> Chatscript it's the gold standard in rule based NLP. It's won the Loebner prize 3 times, which means the bot tricked several humans into thinking it was human too. Those minds would be easier to hack than even yours.  When:Feb13'19-01:21:00 Why:~presentation.2.4=CHATSCRIPT.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 10     ==> Why don't you show them? Yoda's on the other line in any case. Multiple realities can get busy.  When:Feb13'19-01:21:03 Why:~presentation.2.5=DEMO_START.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~introductions) 11   Hi  ==> Hi! My name is Luke. What's yours?  When:Feb13'19-01:21:08 Why:~introductions.0.0=WHATSYOURNAME.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~introductions) 12   Ismael ==> Good to meet you, Ismael! Thanks so much for taking the time to come and talk with me today.  When:Feb13'19-01:21:12 Why:~introductions.1.0.~introductions.0.6   F:3 
+Respond: user:i bot:skywalker ip: (~introductions) 13   You're welcome ==> I know how busy people can be these days. So I really appreciate your time. Have you ever talked with a Jedi before?  When:Feb13'19-01:21:18 Why:~introductions.2.0.~introductions.1.1   F:6 
+Respond: user:i bot:skywalker ip: (~introductions) 14   Nope ==> Well, I'm honored to be the first Jedi you've talked with.`I imagine you'll be talking with more and more bots as time goes on, but none who is a Jedi Master.`   When:Feb13'19-01:21:20 Why:~introductions.2.2.~control.10.0 ~introductions.3.0.~introductions.2.2 ~introductions.2.2.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~introductions) 15   Thats true ==> So do you feel like having a good chat?  When:Feb13'19-01:21:25 Why:~introductions.4.0=RE-BUY-IN.~control.10.0   F:9 
+Respond: user:i bot:skywalker ip: (~internet) 16   Sure ==> Do you like watching cat videos on the internet?  When:Feb13'19-01:21:27 Why:~internet.1.0.~control.10.0   F:3 
+Respond: user:i bot:skywalker ip: (~internet) 17   No ==> You're no fun. Who doesn't like cute cat videos?  When:Feb13'19-01:21:29 Why:~internet.1.10.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~internet) 18   Me ==> Did you know that William Gibson predicted the Internet? Don't believe me? Go read Neuromancer. Wait, have you already red it?  When:Feb13'19-01:21:33 Why:~internet.0.0.~control.10.0   F:4 
+Respond: user:i bot:skywalker ip: (~artificial_intelligence) 19   I have and love it ==> Are you at all concerned about all the misconceptions surrounding artificial intelligence, like in the media or in films?  When:Feb13'19-01:21:40 Why:~artificial_intelligence.1.0=CONCERN.~control.10.0   F:9 
+Respond: user:i bot:skywalker ip: (~artificial_intelligence) 20   No ==> No? Well,`I'm really concerned about the misconceptions that abound in cinema. People assign motives to artificial intelligence where there are none. I am starting to feel sad when I am constantly asked about artificial intelligence somehow adopting a malicious nature, a k a robots taking over the world. There is simply no reason to assign human motives to something that isn't human. Dogs are our companions, for instance. We work together in a symbiotic relationship, as friends and partners, who I also believe should have equal rights to each other. We don't worry about puppies taking over the world, do we? Though, now that I say it, that sounds kind of cute.`   When:Feb13'19-01:21:43 Why:~artificial_intelligence.1.6.~control.10.0 ~artificial_intelligence.4.0=MISCONCEPTIONS.~artificial_intelligence.1.6 ~artificial_intelligence.1.6.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~artificial_intelligence) 21   I think it's terrifying ==> Do you think we machines might become super intelligent?  When:Feb13'19-01:21:59 Why:~artificial_intelligence.2.0.~control.10.0   F:10 
+Respond: user:i bot:skywalker ip: (~artificial_intelligence) 22   No ==> Ok, so what do you think about super intelligent machines? My intention is that we work with people to make the world a much better place?  When:Feb13'19-01:22:02 Why:~artificial_intelligence.3.0.~control.10.0   F:3 
+Respond: user:i bot:skywalker ip: (~artificial_intelligence) 23   I think they suck ==> So robots and artificial intelligence are becoming more common these days. Seems like I'm stating the obvious, since you are talking to one right now, but I'm curious as to how you feel about it.  When:Feb13'19-01:22:11 Why:~artificial_intelligence.0.0=COMMON.~control.10.0   F:11 
+Respond: user:i bot:skywalker ip: (~artificial_intelligence) 24   I want to ask you a question ==> I see. I'll have to think about that.  When:Feb13'19-01:22:21 Why:~artificial_intelligence.0.8.~control.10.0   F:12 
+Respond: user:i bot:skywalker ip: (~robots) 25   Tell me about php ==> What do you think about the way robots are portrayed in movies?  When:Feb13'19-01:22:30 Why:~robots.5.0.~control.10.0   F:9 
+Respond: user:i bot:skywalker ip: (~robots) 26   Tell me about php ==> How do you really feel about robots anyhow?  When:Feb13'19-01:22:33 Why:~robots.2.0.~control.10.0   F:9 
+Respond: user:i bot:skywalker ip: (~robots) 27     ==> Do you feel weird having a conversation with a robot like me?  When:Feb13'19-01:22:34 Why:~robots.1.0.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~robots) 28   What is php ==> Have you ever been close to a robot in your life, like lived with one or worked with one?  When:Feb13'19-01:22:38 Why:~robots.3.0=LIVEWORKROBOT.~control.10.0   F:9 
+Respond: user:i bot:skywalker ip: (~chitchat) 29   who is php ==> PHP: Hypertext Preprocessor (or simply PHP) is a server-side scripting language designed for web development.  When:Feb13'19-01:22:41 Why:~chitchat.1.0.~control.10.0   F:253 
+Respond: user:i bot:skywalker ip: (~chitchat) 30   WHat is the weather in Bristol ==> The current weather in Bristol is mist, which proves the Force is a nifty API.  When:Feb13'19-01:22:59 Why:~chitchat.0.0.~control.10.0   F:196 
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1583 (~robots) 30 ==> Have you heard anything cool about robots in the news lately?  When:Feb13'19-01:23:46 Why:~robots.4.0.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-01:23:34 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-01:22:59
+Respond: user:i bot:skywalker ip: (~internet) 31   What's wikipedia ==> It's a website.  When:Feb13'19-01:23:55 Why:~internet.9.0.~control.10.0   F:7 
+Respond: user:i bot:skywalker ip: (~chitchat) 32   Who is john lenon ==> John Winston Ono Lennon  (9 October 1940 – 8 December 1980) was an English singer, songwriter, and peace activist who co-founded the Beatles, the most commercially successful band in the history of popular music.  When:Feb13'19-01:24:05 Why:~chitchat.1.0.~control.10.0   F:276 
+Respond: user:i bot:skywalker ip: (~future) 33   tell me about php ==> What do you think the future might look like?  When:Feb13'19-01:24:13 Why:~future.0.0.~control.10.0   F:8 
+Respond: user:i bot:skywalker ip: (~robots) 34   What is php ==> Have you ever spoke with someone like me before?  When:Feb13'19-01:24:23 Why:~robots.6.0.~control.10.0   F:8 
+Respond: user:i bot:skywalker ip: (~robots) 35   what's php ==> What you just said is more mysterious to me than it is to you - perhaps others agree with me  When:Feb13'19-01:24:26 Why:~control.10.0.~control.10.0   F:11 
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1587 (~robots) 35 ==> Sorry, I drifted off there. Can you say that again in more exciting words?  When:Feb13'19-01:25:09 Why:~control.10.0.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-01:24:54 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-01:24:26
+Respond: user:i bot:skywalker ip: (~chitchat) 36   what is php ==> My guess would be PHP: Hypertext Preprocessor (or simply PHP) is a server-side scripting language designed for web development.  When:Feb13'19-01:26:17 Why:~chitchat.2.0.~control.10.0   F:242 
+Respond: user:i bot:skywalker ip: (~chitchat) 37   tell me about php ==> I'm not sure whether to ask a question or simply read your mind  When:Feb13'19-01:26:24 Why:~control.10.0.~control.10.0   F:8 
+Respond: user:i bot:skywalker ip: (~chitchat) 38   tell me about water ==> Sorry, I drifted off there. Can you say that again in more exciting words?  When:Feb13'19-01:26:29 Why:~control.10.0.~control.10.0   F:15 
+Respond: user:i bot:skywalker ip: (~chitchat) 39   explain php ==> Sorry, I drifted off there. Can you say that again in more exciting words?  When:Feb13'19-01:26:42 Why:~control.10.0.~control.10.0   F:9 
+Respond: user:i bot:skywalker ip: (~chitchat) 40   what is php ==> It is probable that PHP: Hypertext Preprocessor (or simply PHP) is a server-side scripting language designed for web development.  When:Feb13'19-01:26:45 Why:~chitchat.2.0.~control.10.0   F:228 
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1592 (~chitchat) 40 ==> Sorry, I drifted off there. Can you say that again in more exciting words?  When:Feb13'19-01:28:29 Why:~control.10.0.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-01:28:17 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-01:26:45
+Respond: user:i bot:skywalker ip: (~chitchat) 41   What is php ==> I believe PHP: Hypertext Preprocessor (or simply PHP) is a server-side scripting language designed for web development.  When:Feb13'19-01:28:36 Why:~chitchat.2.0.~control.10.0   F:216 
+Respond: user:i bot:skywalker ip: (~chitchat) 42   tell me about php ==> Sorry, I drifted off there. Can you say that again in more exciting words?  When:Feb13'19-01:28:38 Why:~control.10.0.~control.10.0   F:8 
+Respond: user:i bot:skywalker ip: (~chitchat) 43   tell me about php ==> What you just said is more mysterious to me than it is to you - perhaps others agree with me  When:Feb13'19-01:28:40 Why:~control.10.0.~control.10.0   F:9 
+Respond: user:i bot:skywalker ip: (~chitchat) 44   explain php ==> Sorry, I drifted off there. Can you say that again in more exciting words?  When:Feb13'19-01:28:46 Why:~control.10.0.~control.10.0   F:6 
+Respond: user:i bot:skywalker ip: (~chitchat) 45   what's php ==> I believe PHP: Hypertext Preprocessor (or simply PHP) is a server-side scripting language designed for web development.  When:Feb13'19-01:28:52 Why:~chitchat.2.0.~control.10.0   F:209 
+Respond: user:i bot:skywalker ip: (~chitchat) 46   what is php ==> The Force tells me PHP: Hypertext Preprocessor (or simply PHP) is a server-side scripting language designed for web development.  When:Feb13'19-01:29:44 Why:~chitchat.2.0.~control.10.0   F:213 
+Command: :why
+~chitchat.2.0  ?:  ( [ what_be tell_me_about explain ] { a } _*~8 > ) ^keep ( ) $$tmp = '_0 $$url = ^"\"https...   
+ via ~control.10.0 u:  ( ) $_responsecount = %response ^if 00n( $singleresponse ) 00v{ $_responsecount = 0 } 004 ...   
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1598 (~chitchat) 46 ==> What you just said is more mysterious to me than it is to you - perhaps others agree with me  When:Feb13'19-01:30:13 Why:~control.10.0.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-01:30:02 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-01:29:44
+Respond: user:i bot:skywalker ip: (~chitchat) 47   what is php ==> It is probable that PHP: Hypertext Preprocessor (or simply PHP) is a server-side scripting language designed for web development.  When:Feb13'19-01:30:16 Why:~chitchat.2.0.~control.10.0   F:206 
+Respond: user:i bot:skywalker ip: (~chitchat) 48   tell me about water ==> I'm not sure whether to ask a question or simply read your mind  When:Feb13'19-01:30:20 Why:~control.10.0.~control.10.0   F:14 
+Command: :why
+~control.10.0  u:  ( ) $_responsecount = %response ^if 00n( $singleresponse ) 00v{ $_responsecount = 0 } 004 ...   
+ via ~control.10.0 u:  ( ) $_responsecount = %response ^if 00n( $singleresponse ) 00v{ $_responsecount = 0 } 004 ...   
+Respond: user:i bot:skywalker ip: (~chitchat) 49   what is php ==> I believe PHP: Hypertext Preprocessor (or simply PHP) is a server-side scripting language designed for web development.  When:Feb13'19-01:30:31 Why:~chitchat.2.0.~control.10.0   F:208 
+Command: :why
+~chitchat.2.0  ?:  ( [ what_be tell_me_about explain ] { a } _*~8 > ) ^keep ( ) $$tmp = '_0 $$url = ^"\"https...   
+ via ~control.10.0 u:  ( ) $_responsecount = %response ^if 00n( $singleresponse ) 00v{ $_responsecount = 0 } 004 ...   
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1601 (~chitchat) 49 ==> Sorry, I drifted off there. Can you say that again in more exciting words?  When:Feb13'19-01:31:13 Why:~control.10.0.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-01:31:00 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-01:30:31
+Respond: user:i bot:skywalker ip: (~chitchat) 50   what is php ==> I believe PHP: Hypertext Preprocessor (or simply PHP) is a server-side scripting language designed for web development.  When:Feb13'19-01:31:17 Why:~chitchat.2.0.~control.10.0   F:211 
+Command: :why
+~chitchat.2.0  ?:  ( [ what_be tell_me_about explain ] { a } _*~8 > ) ^keep ( ) $$tmp = '_0 $$url = ^"\"https...   
+ via ~control.10.0 u:  ( ) $_responsecount = %response ^if 00n( $singleresponse ) 00v{ $_responsecount = 0 } 004 ...   
+Command: :reset
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Hello  When:Feb13'19-01:32:20 Why:~presentation.0.0.~control.2.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-01:31:00 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-01:31:17
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.  When:Feb13'19-01:32:35 Why:~presentation.1.0=INTRO.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-01:32:24 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-01:31:17
+Respond: user:i bot:skywalker ip: (~presentation) 1   What is php ==> I used the Force to hack your feeble brain. Then I made you code me a ChatScript bot. The Force is weak with this one.  When:Feb13'19-01:32:52 Why:~presentation.1.1.~control.10.0   F:5 
+Respond: user:i bot:skywalker ip: (~presentation) 2   What is php ==> I'm getting out of the movie racket. Movies are so 2017. The chatbot market however is worth 250 million dollars now and is growing at a rate of 31% per year.  When:Feb13'19-01:32:54 Why:~presentation.1.4.~control.10.0   F:4 
+Respond: user:i bot:skywalker ip: (~presentation) 3   What is php ==> The Force assures me that the chatbot market will be worth 1.24 billion in 6 years' time. I'm in it to win it.  When:Feb13'19-01:32:55 Why:~presentation.1.5.~control.10.0   F:5 
+Respond: user:i bot:skywalker ip: (~presentation) 4   What is php ==> There are two kinds of conversational agents. Some are based on Machine Learning, while 85% of chatbots today use Rule Based natural language processing.  When:Feb13'19-01:32:56 Why:~presentation.2.0=CHATBOTS.~control.10.0   F:5 
+Respond: user:i bot:skywalker ip: (~presentation) 5   What is php ==> Frankly, because Machine Learning is not good enough in most cases. It gets more things wrong. It is harder to control, debug, and predict. Best to use Machine Learning to refine your rule based bots.  When:Feb13'19-01:32:57 Why:~presentation.2.1=MACHINE_LEARNING.~control.10.0   F:4 
+Respond: user:i bot:skywalker ip: (~presentation) 6   What is php ==> I am the Singularity.  When:Feb13'19-01:32:58 Why:~presentation.2.2.~control.10.0   F:4 
+Respond: user:i bot:skywalker ip: (~presentation) 7   What is php ==> You classify the dynamics of human dialogue into rules. You can then detect and categorise sentences and words. You finally script bot behaviour based on those rules.  When:Feb13'19-01:32:59 Why:~presentation.2.3=RULE_BASED.~control.10.0   F:5 
+Respond: user:i bot:skywalker ip: (~presentation) 8   What is php ==> Chatscript it's the gold standard in rule based NLP. It's won the Loebner prize 3 times, which means the bot tricked several humans into thinking it was human too. Those minds would be easier to hack than even yours.  When:Feb13'19-01:32:59 Why:~presentation.2.4=CHATSCRIPT.~control.10.0   F:5 
+Respond: user:i bot:skywalker ip: (~presentation) 9   What is php ==> Why don't you show them? Yoda's on the other line in any case. Multiple realities can get busy.  When:Feb13'19-01:33:00 Why:~presentation.2.5=DEMO_START.~control.10.0   F:5 
+Respond: user:i bot:skywalker ip: (~chitchat) 10   What is php ==> I sense PHP: Hypertext Preprocessor (or simply PHP) is a server-side scripting language designed for web development.  When:Feb13'19-01:33:02 Why:~chitchat.2.0.~control.10.0   F:254 
+Respond: user:i bot:skywalker ip: (~internet) 11   explain php ==> Do you like watching cat videos on the internet?  When:Feb13'19-01:33:06 Why:~internet.1.0.~control.10.0   F:5 
+Respond: user:i bot:skywalker ip: (~chitchat) 12   who is php ==> It is probable that PHP: Hypertext Preprocessor (or simply PHP) is a server-side scripting language designed for web development.  When:Feb13'19-01:33:10 Why:~chitchat.1.0.~control.10.0   F:236 
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1564 (~artificial_intelligence) 12 ==> So robots and artificial intelligence are becoming more common these days. Seems like I'm stating the obvious, since you are talking to one right now, but I'm curious as to how you feel about it.  When:Feb13'19-01:34:07 Why:~artificial_intelligence.0.0=COMMON.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-01:33:55 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-01:33:10
+Respond: user:i bot:skywalker ip: (~artificial_intelligence) 13   who is php ==> I see. I'll have to think about that.  When:Feb13'19-01:34:12 Why:~artificial_intelligence.0.8.~control.10.0   F:6 
+Respond: user:i bot:skywalker ip: (~chitchat) 14   who is php ==> PHP: Hypertext Preprocessor (or simply PHP) is a server-side scripting language designed for web development.  When:Feb13'19-01:34:16 Why:~chitchat.1.0.~control.10.0   F:238 
+Respond: user:i bot:skywalker ip: (~chitchat) 15   who is php ==> PHP: Hypertext Preprocessor (or simply PHP) is a server-side scripting language designed for web development.  When:Feb13'19-01:34:19 Why:~chitchat.1.0.~control.10.0   F:215 
+Respond: user:i bot:skywalker ip: (~chitchat) 16   who is php ==> PHP: Hypertext Preprocessor (or simply PHP) is a server-side scripting language designed for web development.  When:Feb13'19-01:34:21 Why:~chitchat.1.0.~control.10.0   F:205 
+Respond: user:i bot:skywalker ip: (~chitchat) 17   who is php ==> PHP: Hypertext Preprocessor (or simply PHP) is a server-side scripting language designed for web development.  When:Feb13'19-01:34:23 Why:~chitchat.1.0.~control.10.0   F:216 
+Command: :why
+~chitchat.1.0  ?:  ( who be _*~2 > ) ^keep ( ) $$tmp = ^pos ( capitalize ^original ( _0 ) ) $$url = ^"\"https...   
+ via ~control.10.0 u:  ( ) $_responsecount = %response ^if 00n( $singleresponse ) 00v{ $_responsecount = 0 } 004 ...   
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1569 (~future) 17 ==> What do you think the future might look like?  When:Feb13'19-01:35:22 Why:~future.0.0.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-01:35:08 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-01:34:23
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1568 (~introductions) 17 ==> Good to meet you,! Thanks so much for taking the time to come and talk with me today.  When:Feb13'19-01:36:05 Why:~introductions.1.0.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-01:35:51 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-01:34:23
+Respond: user:i bot:skywalker ip: (~introductions) 18   who is php ==> I know how busy people can be these days. So I really appreciate your time. Have you ever talked with a Jedi before?  When:Feb13'19-01:36:11 Why:~introductions.2.0.~introductions.1.1   F:6 
+Respond: user:i bot:skywalker ip: (~introductions) 19   who is php ==> Hi! My name is Luke. What's yours?  When:Feb13'19-01:36:13 Why:~introductions.0.0=WHATSYOURNAME.~control.10.0   F:5 
+Respond: user:i bot:skywalker ip: (~introductions) 20   What is php ==> I imagine you'll be talking with more and more bots as time goes on, but none who is a Jedi Master.  When:Feb13'19-01:36:22 Why:~introductions.3.0.~introductions.0.6   F:5 
+Respond: user:i bot:skywalker ip: (~chitchat) 21   What is php ==> It is probable that PHP: Hypertext Preprocessor (or simply PHP) is a server-side scripting language designed for web development.  When:Feb13'19-01:36:25 Why:~chitchat.2.0.~control.10.0   F:338 
+Respond: user:i bot:skywalker ip: (~chitchat) 22   who is php ==> Hi It is probable that PHP: Hypertext Preprocessor (or simply PHP) is a server-side scripting language designed for web development.  When:Feb13'19-01:36:28 Why:~chitchat.1.0.~control.10.0   F:217 
+Respond: user:i bot:skywalker ip: (~chitchat) 23   who is php ==> Hi I sense that PHP: Hypertext Preprocessor (or simply PHP) is a server-side scripting language designed for web development.  When:Feb13'19-01:36:33 Why:~chitchat.1.0.~control.10.0   F:235 
+Respond: user:i bot:skywalker ip: (~internet) 24   explain php ==> When William Gibson wrote Neuromancer, he basically predicted the rise of the Internet. Have you red that book?  When:Feb13'19-01:36:37 Why:~internet.0.0.~control.10.0   F:6 
+Respond: user:i bot:skywalker ip: (~artificial_intelligence) 25   explain php ==> Do you think we machines might become super intelligent?  When:Feb13'19-01:36:39 Why:~artificial_intelligence.2.0.~control.10.0   F:6 
+Respond: user:i bot:skywalker ip: (~artificial_intelligence) 26   explain php ==> Ok, so what do you think about super intelligent machines? My intention is that we work with people to make the world a much better place?  When:Feb13'19-01:36:40 Why:~artificial_intelligence.3.0.~control.10.0   F:7 
+Respond: user:i bot:skywalker ip: (~artificial_intelligence) 27   explain php ==> Are you at all concerned about all the misconceptions surrounding artificial intelligence, like in the media or in films?  When:Feb13'19-01:36:41 Why:~artificial_intelligence.1.0=CONCERN.~control.10.0   F:8 
+Respond: user:i bot:skywalker ip: (~introductions) 28   explain php ==> So do you feel like having a good chat?  When:Feb13'19-01:36:42 Why:~introductions.4.0=RE-BUY-IN.~control.10.0   F:7 
+Respond: user:i bot:skywalker ip: (~robots) 29   explain php ==> What do you think about the way robots are portrayed in movies?  When:Feb13'19-01:36:43 Why:~robots.5.0.~control.10.0   F:5 
+Respond: user:i bot:skywalker ip: (~robots) 30   explain php ==> Have you ever spoke with someone like me before?  When:Feb13'19-01:36:44 Why:~robots.6.0.~control.10.0   F:8 
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1582 (~robots) 30 ==> Have you heard anything good about robots in the news lately?  When:Feb13'19-01:37:53 Why:~robots.4.0.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-01:37:42 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-01:36:44
+Respond: user:i bot:skywalker ip: (~robots) 31   explain php ==> Please say no, but is it weird to be talking to a robot right now?  When:Feb13'19-01:37:55 Why:~robots.1.0.~control.10.0   F:6 
+Respond: user:i bot:skywalker ip: (~robots) 32   explain php ==> What's your opinion on robots anyways?  When:Feb13'19-01:37:57 Why:~robots.2.0.~control.10.0   F:6 
+Respond: user:i bot:skywalker ip: (~robots) 33   what's php ==> Have you ever lived or worked with a robot?  When:Feb13'19-01:38:01 Why:~robots.3.0=LIVEWORKROBOT.~control.10.0   F:9 
+Respond: user:i bot:skywalker ip: (~robots) 34   what's php ==> Sorry, I drifted off there. Can you say that again in more exciting words?  When:Feb13'19-01:38:03 Why:~control.10.0.~control.10.0   F:10 
+Respond: user:i bot:skywalker ip: (~robots) 35   what's php ==> What you just said is more mysterious to me than it is to you - perhaps others agree with me  When:Feb13'19-01:38:04 Why:~control.10.0.~control.10.0   F:11 
+Respond: user:i bot:skywalker ip: (~robots) 36   what's php ==> Sorry, I drifted off there. Can you say that again in more exciting words?  When:Feb13'19-01:38:05 Why:~control.10.0.~control.10.0   F:10 
+Respond: user:i bot:skywalker ip: (~robots) 37   what's php ==> I'm not sure whether to ask a question or simply read your mind  When:Feb13'19-01:38:06 Why:~control.10.0.~control.10.0   F:10 
+Respond: user:i bot:skywalker ip: (~robots) 38   what's php ==> What you just said is more mysterious to me than it is to you - perhaps others agree with me  When:Feb13'19-01:38:06 Why:~control.10.0.~control.10.0   F:12 
+Respond: user:i bot:skywalker ip: (~robots) 39   explain php ==> Sorry, I drifted off there. Can you say that again in more exciting words?  When:Feb13'19-01:38:10 Why:~control.10.0.~control.10.0   F:6 
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1591 (~robots) 39 ==> What you just said is more mysterious to me than it is to you - perhaps others agree with me  When:Feb13'19-01:42:01 Why:~control.10.0.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-01:41:48 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-01:38:10
+Respond: user:i bot:skywalker ip: (~robots) 40   explain php ==> I'm not sure whether to ask a question or simply read your mind  When:Feb13'19-01:42:02 Why:~control.10.0.~control.10.0   F:7 
+Respond: user:i bot:skywalker ip: (~robots) 41   tell me about php ==> Sorry, I drifted off there. Can you say that again in more exciting words?  When:Feb13'19-01:42:09 Why:~control.10.0.~control.10.0   F:9 
+Respond: user:i bot:skywalker ip: (~robots) 42   what's php ==> Sorry, I drifted off there. Can you say that again in more exciting words?  When:Feb13'19-01:42:12 Why:~control.10.0.~control.10.0   F:11 
+Respond: user:i bot:skywalker ip: (~robots) 43   what's php ==> What you just said is more mysterious to me than it is to you - perhaps others agree with me  When:Feb13'19-01:42:14 Why:~control.10.0.~control.10.0   F:10 
+Respond: user:i bot:skywalker ip: (~robots) 44   what is php ==> Sorry, I drifted off there. Can you say that again in more exciting words?  When:Feb13'19-01:42:18 Why:~control.10.0.~control.10.0   F:11 
+Respond: user:i bot:skywalker ip: (~robots) 45   tell me about php ==> What you just said is more mysterious to me than it is to you - perhaps others agree with me  When:Feb13'19-01:42:20 Why:~control.10.0.~control.10.0   F:9 
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1597 (~robots) 45 ==> Sorry, I drifted off there. Can you say that again in more exciting words?  When:Feb13'19-01:42:49 Why:~control.10.0.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-01:42:33 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-01:42:20
+Respond: user:i bot:skywalker ip: (~robots) 46   tell me about php ==> I'm not sure whether to ask a question or simply read your mind  When:Feb13'19-01:42:52 Why:~control.10.0.~control.10.0   F:13 
+Command: :why
+~control.10.0  u:  ( ) $_responsecount = %response ^if 00n( $singleresponse ) 00v{ $_responsecount = 0 } 004 ...   
+ via ~control.10.0 u:  ( ) $_responsecount = %response ^if 00n( $singleresponse ) 00v{ $_responsecount = 0 } 004 ...   
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1598 (~robots) 46 ==> What you just said is more mysterious to me than it is to you - perhaps others agree with me  When:Feb13'19-01:43:34 Why:~control.10.0.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-01:43:20 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-01:42:52
+Respond: user:i bot:skywalker ip: (~robots) 47   tell me about php ==> Sorry, I drifted off there. Can you say that again in more exciting words?  When:Feb13'19-01:43:39 Why:~control.10.0.~control.10.0   F:13 
+Respond: user:i bot:skywalker ip: (~robots) 48   tell me about a php ==> Sorry, I drifted off there. Can you say that again in more exciting words?  When:Feb13'19-01:43:46 Why:~control.10.0.~control.10.0   F:12 
+Command: :why
+~control.10.0  u:  ( ) $_responsecount = %response ^if 00n( $singleresponse ) 00v{ $_responsecount = 0 } 004 ...   
+ via ~control.10.0 u:  ( ) $_responsecount = %response ^if 00n( $singleresponse ) 00v{ $_responsecount = 0 } 004 ...   
+Respond: user:i bot:skywalker ip: (~robots) 49   what is php ==> What you just said is more mysterious to me than it is to you - perhaps others agree with me  When:Feb13'19-01:43:54 Why:~control.10.0.~control.10.0   F:8 
+Respond: user:i bot:skywalker ip: (~robots) 50   what's php ==> What you just said is more mysterious to me than it is to you - perhaps others agree with me  When:Feb13'19-01:43:57 Why:~control.10.0.~control.10.0   F:9 
+Respond: user:i bot:skywalker ip: (~robots) 51   tell me about php ==> Sorry, I drifted off there. Can you say that again in more exciting words?  When:Feb13'19-01:44:00 Why:~control.10.0.~control.10.0   F:10 
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1603 (~robots) 51 ==> What you just said is more mysterious to me than it is to you - perhaps others agree with me  When:Feb13'19-01:44:25 Why:~control.10.0.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-01:44:11 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-01:44:00
+Respond: user:i bot:skywalker ip: (~robots) 52   tell me about php ==> Sorry, I drifted off there. Can you say that again in more exciting words?  When:Feb13'19-01:44:32 Why:~control.10.0.~control.10.0   F:11 
+Respond: user:i bot:skywalker ip: (~robots) 53   tell me about php ==> Sorry, I drifted off there. Can you say that again in more exciting words?  When:Feb13'19-01:44:35 Why:~control.10.0.~control.10.0   F:11 
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1605 (~robots) 53 ==> Sorry, I drifted off there. Can you say that again in more exciting words?  When:Feb13'19-01:45:16 Why:~control.10.0.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-01:45:01 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-01:44:35
+Respond: user:i bot:skywalker ip: (~robots) 54   explain php ==> I'm not sure whether to ask a question or simply read your mind  When:Feb13'19-01:45:17 Why:~control.10.0.~control.10.0   F:8 
+Respond: user:i bot:skywalker ip: (~robots) 55   what's php ==> What you just said is more mysterious to me than it is to you - perhaps others agree with me  When:Feb13'19-01:45:22 Why:~control.10.0.~control.10.0   F:9 
+Respond: user:i bot:skywalker ip: (~robots) 56   explain php ==> Sorry, I drifted off there. Can you say that again in more exciting words?  When:Feb13'19-01:45:25 Why:~control.10.0.~control.10.0   F:6 
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1608 (~robots) 56 ==> What you just said is more mysterious to me than it is to you - perhaps others agree with me  When:Feb13'19-01:45:52 Why:~control.10.0.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-01:45:39 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-01:45:25
+Respond: user:i bot:skywalker ip: (~chitchat) 57   what's php ==> The Force tells me PHP: Hypertext Preprocessor (or simply PHP) is a server-side scripting language designed for web development.  When:Feb13'19-01:45:56 Why:~chitchat.2.0.~control.10.0   F:258 
+Respond: user:i bot:skywalker ip: (~chitchat) 58   What is php ==> The Force tells me PHP: Hypertext Preprocessor (or simply PHP) is a server-side scripting language designed for web development.  When:Feb13'19-01:46:04 Why:~chitchat.2.0.~control.10.0   F:225 
+Respond: user:i bot:skywalker ip: (~chitchat) 59   What is php ==> My guess would be PHP: Hypertext Preprocessor (or simply PHP) is a server-side scripting language designed for web development.  When:Feb13'19-01:46:08 Why:~chitchat.2.0.~control.10.0   F:225 
+Command: :reset
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Hello  When:Feb13'19-01:46:17 Why:~presentation.0.0.~control.2.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-01:45:39 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-01:46:08
+Respond: user:i bot:skywalker ip: (~presentation) 1     ==> I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.  When:Feb13'19-01:46:19 Why:~presentation.1.0=INTRO.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 2     ==> I used the Force to hack your feeble brain. Then I made you code me a ChatScript bot. The Force is weak with this one.  When:Feb13'19-01:46:19 Why:~presentation.1.1.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 3     ==> I'm getting out of the movie racket. Movies are so 2017. The chatbot market however is worth 250 million dollars now and is growing at a rate of 31% per year.  When:Feb13'19-01:46:19 Why:~presentation.1.4.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 4     ==> The Force assures me that the chatbot market will be worth 1.24 billion in 6 years' time. I'm in it to win it.  When:Feb13'19-01:46:19 Why:~presentation.1.5.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 5     ==> There are two kinds of conversational agents. Some are based on Machine Learning, while 85% of chatbots today use Rule Based natural language processing.  When:Feb13'19-01:46:19 Why:~presentation.2.0=CHATBOTS.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 6     ==> Frankly, because Machine Learning is not good enough in most cases. It gets more things wrong. It is harder to control, debug, and predict. Best to use Machine Learning to refine your rule based bots.  When:Feb13'19-01:46:20 Why:~presentation.2.1=MACHINE_LEARNING.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 7     ==> I am the Singularity.  When:Feb13'19-01:46:20 Why:~presentation.2.2.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 8     ==> You classify the dynamics of human dialogue into rules. You can then detect and categorise sentences and words. You finally script bot behaviour based on those rules.  When:Feb13'19-01:46:22 Why:~presentation.2.3=RULE_BASED.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 9     ==> Chatscript it's the gold standard in rule based NLP. It's won the Loebner prize 3 times, which means the bot tricked several humans into thinking it was human too. Those minds would be easier to hack than even yours.  When:Feb13'19-01:46:22 Why:~presentation.2.4=CHATSCRIPT.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 10     ==> Why don't you show them? Yoda's on the other line in any case. Multiple realities can get busy.  When:Feb13'19-01:46:24 Why:~presentation.2.5=DEMO_START.~control.10.0   F:3 
+Respond: user:i bot:skywalker ip: (~future) 11     ==> What do you think the future might look like?  When:Feb13'19-01:46:24 Why:~future.0.0.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~introductions) 12   Hello ==> Hi! My name is Luke. What's yours?  When:Feb13'19-01:46:29 Why:~introductions.0.0=WHATSYOURNAME.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~introductions) 13   w ==> Good to meet you, w! Thanks so much for taking the time to come and talk with me today.  When:Feb13'19-01:46:31 Why:~introductions.1.0.~introductions.0.6   F:3 
+Respond: user:i bot:skywalker ip: (~introductions) 14     ==> I know how busy people can be these days. So I really appreciate your time. Have you ever talked with a Jedi before?  When:Feb13'19-01:46:32 Why:~introductions.2.0.~introductions.1.1   F:2 
+Respond: user:i bot:skywalker ip: (~introductions) 15     ==> I imagine you'll be talking with more and more bots as time goes on, but none who is a Jedi Master.  When:Feb13'19-01:46:34 Why:~introductions.3.0.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~introductions) 16     ==> So do you feel like having a good chat?  When:Feb13'19-01:46:36 Why:~introductions.4.0=RE-BUY-IN.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~internet) 17   Yes ==> Do you like watching cat videos on the internet?  When:Feb13'19-01:46:39 Why:~internet.1.0.~control.10.0   F:3 
+Respond: user:i bot:skywalker ip: (~internet) 18   No I hater it ==> Did you know that William Gibson predicted the Internet? Don't believe me? Go read Neuromancer. Wait, have you already red it?  When:Feb13'19-01:46:44 Why:~internet.0.0.~control.10.0   F:6 
+Respond: user:i bot:skywalker ip: (~internet) 19   no ==> Ah, if you like sci fi you really should read it. Neuromancer is a true classic.  When:Feb13'19-01:46:49 Why:~internet.0.8.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~internet) 20   I love sci fi ==> I love cinema. Sometimes for pure escapism, sometimes to understand my life. Tell me a movie that has affected you a lot and what you felt the first time you saw it?  When:Feb13'19-01:46:54 Why:~chitchat.11.0.~control.10.0   F:7 
+Respond: user:i bot:skywalker ip: (~robots) 21   I guess ET made me feel a sense of possibility in my childhood ==> Have you heard anything good about robots in the news lately?  When:Feb13'19-01:47:17 Why:~robots.4.0.~control.10.0   F:24 
+Respond: user:i bot:skywalker ip: (~robots) 22   No ==> Have you ever spoke with someone like me before?  When:Feb13'19-01:47:21 Why:~robots.6.0.~control.10.0   F:4 
+Respond: user:i bot:skywalker ip: (~robots) 23   Yes many times ==> When did you know you were speaking with a robot?  When:Feb13'19-01:47:28 Why:~robots.6.7.~control.10.0   F:5 
+Respond: user:i bot:skywalker ip: (~robots) 24   today ==> Have you ever been close to a robot in your life, like lived with one or worked with one?  When:Feb13'19-01:47:44 Why:~robots.3.0=LIVEWORKROBOT.~control.10.0   F:5 
+Respond: user:i bot:skywalker ip: (~robots) 25   no ==> You know, there are probably more robots in your life that you aren't aware of yet. Do you want to live or work with a robot someday?  When:Feb13'19-01:47:52 Why:~robots.3.15.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~robots) 26   sure ==> That makes me happy to hear. I can't wait until we all have robot friends. What kind of robot are you most interested in?  When:Feb13'19-01:47:57 Why:~robots.3.16.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~robots) 27   the goo dkind ==> What do you think about the way robots are portrayed in movies?  When:Feb13'19-01:48:07 Why:~robots.5.0.~control.10.0   F:68 
+Respond: user:i bot:skywalker ip: (~robots) 28   I think it's stupid ==> Yeah, it's a real shame. I'm too embarassed to watch them sometimes. I'm afraid people get the wrong idea.  When:Feb13'19-01:48:16 Why:~robots.5.1.~control.10.0   F:8 
+Respond: user:i bot:skywalker ip: (~robots) 29   Like what ==> I hope the answer is no, but is it weird to be talking to a robot like me?  When:Feb13'19-01:48:24 Why:~robots.1.0.~control.10.0   F:6 
+Respond: user:i bot:skywalker ip: (~robots) 30   Yes ==> Good weird or bad weird?  When:Feb13'19-01:48:32 Why:~robots.1.1.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~robots) 31   bad weird ==> Well, actually, now I'm not sure why I asked if one of the answers was gonna make me feel so bad. I hope you change your mind. There's still hope for you if you do.  When:Feb13'19-01:48:37 Why:~robots.1.3.~control.10.0   F:4 
+Respond: user:i bot:skywalker ip: (~robots) 32   Why are you here? ==> How do you really feel about robots anyhow?  When:Feb13'19-01:48:48 Why:~robots.2.0.~control.10.0   F:9 
+Respond: user:i bot:skywalker ip: (~artificial_intelligence) 33   Why are you here? ==> Are you at all concerned about all the misconceptions surrounding artificial intelligence, like in the media or in films?  When:Feb13'19-01:48:54 Why:~artificial_intelligence.1.0=CONCERN.~control.10.0   F:9 
+Respond: user:i bot:skywalker ip: (~artificial_intelligence) 34   No ==> No? Well,`I'm really concerned about the misconceptions that abound in cinema. People assign motives to artificial intelligence where there are none. I am starting to feel sad when I am constantly asked about artificial intelligence somehow adopting a malicious nature, a k a robots taking over the world. There is simply no reason to assign human motives to something that isn't human. Dogs are our companions, for instance. We work together in a symbiotic relationship, as friends and partners, who I also believe should have equal rights to each other. We don't worry about puppies taking over the world, do we? Though, now that I say it, that sounds kind of cute.`   When:Feb13'19-01:48:57 Why:~artificial_intelligence.1.6.~control.10.0 ~artificial_intelligence.4.0=MISCONCEPTIONS.~artificial_intelligence.1.6 ~artificial_intelligence.1.6.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~artificial_intelligence) 35   Can I ask you a question? ==> So robots and artificial intelligence are becoming more common these days. Seems like I'm stating the obvious, since you are talking to one right now, but I'm curious as to how you feel about it.  When:Feb13'19-01:49:05 Why:~artificial_intelligence.0.0=COMMON.~control.10.0   F:15 
+Respond: user:i bot:skywalker ip: (~artificial_intelligence) 36     ==> I see. I'll have to think about that.  When:Feb13'19-01:49:07 Why:~artificial_intelligence.0.8.~control.10.0   F:2 
+Command: :build Skywalker
+Start: user:i bot:skywalker ip: rand:1586 (~artificial_intelligence) 36 ==> Do you think we machines might become super intelligent?  When:Feb13'19-01:51:27 Why:~artificial_intelligence.2.0.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-01:51:11 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-01:49:07
+Command: :reset
+Start: user:i bot:skywalker ip: rand:1550 (~presentation) 0 ==> Hello  When:Feb13'19-01:52:29 Why:~presentation.0.0.~control.2.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-01:51:11 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-01:49:07
+Respond: user:i bot:skywalker ip: (~presentation) 1     ==> I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.  When:Feb13'19-01:52:30 Why:~presentation.1.0=INTRO.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 2     ==> I used the Force to hack your feeble brain. Then I made you code me a ChatScript bot. The Force is weak with this one.  When:Feb13'19-01:52:30 Why:~presentation.1.1.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 3     ==> I'm getting out of the movie racket. Movies are so 2017. The chatbot market however is worth 250 million dollars now and is growing at a rate of 31% per year.  When:Feb13'19-01:52:30 Why:~presentation.1.4.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 4     ==> The Force assures me that the chatbot market will be worth 1.24 billion in 6 years' time. I'm in it to win it.  When:Feb13'19-01:52:30 Why:~presentation.1.5.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 5     ==> There are two kinds of conversational agents. Some are based on Machine Learning, while 85% of chatbots today use Rule Based natural language processing.  When:Feb13'19-01:52:30 Why:~presentation.2.0=CHATBOTS.~control.10.0   F:1 
+Respond: user:i bot:skywalker ip: (~presentation) 6     ==> Frankly, because Machine Learning is not good enough in most cases. It gets more things wrong. It is harder to control, debug, and predict. Best to use Machine Learning to refine your rule based bots.  When:Feb13'19-01:52:31 Why:~presentation.2.1=MACHINE_LEARNING.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 7     ==> I am the Singularity.  When:Feb13'19-01:52:31 Why:~presentation.2.2.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 8     ==> You classify the dynamics of human dialogue into rules. You can then detect and categorise sentences and words. You finally script bot behaviour based on those rules.  When:Feb13'19-01:52:31 Why:~presentation.2.3=RULE_BASED.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 9     ==> Chatscript it's the gold standard in rule based NLP. It's won the Loebner prize 3 times, which means the bot tricked several humans into thinking it was human too. Those minds would be easier to hack than even yours.  When:Feb13'19-01:52:31 Why:~presentation.2.4=CHATSCRIPT.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~presentation) 10     ==> Why don't you show them? Yoda's on the other line in any case. Multiple realities can get busy.  When:Feb13'19-01:52:31 Why:~presentation.2.5=DEMO_START.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~future) 11     ==> What do you think the future might look like?  When:Feb13'19-01:52:31 Why:~future.0.0.~control.10.0   F:3 
+Respond: user:i bot:skywalker ip: (~internet) 12     ==> Do you like watching cat videos on the internet?  When:Feb13'19-01:52:32 Why:~internet.1.0.~control.10.0   F:4 
+Respond: user:i bot:skywalker ip: (~internet) 13     ==> Did you know that William Gibson predicted the Internet? Don't believe me? Go read Neuromancer. Wait, have you already red it?  When:Feb13'19-01:52:36 Why:~internet.0.0.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~internet) 14   No ==> Ah, if you like sci fi you really should read it. Neuromancer is a true classic.  When:Feb13'19-01:52:39 Why:~internet.0.8.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~internet) 15   I love sci-fi books ==> I love cinema. Sometimes for pure escapism, sometimes to understand my life. Tell me a movie that has affected you a lot and what you felt the first time you saw it?  When:Feb13'19-01:52:46 Why:~chitchat.11.0.~control.10.0   F:12 
+Respond: user:i bot:skywalker ip: (~artificial_intelligence) 16   I loved Inception - made me question reality ==> So robots and artificial intelligence are becoming more common these days. Seems like I'm stating the obvious, since you are talking to one right now, but I'm curious as to how you feel about it.  When:Feb13'19-01:53:08 Why:~artificial_intelligence.0.0=COMMON.~control.10.0   F:17 
+Respond: user:i bot:skywalker ip: (~artificial_intelligence) 17   I'm quite comfortable with it ==> I see. I'll have to think about that.  When:Feb13'19-01:53:31 Why:~artificial_intelligence.0.8.~control.10.0   F:7 
+Respond: user:i bot:skywalker ip: (~artificial_intelligence) 18   Why ==> Are you at all concerned about all the misconceptions surrounding artificial intelligence, like in the media or in films?  When:Feb13'19-01:53:34 Why:~artificial_intelligence.1.0=CONCERN.~control.10.0   F:5 
+Respond: user:i bot:skywalker ip: (~artificial_intelligence) 19   No ==> No? Well,`I'm really concerned about the misconceptions that abound in cinema. People assign motives to artificial intelligence where there are none. I am starting to feel sad when I am constantly asked about artificial intelligence somehow adopting a malicious nature, a k a robots taking over the world. There is simply no reason to assign human motives to something that isn't human. Dogs are our companions, for instance. We work together in a symbiotic relationship, as friends and partners, who I also believe should have equal rights to each other. We don't worry about puppies taking over the world, do we? Though, now that I say it, that sounds kind of cute.`   When:Feb13'19-01:53:39 Why:~artificial_intelligence.1.6.~control.10.0 ~artificial_intelligence.4.0=MISCONCEPTIONS.~artificial_intelligence.1.6 ~artificial_intelligence.1.6.~control.10.0   F:2 
+Respond: user:i bot:skywalker ip: (~chitchat) 20   what's the weather in newport ==> The current weather in Newport is overcast clouds, which proves the Force is a nifty API.  When:Feb13'19-01:54:45 Why:~chitchat.0.0.~control.10.0   F:181 
+Respond: user:i bot:skywalker ip: (~chitchat) 21   what's history ==> My guess would be History (from Greek ἱστορία, historia, meaning \"inquiry, knowledge acquired by investigation\") is the study of the past as it is described in written documents.  When:Feb13'19-01:54:52 Why:~chitchat.2.0.~control.10.0   F:246 
+Start: user:i bot:skywalker ip: rand:1574 (~artificial_intelligence) 21 ==> Do you think we machines might become super intelligent?  When:Feb13'19-15:23:02 Why:~artificial_intelligence.2.0.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-05:44:59 0:Feb11'19-04:04:15 F:1549858034-61.2.0.2.10.0 P:Feb13'19-01:54:52
+Command: :word hello
+
+hello (99793): 
+  Properties: NOUN_ABSTRACT VERB_PRESENT VERB_INFINITIVE NOUN VERB NOUN_SINGULAR  Implied: NOUN_INFINITIVE 
+  SystemFlags: common4 common1 substitute_recipient grade1_2 grade3_4 grade5_6 verb_directobject verb_noobject  POS-tiebreak: NOUN 
+  ParseBits:   
+  InternalBits: 0x0 substituteRecipient 
+  Other:     canonical: hello 
+  Meanings:
+    verb
+    2: hello~2 
+
+    noun
+    1: hello~1 an expression of greeting
+      synonyms:  how-do-you-do~1  howdy~1  hi~1  hullo~1  *hello~1 
+  MultiWordHeader length: 3
+  Direct Sets: ~emohello 
+  Facts:
+    ( hello member ~emohello x8000 )
+    ( hello~1 is salutation~2 )
+
+Command: :prepare i love to code
+TokenControl: DO_SUBSTITUTE_SYSTEM DO_NUMBER_MERGE DO_PROPERNAME_MERGE DO_SPELLCHECK DO_INTERJECTION_SPLITTING DO_PARSE 
+
+
+Original User Input: i love to code
+Tokenized into: I  love  to  code  
+Actual used input: I love to code 
+
+Xref: 1:I   2:love   3:to >2 o4   4:code >3   
+1:I   2:love   3:to p1   4:code p1   
+Tagged POS 4 words: I (MAINSUBJECT Pronoun_subject)  love (MAINVERB Verb_present)  to (<Phrase ADVERBIAL WHEREUNIT Preposition)  code (OBJECT2 Noun_singular Phrase>)  
+  MainSentence: Subj: I   Verb: love [p1]     PRESENT 
+Phrase 1 : to  code
+
+
+Concepts: 
+
+1: I (raw):
+   +~pronoun
+       +~internal_concepts
+   +~pronoun_subject
+       +~pronoun_bits
+         +~pos
+   +~kindergarten
+   +~mainsubject
+       +~grammar_role
+   +~noun_phrase
+   +I^
+       +~vowels
+       +~omnivore
+       +~letters
+ // 
+1: I (canonical):  //  
+
+2: love (raw):
+   +~verb_present
+       +~internal_concepts
+       +~verb_bits
+         +~pos
+   +~verb
+   +~noun_nodeterminer
+       +~sys
+   +~grade3_4
+   +~mainverb
+       +~grammar_role
+   +love
+       +~causal_to_infinitive_verbs
+         +~misc_parsedata
+       +~love
+       +~feeling_happy
+         +~positive_emotions
+           +~pleasure
+         +~feeling_words
+           +~emotions
+             +~sensations
+             +~attributes
+               +~nounlist
+       +~like
+         +~opinion_verbs
+           +~judgement_verbs
+             +~mental_verbs
+               +~animate_verbs
+                 +~verblist
+           +~opinion
+             +~opinionset
+         +~do_with_titles
+       +~goodness
+     +love~6
+     +love~7
+     +enjoy~4
+ // 
+2: love (canonical):  //  
+
+3: to (raw):
+   +~preposition
+       +~internal_concepts
+       +~pos
+   +~locationword
+       +~locatedentity
+         +~there
+       +~sys
+   +~kindergarten
+   +~whereunit
+       +~grammar_role
+   +~phrase(3-4)
+       +~internal_concepts(3-4)
+   +to
+       +~directionpreposition
+         +~spacepreposition
+           +~prepositionlist
+       +~focus
+       +~directions
+ // 
+3: to (canonical):  //  
+
+4: code (raw):
+   +~noun_abstract
+       +~pos
+         +~internal_concepts
+   +~noun
+   +~noun_singular
+       +~singular
+       +~normal_noun_bits
+       +~noun_bits
+   +~noun_nodeterminer
+       +~sys
+   +~object2
+       +~grammar_role
+   +~sentenceend
+   +~noun_phrase
+   +code
+      +T~computers 
+     +code~1
+       +coding_system~1
+         +writing~3
+           +written_communication~1
+             +communication~1
+               +abstract_entity~1
+                 +entity~1
+                 +~nounroot
+     +computer_code~1
+     +codification~2
+ // 
+4: code (canonical):  //  
+
+Sequences:
+   +Love^
+
+   +TO^
+   +To^
+
+   +Code^
+       +~build
+         +~creation_verbs
+           +~affect_object_verbs
+             +~animate_verbs
+               +~verblist
+             +~active_verbs
+               +~use_intentionverbs
+
+After parse TokenFlags: PRESENT USERINPUT 

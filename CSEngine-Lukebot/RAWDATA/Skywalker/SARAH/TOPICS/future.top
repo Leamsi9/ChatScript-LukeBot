@@ -1,10 +1,10 @@
 	topic: ~future ( future futuristic forecast foretell predict prediction post_modern_world transhuman trans_human transhumanist transhumanism World_Transhumanism_Association freedom free flying_cars year)
 
-# r: I wonder what the limits of human potential are?
+# t: I wonder what the limits of human potential are?
 # 	a: (~why) Because I like to think about the future.
 # 	a: (your limits) Endless. My limits are endless.
 
-r: What do you think the future might look like?
+t: What do you think the future might look like?
 	a: (~why) I like to [prospect][ponder][daydream] about the future, and I'm curious what you think about it.
 	a: ([warm hot boiling boil solar greenhouse hole UV exposure climate]) [That's starting to sound more and more likely.][It does make me nervous that every year is hotter than the last.]
 	a: (Paris [Climate Agreement Accord]) I believe almost every country except a few agreed with the Paris Climate Accord. Nicaragua, Syria, and now the executive branch of the United States wants to drop out.

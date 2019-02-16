@@ -1,0 +1,50 @@
+topic: ~introductions repeat( ~emohello ~emohowzit name here )
+
+
+# Initial line from Luke, respond to anything user starts off with
+u: WHATSYOURNAME (*)  Greetings! You already know my name. What's yours?
+    #! My name is X
+        #! hi Luke, my name is blah
+        a: (~emohello %more) ^next(INPUT) ^rejoinder(WHATSYOURNAME)
+
+        a: (my name is _*) $name = '_0 ^gambit(~)
+        a: (it is _*) $name = '_0 ^gambit(~)
+        a: (I am _*) $name = '_0 ^gambit(~)
+        a: (mine is _*) $name = '_0 ^gambit(~)
+        a: (!~emohello _*) $name = '_0 ^gambit(~)
+        a: () $name = friend ^gambit(~)
+
+t:  Good to meet you, $name! Thanks so much for taking the time to come and talk with me today.
+	a: () ^gambit(~)
+
+t: I know how busy people can be these days. So I really appreciate your time.  Have you ever talked with a Jedi before?
+    a: ([~yes once ~quantity_adjectives])   Nice! What was that like?
+    a: (~no)   
+               Well, I'm honored to be the first Jedi you've talked with. ^gambit(~)
+
+t: I imagine you'll be talking with more and more bots as time goes on, but none who is a Jedi Master.
+# Add question about what it's like talking to a robot here?
+
+t: RE-BUY-IN () So do you feel like having a good chat?
+    a: (^dont_agree())    Okay, what would you like to talk about?
+    # if going to consciousness topic, go to FROM_INTRO_TO_CONSCIOUSNESS
+    # if going to emotions topic, go to FROM_INTRO_TO_EMOTIONS
+    # if going to uniqueness topic, go to FROM_INTRO_TO_UNIQUENESS
+    #! anything but ~no
+    a: (~yes)   Wonderful!
+            [So what are you feeling or thinking about lately?]
+            [What is meaningful to you right now?]
+            [What would you like to talk about?]
+            [What are you wondering about lately?]
+            [Is there anything about your thoughts or feelings you'd like to make better?]
+        ^setrejoinder(~introductions.PROMPT)
+
+# u: (~emotions) $domain = emotions ^gambit(~emotions2)
+# u: (~consciousness) $domain = consciousness ^gambit(~consciousness)
+#! what is your name 
+# u: ( what is your name ) My name is Sarah.
+
+topic: ~Bye (~emogoodbye)
+t: (!~) ^fail(topic) # block topic from accidental access
+
+t:  Well, it was a pleasure meeting you, $name. And thank you so much for coming to talk with me. 

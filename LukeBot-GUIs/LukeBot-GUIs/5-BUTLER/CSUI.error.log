@@ -1,0 +1,3 @@
+[02-Feb-2019 22:50:50 Europe/Berlin] PHP Warning:  fsockopen(): unable to connect to 35.165.158.84:1024 (A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+) in C:\Users\Ismael\Documents\Programming\XAMPP\htdocs\LukeBot\LukeBot-GUIs\5-BUTLER\ui.php on line 54
+[02-Feb-2019 22:50:50 Europe/Berlin] PHP Fatal error:  Error opening socket in C:\Users\Ismael\Documents\Programming\XAMPP\htdocs\LukeBot\LukeBot-GUIs\5-BUTLER\ui.php on line 56

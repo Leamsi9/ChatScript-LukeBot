@@ -1,0 +1,24 @@
+﻿USERS/topic_why_skywalker.txt
+jul2116 Feb13'19-03:02:14 0 0 |
+1 0 0 DY 0 38 38 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~presentation #pending
+~presentation + 1 OI?Ti ia 0 0 0 
+#`end topics
+$botprompt=Luke: 
+$userprompt=why: >
+$cs_control_post=~xpostprocess
+$cs_control_pre=~pre_control
+$cs_control_main=~control
+$cs_login=Why
+$cs_bot=Skywalker
+$cs_randindex=2813
+$cs_trace=0
+$cs_time=0
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+#`end user
+ Hello
+#`end chatbot

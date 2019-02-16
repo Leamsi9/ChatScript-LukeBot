@@ -1,0 +1,61 @@
+USERS/topic_ismael_skywalker.txt
+jul2116 Feb11'19-17:58:41 Feb13'19-19:45:01 1549908810-6.0.0.2.10.0 |
+11 16 0 DY 0 38 38 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~presentation ~introductions ~chitchat #pending
+~presentation + 1 Sl?m9 oa a 0 0 
+~introductions + 1 -%xqF pi e 0 0 
+#`end topics
+$name=what is the weather in Bristol
+$cs_randindex=32
+$cs_bot=Skywalker
+$cs_login=Ismael
+$cs_control_main=~control
+$cs_control_pre=~pre_control
+$cs_control_post=~xpostprocess
+$userprompt=%uset: >
+$botprompt=Luke: 
+$cs_trace=0
+$cs_time=0
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context ~introductions 13 WHATSYOURNAME 
+ Sonya say welcome Luke
+ your how are you even here now
+ George Lucas is Bray
+ so you&#39;re getting in early
+ tablets work how do they work what are they about
+ so why so few using machine learning
+ the new danger of the singularity come here
+ tell me more about rule-based chocolates than if there are the main ones
+ what about cats before they start fitting today
+ what is the a good time to show people house at Screwfix
+ Rob says for me to carry on
+ not really
+ what is the weather in Bristol
+ what&#39;s the weather in Bristol
+ what is the weather in Bristol
+ who is John Lennon
+#`end user
+ Hello
+ I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.
+ I used the Force to hack your feeble brain. Then I made you code me a ChatScript bot. The Force is weak with this one.
+ George's brain is cleverer than yours. Plus the chatbot market is worth 250 million dollars now and is growing at a rate of 31% per year.
+ The Force assures me that the chatbot market will be worth 1.24 billion in 6 years' time. I'm in it to win it. Also, R2D2 made me really love robots. Now I am one too.
+ There are two kinds of conversational agents. Some are based on Machine Learning, while 85% of chatbots today use Rule Based natural language processing.
+ Frankly, because Machine Learning is not good enough in most cases. It gets more things wrong. It is harder to control, debug, and predict. Best to use Machine Learning to refine your rule based bots
+ I am the Singularity.
+ You classify the dynamics of human dialogue into rules. You can then detect and categorise sentences and words. You finally script bot behaviour based on those rules.
+ Chatscript it's the gold standard in rule based NLP. It's won the Loebner prize 3 times, which means the bot tricked several humans into thinking it was human too. Those minds would be easier to hack
+ Why don't you show them? Yoda's on the other line in any case. Multiple realities can get busy.
+ Good to meet you,! Thanks so much for taking the time to come and talk with me today.
+ I know how busy people can be these days. So I really appreciate your time. Have you ever talked with a Jedi before?
+ Well, I'm honored to be the first Jedi you've talked with. 
+ I imagine you'll be talking with more and more bots as time goes on, but none who is a Jedi Master.
+  
+ Greetings! You already know my name. What's yours?
+ So do you feel like having a good chat?
+ The current weather in Bristol is few clouds, which proves the Force is a nifty API.
+ The Force tells me John Winston Ono Lennon  (9 October 1940 – 8 December 1980) was an English singer, songwriter, and peace activist who co-founded the Beatles, the most commercially successful ban
+#`end chatbot

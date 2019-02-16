@@ -6,7 +6,7 @@ outputmacro: test()
 $cs_control_main = ~control
 $cs_language = english
 $cs_externaltag = ~xPOSTAGSENTENCE 
-$userprompt = ^"%user: >"
+$userprompt = ^"%uset: >"
 $botprompt = ^"TEST: "
 $cs_token = #NO_HYPHEN_END | #DO_INTERJECTION_SPLITTING  | #DO_SUBSTITUTE_SYSTEM   | #DO_NUMBER_MERGE | #DO_DATE_MERGE  
 

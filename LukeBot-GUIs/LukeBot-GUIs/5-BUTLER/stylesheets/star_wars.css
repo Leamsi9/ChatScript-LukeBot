@@ -1,0 +1,29 @@
+#responseHolder {
+    position: relative;
+    width: 19em;
+    height: 18em;
+    bottom: 816px;
+    left: 47%;
+    margin-left: -9em;
+    font-size: 350%;
+    font-weight: bold;
+    text-align: justify;
+    overflow: hidden;
+    transform-origin: 50% 100%;
+    transform: perspective(300px) rotateX(25deg);
+    background: black;
+    color: gold;
+}
+
+#responseContent {
+    position: absolute;
+    top: 100%;
+    animation: scroll 100s linear 2s;
+    color:gold;
+    padding: 10px;
+}
+
+@keyframes scroll {
+    100% { top: 300%; }
+    100% { top: -170%; }
+}

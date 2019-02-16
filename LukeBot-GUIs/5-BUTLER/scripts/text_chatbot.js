@@ -1,22 +1,22 @@
 
 
-let botName = 'Luke';    // change this to your bot name
+var botName = 'Luke';    // change this to your bot name
 // declare timer variables
-let alarm = null;
-let callback = null;
-let loopback = null;
+var alarm = null;
+var callback = null;
+var loopback = null;
 $(function(){
     $('#frmChat').submit(function(e){
         // this function overrides the form's submit() method, allowing us to use AJAX calls to communicate with the ChatScript server
         e.preventDefault();  // Prevent the default submit() method
-        let name = $('#txtUser').val();
+        var name = $('#txtUser').val();
         if (name == "") {
             alert('Please provide your name.');
             document.getElementById('txtUser').focus();
         }
-        let youSaid = '<strong style="color: darkgoldenrod">' + name + ': ' +  $('#txtMessage').val() + '</strong> ' + "<br>\n";
+        var youSaid = '<strong style="color: darkgoldenrod">' + name + ': ' +  $('#txtMessage').val() + '</strong> ' + "<br>\n";
         update(youSaid);
-        let data = $(this).serialize();
+        var data = $(this).serialize();
         sendMessage(data);
         $('#txtMessage').val('').focus();
     });
@@ -42,8 +42,8 @@ function sendMessage(data){ //Sends inputs to the ChatScript server, and returns
     });
 }
 function parseCommands(response){ // Response is data from CS server. This processes OOB commands sent from the CS server returning the remaining response w/o oob commands
-    let len  = response.length;
-    let i = -1;
+    var len  = response.length;
+    var i = -1;
     while (++i < len )
     {
         if (response.charAt(i) == ' ' || response.charAt(i) == '\t') continue; // starting whitespace
@@ -51,22 +51,22 @@ function parseCommands(response){ // Response is data from CS server. This proce
         return response;            // there is no oob data
     }
     if ( i == len) return response; // no starter found
-    let user = $('#txtUser').val();
+    var user = $('#txtUser').val();
 
     // walk string to find oob data and when ended return rest of string
-    let start = 0;
+    var start = 0;
     while (++i < len )
     {
         if (response.charAt(i) == ' ' || response.charAt(i) == ']') // separation
         {
             if (start != 0) // new oob chunk
             {
-                let blob = response.slice(start,i);
+                var blob = response.slice(start,i);
                 start = 0;
-                let commandArr = blob.split('=');
+                var commandArr = blob.split('=');
                 if (commandArr.length == 1) continue; // failed to split left=right
-                let command = commandArr[0]; // left side is command
-                let interval = (commandArr.length > 1) ? commandArr[1].trim() : -1; // right side is millisecond count
+                var command = commandArr[0]; // left side is command
+                var interval = (commandArr.length > 1) ? commandArr[1].trim() : -1; // right side is millisecond count
                 if (interval == 0)  /* abort timeout item */
                 {
                     switch (command){
@@ -87,7 +87,7 @@ function parseCommands(response){ // Response is data from CS server. This proce
                 else if (interval == -1) interval = -1; // do nothing
                 else
                 {
-                    let timeoutmsg = {user: user, send: true, message: '[' + command + ' ]'}; // send naked command if timer goes off
+                    var timeoutmsg = {user: user, send: true, message: '[' + command + ' ]'}; // send naked command if timer goes off
                     switch (command) {
                         case 'alarm':
                             alarm = setTimeout(function(){sendMessage(timeoutmsg );}, interval);
@@ -109,6 +109,6 @@ function parseCommands(response){ // Response is data from CS server. This proce
 }
 
 function update(text){ // text is  HTML code to append to the 'chat log' div. This appends the input text to the response div)
-    let chatLog = $('#responseContent').html();
+    var chatLog = $('#responseContent').html();
     $('#responseContent').html(chatLog + '<br>' + text);
 }

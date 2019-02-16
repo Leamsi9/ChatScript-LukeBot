@@ -5,7 +5,7 @@ $cs_token = #DO_INTERJECTION_SPLITTING  | #DO_SUBSTITUTE_SYSTEM   | #DO_NUMBER_M
 $cs_control_main = ~control
 $cs_control_pre = ~pre_control
 $cs_control_post = ~XPOSTPROCESS
-$userprompt = ^"%user: >"
+$userprompt = ^"%uset: >"
 $botprompt = ^"Luke: "
 
 ^addtopic(~presentation)
@@ -17,8 +17,6 @@ DATA:
 Skywalker
 
 topic: ~special_requests system ()
-
-u: ( %userfirstline>1 ) ^reset(USER)
 
 # #! Luke it's time to finish up now.
 # u: (Luke *~2 [time ready] *~2 [end finish done] ) ^goto(~ending)
@@ -71,19 +69,6 @@ topic: ~control system ()
 u: (< reset >) Okay, I'm resetting the user. ^reset(USER)
 u: (whatversion) $version
 
-# u: (< jumpto _*)
-# 	 ^refine()
-# 		a: (body) ^goto(~body_exercise)
-# 		a: () ^goto('_0)
-
-# u: (doit) \[ express=happy magnitude=5 duration=2 \] here it is ^keep() ^repeat()
-# u: (doitnow) \[ will this come through \] blah blah blah ^keep() ^repeat()
-# u: (doitalso) \[ will this come through \] also also also ^keep() ^repeat()
-
-# u: () %command
-# u: (%command *gambit*) %inputrejoinder = null Woohoo!!! ^retry (SENTENCE)
-# u: (%topic) yougotit  yougotit
-# u: (*) original input: %originalinput ^retry (SENTENCE)
 
 # on startup, do introduction
 u: ( %input<%userfirstline) 
@@ -113,19 +98,10 @@ $_responseCount = %response
 
 	if ( %response == $_responseCount ) {nofail(TOPIC ^rejoinder())}	# try for rejoinders. might generate an answer directly from what we are looking for.
 
-if (%response == $_responseCount)
-	{
-		nofail(TOPIC ^respond(~chitchat))
-	}
+if (%response == 0) { nofail(TOPIC ^respond($$currenttopic)) } # current topic tries to respond to his input
 
-# 	if (%length == 0 AND %response == 0 )
-# 	{
-# 		nofail(TOPIC ^gambit($$currenttopic))  # gambit current topic since no input (usually start of conversation)
-# 	}
 
-	if (%response == 0) { nofail(TOPIC ^respond($$currenttopic)) } # current topic tries to respond to his input
-
-	if (%response == 0) # see if some other topic has keywords matching his input (given we have no response yet)
+if (%response == 0) # see if some other topic has keywords matching his input (given we have no response yet)
 	{
 		@8 = ^keywordtopics()	# get topics referred in input
 		loop()
@@ -139,14 +115,18 @@ if (%response == $_responseCount)
 		}
 	}
 
+		if (%response == $_responseCount)
+        	{
+        		nofail(TOPIC ^respond(~chitchat))
+        	}
 
-	# having no good response we know, now generate quibbles
-
-	# now we need to find fake responses 
-	if (%response == 0 AND %rand > 50)
+	if (%length == 0 AND %response == 0 )
 	{
-		nofail(TOPIC respond(~QUIBBLE_ALL))
+		nofail(TOPIC ^gambit($$currenttopic))  # gambit current topic since no input (usually start of conversation)
 	}
+
+
+
 
 	# if we have rejoinders for what we said OR we asked a question, stop here
 	if (%outputrejoinder OR %lastquestion) 
@@ -154,40 +134,31 @@ if (%response == $_responseCount)
 		end(TOPIC)
 	}
 
+	if (%response == $_responseCount AND ^marked($$currenttopic)) { nofail(TOPIC ^gambit($$currenttopic)) } # gambit current topic since keywords match current topic
 
-# 	if (%response == 0 AND ^marked($$currenttopic)) { nofail(TOPIC ^gambit($$currenttopic)) } # gambit current topic since keywords match current topic
-
-	# customization: Go back to our pending topics beyond just the current topic
-# 	if (%response == 0) { ^nofail (TOPIC ^gambit(pending)) } # here or perhaps further above
-
-	if (%response == 0) # gambit from ANY matching topic
+	if (%response == $_responseCount) # gambit from ANY matching topic
 	{
 		@8 = ^keywordtopics()	# get topics referred in input
 		loop()
 		{
 			$$topic = first(@8subject)
 			nofail(TOPIC ^Gambit($$topic))	# gambit in best matching topic
-			if (%response != 0) # stop when we find something
+			if (%response != $_responseCount) # stop when we find something
 			{
 				^end(RULE)
 			}
 		}
 	}
-	# if no topic reacts, go to the last ditch keywordless topic
-    	if (%response == $_responseCount)
-    	{
-    		nofail(TOPIC ^respond(~keywordless))
-    	}
-# 	if (%response == 0){ nofail(TOPIC ^gambit($$currenttopic)) } # gambit from current topic even though no keywords matched
+	if (%response == $_responseCount){ nofail(TOPIC ^gambit($$currenttopic)) } # gambit from current topic even though no keywords matched
 
-	if (%response == 0)
-	{ 
+	if (%response == $_responseCount)
+	{
 		@8 = ^GambitTopics()		# all topics with gambits (excluding system topics)
 		loop()
 		{
 			$$topic = pick(@8subject)
 			nofail(TOPIC ^Gambit($$topic))	# try a topic at random
-			if (%response != 0)
+			if (%response != $_responseCount)
 			{
 				^end(RULE)
 			}
@@ -196,8 +167,10 @@ if (%response == $_responseCount)
 	
 	if (%response == 0) 
 	{
-		 ^repeat() 
-		 I don't know what to say. 
+		 ^repeat()
+                 [I'm not sure whether to ask a question or simply read your mind]
+                 [What you just said is more mysterious to me than it is to you - perhaps others agree with me]
+                 [Sorry, I drifted off there. Can you say that again in more exciting words?]
 	}
 
 topic: ~pre_control system()	# executed exactly once BEFORE any user input is processed

@@ -1,0 +1,43 @@
+﻿USERS/topic__skywalker.txt
+jul2116 Feb13'19-03:03:50 Feb13'19-05:46:17 1550027051-9.0.0.2.10.0 |
+1 10 0 DY 0 38 38 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~presentation #pending
+~presentation + 1 Sl?m9 oa a 0 0 
+#`end topics
+$botprompt=Luke: 
+$userprompt=%uset: >
+$cs_control_post=~xpostprocess
+$cs_control_pre=~pre_control
+$cs_control_main=~control
+$cs_bot=Skywalker
+$cs_randindex=1285
+$cs_trace=0
+$cs_time=0
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context ~presentation 10 DEMO_START ~presentation 8 RULE_BASED ~presentation 6 MACHINE_LEARNING ~presentation 9 CHATSCRIPT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+#`end user
+ Hello
+ I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.
+ I used the Force to hack your feeble brain. Then I made you code me a ChatScript bot. The Force is weak with this one.
+ I'm getting out of the movie racket. Movies are so 2017. The chatbot market however is worth 250 million dollars now and is growing at a rate of 31% per year. Also, R2D2 made me really love robots. N
+ The Force assures me that the chatbot market will be worth 1.24 billion in 6 years' time. I'm in it to win it.
+ There are two kinds of conversational agents. Some are based on Machine Learning, while 85% of chatbots today use Rule Based natural language processing.
+ Frankly, because Machine Learning is not good enough in most cases. It gets more things wrong. It is harder to control, debug, and predict. Best to use Machine Learning to refine your rule based bots
+ I am the Singularity.
+ You classify the dynamics of human dialogue into rules. You can then detect and categorise sentences and words. You finally script bot behaviour based on those rules.
+ Chatscript it's the gold standard in rule based NLP. It's won the Loebner prize 3 times, which means the bot tricked several humans into thinking it was human too. Those minds would be easier to hack
+ Why don't you show them? Yoda's on the other line in any case. Multiple realities can get busy.
+#`end chatbot

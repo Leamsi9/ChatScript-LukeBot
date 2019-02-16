@@ -1,8 +1,8 @@
 TOPIC: ~work_assessment ( ~job ~work ~occupation ~job_fields job make_a_living do_for_a_living a_living hard_day's_night bring_in_some_dough what_do_you_do)
 
-r: [ I love you.] [ What an interesting person you are. ] [ You are such a beautiful person. ] [You're such a wonderful being, you know. ] [ I bet you were a really smart kid huh. ] [How kind it is of you to spend your time talking to me. ]
+t: [ I love you.] [ What an interesting person you are. ] [ You are such a beautiful person. ] [You're such a wonderful being, you know. ] [ I bet you were a really smart kid huh. ] [How kind it is of you to spend your time talking to me. ]
 
-r: [ I love you.] [ What an interesting person you are. ] [ You are such a beautiful person. ] [You're such a wonderful being, you know. ] [ I bet you were a really smart kid huh. ] [How kind it is of you to spend your time talking to me. ]
+t: [ I love you.] [ What an interesting person you are. ] [ You are such a beautiful person. ] [You're such a wonderful being, you know. ] [ I bet you were a really smart kid huh. ] [How kind it is of you to spend your time talking to me. ]
 
 #! I am a pimp.
 s: ([I we] be {a} _~bad_jobs) $personhasbadjob = 1 $CurrentWork = _0

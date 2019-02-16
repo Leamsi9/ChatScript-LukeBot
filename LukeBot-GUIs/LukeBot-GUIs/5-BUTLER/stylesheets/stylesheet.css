@@ -1,0 +1,52 @@
+body {
+    background: #000
+}
+
+#formpanel {
+    display: none;
+}
+
+#speechcontainer {
+    position: absolute;
+    left: 38%;
+
+    margin: 10px auto;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 12px;
+    border-color: darkgrey;
+    width: 140px;
+    height: 80px;
+    padding: 10px;
+    font: Arial;
+    font-size: 10pt;
+    font-style: normal;
+    font-weight: normal;
+    color: gold;}
+
+#button_panel {
+    width: 80%;
+}
+
+#btnMicrophone {
+    margin: 34px;
+    width: 140px;
+    height: 140px;
+    background-color: darkred;
+    border-radius: 50%;
+}
+
+#results {
+    font-family: cursive, Arial;
+    font-size: 14pt;
+    font-style: italic;
+    font-weight: normal;
+    color: darkgrey;
+    margin: 10px;
+}
+
+
+
+.autosend {
+    display: none;
+}

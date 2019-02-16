@@ -5,7 +5,7 @@ $cs_token = 0
 
 ^addtopic(~introductions)
 $cs_control_main = ~control
-$userprompt = ^"%user: >"
+$userprompt = ^"%uset: >"
 $botprompt = ^"STOCKPILE: "
 
 

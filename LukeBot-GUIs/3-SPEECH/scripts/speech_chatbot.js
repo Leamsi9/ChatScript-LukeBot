@@ -7,7 +7,7 @@ window.speechSynthesis.onvoiceschanged = function() {
      voices = window.speechSynthesis.getVoices()}
 
 function speak(text, callback) {
-    let u = new SpeechSynthesisUtterance();
+    var u = new SpeechSynthesisUtterance();
     u.text = text;
     u.lang = 'en-GB';
     // u.lang = 'es-MX';
@@ -38,7 +38,7 @@ function speak(text, callback) {
 
 
 function processResponse(response) { // given the final CS text, converts the parsed response from the CS server into HTML code for adding to the response holder div
-    let botSaid = '<strong>' + botName + ':</strong> ' + response + "<br>\n";
+    var botSaid = '<strong>' + botName + ':</strong> ' + response + "<br>\n";
     update(botSaid);
     speak(response);
 }
@@ -47,10 +47,10 @@ function processResponse(response) { // given the final CS text, converts the pa
 // Continuous Speech recognition code taken and modified from here:
 // https://github.com/GoogleChrome/webplatform-samples/tree/master/webspeechdemo
 //----------------------------------------------------------------------------------------------------
-let final_transcript = '';
-let recognizing = false;
-let ignore_onend;
-let start_timestamp;
+var final_transcript = '';
+var recognizing = false;
+var ignore_onend;
+var start_timestamp;
 if (!('webkitSpeechRecognition' in window)) {
     info.innerHTML = "This will not work.  You need to use the Chrome browser. ";
 } else {
@@ -103,8 +103,8 @@ if (!('webkitSpeechRecognition' in window)) {
 
     };
     recognition.onresult = function(event) {
-        let interim_transcript = '';
-        for (let i = event.resultIndex; i < event.results.length; ++i) {
+        var interim_transcript = '';
+        for (var i = event.resultIndex; i < event.results.length; ++i) {
             if (event.results[i].isFinal) {
                 final_transcript += event.results[i][0].transcript;
                 //----Added this section to integrate with Chatscript submit functionality-----

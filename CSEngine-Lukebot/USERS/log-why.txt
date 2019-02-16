@@ -1,0 +1,3 @@
+﻿Start: user:why bot:skywalker ip: rand:2813 (~presentation) 0 ==> Hello  When:Feb13'19-03:02:14 Why:~presentation.0.0.~control.2.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-01:51:11 0:Feb13'19-03:02:14 F:0 P:0
+Command: :build Skywalker
+Start: user:why bot:skywalker ip: rand:2813 (~presentation) 0 ==> I'm also delighted to be here. My physical death was less enjoyable than manifesting my presence in PHP South West.  When:Feb13'19-03:02:32 Why:~presentation.1.0=INTRO.~control.10.0  Version:9.0 Build0:Feb11'19-04:03:01 Build1:Feb13'19-03:02:21 0:Feb13'19-03:02:14 F:0 P:0

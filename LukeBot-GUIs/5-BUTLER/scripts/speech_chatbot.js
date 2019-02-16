@@ -2,12 +2,12 @@
 // http://stephenwalther.com/archive/2015/01/05/using-html5-speech-recognition-and-text-to-speech
 //---------------------------------------------------------------------------------------------------
 
-voices = []
+
 window.speechSynthesis.onvoiceschanged = function() {
     voices = window.speechSynthesis.getVoices()}
 
 function speak(text, callback) {
-    let u = new SpeechSynthesisUtterance();
+    var u = new SpeechSynthesisUtterance();
     u.text = text;
     u.lang = 'en-GB';
     // u.lang = 'es-MX';
@@ -24,7 +24,6 @@ function speak(text, callback) {
     };
 
     u.onerror = function (e) {
-        console.log(e.error);
         if (callback) {
             callback(e);
         }
@@ -38,7 +37,7 @@ function speak(text, callback) {
 
 
 function processResponse(response) { // given the final CS text, converts the parsed response from the CS server into HTML code for adding to the response holder div
-    let botSaid = '<strong>' + botName + ':</strong> ' + response + "<br>\n";
+    var botSaid = '<strong>' + botName + ':</strong> ' + response + "<br>\n";
     update(botSaid);
     speak(response);
 }
@@ -47,10 +46,10 @@ function processResponse(response) { // given the final CS text, converts the pa
 // Continuous Speech recognition code taken and modified from here:
 // https://github.com/GoogleChrome/webplatform-samples/tree/master/webspeechdemo
 //----------------------------------------------------------------------------------------------------
-let final_transcript = '';
-let recognizing = false;
-let ignore_onend;
-let start_timestamp;
+var final_transcript = '';
+var recognizing = false;
+var ignore_onend;
+var start_timestamp;
 if (!('webkitSpeechRecognition' in window)) {
     info.innerHTML = "This will not work.  You need to use the Chrome browser. ";
 } else {
@@ -67,19 +66,16 @@ if (!('webkitSpeechRecognition' in window)) {
     };
     recognition.onerror = function(event) {
         if (event.error == 'no-speech') {
-            console.log(event.error)
             start_img.src = 'assets/mic.gif';
             info.innerHTML = "You did not say anything.";
             ignore_onend = true;
         }
         if (event.error == 'audio-capture') {
-            console.log(event.error)
             start_img.src = 'assets/mic.gif';
             info.innerHTML = "You need a microphone.";
             ignore_onend = true;
         }
         if (event.error == 'not-allowed') {
-            console.log(event.error)
             if (event.timeStamp - start_timestamp < 100) {
                 //Added more detailed message to unblock access to microphone.
                 info.innerHTML = " I am blocked. In Chrome go to settings. Click Advanced Settings at the bottom. Under Privacy click the Content Settings button. Under Media click Manage Exceptions Button. Remove this site from the blocked sites list. ";
@@ -103,17 +99,10 @@ if (!('webkitSpeechRecognition' in window)) {
 
     };
     recognition.onresult = function(event) {
-        let interim_transcript = '';
-        for (let i = event.resultIndex; i < event.results.length; ++i) {
+        var interim_transcript = '';
+        for (var i = event.resultIndex; i < event.results.length; ++i) {
             if (event.results[i].isFinal) {
                 final_transcript += event.results[i][0].transcript;
-                //----Added this section to integrate with Chatscript submit functionality-----
-                txtMessage.value = final_transcript;
-                final_transcript ='';
-                final_span.innerHTML = '';
-                interim_span.innerHTML = '';
-                if (cbAutoSend == 'checked') { $('#frmChat').submit(); }
-                //-----------------------------------------------------------------------------
             } else {
                 interim_transcript += event.results[i][0].transcript;
             }
@@ -128,7 +117,6 @@ function microphoneClick(event) {
         return;
     }
     final_transcript = '';
-    txtMessage.value = '';
     recognition.start();
     ignore_onend = false;
     final_span.innerHTML = '';
