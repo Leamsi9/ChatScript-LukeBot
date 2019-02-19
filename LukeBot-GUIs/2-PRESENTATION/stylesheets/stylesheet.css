@@ -1,0 +1,49 @@
+body {
+    background: #000
+}
+
+#formpanel {
+    display: none;
+}
+
+#speechcontainer {
+    position: absolute;
+
+    bottom: 10%;
+    margin: 10px auto;
+    width: 140px;
+    height: 80px;
+    padding: 10px;
+    font: Arial;
+    font-size: 10pt;
+    font-style: normal;
+    font-weight: normal;
+    z-index: 3000;}
+
+
+#button_panel {
+    width: 80%;
+}
+
+#btnMicrophone {
+    margin: 64px;
+    width: 70px;
+    height: 70px;
+    background-color: darkred;
+    border-radius: 50%;
+}
+
+#results {
+    font-family: cursive, Arial;
+    font-size: 14pt;
+    font-style: italic;
+    font-weight: normal;
+    color: darkgrey;
+    margin: 10px;
+}
+
+
+
+.autosend {
+    display: none;
+}

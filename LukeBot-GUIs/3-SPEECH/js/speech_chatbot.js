@@ -4,7 +4,7 @@
 
 window.speechSynthesis.onvoiceschanged = () => {
     voices = window.speechSynthesis.getVoices()
-}
+};
 
 function speak(text, callback) {
     const u = new SpeechSynthesisUtterance();
@@ -35,7 +35,7 @@ function speak(text, callback) {
 //-----End of TTS Code Block-----------------------------------------------------------------------------
 
 
-function processResponse(response) { // given the final CS text, converts the parsed response from the CS server into HTML code for adding to the response holder div
+function processResponse(response) { // given the final CS text, converts the parsed response from the CS server into HTML code for adding to the response holder div, then speaks the text.
     const botSaid = `<strong>${botName}:</strong> ${response}<br>\n`;
     update(botSaid);
     speak(response);
@@ -47,14 +47,14 @@ function processResponse(response) { // given the final CS text, converts the pa
 let final_transcript = '';
 let recognizing = false;
 let ignore_onend;
-let recognition ='';
+let recognition = '';
 if (!('webkitSpeechRecognition' in window)) {
     info.innerHTML = "This will not work.  You need to use the Chrome browser. ";
 } else {
     btnMicrophone.style.display = 'inline-block';
     recognition = new webkitSpeechRecognition();
     recognition.continuous = false; //Continuous recognition toggle
-    recognition.interimResults = true;
+    recognition.interimResults = true; //Used to show partial transcript as recognition tries to arrive at final meaning
     recognition.lang = 'es-MX';
     recognition.lang = 'en-GB';
     recognition.onstart = () => {
@@ -63,23 +63,22 @@ if (!('webkitSpeechRecognition' in window)) {
         start_img.src = 'assets/mic-animate.gif';
     };
     recognition.onerror = ({error}) => {
-        if (error == 'no-speech') {
+        if (error === 'no-speech') {
             start_img.src = 'assets/mic.gif';
             info.innerHTML = "You did not say anything.";
             ignore_onend = true;
         }
-        if (error == 'audio-capture') {
+        if (error === 'audio-capture') {
             start_img.src = 'assets/mic.gif';
             info.innerHTML = "You need a microphone.";
             ignore_onend = true;
         }
-        if (error == 'not-allowed') {
+        if (error === 'not-allowed') {
             info.innerHTML = "You did not click the allow button."
         }
         ignore_onend = true;
     }
 }
-;
 recognition.onend = () => {
     recognizing = false;
     if (ignore_onend) {
@@ -93,6 +92,8 @@ recognition.onend = () => {
     info.innerHTML = "";
 
 };
+
+//Turns final recognition transcript into txtMessage and submits to bot via checked input on index.php
 recognition.onresult = ({resultIndex, results}) => {
     let interim_transcript = '';
     for (let i = resultIndex; i < results.length; ++i) {
@@ -102,7 +103,7 @@ recognition.onresult = ({resultIndex, results}) => {
             final_transcript = '';
             final_span.innerHTML = '';
             interim_span.innerHTML = '';
-            if (cbAutoSend == 'checked') {
+            if (cbAutoSend === 'checked') {
                 $('#frmChat').submit();
             }
             //-----------------------------------------------------------------------------

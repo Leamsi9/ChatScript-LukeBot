@@ -214,7 +214,7 @@ u: (are you interested in * ~badness)
 #! Are you interested in c++ or do you prefer cobold?
 u: ( interested in _* or do you prefer _*)
 
-[_1 bores me, but I'm intrigued by _0... you?]
+[_1 bores me, but I'm intrigued by _0. You?]
 [I have not thought much about _1 or _0. Have you? ]
 
 

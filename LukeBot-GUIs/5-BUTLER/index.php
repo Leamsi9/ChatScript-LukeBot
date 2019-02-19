@@ -6,15 +6,13 @@
     </title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css">
-    <link rel="stylesheet" type="text/css" href="stylesheets/star_wars.css">
-    <script src="js/jquery.min.js"></script>
-    <script type="text/javascript" src="js/text_chatbot.js"></script>
+    <script defer type="text/javascript" src="js/jquery.min.js"></script>
+    <script defer type="text/javascript" src="js/text_chatbot.js"></script>
+    <script defer type="text/javascript" src="js/speech_chatbot.js"></script>
     <script type="text/javascript">
         let cbAutoSend = 'checked';
     </script>
-
 </head>
-
 <body>
 <section class="container">
 
@@ -30,33 +28,15 @@
             <p>
         </div>
     </div>
-
-    <div id="formpanel">
-        <form id="frmChat" action="#">
-            <p>Write your name and type your message for Luke, or click the microphone to speak:</p>
-            <table id="form_table">
-                <tr>
-                    <td>Name:</td>
-                    <td>
-                        <input type="text" id="txtUser" name="user" size="20" value=" "/>
-                        <input type="hidden" name="send"/>
-                    </td>
-                </tr>
-                <tr>
-                    <td>Message:</td>
-                    <td><input type="text" name="message" id="txtMessage" size="80"/></td>
-                    <td colspan="2"><input type="submit" name="send" value="Send Value"/></td>
-                </tr>
-            </table>
-        </form>
-
-    </div>
+    <form id="frmChat" action="#">
+        <input type="hidden" name="message" id="txtMessage" size="80"/>
+        <input type="hidden" name="send" value="Send Value"/>
+    </form>
     <div class="autosend">
         <input type="checkbox" name="autosend" value="checked" checked
                onclick="if (this.checked) {cbAutoSend = this.value} else { cbAutoSend = '' }"/>
     </div>
 </section>
-<script type="text/javascript" src="js/speech_chatbot.js"></script>
 </body>
 </html>
 

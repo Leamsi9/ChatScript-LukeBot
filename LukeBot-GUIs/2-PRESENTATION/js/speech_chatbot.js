@@ -51,7 +51,7 @@ let recognizing = false;
 let ignore_onend;
 let recognition ='';
 if (!('webkitSpeechRecognition' in window)) {
-    info.innerHTML = "This will not work.  You need to use the Chrome browser. ";
+    console.log( "This will not work.  You need to use the Chrome browser. ");
 } else {
     btnMicrophone.style.display = 'inline-block';
     recognition = new webkitSpeechRecognition();
@@ -61,22 +61,22 @@ if (!('webkitSpeechRecognition' in window)) {
     recognition.lang = 'en-GB';
     recognition.onstart = () => {
         recognizing = true;
-        info.innerHTML = " Speak now.";
+        console.log( " Speak now.")
         start_img.src = 'assets/mic-animate.gif';
     };
     recognition.onerror = ({error}) => {
         if (error == 'no-speech') {
             start_img.src = 'assets/mic.gif';
-            info.innerHTML = "You did not say anything.";
+            console.log( "You did not say anything.")
             ignore_onend = true;
         }
         if (error == 'audio-capture') {
             start_img.src = 'assets/mic.gif';
-            info.innerHTML = "You need a microphone.";
+            console.log( "You need a microphone.")
             ignore_onend = true;
         }
         if (error == 'not-allowed') {
-            info.innerHTML = "You did not click the allow button."
+            console.log( "You did not click the allow button.")
         }
         ignore_onend = true;
     }
@@ -89,12 +89,11 @@ recognition.onend = () => {
     }
     start_img.src = 'assets/mic.gif';
     if (!final_transcript) {
-        info.innerHTML = "Click on the microphone icon and begin speaking.";
+        console.log( "Click on the microphone icon and begin speaking.")
         return;
     }
-    info.innerHTML = "";
-
 };
+
 recognition.onresult = ({resultIndex, results}) => {
     let interim_transcript = '';
     for (let i = resultIndex; i < results.length; ++i) {
@@ -127,5 +126,5 @@ function microphoneClick(event) {
     final_span.innerHTML = '';
     interim_span.innerHTML = '';
     start_img.src = 'assets/mic-slash.gif';
-    info.innerHTML = " Click the Allow button above to enable your microphone.";
+    console.log( " Click the Allow button above to enable your microphone.");
 }

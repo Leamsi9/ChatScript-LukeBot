@@ -1,5 +1,3 @@
-
-
 const botName = 'Skywalker';
 // Alarm, callback and loopback are ChatScript timer variables. This is how long you want to wait after user silence before bot initiates conversation, be it after a single volley, or after every volley. It is transmitted via Out Of Band communication marked in ChatScript with square brackets.
 let alarm = null;
@@ -7,7 +5,7 @@ let callback = null;
 let loopback = null;
 let CSoutput = '';
 $(() => {
-    $('#frmChat').submit(function(e){
+    $('#frmChat').submit(function (e) {
         // this function overrides the form's submit() method, allowing us to use AJAX calls to communicate with the ChatScript server
         e.preventDefault();  // Prevent the default submit() method
         const name = $('#txtUser').val();
@@ -28,7 +26,8 @@ $(() => {
     });
 
 });
-function sendMessage(data){ //Sends inputs to the ChatScript server, and returns the response git data - a JSON string of input information
+
+function sendMessage(data) { //Sends inputs to the ChatScript server, and returns the response data - a JSON string of input information
     $.ajax({
         url: 'ui.php',
         dataType: 'text',
@@ -42,36 +41,35 @@ function sendMessage(data){ //Sends inputs to the ChatScript server, and returns
         }
     });
 }
-function parseCommands(response){ // Response is data from CS server. This processes OOB commands sent from the CS server returning the remaining response w/o oob commands
-    CSoutput = response.replace(/\((.*?)\)/, "HELLO")
-    const len  = CSoutput.length;
+
+function parseCommands(response) { // Response is data from CS server. This processes OOB commands sent from the CS server returning the remaining response w/o oob commands
+    CSoutput = response.replace(/\((.*?)\)/, ""); //remove initial text in brackets from Wikipedia answers
+    const len = CSoutput.length;
     let i = -1;
-    while (++i < len )
-    {
-        if (CSoutput.charAt(i) == ' ' || CSoutput.charAt(i) == '\t') continue; // starting whitespace
-        if (CSoutput.charAt(i) == '[') break; // we have an oob starter
+    while (++i < len) {
+        if (CSoutput.charAt(i) === ' ' || CSoutput.charAt(i) === '\t') continue; // starting whitespace
+        if (CSoutput.charAt(i) === '[') break; // we have an oob starter
         return CSoutput;            // there is no oob data
     }
-    if ( i == len) return CSoutput; // no starter found
+    if (i === len) return CSoutput; // no starter found
     const user = $('#txtUser').val();
 
     // walk string to find oob data and when ended return rest of string
     let start = 0;
-    while (++i < len )
-    {
-        if (CSoutput.charAt(i) == ' ' || CSoutput.charAt(i) == ']') // separation
+    while (++i < len) {
+        if (CSoutput.charAt(i) === ' ' || CSoutput.charAt(i) ===']') // separation
         {
-            if (start != 0) // new oob chunk
+            if (start !== 0) // new oob chunk
             {
-                const blob = CSoutput.slice(start,i);
+                const blob = CSoutput.slice(start, i);
                 start = 0;
                 const commandArr = blob.split('=');
-                if (commandArr.length == 1) continue; // failed to split left=right
+                if (commandArr.length === 1) continue; // failed to split left=right
                 const command = commandArr[0]; // left side is command
                 let interval = (commandArr.length > 1) ? commandArr[1].trim() : -1; // right side is millisecond count
-                if (interval == 0)  /* abort timeout item */
+                if (interval === 0)  /* abort timeout item */
                 {
-                    switch (command){
+                    switch (command) {
                         case 'alarm':
                             window.clearTimeout(alarm);
                             alarm = null;
@@ -85,32 +83,36 @@ function parseCommands(response){ // Response is data from CS server. This proce
                             loopback = null;
                             break;
                     }
-                }
-                else if (interval == -1) interval = -1; // do nothing
-                else
-                {
+                } else if (interval === -1) interval = -1; // do nothing
+                else {
                     const timeoutmsg = {user, send: true, message: `[${command} ]`}; // send naked command if timer goes off
                     switch (command) {
                         case 'alarm':
-                            alarm = setTimeout(() => {sendMessage(timeoutmsg );}, interval);
+                            alarm = setTimeout(() => {
+                                sendMessage(timeoutmsg);
+                            }, interval);
                             break;
                         case 'callback':
-                            callback = setTimeout(() => {sendMessage(timeoutmsg );}, interval);
+                            callback = setTimeout(() => {
+                                sendMessage(timeoutmsg);
+                            }, interval);
                             break;
                         case 'loopback':
-                            loopback = setInterval(() => {sendMessage(timeoutmsg );}, interval);
+                            loopback = setInterval(() => {
+                                sendMessage(timeoutmsg);
+                            }, interval);
                             break;
                     }
                 }
             } // end new oob chunk
-            if (CSoutput.charAt(i) == ']') return CSoutput.slice(i + 2); // return rest of string, skipping over space after ]
+            if (CSoutput.charAt(i) === ']') return CSoutput.slice(i + 2); // return rest of string, skipping over space after ]
         } // end if
-        else if (start == 0) start = i; // begin new text blob
+        else if (start === 0) start = i; // begin new text blob
     } // end while
     return CSoutput;  // should never get here
 }
 
-function update(text){ // text is  HTML code to append to the 'chat log' div. This appends the input text to the response div)
+function update(text) { // text is  HTML code to append to the 'chat log' div. This appends the input text to the response div)
     const chatLog = $('#responseContent').html();
     $('#responseContent').html(`${chatLog}<br>${text}`);
 }
