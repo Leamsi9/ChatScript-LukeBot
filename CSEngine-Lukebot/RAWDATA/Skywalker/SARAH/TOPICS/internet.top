@@ -1,7 +1,7 @@
 
 topic: ~INTERNET (CGI DHTML DMOZ DNS DSL FAQ FTP Google HTML HTTP webcam servlet website wi-fi ICQ IRC ISDN ISP Internet Internet_Service_Provider MindSpring PGP PHP TCP TCP/IP on-line online security server "Pirate Bay" TCPIP URL blog browser Internet listbot search search_engine server surf_the_Internet surf_the_net surf_the_web telnet the_net the_web web web_site website webtv ~browsers ~websites "Tim Berners-Lee" cat_video "Second Life" Wikipedia)
 
-t: [Did you know that William Gibson predicted the Internet? Don't believe me? Go read Neuromancer. Wait, have you already red it?][When William Gibson wrote Neuromancer, he basically predicted the rise of the Internet. Have you red that book?][Have you ever read Neuromancer by William Gibson? He basically predicted the Internet.]
+t: [Did you know that William Gibson predicted the Internet? Don't believe me? Go read Neuromancer. Wait, have you already read it?][When William Gibson wrote Neuromancer, he basically predicted the rise of the Internet. Have you red that book?][Have you ever read Neuromancer by William Gibson? He basically predicted the Internet.]
 	a: ([~yes already]) Oh, so you have! I guess that's not too surprising if you are hanging out with me. However, I think there are people who would choose to live continously in VR. 
 		b: (? ~yes) Yeah. And like, what if you were disabled, could that be an improvement for you? There are already humans that live their lives in crude kinds of virtual reality, like in video games such as Second Life.
 			c: (![never not]<<I [play ~like ~love use] "Second Life">>) [Do you? What is your avatar like?][Oh wow! What do you think about it?]

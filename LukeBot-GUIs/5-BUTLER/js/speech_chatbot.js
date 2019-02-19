@@ -5,6 +5,7 @@
 
 window.speechSynthesis.onvoiceschanged = () => {
     voices = window.speechSynthesis.getVoices()
+    console.log(...voices);
 }
 
 function speak(text, callback) {
@@ -49,11 +50,12 @@ function processResponse(response) { // given the final CS text, converts the pa
 let final_transcript = '';
 let recognizing = false;
 let ignore_onend;
+let recognition ='';
 if (!('webkitSpeechRecognition' in window)) {
     info.innerHTML = "This will not work.  You need to use the Chrome browser. ";
 } else {
     btnMicrophone.style.display = 'inline-block';
-    var recognition = new webkitSpeechRecognition();
+    recognition = new webkitSpeechRecognition();
     recognition.continuous = false;
     recognition.interimResults = true;
     recognition.lang = 'es-MX';

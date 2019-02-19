@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="en-GB">
 <head>
     <title>
         Luke Skywalker Bot
@@ -7,11 +7,11 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css">
     <link rel="stylesheet" type="text/css" href="stylesheets/star_wars.css">
-    <script defer type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script defer type="text/javascript" src="js/jquery.min.js"></script>
     <script defer type="text/javascript" src="js/text_chatbot.js"></script>
     <script defer type="text/javascript" src="js/speech_chatbot.js"></script>
     <script type="text/javascript">
-        var cbAutoSend = 'checked';
+        let cbAutoSend = 'checked';
     </script>
 
 </head>
@@ -60,7 +60,7 @@
     </form>
     <div class="autosend">
         <input type="checkbox"  name="autosend" value="checked" checked
-               onclick="if (this.checked) {cbAutoSend = this.value} else { cbAutoSend = '' }"/> Autosend
+               onclick="if (this.checked) {cbAutoSend = this.value} else { cbAutoSend = '' }"/>
     </div>
 </div>
 </section>

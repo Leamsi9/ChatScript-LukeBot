@@ -5,5 +5,6 @@ CSEngine-Lukebot/VERIFY/
 CSEngine-Lukebot/LOGS/
 CSEngine-Lukebot/USERS/
 CSEngine-Lukebot/TMP/
+CSEngine-Lukebot/TOPIC/
 package.json
 package-lock.json

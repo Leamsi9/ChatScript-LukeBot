@@ -1,7 +1,7 @@
 
 
-const botName = 'Luke';    // change this to your bot name
-// declare timer variables
+const botName = 'Skywalker';
+// Alarm, callback and loopback are ChatScript timer variables. This is how long you want to wait after user silence before bot initiates conversation, be it after a single volley, or after every volley. It is transmitted via Out Of Band communication marked in ChatScript with square brackets.
 let alarm = null;
 let callback = null;
 let loopback = null;
@@ -28,7 +28,7 @@ $(() => {
     });
 
 });
-function sendMessage(data){ //Sends inputs to the ChatScript server, and returns the response-  data - a JSON string of input information
+function sendMessage(data){ //Sends inputs to the ChatScript server, and returns the response git data - a JSON string of input information
     $.ajax({
         url: 'ui.php',
         dataType: 'text',

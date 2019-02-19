@@ -1,5 +1,4 @@
-// TTS code taken and modified from here:
-// http://stephenwalther.com/archive/2015/01/05/using-html5-speech-recognition-and-text-to-speech
+// TTS uses Web Speech API (speechSynthessis) and is linked to the ChatScript bot's response from the server
 //---------------------------------------------------------------------------------------------------
 
 
@@ -43,18 +42,18 @@ function processResponse(response) { // given the final CS text, converts the pa
 }
 
 
-// Continuous Speech recognition code taken and modified from here:
-// https://github.com/GoogleChrome/webplatform-samples/tree/master/webspeechdemo
+// Speech recognition uses Web Speech API and is linked to the button on-click event. Continuous recognition can be toggled.
 //----------------------------------------------------------------------------------------------------
 let final_transcript = '';
 let recognizing = false;
 let ignore_onend;
+let recognition ='';
 if (!('webkitSpeechRecognition' in window)) {
     info.innerHTML = "This will not work.  You need to use the Chrome browser. ";
 } else {
     btnMicrophone.style.display = 'inline-block';
-    var recognition = new webkitSpeechRecognition();
-    recognition.continuous = false;
+    recognition = new webkitSpeechRecognition();
+    recognition.continuous = false; //Continuous recognition toggle
     recognition.interimResults = true;
     recognition.lang = 'es-MX';
     recognition.lang = 'en-GB';

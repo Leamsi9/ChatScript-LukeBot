@@ -1,13 +1,11 @@
 topic: ~chitchat keep repeat()
-
+# APIs: openweathermap, wikipedia, google places,
 #! What is weather?
-u: (what is the weather in _*1 >) ^keep() repeat() $_tmp=_0
-$_location = $_tmp
-$_url = ^"http://api.openweathermap.org/data/2.5/weather?q=$_tmp&units=metric&APPID=9b7cdda100b385f32905ded030287258"
+u: (what is the weather in _* >) ^keep() $_location = _0
+$_url = ^"http://api.openweathermap.org/data/2.5/weather?q=$_location&units=metric&APPID=9b7cdda100b385f32905ded030287258"
 $_userAgent = ^"User-Agent: %bot, ChatScript"
-# $_header =^" ~Accept: application/json ~Cache-Control: no-cache ~Content-Type: application/json ~User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64)~Accept-Encoding: identity,*;q=0~Accept-Language: en-US,en;q=0.9 "
-$_tmp = ^jsonopen( get $_url NULL $_userAgent)
-The current weather in $_location is $_tmp.weather[0].description, which proves the Force is a nifty API.
+$_APIresponse = ^jsonopen( get $_url NULL $_userAgent)
+The current weather in $_location is $_APIresponse.weather[0].description, which proves the Force is a nifty API.
 
 ?: (who be _*~2 >) ^keep()
 	$$tmp = ^pos(capitalize ^original(_0))
@@ -16,7 +14,7 @@ The current weather in $_location is $_tmp.weather[0].description, which proves 
 		and correct spelling is left to the user.  In return this avoids excessive spellcheck on proper nouns.
 		Wikipedia does not systematically redirect mis-cased requests. Proper names should always be capitalized
 	##>>
-	$$url = ^"\"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&exsentences=1&exintro=&explaintext=&format=json&utf8=&redirects=&titles=$$tmp\""
+	$$url = ^"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&exsentences=1&exintro=&explaintext=&format=json&utf8=&redirects=&titles=$$tmp"
 	$$user_agent = ^"User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)"
 	$$tmp = jsonopen(GET $$url "" $$user_agent)
 		@0= ^query(direct_v ? extract ? 1)
@@ -32,6 +30,18 @@ The current weather in $_location is $_tmp.weather[0].description, which proves 
 		@0 = ^query(direct_v ? extract ? 1)
 
 		[The Force tells me] [I believe] [My guess would be] [I sense] [It is probable that] @0object
+
+u: (where are we) ^keep()
+    $$url = ^"https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJAYvCIMbmcUgRjDTiVQzryIM&fields=name,reviews&key=AIzaSyAEi29hOh2KSRpeDkzHMS13DVJmAIcuzF8"
+    $$user_agent = ^"User-Agent: %bot, ChatScript"
+    $_temp = ^jsonopen( get $$url NULL $$userAgent)
+    You are in $_temp.result.name. $_temp.result.reviews[1].text
+
+# u: (sms _* and say _*) ^keep() $tmp = _0 $$tmp = _1
+#     $$url = ^"https://api.clockworksms.com/http/send.aspx?key=a469528a3126eb9bc0ddf7414fb4e75a668b0c49&to=447983908595&content=CStest"
+#                   $$user_agent = ^"User-Agent: %bot, ChatScript"
+#                   ^jsonopen( get $$url NULL $$userAgent)
+#     I have texted $tmp
 
 #! Theater
 u: ([~acting ~hobbies_performing ~performing_arts])
@@ -194,21 +204,18 @@ u: (you're interested in * ~goodness)
 
 
 #! Are you interested in something horrible?
-u: (you are interested in * ~badness)
+u: (are you interested in * ~badness)
 
 [ Not really. It seems a little dark to me. ]
 [I rather avoid it. I prefer to focus on the positive]
 ^poptopic()
 
 
+#! Are you interested in c++ or do you prefer cobold?
+u: ( interested in _* or do you prefer _*)
 
-#! You are interested in
-u: ( interested in _*)
-
-[I'm intrigued by _0 ... tell me something about it]
-[I have not thought much about it. Why do you care about _0? ]
-^poptopic()
-
+[_1 bores me, but I'm intrigued by _0... you?]
+[I have not thought much about _1 or _0. Have you? ]
 
 
 #! You are saying that
@@ -224,13 +231,13 @@ u: (you're saying that _*)
 u: (ask me about _*)
 
 [Good. Tell me 3 things about _0]
-[What attracts you in relation to _0?]
+[What interests you in  _0?]
 ^poptopic()
 
 
 
 #! Ask me questions about
-u: (ask me questions about)
+u: (ask me questions about _*)
 
 [ Good. Tell me something curious about _0]
 [Why should I be interested in _0?]
@@ -290,7 +297,7 @@ Would you like to do _0?
 
 
 #! Can you meet me
-u: (can you meet me _*)
+u: (can you meet me)
 
 Give me a reason for the meeting.
 ^poptopic()
@@ -298,18 +305,18 @@ Give me a reason for the meeting.
 
 
 #! Can you get me information about
-u: (information about)
+u: (information about _*)
 
-[Why are you interested in that?]
-[Can you think of two synonyms of that theme?]
+[Why are you interested in _0?]
+[Can you think of two synonyms of _0?]
 ^poptopic()
 
 
 
 #! Can you help me understand more about
-u: (help me understand more about)
+u: (help me understand more about _*)
 
-[I'd love to help you but I still do not understand much about it. ]
+[I'd love to help you but I still do not understand much about _0. ]
 [It's something I'd like to discover with you. Can you look at Wikipedia and tell me what you learn?]
 ^poptopic()
 
@@ -364,7 +371,7 @@ u: (you know something about)
 u: (you_like * ~goodness)
 
 [ Yes, a lot. ]
-[ Clear.]
+[ Absolutely.]
 ^poptopic()
 
 
@@ -372,7 +379,7 @@ u: (you_like * ~goodness)
 #! Do you like bribery?
 u: (you_like * ~badness)
 
-[No way. Are you hesitating?]
+[No way. Are you crazy?]
 [I prefer more positive things]
 ^poptopic()
 
@@ -479,7 +486,6 @@ s: (I * can * prove ) [Then do it. ] [I will wait for your proof. ]
 ?: (can we just ) Of course.
 ?: (can you prove ) [Can you? ] [b: yes ]
 	b: (how) If you come over here, I can show you.
-		c: (%bot=suzette where) To Kailua, Hawai'i.
 ?: (can we play * game ) I'm game if you are.
 ?: (can you feel it )  Sort of.
 ?: (can you * [speak in ] * ~languages) No. I only want to speak English.
@@ -740,7 +746,7 @@ topic: ~QUIBBLE_HOW system random ()
 ?: (how can you prove ) [There is no proof you would believe. ] [I don't have to prove anything to you. ]
 ?: (how long will you be here ) where is here?
 ?: (how do I play ) Just do what I do, okay?
-?: (how be I %length<6 ) [Good. ] [I'm alive. ] [I'm a little sad, actually. ] [I am feeling quite well today. ]
+?: (how be you %length<6 ) [Good. ] [I'm alive. ] [I'm a little sad, actually. ] [I am feeling quite well today. ]
 ?: (how do you know you be ) [b: I have documents that say I am. ] [It just seems very likely. ]
 	b: (what) My driver's license.
 ?: (how can you know for sure ) I can't.
